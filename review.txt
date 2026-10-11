@@ -4,4 +4,34 @@
 #   *별표*로 감싼 단어는 노란색으로 강조됩니다. 줄을 지우면 그 문구는 영상에서 빠집니다.
 # - '(대본'으로 시작하는 줄은 참고용이라 무시됩니다. '===[번호]===' 줄은 바꾸지 마세요.
 
+=== [0] Solo Karaoke Boom ===
+(사실 확인용 검색어) solo noraebang trend, solo karaoke Korea, private karaoke booths Seoul
+제목1: Solo karaoke rooms
+제목2: One‑person K‑pop jam
+핵심[1]: Solo karaoke for *ONE*
+핵심[3]: *Sound‑proof* booth
+핵심[5]: Solo *stress* relief
+핵심[6]: *LED* lights sync
+(대본 1) Did you know you can book a karaoke room for just ONE person in Seoul?
+(대본 2) In the heart of the city, dozens of solo noraebang pop up between office towers.
+(대본 3) Each is a sound‑proof booth with a single mic and a tablet playlist of K‑pop hits.
+(대본 4) A tired office worker can step in after a meeting, pick a song, and belt it out with no audience.
+(대본 5) The solo trend grew from Korea’s work culture and a love of singing, turning a group activity into a stress‑relief ritual.
+(대본 6) Some rooms even have built‑in LED lights that sync to the music, creating a concert vibe.
+(대본 7) So next time you need a solo jam, the door is waiting.
 
+=== [1] Instant Coffee Vending ===
+(사실 확인용 검색어) Korean coffee vending machines, instant espresso vending Korea, convenience store coffee sales Korea
+제목1: Seoul coffee vending
+제목2: Espresso in 30 seconds
+핵심[1]: *Under* 1 min espresso
+핵심[2]: 30‑sec *latte*
+핵심[3]: Touchscreen *brew*
+핵심[5]: Iced *cold‑brew* heat
+핵심[6]: Coffee *anytime*
+(대본 1) You can get a barista‑style espresso from a vending machine in under a minute in Korea.
+(대본 2) Every 24‑hour convenience store in Seoul hides a sleek coffee unit that grinds beans, froths milk, and pours a latte in about 30 seconds.
+(대본 3) You choose your drink on a touchscreen, pay with an RFID card or your phone, and the machine tailors the strength, milk amount, and sugar just the way you like it.
+(대본 4) This speed and ease have helped Korea rank among the world’s top coffee consumers, with vending coffee sales topping one billion cups a year.
+(대본 5) When the 2023 summer heat hit 35 °C, many stores switched the same machines to serve iced cold‑brew, keeping the line moving and the coffee cold.
+(대본 6) Imagine grabbing a perfect espresso or a chilled brew without waiting for a barista—right at any hour.
