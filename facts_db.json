@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "label": "Solo Karaoke Boom",
+    "topic": "Koreans rent tiny soundproof rooms to sing alone, a booming solo trend",
+    "hook": "Did you know you can book a karaoke room for just ONE person in Seoul?",
+    "body": "In the heart of the city, dozens of \"solo noraebang\" pop up between office towers, each a compact, sound‑proof booth with a single mic and a playlist of K‑pop hits. A tired office worker can step in after a meeting, select a song on a tablet, and belt it out without any audience. The rise of solo karaoke reflects Korea's high‑stress work culture and the love of singing, turning a traditionally group activity into a private stress‑relief ritual.",
+    "twist": "Some solo rooms even have built‑in LED lights that sync to the music, creating a personal concert atmosphere.",
+    "verify_note": "solo noraebang trend, solo karaoke Korea, private karaoke booths Seoul",
+    "country": "Solo Karaoke Boom",
+    "created_at": "2026-10-11T13:46:50.631419+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Instant Coffee Vending",
+    "topic": "High‑tech vending machines brew fresh espresso in seconds at any convenience store",
+    "hook": "You can get a barista‑style espresso from a vending machine in under a minute in Korea.",
+    "body": "Every 24‑hour convenience store in Seoul houses a sleek coffee machine that grinds beans, froths milk, and serves a latte in about 30 seconds. The machines use RFID cards or mobile payments, and the drinks are personalized via a touchscreen menu. This convenience has helped Korea become one of the world’s biggest per‑capita coffee consumers, with vending coffee sales surpassing 1 billion cups a year.",
+    "twist": "During the 2023 summer heatwave, some stores switched to offering iced cold‑brew from the same machines, keeping the line moving even in 35°C humidity.",
+    "verify_note": "Korean coffee vending machines, instant espresso vending Korea, convenience store coffee sales Korea",
+    "country": "Instant Coffee Vending",
+    "created_at": "2026-10-11T13:46:50.631419+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Heated Underground Malls",
+    "topic": "Seoul’s subway stations feature heated‑floor malls where shoppers stroll in winter barefoot",
+    "hook": "Imagine shopping underground on a snowy day while the floor stays warm under your feet.",
+    "body": "Beneath major subway hubs like Gangnam and City Hall, sprawling underground malls are equipped with ondol‑style heated flooring, a technology traditionally used in homes. The warmth is powered by the station’s central heating system, letting commuters shop for clothes, food, and gadgets without bundling up. Because the malls stay open 24 hours, they become night‑time social hubs for students and office workers alike.",
+    "twist": "The heated floors are linked to a sensor system that lowers the temperature by 2 °C during off‑peak hours to save energy, yet the floor never feels cold.",
+    "verify_note": "Seoul underground malls heated floors, ondol subway stations Korea, heated floor malls Seoul",
+    "country": "Heated Underground Malls",
+    "created_at": "2026-10-11T13:46:50.631419+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Company Meal Tickets",
+    "topic": "Most Korean firms give daily lunch vouchers, shaping a whole ecosystem of office‑friendly eateries",
+    "hook": "Ever wondered why a whole street of tiny restaurants only opens at lunchtime in Seoul?",
+    "body": "A typical Korean office issues each employee a prepaid \"meal ticket\" each day, which can be exchanged at partner restaurants within a 500‑meter radius of the workplace. These eateries cater specifically to the lunch rush, offering quick, balanced meals like bibimbap bowls or rice‑burritos, and the tickets are often accepted via QR codes. The system not only standardizes lunch costs for companies but also creates a dense network of lunch‑only spots that thrive on the predictable flow of office workers.",
+    "twist": "Some companies partner with gourmet food trucks that rotate daily, allowing employees to collect a different cuisine each week using the same meal ticket.",
+    "verify_note": "Korean company meal tickets, office lunch vouchers Korea, workplace lunch voucher system",
+    "country": "Company Meal Tickets",
+    "created_at": "2026-10-11T13:46:50.631419+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Smart Parcel Lockers",
+    "topic": "Apartment complexes use fingerprint-activated lockers for instant package pickup",
+    "hook": "Did you know most new Korean apartments have lockers that open with just a tap of your finger?",
+    "body": "When a delivery arrives, a small robot places the box inside a sleek locker in the building's lobby. The resident scans their fingerprint, and a tiny screen plays a 5‑second video of the courier waving. No more missed deliveries or crowded front doors, and the system logs every handover for security. This tech‑first approach has become standard in over 70% of new high‑rise apartments.",
+    "twist": "Some lockers even dispense a scented air freshener when you open them, turning package pickup into a tiny aromatherapy moment.",
+    "verify_note": "Seoul apartment smart lockers fingerprint delivery video statistics 2023",
+    "country": "Smart Parcel Lockers",
+    "created_at": "2026-10-11T13:46:54.887633+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Quiet Subway Cars",
+    "topic": "Designated silent cars on Seoul Metro for studying and reading",
+    "hook": "Ever seen commuters whispering and reading textbooks in a subway car?",
+    "body": "Since 2021, Seoul Metro has marked one car per line as a \"quiet zone\" where phones are set to vibrate and conversations stay below a whisper. Signs show a simple ear icon, and staff gently remind noisy riders to lower their volume. The car quickly fills with students, office workers, and seniors who treat the ride like a moving library, and compliance rates are reported at over 95%. This quiet culture helps thousands of people turn rush‑hour travel into productive time.",
+    "twist": "During exam season, the quiet cars are often filled with pop‑up tutoring groups that hand out flashcards to fellow riders.",
+    "verify_note": "Seoul Metro quiet car policy usage statistics 2022",
+    "country": "Quiet Subway Cars",
+    "created_at": "2026-10-11T13:46:54.887633+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Uniform Rental Service",
+    "topic": "High‑school students subscribe to a uniform delivery and cleaning service",
+    "hook": "What if Korean teens never had to wash their school uniforms?",
+    "body": "Many families sign up for a subscription that delivers freshly laundered uniforms to the doorstep every Monday, with sizes adjusted as kids grow. The service includes a small fee for repairs, so parents never worry about stains or shrinkage. Schools often partner with these providers, displaying QR codes for easy enrollment. Roughly 30% of middle and high schools now list a uniform rental company as an official supplier.",
+    "twist": "The rental kits also come with a hidden pocket for a disposable face mask, reflecting Korea's post‑pandemic hygiene habits.",
+    "verify_note": "Korean school uniform rental subscription percentage 2023",
+    "country": "Uniform Rental Service",
+    "created_at": "2026-10-11T13:46:54.887633+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Dol Livestream Tradition",
+    "topic": "Families broadcast the baby's first birthday (dol) live to relatives abroad",
+    "hook": "Can a baby's first birthday be streamed with virtual hanboks and fireworks?",
+    "body": "On the day of the dol, a special high‑definition camera called a \"dol cam\" captures the ceremony from multiple angles and sends it to a live‑stream platform. Grandparents watching from other countries can tap a button to send digital gifts that appear as animated hanboks or fireworks on the screen. The ceremony blends traditional rites—like the baby choosing a future career tool—with modern tech, letting distant family participate in real time. Over one million dol livestreams are recorded each year, making it one of Korea's biggest online family events.",
+    "twist": "Some platforms now offer AI‑generated captions in English, allowing non‑Korean speakers to follow the ritual instantly.",
+    "verify_note": "Korean dol livestream numbers 2023 AI caption feature",
+    "country": "Dol Livestream Tradition",
+    "created_at": "2026-10-11T13:46:54.887633+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Convenience Store Laundry",
+    "topic": "Drop off dirty clothes at a 24‑hour convenience store and pick up cleaned items the next day",
+    "hook": "Did you know you can leave your laundry at a 24‑hour convenience store and have it cleaned by tomorrow?",
+    "body": "A foreign visitor walks into a GS25, scans a QR code on a locker, drops a bag of clothes into a sealed compartment and receives a receipt. Within 24 hours the store's partner laundry service returns fresh, folded garments, ready for pick‑up. The service exists because most Seoul apartments lack in‑unit washers and people need ultra‑fast turnaround for work clothes.",
+    "twist": "Some flagship stores even offer same‑hour service, returning clean clothes from a vending‑machine style locker while you wait for a coffee.",
+    "verify_note": "Korean convenience store laundry service CU CLOTHES, GS25 laundry, 2023 convenience store laundry Korea",
+    "country": "Convenience Store Laundry",
+    "created_at": "2026-10-11T13:47:02.264414+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Jjimjilbang Lunch Naps",
+    "topic": "Office workers spend their lunch break in public bathhouses for a quick nap",
+    "hook": "Office workers in Seoul spend their lunch break in a public sauna – and it’s totally normal.",
+    "body": "After a morning meeting, a corporate employee walks a few blocks to the nearest jjimjilbang, pays 9,000 won, and heads to the gender‑separated sauna. Inside, they relax on heated floor mats, set an alarm on their phone, and enjoy a 30‑minute power nap before returning to the office. The habit stems from long work hours and a cultural acceptance of communal rest spaces.",
+    "twist": "Many companies now reimburse the 9,000‑won fee as part of their employee‑wellness benefits program.",
+    "verify_note": "jjimjilbang lunch break culture Seoul office workers 2022, Korean public bath nap, employee wellness reimbursement Korea",
+    "country": "Jjimjilbang Lunch Naps",
+    "created_at": "2026-10-11T13:47:02.264414+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "KakaoTalk Coffee Meetups",
+    "topic": "Strangers connect for coffee through KakaoTalk open‑chat groups",
+    "hook": "Strangers in Seoul meet for coffee just by joining a KakaoTalk open‑chat group.",
+    "body": "A tourist sees a flyer for “Coffee with a Stranger” and scans the QR code to join a KakaoTalk open chat. Within minutes a local matches them, and they meet at a nearby café to exchange language tips and stories. The practice thrives because KakaoTalk’s verification system feels safe, and the app’s massive user base makes it easy to find a partner for a spontaneous meetup.",
+    "twist": "The most popular coffee‑meetup open chats regularly host over 10,000 members and schedule weekly gatherings across three different districts of Seoul.",
+    "verify_note": "KakaoTalk open chat coffee meetups Seoul 2023, Korean social app random coffee dates, KakaoTalk safety features",
+    "country": "KakaoTalk Coffee Meetups",
+    "created_at": "2026-10-11T13:47:02.264414+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Han River Light Bike",
+    "topic": "Nighttime bike parade along the Han River illuminated by LED strips",
+    "hook": "Every summer, thousands of cyclists ride the Han River under a glowing tunnel of LED lights.",
+    "body": "On a warm Saturday night, cyclists line up at Yeouido, each bike fitted with bright LED strips that sync to music. They glide along the riverbank as the city’s skyline reflects off the water, creating a moving river of light. The event is organized by the Seoul Bike Festival to promote eco‑friendly recreation and showcase the city’s night scenery.",
+    "twist": "In 2022 the parade earned a Guinness World Record for the longest continuous night bike parade, stretching over 20 km.",
+    "verify_note": "Han River night bike parade LED lights Guinness World Record, Seoul Bike Festival 2022, Korean night cycling events",
+    "country": "Han River Light Bike",
+    "created_at": "2026-10-11T13:47:02.264414+00:00",
+    "status": "unverified"
+  }
+]
