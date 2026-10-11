@@ -569,7 +569,79 @@
     "verify_note": "Korean dol livestream numbers 2023 AI caption feature",
     "country": "Dol Livestream Tradition",
     "created_at": "2026-10-11T13:46:54.887633+00:00",
-    "status": "verified"
+    "status": "video_done",
+    "narration": "Can a baby’s first birthday be streamed with virtual hanboks and fireworks? In Korea, families do exactly that. On the dol, the baby’s first birthday, a high‑definition “dol cam” records the ceremony from every angle and sends it straight to a live‑stream platform. Grandparents abroad tap a button to launch animated hanboks or fireworks that dance across the screen. The rite still includes the classic tool‑picking moment, where the child selects a future career symbol. Over one million dol livestreams happen each year, making it a massive online family event. Now some platforms add AI‑generated English captions, so even non‑Korean speakers can follow every tradition in real time. Imagine watching that celebration from across the globe—still feeling the magic of the first birthday.",
+    "title_line1": "Dol livestream",
+    "title_line2": "Hanboks pop up live",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*Live* first birthday?"
+      },
+      {
+        "s": 3,
+        "text": "Dol *cam* captures all"
+      },
+      {
+        "s": 4,
+        "text": "Tap *fireworks* abroad"
+      },
+      {
+        "s": 6,
+        "text": "*Million* streams"
+      },
+      {
+        "s": 7,
+        "text": "*English* AI captions"
+      }
+    ],
+    "image_queries": [
+      "Korean dol ceremony livestream",
+      "Seoul family birthday celebration",
+      "Korean traditional hanbok animation",
+      "Korean fireworks display screen",
+      "dol cam tool picking",
+      "Jeju island baby birthday"
+    ],
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0007_Dol Livestream Tradition_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0007_Dol Livestream Tradition_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_source": "pixabay",
+    "image_credits": [
+      {
+        "scene": 1,
+        "user": "mirkostoedter",
+        "page": "https://pixabay.com/photos/tea-ceremony-ceremony-teatime-japan-7807230/"
+      },
+      {
+        "scene": 2,
+        "user": "DAVM2598",
+        "page": "https://pixabay.com/photos/play-children-summer-freedom-5134828/"
+      },
+      {
+        "scene": 3,
+        "user": "김경복",
+        "page": "https://pixabay.com/photos/gyeongbok-palace-woman-autumn-tree-5771324/"
+      },
+      {
+        "scene": 4,
+        "user": "Ri_Lens",
+        "page": "https://pixabay.com/photos/fireworks-night-celebration-festive-10444646/"
+      },
+      {
+        "scene": 5,
+        "user": "neelam279",
+        "page": "https://pixabay.com/photos/childs-hand-pick-flowers-finger-8845806/"
+      },
+      {
+        "scene": 6,
+        "user": "kangbch",
+        "page": "https://pixabay.com/photos/barley-field-wheat-agriculture-plow-1684052/"
+      }
+    ],
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0007_Dol Livestream Tradition.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Convenience Store Laundry",
@@ -580,7 +652,75 @@
     "verify_note": "Korean convenience store laundry service CU CLOTHES, GS25 laundry, 2023 convenience store laundry Korea",
     "country": "Convenience Store Laundry",
     "created_at": "2026-10-11T13:47:02.264414+00:00",
-    "status": "verified"
+    "status": "video_done",
+    "narration": "Did you know you can leave your laundry at a 24‑hour convenience store and have it cleaned by tomorrow? A foreign visitor walks into a GS25, scans a QR code on a locker, drops a bag of clothes into a sealed compartment and gets a receipt. Inside the locker, the items are sent to the store’s partner laundry service. Within 24 hours the fresh, folded garments are returned, ready for pick‑up. The service exists because most Seoul apartments lack in‑unit washers and people need ultra‑fast turnaround for work clothes. Some flagship stores even offer same‑hour service, delivering clean clothes from a vending‑machine style locker while you wait for a coffee. Imagine doing laundry while you sip a latte.",
+    "title_line1": "Store laundry 24h",
+    "title_line2": "Ready next day",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*24‑hour* laundry drop"
+      },
+      {
+        "s": 2,
+        "text": "QR code *locker* drop"
+      },
+      {
+        "s": 4,
+        "text": "Ready in *24 hrs*"
+      },
+      {
+        "s": 6,
+        "text": "*Same‑hour* laundry"
+      }
+    ],
+    "image_queries": [
+      "Korean convenience store interior",
+      "QR code locker Seoul",
+      "laundry bag counter Korean",
+      "folded clothes locker Seoul",
+      "coffee latte vending machine",
+      "Seoul street convenience store"
+    ],
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0008_Convenience Store Laundry_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0008_Convenience Store Laundry_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_source": "pixabay",
+    "image_credits": [
+      {
+        "scene": 1,
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/apparel-boutique-bags-shoes-shop-1850804/"
+      },
+      {
+        "scene": 2,
+        "user": "geralt",
+        "page": "https://pixabay.com/photos/qr-code-quick-response-code-to-scan-1903447/"
+      },
+      {
+        "scene": 3,
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/bag-leather-messenger-bag-classic-1854148/"
+      },
+      {
+        "scene": 4,
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/cabinet-clothes-garments-wardrobe-1853504/"
+      },
+      {
+        "scene": 5,
+        "user": "MaximilianHemon",
+        "page": "https://pixabay.com/photos/japan-vending-machine-fireworks-5021733/"
+      },
+      {
+        "scene": 6,
+        "user": "StockSnap",
+        "page": "https://pixabay.com/photos/building-dark-night-convenience-2583628/"
+      }
+    ],
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0008_Convenience Store Laundry.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Jjimjilbang Lunch Naps",
@@ -591,7 +731,7 @@
     "verify_note": "jjimjilbang lunch break culture Seoul office workers 2022, Korean public bath nap, employee wellness reimbursement Korea",
     "country": "Jjimjilbang Lunch Naps",
     "created_at": "2026-10-11T13:47:02.264414+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "KakaoTalk Coffee Meetups",
@@ -602,7 +742,7 @@
     "verify_note": "KakaoTalk open chat coffee meetups Seoul 2023, Korean social app random coffee dates, KakaoTalk safety features",
     "country": "KakaoTalk Coffee Meetups",
     "created_at": "2026-10-11T13:47:02.264414+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Han River Light Bike",
@@ -613,6 +753,138 @@
     "verify_note": "Han River night bike parade LED lights Guinness World Record, Seoul Bike Festival 2022, Korean night cycling events",
     "country": "Han River Light Bike",
     "created_at": "2026-10-11T13:47:02.264414+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Midnight Fresh Food Runs",
+    "topic": "Students grab fresh salads and sushi from 24‑hour convenience stores at 2 am",
+    "hook": "Ever ordered a fresh salad at 2 am in Seoul?",
+    "body": "In South Korea, almost every corner has a 24‑hour convenience store that stocks ready‑to‑eat salads, sushi rolls, and fruit bowls. A university student finishing a night class can walk in at 2 am and pick up a chilled salmon kimbap as easily as a bottle of water. Stores receive fresh deliveries every two hours, so the food stays as crisp as if it were bought at noon.",
+    "twist": "Some chains even have rotating cold‑storage units that automatically replace items every hour to guarantee freshness around the clock.",
+    "verify_note": "24 hour convenience store fresh food Korea schedule 2023",
+    "country": "Midnight Fresh Food Runs",
+    "created_at": "2026-10-11T22:46:26.442933+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Elevator Karaoke Surprise",
+    "topic": "Korean office elevators equipped for impromptu karaoke sessions",
+    "hook": "Did you know Korean elevators sometimes turn into karaoke booths?",
+    "body": "In many high‑rise office buildings in Seoul, a single press of a button activates a built‑in karaoke system inside the elevator. When the doors close, a screen lights up and a microphone appears, inviting passengers to belt out a chorus before reaching their floor. Colleagues treat it as a quick ice‑breaker, and strangers often join in, turning a routine ride into a mini‑concert.",
+    "twist": "The elevators are sound‑insulated, so the music stays inside, letting the rest of the building stay quiet.",
+    "verify_note": "Korean elevator karaoke panels installed 2022 news",
+    "country": "Elevator Karaoke Surprise",
+    "created_at": "2026-10-11T22:46:26.442933+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Air‑Aware Streetlights",
+    "topic": "Seoul’s streetlights change color to signal real‑time air quality",
+    "hook": "The streetlights in Seoul change color with the air!",
+    "body": "Since 2021, Seoul has installed smart LED poles that glow blue when PM2.5 levels are low and turn amber or red when pollution spikes. Pedestrians can glance upward to instantly gauge whether the air is safe for a jog or if they should wear a mask. The system also dims during low‑traffic hours, cutting municipal electricity use by about 20 %.",
+    "twist": "The same network feeds data to a public app, letting residents see neighborhood‑by‑neighborhood air maps in real time.",
+    "verify_note": "Seoul smart streetlights color air quality 2021 project",
+    "country": "Air‑Aware Streetlights",
+    "created_at": "2026-10-11T22:46:26.442933+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Team Lunch Sync",
+    "topic": "Korean companies use apps to order identical lunches for the whole office",
+    "hook": "Korean offices sync their lunch orders with one tap!",
+    "body": "Many Korean startups and large corporations use a corporate version of popular food‑delivery apps to collect individual orders and then consolidate them into a single tray for the entire team. When the lunch bell rings, everyone receives the same bibimbap or dosirak, encouraging casual conversation and a sense of unity. New hires often find the practice odd at first, but it reduces queue times and eliminates the “what’s for lunch?” debate.",
+    "twist": "Data from a 2022 survey shows the practice cuts average lunch‑line wait times by roughly 30 %.",
+    "verify_note": "Korean corporate group lunch ordering Baemin 2022 study",
+    "country": "Team Lunch Sync",
+    "created_at": "2026-10-11T22:46:26.442933+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Solar Bike Sharing",
+    "topic": "Seoul’s public bikes charge themselves with solar panels and light up at night",
+    "hook": "Did you know Seoul’s rental bikes glow on their own after sunset?",
+    "body": "A commuter scans the Ddareungi app, clicks ‘borrow’, and rolls out a bright orange bike from a curbside dock. The bike’s tiny solar panel on the handlebar charges while it sits in the sun, and at dusk the built‑in LEDs flash automatically so riders can see the path. The app logs the ride and awards eco‑points that can be exchanged for discounts at nearby cafés. Seoul now operates over 10,000 of these self‑illuminating bikes across the city.",
+    "twist": "Some of the bikes even store enough solar energy to power a phone charger during a ride.",
+    "verify_note": "Seoul bike sharing solar panel lights Ddareungi solar-powered bike lights eco points",
+    "country": "Solar Bike Sharing",
+    "created_at": "2026-10-11T22:46:34.213037+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "All‑Night Library Pods",
+    "topic": "Seoul’s public libraries let you book private study pods 24/7 via an app",
+    "hook": "Imagine reserving a soundproof study booth in a library at 2 am—Korea makes it real.",
+    "body": "A university student opens the Seoul Metropolitan Library app at 1 am, selects a vacant ‘study pod’, and walks to a glass‑walled booth on the 3rd floor. Inside, a small desk, power outlet, ambient lighting, and a personal climate control let the student focus while the city sleeps. The service, launched in 2022, now offers more than 300 pods scattered across 15 branches, targeting night‑owl learners and freelancers. Each pod is monitored for occupancy in real time, so you never find it unexpectedly taken.",
+    "twist": "The pods are equipped with a built‑in air purifier that cycles fresh air every 15 minutes.",
+    "verify_note": "Seoul library study pods 24/7 private study rooms app",
+    "country": "All‑Night Library Pods",
+    "created_at": "2026-10-11T22:46:34.213037+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "The ‘‑ssi’ Slip",
+    "topic": "Korean honorific ‘‑ssi’ is used like ‘Mr./Ms.’ but can sound overly formal in casual texts",
+    "hook": "Ever text a Korean friend and get a confused ‘‑ssi?’ – it’s a common etiquette trap.",
+    "body": "A foreigner messages a colleague with “지민씨, 오늘 회의 어때?” and receives a puzzled reply of just “씨?”. In spoken Korean, ‘‑ssi’ is a polite suffix attached to a name, but in digital chats it is usually dropped for brevity, making its use feel stiff. The suffix stems from the older honorific ‘시(shi)’ and is still common in face‑to‑face conversation, especially with strangers or seniors. Using it in informal messages can unintentionally create distance, while omitting it with a senior may be seen as disrespectful.",
+    "twist": "In professional emails, attaching ‘‑ssi’ after a full name signals seniority, whereas dropping it can be interpreted as a lack of respect.",
+    "verify_note": "Korean -ssi suffix usage texting etiquette honorific",
+    "country": "The ‘‑ssi’ Slip",
+    "created_at": "2026-10-11T22:46:34.213037+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "EV Charger Density",
+    "topic": "South Korea has the world’s highest number of public electric‑vehicle chargers per capita",
+    "hook": "South Korea packs more EV charging spots into a city block than most countries have in an entire state.",
+    "body": "A driver in Busan pulls into a compact underground station that fits three cars, while a digital board flashes ‘2,500 chargers in the district’. As of 2024, the country boasts over 120,000 public chargers for roughly 5 million electric vehicles, the highest ratio of chargers per person worldwide. Government subsidies, fast‑charging corridors along highways, and mandatory charger installations in new apartment complexes have driven this expansion. Many of the stations are tucked beneath supermarkets and office towers, turning ordinary parking lots into power hubs.",
+    "twist": "Some chargers can fully power a mid‑size sedan in under 15 minutes, thanks to 350 kW ultra‑fast technology.",
+    "verify_note": "South Korea EV public chargers per capita 2024 statistics",
+    "country": "EV Charger Density",
+    "created_at": "2026-10-11T22:46:34.213037+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Jeonse Deposit Rental",
+    "topic": "Renting apartments by paying a huge upfront deposit instead of monthly rent",
+    "hook": "In Korea, you can move into a home by handing over a deposit the size of a car and pay zero monthly rent.",
+    "body": "Korean housing often uses a system called jeonse, where tenants give landlords a lump‑sum deposit that can be 50‑80 % of the property's value. The landlord keeps the money for the lease term (usually two years) and returns it in full at the end, while the tenant pays little or no monthly rent. This arrangement works because the deposit is invested by the landlord, generating income that replaces regular rent. It’s popular in cities like Seoul where monthly rent prices are extremely high.",
+    "twist": "If the landlord sells the property during the lease, the deposit is treated like a low‑risk investment and the tenant typically receives it back with a modest interest rate.",
+    "verify_note": "jeonse system Korea, Korean housing deposit lease, jeonse deposit rent",
+    "country": "Jeonse Deposit Rental",
+    "created_at": "2026-10-11T22:46:43.906104+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "QR‑Code Bike Rental",
+    "topic": "Seoul’s public bikes can be unlocked instantly by scanning a QR code on the bike, no app needed",
+    "hook": "You can rent a Seoul bike by just scanning a QR code on the bike—no app, no card.",
+    "body": "The city’s Ddareungi bike‑share fleet now features a QR‑code lock on every bicycle. Riders open the app on any smartphone, scan the code, and the bike unlocks within seconds, eliminating the need to download a dedicated app or carry a membership card. Payment is deducted automatically from a linked KakaoPay or credit‑card account, and the ride ends when you lock the bike at any docking station. This system makes spontaneous rides easy for tourists and locals alike.",
+    "twist": "Each bike’s basket holds a tiny solar panel that powers the lock’s electronics, so the bikes stay ready even after days of idle parking.",
+    "verify_note": "Seoul Ddareungi QR code bike, QR bike rental Korea, Seoul public bike QR",
+    "country": "QR‑Code Bike Rental",
+    "created_at": "2026-10-11T22:46:43.906104+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Library Vending Machines",
+    "topic": "Street‑side vending machines dispense books and accept returns, like a library on the go",
+    "hook": "Need a novel? Grab one from a vending machine on a Seoul sidewalk.",
+    "body": "South Korean cities have installed library vending machines that store dozens of popular titles, from best‑selling fiction to language textbooks. Users swipe their library card or pay with KakaoTalk Pay, select a book on the touch screen, and the machine gently drops it into a retrieval slot. Returned books can be dropped into any machine nationwide, which automatically updates the borrowing record. The service runs 24 hours, letting readers borrow and return books at any time without visiting a physical library.",
+    "twist": "Some machines display the current weather and suggest a matching genre—rainy days trigger a recommendation for cozy mystery novels.",
+    "verify_note": "Korean library vending machine, book vending machine Seoul, library vending Korea",
+    "country": "Library Vending Machines",
+    "created_at": "2026-10-11T22:46:43.906104+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Snack‑Bot Office Delivery",
+    "topic": "Robotic carts travel office corridors delivering snacks directly to employees’ desks",
+    "hook": "In some Korean offices, a robot rolls down the hallway bringing you a bag of chips without you leaving your desk.",
+    "body": "Modern Korean workplaces often use small autonomous robots, called snack‑bots, that glide along pre‑mapped routes in office corridors. Employees order via a mobile app, and the robot stops at their desk, opening a compartment to drop off the chosen snack or drink. The bots navigate around obstacles using lidar sensors and can return to a central charging station after each delivery run. This system reduces break‑time trips and adds a playful high‑tech touch to the daily routine.",
+    "twist": "The robot learns each user’s favorite items and can pre‑order a fresh supply before the employee even opens the app.",
+    "verify_note": "Korean office snack robot, snack‑bot delivery Korea, office robot vending",
+    "country": "Snack‑Bot Office Delivery",
+    "created_at": "2026-10-11T22:46:43.906104+00:00",
     "status": "unverified"
   }
 ]
