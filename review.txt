@@ -4,34 +4,85 @@
 #   *별표*로 감싼 단어는 노란색으로 강조됩니다. 줄을 지우면 그 문구는 영상에서 빠집니다.
 # - '(대본'으로 시작하는 줄은 참고용이라 무시됩니다. '===[번호]===' 줄은 바꾸지 마세요.
 
-=== [0] Solo Karaoke Boom ===
-(사실 확인용 검색어) solo noraebang trend, solo karaoke Korea, private karaoke booths Seoul
-제목1: Solo karaoke rooms
-제목2: One‑person K‑pop jam
-핵심[1]: Solo karaoke for *ONE*
-핵심[3]: *Sound‑proof* booth
-핵심[5]: Solo *stress* relief
-핵심[6]: *LED* lights sync
-(대본 1) Did you know you can book a karaoke room for just ONE person in Seoul?
-(대본 2) In the heart of the city, dozens of solo noraebang pop up between office towers.
-(대본 3) Each is a sound‑proof booth with a single mic and a tablet playlist of K‑pop hits.
-(대본 4) A tired office worker can step in after a meeting, pick a song, and belt it out with no audience.
-(대본 5) The solo trend grew from Korea’s work culture and a love of singing, turning a group activity into a stress‑relief ritual.
-(대본 6) Some rooms even have built‑in LED lights that sync to the music, creating a concert vibe.
-(대본 7) So next time you need a solo jam, the door is waiting.
+=== [2] Heated Underground Malls ===
+(사실 확인용 검색어) Seoul underground malls heated floors, ondol subway stations Korea, heated floor malls Seoul
+제목1: Heated underground mall
+제목2: Shop barefoot in snow
+핵심[1]: *Warm* floor stroll
+핵심[3]: Ondol *heated* walkways
+핵심[4]: Shop *bundles* free
+핵심[6]: Sensors *save* energy
+(대본 1) Imagine shopping underground on a snowy day while the floor stays warm under your feet.
+(대본 2) In Seoul, major subway hubs like Gangnam and City Hall hide sprawling malls beneath the tracks.
+(대본 3) The walkways use ondol‑style heated flooring, the same system that warms Korean homes.
+(대본 4) Heat comes from the station’s central heating, so you can browse clothes, food stalls, and gadget shops without bundling up.
+(대본 5) The malls never close, turning into night‑time hangouts for students and office workers.
+(대본 6) A clever sensor network drops the floor temperature by two degrees during off‑peak hours to save energy, yet the surface never feels cold.
+(대본 7) That hidden warmth keeps the city moving, even below ground.
 
-=== [1] Instant Coffee Vending ===
-(사실 확인용 검색어) Korean coffee vending machines, instant espresso vending Korea, convenience store coffee sales Korea
-제목1: Seoul coffee vending
-제목2: Espresso in 30 seconds
-핵심[1]: *Under* 1 min espresso
-핵심[2]: 30‑sec *latte*
-핵심[3]: Touchscreen *brew*
-핵심[5]: Iced *cold‑brew* heat
-핵심[6]: Coffee *anytime*
-(대본 1) You can get a barista‑style espresso from a vending machine in under a minute in Korea.
-(대본 2) Every 24‑hour convenience store in Seoul hides a sleek coffee unit that grinds beans, froths milk, and pours a latte in about 30 seconds.
-(대본 3) You choose your drink on a touchscreen, pay with an RFID card or your phone, and the machine tailors the strength, milk amount, and sugar just the way you like it.
-(대본 4) This speed and ease have helped Korea rank among the world’s top coffee consumers, with vending coffee sales topping one billion cups a year.
-(대본 5) When the 2023 summer heat hit 35 °C, many stores switched the same machines to serve iced cold‑brew, keeping the line moving and the coffee cold.
-(대본 6) Imagine grabbing a perfect espresso or a chilled brew without waiting for a barista—right at any hour.
+=== [3] Company Meal Tickets ===
+(사실 확인용 검색어) Korean company meal tickets, office lunch vouchers Korea, workplace lunch voucher system
+제목1: Office lunch tickets
+제목2: Why lunch streets pop
+핵심[1]: Why *street* of lunch?
+핵심[2]: Daily *ticket* perk
+핵심[4]: Fast *balanced* bowls
+핵심[5]: *Caps* lunch costs
+(대본 1) Ever wondered why a whole street of tiny restaurants only opens at lunchtime in Seoul?
+(대본 2) Most Korean firms hand each employee a prepaid meal ticket every workday.
+(대본 3) The voucher works at partner eateries within about 500 meters, accepted by scanning a QR code.
+(대본 4) Those spots specialize in fast, balanced dishes—think bibimbap bowls or rice‑burritos—so the lunch rush moves smoothly.
+(대본 5) The system caps lunch costs for companies and creates a dense network of lunch‑only venues that thrive on office traffic.
+(대본 6) Some firms even partner with gourmet food trucks that rotate daily, letting workers try a new cuisine each week with the same ticket.
+(대본 7) That hidden ticket fuels the noon buzz.
+
+=== [4] Smart Parcel Lockers ===
+(사실 확인용 검색어) Seoul apartment smart lockers fingerprint delivery video statistics 2023
+제목1: Korean finger lock
+제목2: Fresh scent on open
+핵심[1]: Finger‑tap *lockers*
+핵심[3]: Fingerprint *video*
+핵심[4]: No missed *deliveries*
+핵심[5]: *70%* apartments use it
+핵심[7]: Scented *aromatherapy*
+(대본 1) Did you know most new Korean apartments have lockers that open with just a tap of your finger?
+(대본 2) When a delivery arrives, a small robot slides the box into a sleek locker in the lobby.
+(대본 3) You scan your fingerprint, and a tiny screen plays a five‑second video of the courier waving.
+(대본 4) No more missed deliveries or crowded front doors, and every handover is logged for security.
+(대본 5) Over 70 percent of new high‑rise apartments now use this system.
+(대본 6) The surprise?
+(대본 7) Some lockers release a scented air freshener when you open them, turning a simple pickup into a tiny aromatherapy moment.
+(대본 8) Imagine that next time you grab a package.
+
+=== [5] Quiet Subway Cars ===
+(사실 확인용 검색어) Seoul Metro quiet car policy usage statistics 2022
+제목1: Seoul quiet subway
+제목2: Silent car study hub
+핵심[1]: Commuters *whisper*
+핵심[2]: Quiet *zone* each line
+핵심[3]: *Vibrate* phones only
+핵심[5]: Moving *library* ride
+(대본 1) Ever seen commuters whispering and reading textbooks in a subway car?
+(대본 2) Since 2021 Seoul Metro has turned one car on every line into a quiet zone.
+(대본 3) Phones stay on vibrate, conversations stay below a whisper, and a simple ear icon marks the space.
+(대본 4) Staff politely remind noisy riders to lower their volume.
+(대본 5) The car fills with students, office workers and seniors who treat the ride like a moving library, and compliance tops 95 percent.
+(대본 6) During exam season pop‑up tutoring groups appear, handing out flashcards to fellow riders.
+(대본 7) It’s a rush‑hour ritual that turns a crowded commute into productive, silent study time.
+
+=== [6] Uniform Rental Service ===
+(사실 확인용 검색어) Korean school uniform rental subscription percentage 2023
+제목1: Uniform rental
+제목2: No washing needed?
+핵심[1]: Never *wash* uniforms
+핵심[2]: Uniforms on *Monday*
+핵심[3]: Size *adjusts*
+핵심[5]: Quick *enroll* via QR
+(대본 1) What if Korean teens never had to wash their school uniforms?
+(대본 2) In many families, a subscription delivers freshly laundered uniforms to the doorstep every Monday.
+(대본 3) The service even adjusts the size as kids grow, so parents don’t chase new outfits.
+(대본 4) A small fee covers repairs, so stains and shrinkage disappear.
+(대본 5) Schools partner with the providers, posting QR codes for quick enrollment.
+(대본 6) About thirty percent of middle and high schools list a uniform rental company as an official supplier.
+(대본 7) The kits hide a pocket for a disposable face mask, a nod to Korea’s post‑pandemic hygiene habit.
+(대본 8) So the next time you see a crisp uniform, remember it might have arrived without a single wash.

@@ -170,7 +170,75 @@
     "verify_note": "Seoul underground malls heated floors, ondol subway stations Korea, heated floor malls Seoul",
     "country": "Heated Underground Malls",
     "created_at": "2026-10-11T13:46:50.631419+00:00",
-    "status": "verified"
+    "status": "video_done",
+    "narration": "Imagine shopping underground on a snowy day while the floor stays warm under your feet. In Seoul, major subway hubs like Gangnam and City Hall hide sprawling malls beneath the tracks. The walkways use ondol‑style heated flooring, the same system that warms Korean homes. Heat comes from the station’s central heating, so you can browse clothes, food stalls, and gadget shops without bundling up. The malls never close, turning into night‑time hangouts for students and office workers. A clever sensor network drops the floor temperature by two degrees during off‑peak hours to save energy, yet the surface never feels cold. That hidden warmth keeps the city moving, even below ground.",
+    "title_line1": "Heated underground mall",
+    "title_line2": "Shop barefoot in snow",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*Warm* floor stroll"
+      },
+      {
+        "s": 3,
+        "text": "Ondol *heated* walkways"
+      },
+      {
+        "s": 4,
+        "text": "Shop *bundles* free"
+      },
+      {
+        "s": 6,
+        "text": "Sensors *save* energy"
+      }
+    ],
+    "image_queries": [
+      "Seoul subway mall hallway",
+      "heated floor walkway Korea",
+      "Seoul Gangnam underground arcade",
+      "Korean food stall interior",
+      "nighttime students lounge",
+      "City Hall subway station corridor"
+    ],
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0002_Heated Underground Malls_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0002_Heated Underground Malls_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_source": "pixabay",
+    "image_credits": [
+      {
+        "scene": 1,
+        "user": "thaoantran0101",
+        "page": "https://pixabay.com/photos/books-library-bookstore-study-7744938/"
+      },
+      {
+        "scene": 2,
+        "user": "cskkkk",
+        "page": "https://pixabay.com/photos/night-view-dark-seoul-korea-7523474/"
+      },
+      {
+        "scene": 3,
+        "user": "kzw86",
+        "page": "https://pixabay.com/photos/gangnam-banpo-bridge-seoul-city-3764454/"
+      },
+      {
+        "scene": 4,
+        "user": "Couleur",
+        "page": "https://pixabay.com/photos/apples-golden-delicious-fruit-3433812/"
+      },
+      {
+        "scene": 5,
+        "user": "suju-foto",
+        "page": "https://pixabay.com/photos/aurora-borealis-nature-10491028/"
+      },
+      {
+        "scene": 6,
+        "user": "12019",
+        "page": "https://pixabay.com/photos/novgorod-russia-metro-station-84388/"
+      }
+    ],
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0002_Heated Underground Malls.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Company Meal Tickets",
@@ -181,7 +249,75 @@
     "verify_note": "Korean company meal tickets, office lunch vouchers Korea, workplace lunch voucher system",
     "country": "Company Meal Tickets",
     "created_at": "2026-10-11T13:46:50.631419+00:00",
-    "status": "verified"
+    "status": "video_done",
+    "narration": "Ever wondered why a whole street of tiny restaurants only opens at lunchtime in Seoul? Most Korean firms hand each employee a prepaid meal ticket every workday. The voucher works at partner eateries within about 500 meters, accepted by scanning a QR code. Those spots specialize in fast, balanced dishes—think bibimbap bowls or rice‑burritos—so the lunch rush moves smoothly. The system caps lunch costs for companies and creates a dense network of lunch‑only venues that thrive on office traffic. Some firms even partner with gourmet food trucks that rotate daily, letting workers try a new cuisine each week with the same ticket. That hidden ticket fuels the noon buzz.",
+    "title_line1": "Office lunch tickets",
+    "title_line2": "Why lunch streets pop",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Why *street* of lunch?"
+      },
+      {
+        "s": 2,
+        "text": "Daily *ticket* perk"
+      },
+      {
+        "s": 4,
+        "text": "Fast *balanced* bowls"
+      },
+      {
+        "s": 5,
+        "text": "*Caps* lunch costs"
+      }
+    ],
+    "image_queries": [
+      "Seoul street lunch stalls",
+      "Korean office cafeteria QR ticket",
+      "Seoul food truck lunch",
+      "Korean bibimbap bowl takeout",
+      "Busan office neighborhood eateries",
+      "Korean rice burrito dish"
+    ],
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0003_Company Meal Tickets_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0003_Company Meal Tickets_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_source": "pixabay",
+    "image_credits": [
+      {
+        "scene": 1,
+        "user": "YOUNGU",
+        "page": "https://pixabay.com/photos/han-river-night-view-seoul-korea-4831871/"
+      },
+      {
+        "scene": 2,
+        "user": "igorovsyannykov",
+        "page": "https://pixabay.com/photos/ticket-coupon-admission-carnival-2974645/"
+      },
+      {
+        "scene": 3,
+        "user": "px_steven_be",
+        "page": "https://pixabay.com/photos/pizza-oven-restaurant-meal-yummy-6478478/"
+      },
+      {
+        "scene": 4,
+        "user": "ajdcjddl10220",
+        "page": "https://pixabay.com/photos/bibimbap-bob-kochujang-korean-632083/"
+      },
+      {
+        "scene": 5,
+        "user": "ah64dka52",
+        "page": "https://pixabay.com/photos/night-view-night-bridge-busan-7943221/"
+      },
+      {
+        "scene": 6,
+        "user": "viarami",
+        "page": "https://pixabay.com/photos/dish-gimbap-korean-cuisine-seaweed-6990249/"
+      }
+    ],
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0003_Company Meal Tickets.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Smart Parcel Lockers",
@@ -192,7 +328,79 @@
     "verify_note": "Seoul apartment smart lockers fingerprint delivery video statistics 2023",
     "country": "Smart Parcel Lockers",
     "created_at": "2026-10-11T13:46:54.887633+00:00",
-    "status": "unverified"
+    "status": "video_done",
+    "narration": "Did you know most new Korean apartments have lockers that open with just a tap of your finger? When a delivery arrives, a small robot slides the box into a sleek locker in the lobby. You scan your fingerprint, and a tiny screen plays a five‑second video of the courier waving. No more missed deliveries or crowded front doors, and every handover is logged for security. Over 70 percent of new high‑rise apartments now use this system. The surprise? Some lockers release a scented air freshener when you open them, turning a simple pickup into a tiny aromatherapy moment. Imagine that next time you grab a package.",
+    "title_line1": "Korean finger lock",
+    "title_line2": "Fresh scent on open",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Finger‑tap *lockers*"
+      },
+      {
+        "s": 3,
+        "text": "Fingerprint *video*"
+      },
+      {
+        "s": 4,
+        "text": "No missed *deliveries*"
+      },
+      {
+        "s": 5,
+        "text": "*70%* apartments use it"
+      },
+      {
+        "s": 7,
+        "text": "Scented *aromatherapy*"
+      }
+    ],
+    "image_queries": [
+      "Korean apartment lobby locker",
+      "Seoul fingerprint locker",
+      "Korean delivery robot lobby",
+      "Busan apartment package pickup",
+      "Scented locker interior",
+      "High-rise apartment hallway"
+    ],
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0004_Smart Parcel Lockers_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0004_Smart Parcel Lockers_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_source": "pixabay",
+    "image_credits": [
+      {
+        "scene": 1,
+        "user": "NoName_13",
+        "page": "https://pixabay.com/photos/locker-metal-cabinet-storage-cabinet-1576098/"
+      },
+      {
+        "scene": 2,
+        "user": "huongnguyen123",
+        "page": "https://pixabay.com/photos/korea-tree-gyeongbokgung-seoul-7366036/"
+      },
+      {
+        "scene": 3,
+        "user": "12019",
+        "page": "https://pixabay.com/photos/lobby-hotel-interior-hallway-398845/"
+      },
+      {
+        "scene": 4,
+        "user": "ah64dka52",
+        "page": "https://pixabay.com/photos/night-view-night-bridge-busan-7943221/"
+      },
+      {
+        "scene": 5,
+        "user": "Couleur",
+        "page": "https://pixabay.com/photos/rose-pink-flower-pink-rose-2378156/"
+      },
+      {
+        "scene": 6,
+        "user": "Herrfilm",
+        "page": "https://pixabay.com/photos/skyscrapers-skyline-city-buildings-450793/"
+      }
+    ],
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0004_Smart Parcel Lockers.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Quiet Subway Cars",
@@ -203,7 +411,75 @@
     "verify_note": "Seoul Metro quiet car policy usage statistics 2022",
     "country": "Quiet Subway Cars",
     "created_at": "2026-10-11T13:46:54.887633+00:00",
-    "status": "unverified"
+    "status": "video_done",
+    "narration": "Ever seen commuters whispering and reading textbooks in a subway car? Since 2021 Seoul Metro has turned one car on every line into a quiet zone. Phones stay on vibrate, conversations stay below a whisper, and a simple ear icon marks the space. Staff politely remind noisy riders to lower their volume. The car fills with students, office workers and seniors who treat the ride like a moving library, and compliance tops 95 percent. During exam season pop‑up tutoring groups appear, handing out flashcards to fellow riders. It’s a rush‑hour ritual that turns a crowded commute into productive, silent study time.",
+    "title_line1": "Seoul quiet subway",
+    "title_line2": "Silent car study hub",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Commuters *whisper*"
+      },
+      {
+        "s": 2,
+        "text": "Quiet *zone* each line"
+      },
+      {
+        "s": 3,
+        "text": "*Vibrate* phones only"
+      },
+      {
+        "s": 5,
+        "text": "Moving *library* ride"
+      }
+    ],
+    "image_queries": [
+      "Seoul subway quiet car",
+      "Korean student reading train",
+      "Korean commuters studying subway",
+      "Seoul subway interior students",
+      "Korean seniors reading subway",
+      "Seoul subway flashcards tutoring"
+    ],
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0005_Quiet Subway Cars_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0005_Quiet Subway Cars_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_source": "pixabay",
+    "image_credits": [
+      {
+        "scene": 1,
+        "user": "zheng2088",
+        "page": "https://pixabay.com/photos/subway-train-republic-of-korea-3297853/"
+      },
+      {
+        "scene": 2,
+        "user": "NWimagesbySabrinaE",
+        "page": "https://pixabay.com/photos/boy-book-reading-literature-read-5731001/"
+      },
+      {
+        "scene": 3,
+        "user": "binmassam",
+        "page": "https://pixabay.com/photos/subway-businessman-walk-walking-4807266/"
+      },
+      {
+        "scene": 4,
+        "user": "WizArto",
+        "page": "https://pixabay.com/photos/stairs-subway-station-architecture-6519085/"
+      },
+      {
+        "scene": 5,
+        "user": "balouriarajesh",
+        "page": "https://pixabay.com/photos/old-couple-reading-newspaper-5051770/"
+      },
+      {
+        "scene": 6,
+        "user": "KIMDAEJEUNG",
+        "page": "https://pixabay.com/photos/vehicles-building-area-train-korea-3484515/"
+      }
+    ],
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0005_Quiet Subway Cars.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Uniform Rental Service",
@@ -214,7 +490,75 @@
     "verify_note": "Korean school uniform rental subscription percentage 2023",
     "country": "Uniform Rental Service",
     "created_at": "2026-10-11T13:46:54.887633+00:00",
-    "status": "unverified"
+    "status": "video_done",
+    "narration": "What if Korean teens never had to wash their school uniforms? In many families, a subscription delivers freshly laundered uniforms to the doorstep every Monday. The service even adjusts the size as kids grow, so parents don’t chase new outfits. A small fee covers repairs, so stains and shrinkage disappear. Schools partner with the providers, posting QR codes for quick enrollment. About thirty percent of middle and high schools list a uniform rental company as an official supplier. The kits hide a pocket for a disposable face mask, a nod to Korea’s post‑pandemic hygiene habit. So the next time you see a crisp uniform, remember it might have arrived without a single wash.",
+    "title_line1": "Uniform rental",
+    "title_line2": "No washing needed?",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Never *wash* uniforms"
+      },
+      {
+        "s": 2,
+        "text": "Uniforms on *Monday*"
+      },
+      {
+        "s": 3,
+        "text": "Size *adjusts*"
+      },
+      {
+        "s": 5,
+        "text": "Quick *enroll* via QR"
+      }
+    ],
+    "image_queries": [
+      "Korean school uniform delivery",
+      "Seoul apartment doorstep package",
+      "Korean teenager adjusting uniform size",
+      "Busan school QR code sign",
+      "Uniform pocket disposable mask",
+      "Jeju laundry service van"
+    ],
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0006_Uniform Rental Service_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0006_Uniform Rental Service_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_source": "pixabay",
+    "image_credits": [
+      {
+        "scene": 1,
+        "user": "CaiHuuThanh",
+        "page": "https://pixabay.com/photos/girl-student-asian-uniform-6210483/"
+      },
+      {
+        "scene": 2,
+        "user": "JillWellington",
+        "page": "https://pixabay.com/photos/halloween-trick-or-treat-pumpkin-1773447/"
+      },
+      {
+        "scene": 3,
+        "user": "CaiHuuThanh",
+        "page": "https://pixabay.com/photos/girl-student-smile-happy-6210463/"
+      },
+      {
+        "scene": 4,
+        "user": "ah64dka52",
+        "page": "https://pixabay.com/photos/night-view-night-bridge-busan-7943221/"
+      },
+      {
+        "scene": 5,
+        "user": "jarmoluk",
+        "page": "https://pixabay.com/photos/money-card-pocket-concept-idea-256281/"
+      },
+      {
+        "scene": 6,
+        "user": "RyanMcGuire",
+        "page": "https://pixabay.com/photos/laundry-saloon-laundry-person-567951/"
+      }
+    ],
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0006_Uniform Rental Service.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Dol Livestream Tradition",
@@ -225,7 +569,7 @@
     "verify_note": "Korean dol livestream numbers 2023 AI caption feature",
     "country": "Dol Livestream Tradition",
     "created_at": "2026-10-11T13:46:54.887633+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Convenience Store Laundry",
@@ -236,7 +580,7 @@
     "verify_note": "Korean convenience store laundry service CU CLOTHES, GS25 laundry, 2023 convenience store laundry Korea",
     "country": "Convenience Store Laundry",
     "created_at": "2026-10-11T13:47:02.264414+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Jjimjilbang Lunch Naps",
