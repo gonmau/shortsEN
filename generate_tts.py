@@ -167,7 +167,7 @@ def main():
     parser.add_argument("--index", type=int, default=None)
     parser.add_argument("--limit", type=int, default=5)
     parser.add_argument("--voice", default="en-US-AndrewNeural")
-    parser.add_argument("--rate", default="+0%")
+    parser.add_argument("--rate", default="+8%")
     parser.add_argument("--volume", default="+0%")
     parser.add_argument("--pitch", default="+0Hz")
     parser.add_argument("--timeout", type=int, default=90,

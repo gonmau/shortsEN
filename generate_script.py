@@ -44,8 +44,9 @@ DEFAULT_RETRIES = 5
 
 # 30~50초 영어 TTS(약 90~120단어)용으로 너무 짧은 결과는 성공으로 인정하지 않습니다.
 MIN_CHARS = 380
-TARGET_MIN_CHARS = 480
-TARGET_MAX_CHARS = 720
+TARGET_MIN_CHARS = 520
+TARGET_MAX_CHARS = 900   # 이보다 길면 재생성
+HARD_MAX_CHARS = 1050    # 재시도가 모두 실패하면 이 길이까지는 마지막 후보를 그대로 사용
 
 
 # ============================================================
@@ -194,7 +195,7 @@ Rules:
 4. Do not invent facts, numbers, dates, or prices that are not in the material.
 5. Use short sentences that are easy to read aloud with TTS. Avoid parentheses, emoji, hashtags, and abbreviations.
 6. Write Korean words in plain English letters (for example "banchan", "jeonse"), and briefly explain them. No Hangul.
-7. Total length: 95 to 120 words. Never shorter than 80 words.
+7. Total length: 90 to 115 words. Hard limit: never more than 120 words, never fewer than 80. Count the words before you answer and cut if you are over.
 8. If the material is short, explain its meaning and context without adding new facts.
 9. Never ask people to subscribe, like, follow, turn on notifications, or comment.
    End on a lingering line or a twist, ideally connected to the opening question so people want to watch again.
@@ -650,6 +651,7 @@ def get_retry_seconds(error, attempt):
 
 def generate_with_model(client, model, fact, retries):
     prompt = build_prompt(fact)
+    best = None  # '너무 김'으로 거절됐지만 HARD_MAX_CHARS 이내인 마지막 후보
 
     for attempt in range(1, retries + 1):
         try:
@@ -686,6 +688,9 @@ def generate_with_model(client, model, fact, retries):
             if valid:
                 return narration, None
 
+            if "너무 김" in reason and len(normalize_text(narration)) <= HARD_MAX_CHARS:
+                best = narration
+
             raise RuntimeError(reason)
 
         except RateLimitError as e:
@@ -703,6 +708,9 @@ def generate_with_model(client, model, fact, retries):
 
         except Exception as e:
             if attempt >= retries:
+                if best:
+                    print(f"  [길이 초과 대본 사용] {len(normalize_text(best))}자 (재시도 모두 소진)")
+                    return best, None
                 return None, str(e)
 
             wait_seconds = min(3.0 * attempt, 15.0)
