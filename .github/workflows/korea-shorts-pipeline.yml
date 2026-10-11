@@ -1,0 +1,173 @@
+# Korea Culture Shorts (English) - 클라우드 자동화 (아이폰에서 실행/검수)
+#
+# 아이폰: GitHub 앱(또는 Safari) > Actions > korea-shorts-pipeline > Run workflow
+#
+#   stage = prepare : 소재 -> 대본 -> 제목/핵심 문구/이미지 검색어 까지 만들고 review.txt 생성 (영상은 안 만듦)
+#           -> 레포의 review.txt를 열어 제목/핵심 문구를 고치고 저장(Commit)
+#   stage = render  : review.txt의 수정 사항을 반영해서 음성 -> 이미지 -> 영상(-> 유튜브 비공개 업로드)
+#   stage = all     : 위 두 단계를 한 번에 (검수 없이 바로 제작)
+#
+#   count        : 이번에 만들 영상 개수
+#   start_index  : 이 번호 이후 소재만 처리 (PC에서 만든 옛 소재 건너뛰기)
+#   auto_verify  : true면 미검증 소재를 팩트체크 없이 자동 승인 (기본 false)
+#
+# Secrets: GROQ_API_KEY (필수)
+#          PIXABAY_API_KEY (장면 이미지, 없으면 색 카드로 대체)
+#          YT_CLIENT_ID, YT_CLIENT_SECRET, YT_REFRESH_TOKEN (유튜브 업로드, 선택)
+#          DISCORD_WEBHOOK_URL (완료/실패 알림 + 아티팩트 링크, 선택)
+# Variables(선택): CHANNEL_NAME(영상 상단 채널 이름), CHANNEL_HANDLE(예: @mychannel)
+
+name: korea-shorts-pipeline
+
+on:
+  workflow_dispatch:
+    inputs:
+      stage:
+        description: "단계 (prepare=대본/제목 준비, render=영상 제작, all=한 번에)"
+        type: choice
+        options: [all, prepare, render]
+        default: all
+      count:
+        description: "만들 영상 개수 (하루 1~2개 권장)"
+        default: "2"
+      start_index:
+        description: "이 번호 이후 소재만 처리 (새 레포라 보통 0)"
+        default: "0"
+      auto_verify:
+        description: "미검증 소재 자동 승인 (팩트체크 생략)"
+        type: boolean
+        default: false
+      cta_check:
+        description: "대본의 구독/좋아요 문구 (off=안 함, scan=점검만, fix=미제작 소재 대본 다시 만들기)"
+        type: choice
+        options: [off, scan, fix]
+        default: off
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      STAGE: ${{ github.event.inputs.stage || 'all' }}
+      COUNT: ${{ github.event.inputs.count || '2' }}
+      START: ${{ github.event.inputs.start_index || '0' }}
+      CTA_MODE: ${{ github.event.inputs.cta_check || 'off' }}
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: 시스템 의존성 (ffmpeg, 한글 폰트)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg fonts-noto-cjk
+
+      - run: pip install -r requirements.txt
+
+      # ---------- 검수 파일에서 고친 내용 반영 ----------
+      - name: review.txt 수정 사항 반영
+        run: python apply_review.py
+
+      # ---------- 준비 단계 (prepare / all) ----------
+      - name: 소재 보충 (대기 소재가 적을 때)
+        if: ${{ env.STAGE != 'render' }}
+        run: |
+          python - <<'PY' > pending.txt
+          import json, os
+          db = json.load(open('facts_db.json', encoding='utf-8')) if os.path.exists('facts_db.json') else []
+          print(sum(1 for f in db if f.get('status') in ('unverified', 'verified')))
+          PY
+          PENDING=$(cat pending.txt); echo "대기 소재: $PENDING"
+          if [ "$PENDING" -lt 10 ]; then python generate_topics.py --count 12; fi
+
+      - name: 자동 승인 (선택)
+        if: ${{ env.STAGE != 'render' && github.event.inputs.auto_verify == 'true' }}
+        run: |
+          python - <<'PY'
+          import json, os
+          n = int(os.environ['COUNT']); db = json.load(open('facts_db.json', encoding='utf-8')); k = 0
+          for f in db:
+              if f.get('status') == 'unverified' and k < n:
+                  f['status'] = 'verified'; k += 1
+          json.dump(db, open('facts_db.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+          print(f'{k}개 자동 승인')
+          PY
+
+      - name: 구독/좋아요 문구 점검 (선택)
+        if: ${{ env.CTA_MODE != 'off' }}
+        run: |
+          if [ "$CTA_MODE" = "fix" ]; then python reset_cta.py --start "$START" --apply; else python reset_cta.py --start "$START"; fi
+
+      - name: 대본 + 제목 + 핵심 문구 + 이미지 검색어 생성
+        if: ${{ env.STAGE != 'render' }}
+        run: python generate_script.py --limit "$COUNT" --start "$START"
+
+      - name: review.txt 만들기 (제목/핵심 문구 검수용)
+        if: ${{ env.STAGE != 'render' }}
+        run: python export_review.py --limit "$COUNT" --start "$START"
+
+      # ---------- 제작 단계 (render / all) ----------
+      - name: 음성(TTS)
+        if: ${{ env.STAGE != 'prepare' }}
+        run: python generate_tts.py --limit "$COUNT" --start "$START"
+
+      - name: 장면 이미지 6장 (Pixabay)
+        if: ${{ env.STAGE != 'prepare' }}
+        run: python fetch_images.py --limit "$COUNT" --start "$START"
+
+      - name: 영상 합성
+        if: ${{ env.STAGE != 'prepare' }}
+        run: python build_video.py --limit "$COUNT" --start "$START" --channel "${{ vars.CHANNEL_NAME || 'Korea Culture Shorts' }}" --handle "${{ vars.CHANNEL_HANDLE || '@koreashorts' }}"
+
+      - name: 썸네일 만들기
+        if: ${{ env.STAGE != 'prepare' }}
+        run: python make_thumbnail.py --channel "${{ vars.CHANNEL_NAME || 'Korea Culture Shorts' }}" --handle "${{ vars.CHANNEL_HANDLE || '@koreashorts' }}"
+
+      - name: 유튜브 비공개 업로드
+        if: ${{ env.STAGE != 'prepare' && env.YT_REFRESH_TOKEN != '' }}
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+        run: python upload_to_youtube.py --limit "$COUNT"
+
+      # ---------- 저장 ----------
+      - name: facts_db.json / review.txt 커밋
+        run: |
+          git config user.name "korea-shorts-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add facts_db.json
+          [ -f review.txt ] && git add review.txt || true
+          git diff --cached --quiet || git commit -m "chore: update facts_db.json [skip ci]"
+          git push
+
+      - name: mp4 아티팩트 보관
+        id: art
+        if: ${{ env.STAGE != 'prepare' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: korea-shorts-videos
+          path: |
+            videos/*.mp4
+            thumbnails/*.png
+          retention-days: 14
+          if-no-files-found: warn
+
+      # ---------- 디스코드 알림 ----------
+      - name: 디스코드 알림
+        if: ${{ always() && env.DISCORD_WEBHOOK_URL != '' }}
+        env:
+          JOB_STATUS: ${{ job.status }}
+          ART_URL: ${{ steps.art.outputs.artifact-url }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          REVIEW_URL: ${{ github.server_url }}/${{ github.repository }}/blob/${{ github.ref_name }}/review.txt
+        run: python notify_discord.py
