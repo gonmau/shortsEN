@@ -1,4 +1,4 @@
-# Korea Culture Shorts (English) - 클라우드 자동화 (아이폰에서 실행/검수)
+# KoreaAtoZ (English) - 클라우드 자동화 (아이폰에서 실행/검수)
 #
 # 아이폰: GitHub 앱(또는 Safari) > Actions > korea-shorts-pipeline > Run workflow
 #
@@ -112,6 +112,9 @@ jobs:
         if: ${{ env.STAGE != 'render' }}
         run: python generate_script.py --limit "$COUNT" --start "$START"
 
+      - name: 한글 번역 (영어 내용 교차확인용)
+        run: python translate_ko.py --limit "$COUNT" --start "$START"
+
       - name: review.txt 만들기 (제목/핵심 문구 검수용)
         if: ${{ env.STAGE != 'render' }}
         run: python export_review.py --limit "$COUNT" --start "$START"
@@ -127,11 +130,11 @@ jobs:
 
       - name: 영상 합성
         if: ${{ env.STAGE != 'prepare' }}
-        run: python build_video.py --limit "$COUNT" --start "$START" --channel "${{ vars.CHANNEL_NAME || 'Korea Culture Shorts' }}" --handle "${{ vars.CHANNEL_HANDLE || '@koreashorts' }}"
+        run: python build_video.py --limit "$COUNT" --start "$START" --channel "${{ vars.CHANNEL_NAME || 'KoreaAtoZ' }}" --handle "${{ vars.CHANNEL_HANDLE || '@KoreaA2Z' }}"
 
       - name: 썸네일 만들기
         if: ${{ env.STAGE != 'prepare' }}
-        run: python make_thumbnail.py --channel "${{ vars.CHANNEL_NAME || 'Korea Culture Shorts' }}" --handle "${{ vars.CHANNEL_HANDLE || '@koreashorts' }}"
+        run: python make_thumbnail.py --channel "${{ vars.CHANNEL_NAME || 'KoreaAtoZ' }}" --handle "${{ vars.CHANNEL_HANDLE || '@KoreaA2Z' }}"
 
       - name: 유튜브 비공개 업로드
         if: ${{ env.STAGE != 'prepare' && env.YT_REFRESH_TOKEN != '' }}
@@ -169,5 +172,7 @@ jobs:
           JOB_STATUS: ${{ job.status }}
           ART_URL: ${{ steps.art.outputs.artifact-url }}
           RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          COUNT: ${{ github.event.inputs.count || '2' }}
+          START: ${{ github.event.inputs.start_index || '0' }}
           REVIEW_URL: ${{ github.server_url }}/${{ github.repository }}/blob/${{ github.ref_name }}/review.txt
         run: python notify_discord.py
