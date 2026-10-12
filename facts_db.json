@@ -1069,24 +1069,198 @@
   {
     "label": "Elevator Karaoke Surprise",
     "topic": "Korean office elevators equipped for impromptu karaoke sessions",
-    "hook": "Did you know Korean elevators sometimes turn into karaoke booths?",
-    "body": "In many high‑rise office buildings in Seoul, a single press of a button activates a built‑in karaoke system inside the elevator. When the doors close, a screen lights up and a microphone appears, inviting passengers to belt out a chorus before reaching their floor. Colleagues treat it as a quick ice‑breaker, and strangers often join in, turning a routine ride into a mini‑concert.",
-    "twist": "The elevators are sound‑insulated, so the music stays inside, letting the rest of the building stay quiet.",
+    "hook": "Did you know some Korean elevators can turn into karaoke booths?",
+    "body": "In a few high‑rise office buildings in Seoul, a button can trigger a karaoke system inside the lift. When the doors close, a screen lights up and a microphone appears, letting passengers sing a short chorus before reaching their floor. Colleagues sometimes use it as a quick ice‑breaker, and occasional strangers may join, turning a routine ride into a mini‑concert.",
+    "twist": "These elevators are often sound‑insulated, so the music mostly stays inside and does not disturb the rest of the building.",
     "verify_note": "Korean elevator karaoke panels installed 2022 news",
     "country": "Elevator Karaoke Surprise",
     "created_at": "2026-10-11T22:46:26.442933+00:00",
-    "status": "verified"
+    "status": "video_done",
+    "narration": "Did you know some Korean elevators can turn into karaoke booths? In a few high‑rise office buildings in Seoul, a button can trigger a karaoke system inside the lift. When the doors close, a screen lights up and a microphone appears, letting passengers sing a short chorus before reaching their floor. Colleagues sometimes use it as a quick ice‑breaker, and occasional strangers may join, turning a routine ride into a mini‑concert. These elevators are often sound‑insulated, so the music mostly stays inside and does not disturb the rest of the building. It’s a surprising slice of daily life that can make an elevator ride feel like a pop‑star moment.",
+    "fact_checked": true,
+    "fact_issues": [
+      "The claim that many high‑rise office elevators in Seoul have built‑in karaoke systems is exaggerated; such features exist only in a few buildings.",
+      "Absolute wording like \"a single press of a button activates\" and \"the music stays inside\" suggests universal implementation and perfect sound insulation, which is not verified.",
+      "Implication that strangers often join and it is a common ice‑breaker may overstate frequency."
+    ],
+    "fact_risk": "medium",
+    "narration_original": "Did you know Korean elevators sometimes turn into karaoke booths? In many high‑rise office buildings in Seoul, a single press of a button activates a built‑in karaoke system inside the lift. When the doors close, a screen lights up and a microphone appears, inviting everyone to belt out a chorus before reaching their floor. Colleagues use it as a quick ice‑breaker, and strangers often join in, turning a routine ride into a mini‑concert. The elevators are sound‑insulated, so the music stays inside and the rest of the building remains quiet. It’s a surprising slice of daily life that makes a simple elevator ride feel like a pop‑star moment.",
+    "title_line1": "Elevator karaoke",
+    "title_line2": "Hit a button, sing",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*Karaoke* elevators"
+      },
+      {
+        "s": 2,
+        "text": "Button launches *sing*"
+      },
+      {
+        "s": 3,
+        "text": "Lift glows, *mic*"
+      },
+      {
+        "s": 4,
+        "text": "Ride becomes *concert*"
+      }
+    ],
+    "image_queries": [
+      "Korean office elevator interior",
+      "Seoul elevator karaoke screen",
+      "Korean microphone on elevator",
+      "Seoul high-rise elevator doors",
+      "Elevator button panel closeup",
+      "Sound insulated elevator cabin"
+    ],
+    "ko_title": "Korea: 엘리베이터 노래방 버튼을 누르면 노래 #Shorts",
+    "ko_description": "🎯 한국 엘리베이터가 노래방 부스로 변신한다는 사실, 알고 계셨나요?\n\n서울의 몇몇 고층 오피스 빌딩에서는 버튼 하나로 엘리베이터 안에 노래방 시스템이 작동합니다. 문이 닫히면 화면이 켜지고 마이크가 나타나, 승객들이 층에 도착하기 전 짧은 후렴을 부를 수 있게 해줍니다. 동료들은 가끔 이것을 빠른 아이스‑브레이커로 활용하고, 가끔은 낯선 사람도 참여해 일상적인 승차를 미니 콘서트로 바꾸기도 합니다.\n\n💡 이러한 엘리베이터는 대부분 방음 처리가 되어 있어 음악이 건물 내부에 머무르고 다른 사람에게 방해가 되지 않습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#ElevatorKaraokeSurprise #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "한국 엘리베이터가 노래방 부스로 변신한다는 사실, 알고 계셨나요? 서울의 몇몇 고층 오피스 빌딩에서는 버튼 하나로 엘리베이터 안에 노래방 시스템이 작동합니다. 문이 닫히면 화면이 켜지고 마이크가 나타나, 승객들이 층에 도착하기 전 짧은 후렴을 부를 수 있게 해줍니다. 동료들은 가끔 이것을 빠른 아이스‑브레이커로 활용하고, 가끔은 낯선 사람도 참여해 일상적인 승차를 미니 콘서트로 바꾸기도 합니다. 이러한 엘리베이터는 대부분 방음 처리가 되어 있어 음악이 건물 내부에 머무르고 다른 사람에게 방해가 되지 않습니다. 이는 일상 속 놀라운 한 장면으로, 엘리베이터 승차가 팝 스타가 된 듯한 느낌을 줄 수 있습니다.",
+    "ko_issues": [
+      "많은 고층 오피스 엘리베이터에 내장된 노래방 시스템이 있다는 주장은 과장된 것이며, 이러한 기능은 몇몇 건물에만 존재합니다.",
+      "‘버튼 하나만 누르면 작동한다’, ‘음악이 내부에 머문다’와 같은 절대적인 표현은 보편적인 구현과 완벽한 방음이 확인되지 않았음을 시사합니다.",
+      "낯선 사람들이 자주 참여하고 이것이 일반적인 아이스‑브레이커라는 암시는 빈도를 과장할 수 있습니다."
+    ],
+    "ko_src": "3d049f59b88d",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0013_Elevator Karaoke Surprise_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0013_Elevator Karaoke Surprise_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_source": "pixabay",
+    "image_credits": [
+      {
+        "scene": 1,
+        "user": "3093594",
+        "page": "https://pixabay.com/photos/elevators-berlin-ludwig-erhard-haus-1598431/"
+      },
+      {
+        "scene": 2,
+        "user": "王倩生",
+        "page": "https://pixabay.com/photos/ktv-room-karaoke-microphones-room-5936457/"
+      },
+      {
+        "scene": 3,
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/mic-headphones-microphone-1867121/"
+      },
+      {
+        "scene": 4,
+        "user": "manseok_Kim",
+        "page": "https://pixabay.com/photos/building-architecture-city-9761776/"
+      },
+      {
+        "scene": 5,
+        "user": "StockSnap",
+        "page": "https://pixabay.com/photos/elevator-buttons-numbers-926058/"
+      },
+      {
+        "scene": 6,
+        "user": "pasja1000",
+        "page": "https://pixabay.com/photos/the-landscape-of-the-mountains-5206204/"
+      }
+    ],
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0013_Elevator Karaoke Surprise.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Air‑Aware Streetlights",
     "topic": "Seoul’s streetlights change color to signal real‑time air quality",
     "hook": "The streetlights in Seoul change color with the air!",
-    "body": "Since 2021, Seoul has installed smart LED poles that glow blue when PM2.5 levels are low and turn amber or red when pollution spikes. Pedestrians can glance upward to instantly gauge whether the air is safe for a jog or if they should wear a mask. The system also dims during low‑traffic hours, cutting municipal electricity use by about 20 %.",
+    "body": "Since a pilot began in 2020 and expanded in 2022, Seoul has been installing smart LED poles that typically glow blue when PM2.5 levels are low and shift to amber or red when pollution rises. Pedestrians can glance upward to get a quick sense of whether the air is suitable for a jog or if a mask might be needed. The lights also dim during low‑traffic hours, which is estimated to reduce municipal electricity use by roughly 20 %.",
     "twist": "The same network feeds data to a public app, letting residents see neighborhood‑by‑neighborhood air maps in real time.",
     "verify_note": "Seoul smart streetlights color air quality 2021 project",
     "country": "Air‑Aware Streetlights",
     "created_at": "2026-10-11T22:46:26.442933+00:00",
-    "status": "verified"
+    "status": "video_done",
+    "narration": "The streetlights in Seoul change color with the air! Since a pilot started in 2020 and expanded in 2022, the city has rolled out smart LED poles that typically glow blue when PM2.5 is low and shift to amber or red when pollution rises. A quick glance upward can help a jogger decide if the air is safe or if a mask is advisable. The lights also dim during low‑traffic periods, which is estimated to cut municipal electricity use by about 20 %. The sensor network also streams data to a public app, providing real‑time, neighborhood‑by‑neighborhood air maps. It’s a simple visual cue that turns much of the city into a living air‑quality monitor.",
+    "fact_checked": true,
+    "fact_issues": [
+      "The claim that Seoul has installed smart LED poles since 2021 is clarified to reflect that the rollout began in 2020 as a pilot and expanded in 2022.",
+      "The statement that the lights dim during low‑traffic hours, cutting municipal electricity use by about 20 % is qualified as an estimated reduction, as exact savings have not been publicly confirmed.",
+      "The wording “glow blue when PM2.5 levels are low and turn amber or red when pollution spikes” is softened to indicate typical color coding rather than an absolute rule."
+    ],
+    "fact_risk": "medium",
+    "narration_original": "The streetlights in Seoul change color with the air! Since 2021 the city has rolled out smart LED poles that glow blue when PM2.5 levels are low and shift to amber or red when pollution spikes. A quick glance upward tells a jogger if the air is safe or if a mask is needed. The lights also dim during low‑traffic hours, shaving about 20 % off municipal electricity use. What’s more, the same sensor network streams data to a public app, giving residents real‑time, neighborhood‑by‑neighborhood air maps. It’s a simple visual cue that turns the whole city into a living air‑quality monitor.",
+    "title_line1": "Seoul's color lights",
+    "title_line2": "Air level turns red",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Lights *change* color"
+      },
+      {
+        "s": 2,
+        "text": "LEDs *blue* → red"
+      },
+      {
+        "s": 3,
+        "text": "Look up, is it *safe*?"
+      },
+      {
+        "s": 5,
+        "text": "App gives *data* live"
+      },
+      {
+        "s": 6,
+        "text": "City is a *monitor*"
+      }
+    ],
+    "image_queries": [
+      "Seoul streetlight at night",
+      "Korean LED streetlamp blue",
+      "Seoul jogger under streetlights",
+      "Korea city streetlight amber",
+      "Smart traffic light pole",
+      "Night skyline Seoul air quality"
+    ],
+    "ko_title": "한국: 서울의 색상 조명, 대기 수준이 빨간색으로 변함 #Shorts",
+    "ko_description": "🎯 서울의 가로등이 공기에 따라 색이 변합니다!\n\n2020년에 시범 사업이 시작되어 2022년에 확대된 이후, 서울은 미세먼지(PM2.5) 농도가 낮을 때는 주로 파란색으로, 오염이 높아지면 호박색 또는 빨간색으로 바뀌는 스마트 LED 전신주를 설치하고 있습니다. 보행자는 위를 힐끔 보는 것만으로 조깅에 적합한 공기인지, 마스크가 필요한지 빠르게 판단할 수 있습니다. 또한 교통량이 적은 시간대에는 조명이 어두워져, 지방자치단체 전력 사용량을 약 20 % 정도 절감하는 것으로 추정됩니다.\n\n💡 같은 네트워크가 데이터를 공공 앱에 제공해, 주민들이 실시간으로 동네별 공기 지도를 확인할 수 있습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절 그리고 놀라운 사실들.\n\n#AirAwareStreetlights #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "서울의 가로등이 공기에 따라 색이 변합니다! 2020년에 시범 사업이 시작되어 2022년에 확대된 이후, 도시는 미세먼지(PM2.5) 농도가 낮을 때 주로 파란색으로 빛나고, 오염이 높아지면 호박색 또는 빨간색으로 바뀌는 스마트 LED 전신주를 설치했습니다. 위를 잠깐 바라보는 것만으로 조깅하는 사람이 공기가 안전한지, 마스크가 필요한지 판단할 수 있습니다. 또한 교통량이 적은 시간대에는 조명이 어두워져, 지방자치단체 전력 사용량을 약 20 % 정도 절감하는 것으로 추정됩니다. 센서 네트워크는 데이터를 공공 앱에 전송해 실시간으로 동네별 공기 지도를 제공합니다. 이는 도시 대부분을 살아있는 대기질 모니터로 바꾸는 간단한 시각적 신호입니다.",
+    "ko_issues": [
+      "‘서울이 2021년부터 스마트 LED 전신주를 설치했다’는 주장에 대해, 시범 사업이 2020년에 시작되어 2022년에 확대된 것으로 정정되었습니다.",
+      "조명이 교통량이 적은 시간대에 어두워져 지방자치단체 전력 사용량을 약 20 % 절감한다는 진술은 정확한 절감량이 공개적으로 확인되지 않았으므로 추정치임을 명시했습니다.",
+      "‘PM2.5 농도가 낮을 때 파란색으로 빛나고 오염이 급증하면 호박색 또는 빨간색으로 변한다’는 표현을 절대적인 규칙이 아니라 일반적인 색상 구분임을 나타내도록 완화했습니다."
+    ],
+    "ko_src": "c87aef1d2aa8",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0014_Air‐Aware Streetlights_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0014_Air‐Aware Streetlights_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_source": "pixabay",
+    "image_credits": [
+      {
+        "scene": 1,
+        "user": "rmsep4",
+        "page": "https://pixabay.com/photos/south-korea-street-seoul-dusk-6918828/"
+      },
+      {
+        "scene": 2,
+        "user": "ELG21",
+        "page": "https://pixabay.com/photos/christmas-ornament-lights-blue-7594052/"
+      },
+      {
+        "scene": 3,
+        "user": "wal_172619",
+        "page": "https://pixabay.com/photos/architecture-geometry-modern-circle-4978522/"
+      },
+      {
+        "scene": 4,
+        "user": "cskkkk",
+        "page": "https://pixabay.com/photos/night-view-dark-seoul-korea-7523474/"
+      },
+      {
+        "scene": 5,
+        "user": "paulsteuber",
+        "page": "https://pixabay.com/photos/bicycle-traffic-light-red-2367705/"
+      },
+      {
+        "scene": 6,
+        "user": "cskkkk",
+        "page": "https://pixabay.com/photos/city-buildings-night-view-seoul-7459162/"
+      }
+    ],
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0014_Air‐Aware Streetlights.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Team Lunch Sync",
@@ -1097,7 +1271,7 @@
     "verify_note": "Korean corporate group lunch ordering Baemin 2022 study",
     "country": "Team Lunch Sync",
     "created_at": "2026-10-11T22:46:26.442933+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Solar Bike Sharing",
@@ -1108,7 +1282,7 @@
     "verify_note": "Seoul bike sharing solar panel lights Ddareungi solar-powered bike lights eco points",
     "country": "Solar Bike Sharing",
     "created_at": "2026-10-11T22:46:34.213037+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "All‑Night Library Pods",
