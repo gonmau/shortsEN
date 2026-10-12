@@ -731,7 +731,71 @@
     "verify_note": "jjimjilbang lunch break culture Seoul office workers 2022, Korean public bath nap, employee wellness reimbursement Korea",
     "country": "Jjimjilbang Lunch Naps",
     "created_at": "2026-10-11T13:47:02.264414+00:00",
-    "status": "verified"
+    "status": "video_done",
+    "narration": "Office workers in Seoul spend their lunch break in a public sauna – and it’s totally normal. After a morning meeting, a corporate employee walks a few blocks to the nearest jjimjilbang, pays nine thousand won, and heads to the gender‑separated sauna. Inside, they relax on heated floor mats, set an alarm on their phone, and take a 30‑minute power nap before heading back to the office. The habit grew from long work hours and a cultural acceptance of communal rest spaces. What’s surprising is that many companies now reimburse the nine thousand won fee as part of their employee‑wellness benefits, turning a quick nap into a paid perk.",
+    "title_line1": "Lunch nap in a sauna",
+    "title_line2": "Paid nap at work",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Lunch break *sauna*"
+      },
+      {
+        "s": 3,
+        "text": "30‑minute *power nap*"
+      },
+      {
+        "s": 5,
+        "text": "Paid *wellness* perk"
+      }
+    ],
+    "image_queries": [
+      "Seoul public sauna interior",
+      "Korean jjimjilbang heated floor mat",
+      "Office worker nap phone alarm",
+      "Korea corporate employee lunch break",
+      "Seoul street near jjimjilbang",
+      "Korean sauna payment kiosk"
+    ],
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0009_Jjimjilbang Lunch Naps_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0009_Jjimjilbang Lunch Naps_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_source": "pixabay",
+    "image_credits": [
+      {
+        "scene": 1,
+        "user": "thaoantran0101",
+        "page": "https://pixabay.com/photos/books-library-bookstore-study-7744938/"
+      },
+      {
+        "scene": 2,
+        "user": "jeviniya",
+        "page": "https://pixabay.com/photos/yoga-legs-young-woman-sports-1146277/"
+      },
+      {
+        "scene": 3,
+        "user": "Firmbee",
+        "page": "https://pixabay.com/photos/office-business-accountant-620822/"
+      },
+      {
+        "scene": 4,
+        "user": "daha3131053",
+        "page": "https://pixabay.com/photos/man-adult-young-break-corporate-7116367/"
+      },
+      {
+        "scene": 5,
+        "user": "YOUNGU",
+        "page": "https://pixabay.com/photos/han-river-night-view-seoul-korea-4831871/"
+      },
+      {
+        "scene": 6,
+        "user": "jennyfriedrichs",
+        "page": "https://pixabay.com/photos/wood-house-tree-garden-sauna-3336957/"
+      }
+    ],
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0009_Jjimjilbang Lunch Naps.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "KakaoTalk Coffee Meetups",
@@ -742,7 +806,75 @@
     "verify_note": "KakaoTalk open chat coffee meetups Seoul 2023, Korean social app random coffee dates, KakaoTalk safety features",
     "country": "KakaoTalk Coffee Meetups",
     "created_at": "2026-10-11T13:47:02.264414+00:00",
-    "status": "verified"
+    "status": "video_done",
+    "narration": "Strangers in Seoul meet for coffee just by joining a KakaoTalk open‑chat group. A tourist spots a flyer that reads “Coffee with a Stranger,” scans the QR code, and instantly lands in a bustling chat room. Within minutes a local replies, and they arrange to meet at a nearby café, swapping language tips and personal stories. The magic works because KakaoTalk’s verification system feels safe, and the app’s huge user base makes finding a partner effortless. The most popular coffee‑meetup chats regularly hold over 10,000 members and schedule weekly gatherings across three different districts of Seoul. Imagine a city where a simple QR code can turn a random stranger into a coffee buddy.",
+    "title_line1": "Coffee via KakaoTalk",
+    "title_line2": "Instant coffee buddy",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*Coffee* meetup"
+      },
+      {
+        "s": 2,
+        "text": "*QR* code joins chat"
+      },
+      {
+        "s": 4,
+        "text": "Safe *verification*"
+      },
+      {
+        "s": 6,
+        "text": "QR makes a *buddy*"
+      }
+    ],
+    "image_queries": [
+      "Seoul coffee shop interior",
+      "Korean QR code on flyer",
+      "Seoul street cafe outdoor",
+      "Korean language exchange meeting",
+      "Seoul district sidewalk coffee table",
+      "Korean smartphone messaging app screen"
+    ],
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0010_KakaoTalk Coffee Meetups_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0010_KakaoTalk Coffee Meetups_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_source": "pixabay",
+    "image_credits": [
+      {
+        "scene": 1,
+        "user": "pc500k",
+        "page": "https://pixabay.com/photos/seoul-cafe-coffee-shop-7106196/"
+      },
+      {
+        "scene": 2,
+        "user": "geralt",
+        "page": "https://pixabay.com/photos/qr-code-quick-response-code-to-scan-1903447/"
+      },
+      {
+        "scene": 3,
+        "user": "analogicus",
+        "page": "https://pixabay.com/photos/cafe-building-greece-3537801/"
+      },
+      {
+        "scene": 4,
+        "user": "Elchinator",
+        "page": "https://pixabay.com/photos/source-code-software-computer-4280758/"
+      },
+      {
+        "scene": 5,
+        "user": "dnovac",
+        "page": "https://pixabay.com/photos/restaurant-paris-france-bistro-4011989/"
+      },
+      {
+        "scene": 6,
+        "user": "Firmbee",
+        "page": "https://pixabay.com/photos/social-media-facebook-smartphone-763731/"
+      }
+    ],
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0010_KakaoTalk Coffee Meetups.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Han River Light Bike",
@@ -753,7 +885,7 @@
     "verify_note": "Han River night bike parade LED lights Guinness World Record, Seoul Bike Festival 2022, Korean night cycling events",
     "country": "Han River Light Bike",
     "created_at": "2026-10-11T13:47:02.264414+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Midnight Fresh Food Runs",
@@ -764,7 +896,7 @@
     "verify_note": "24 hour convenience store fresh food Korea schedule 2023",
     "country": "Midnight Fresh Food Runs",
     "created_at": "2026-10-11T22:46:26.442933+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Elevator Karaoke Surprise",
