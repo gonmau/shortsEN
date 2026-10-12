@@ -42,7 +42,8 @@ def risk_line(item):
     if not r:
         return ""
     icon = {"low": "🟢", "medium": "🟡", "high": "🔴"}.get(r, "⚪")
-    return f"{icon} 사실 검수 위험도: {r}"
+    ap = "교정 적용됨" if item.get("fact_applied") else "교정 없음/미적용"
+    return f"{icon} 사실 검수 위험도: {r} / 확인도: {item.get('fact_verifiability', '-')} / {ap}"
 
 
 def post_crosscheck(url, item):
