@@ -84,8 +84,8 @@ def make(idx, item, channel, handle, avatar):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--channel", default="Korea Culture Shorts")
-    ap.add_argument("--handle", default="@koreashorts")
+    ap.add_argument("--channel", default="KoreaAtoZ")
+    ap.add_argument("--handle", default="@KoreaA2Z")
     ap.add_argument("--avatar", default="avatar.png")
     ap.add_argument("--force", action="store_true")
     args = ap.parse_args()
