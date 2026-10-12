@@ -879,24 +879,192 @@
   {
     "label": "Han River Light Bike",
     "topic": "Nighttime bike parade along the Han River illuminated by LED strips",
-    "hook": "Every summer, thousands of cyclists ride the Han River under a glowing tunnel of LED lights.",
+    "hook": "Every summer, many cyclists ride the Han River under a glowing tunnel of LED lights.",
     "body": "On a warm Saturday night, cyclists line up at Yeouido, each bike fitted with bright LED strips that sync to music. They glide along the riverbank as the city’s skyline reflects off the water, creating a moving river of light. The event is organized by the Seoul Bike Festival to promote eco‑friendly recreation and showcase the city’s night scenery.",
-    "twist": "In 2022 the parade earned a Guinness World Record for the longest continuous night bike parade, stretching over 20 km.",
+    "twist": "In 2022 the parade reportedly set a Guinness World Record for the longest continuous night bike parade, stretching over 20 km.",
     "verify_note": "Han River night bike parade LED lights Guinness World Record, Seoul Bike Festival 2022, Korean night cycling events",
     "country": "Han River Light Bike",
     "created_at": "2026-10-11T13:47:02.264414+00:00",
-    "status": "verified"
+    "status": "video_done",
+    "narration": "Every summer, many cyclists ride the Han River under a glowing tunnel of LED lights. On a warm Saturday night, riders gather at Yeouido, each bike fitted with bright LED strips that pulse in time with music. They glide along the riverbank while Seoul’s skyline shimmers on the water, turning the whole scene into a moving river of light. The Seoul Bike Festival organizes the event to promote eco‑friendly recreation and showcase the city’s night scenery. In 2022, the parade reportedly set a Guinness World Record for the longest continuous night bike parade, stretching over 20 km. Imagine pedaling through a luminous ribbon that stretches far beyond sight.",
+    "fact_checked": true,
+    "fact_issues": [
+      "The claim of \"thousands\" of cyclists each summer is unverified; changed to \"many\".",
+      "The statement that the event earned an official Guinness World Record in 2022 is not confirmed; qualified as \"reportedly set a Guinness World Record\"."
+    ],
+    "fact_risk": "medium",
+    "narration_original": "Every summer, thousands of cyclists ride the Han River under a glowing tunnel of LED lights. On a warm Saturday night, riders gather at Yeouido, each bike fitted with bright LED strips that pulse in time with music. They glide along the riverbank while Seoul’s skyline shimmers on the water, turning the whole scene into a moving river of light. The Seoul Bike Festival organizes the event to promote eco‑friendly recreation and showcase the city’s night scenery. In 2022, the parade set a Guinness World Record for the longest continuous night bike parade, stretching over 20 km. Imagine pedaling through a luminous ribbon that stretches farther than the eye can see.",
+    "title_line1": "Han River night bike",
+    "title_line2": "LED tunnel pulses",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*Glowing* LED tunnel"
+      },
+      {
+        "s": 2,
+        "text": "LEDs *sync* to music"
+      },
+      {
+        "s": 5,
+        "text": "Guinness *record* 20km"
+      },
+      {
+        "s": 6,
+        "text": "*Ribbon* of light"
+      }
+    ],
+    "image_queries": [
+      "Seoul night bike parade",
+      "Han River LED lights",
+      "Yeouido riverbank cyclists",
+      "Korean skyline reflected water",
+      "Korea bike parade record",
+      "night river of light"
+    ],
+    "ko_title": "Korea: 한강 야간 자전거 LED 터널 펄스 #Shorts",
+    "ko_description": "🎯 매년 여름, 많은 자전거 이용자들이 LED 빛이 빛나는 터널 아래 한강을 달립니다.\n\n따뜻한 토요일 밤, 자전거 이용자들이 여의도에 모여 각 자전거에 음악에 맞춰 깜빡이는 밝은 LED 스트립을 장착합니다. 그들은 강변을 미끄러지듯 달리며 도시의 스카이라인이 물에 비쳐 움직이는 빛의 강을 만듭니다. 이 행사는 친환경 레크리에이션을 촉진하고 도시의 야경을 보여주기 위해 서울 바이크 페스티벌이 주관합니다.\n\n💡 2022년 이 퍼레이드는 연속 야간 자전거 퍼레이드 최장 기록을 세운 것으로 알려져 20km 이상에 달했습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절 그리고 놀라운 사실들.\n\n#HanRiverLightBike #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "매년 여름, 많은 자전거 이용자들이 LED 빛이 빛나는 터널 아래 한강을 달립니다. 따뜻한 토요일 밤, 라이더들이 여의도에 모여 각 자전거에 음악에 맞춰 펄스하는 밝은 LED 스트립을 장착합니다. 그들은 강변을 미끄러지듯 달리며 서울의 스카이라인이 물 위에 반짝여 전체 풍경을 움직이는 빛의 강으로 바꿉니다. 서울 바이크 페스티벌은 친환경 레크리에이션을 촉진하고 도시의 야경을 보여주기 위해 이 행사를 조직합니다. 2022년, 이 퍼레이드는 연속 야간 자전거 퍼레이드 최장 기록을 세운 것으로 알려져 20 km 이상을 달렸다고 합니다. 눈에 보이는 것보다 훨씬 멀리 뻗은 빛나는 리본을 타고 페달을 밟는 모습을 상상해 보세요.",
+    "ko_issues": [
+      "‘매년 수천 명의 자전거 이용자’라는 주장은 확인되지 않아 ‘많은’으로 변경되었습니다.",
+      "2022년에 공식 기네스 세계 기록을 획득했다는 주장은 확인되지 않아 ‘보고된 바에 따르면 기네스 세계 기록을 세웠다’로 한정했습니다."
+    ],
+    "ko_src": "0f0e168572a9",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0011_Han River Light Bike_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0011_Han River Light Bike_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_source": "pixabay",
+    "image_credits": [
+      {
+        "scene": 1,
+        "user": "cskkkk",
+        "page": "https://pixabay.com/photos/night-view-bridge-river-building-7603847/"
+      },
+      {
+        "scene": 2,
+        "user": "Leino194",
+        "page": "https://pixabay.com/photos/fireworks-display-city-night-8119898/"
+      },
+      {
+        "scene": 3,
+        "user": "This_is_Engineering",
+        "page": "https://pixabay.com/photos/man-engineer-bike-cyclist-male-8499961/"
+      },
+      {
+        "scene": 4,
+        "user": "NoName_13",
+        "page": "https://pixabay.com/photos/swan-water-white-water-bird-nature-2107052/"
+      },
+      {
+        "scene": 5,
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/record-player-vinyl-1851576/"
+      },
+      {
+        "scene": 6,
+        "user": "Media_Breeze",
+        "page": "https://pixabay.com/photos/chongqing-china-city-hongyadong-7094955/"
+      }
+    ],
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0011_Han River Light Bike.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Midnight Fresh Food Runs",
     "topic": "Students grab fresh salads and sushi from 24‑hour convenience stores at 2 am",
     "hook": "Ever ordered a fresh salad at 2 am in Seoul?",
-    "body": "In South Korea, almost every corner has a 24‑hour convenience store that stocks ready‑to‑eat salads, sushi rolls, and fruit bowls. A university student finishing a night class can walk in at 2 am and pick up a chilled salmon kimbap as easily as a bottle of water. Stores receive fresh deliveries every two hours, so the food stays as crisp as if it were bought at noon.",
-    "twist": "Some chains even have rotating cold‑storage units that automatically replace items every hour to guarantee freshness around the clock.",
+    "body": "In South Korea you’ll find many 24‑hour convenience stores that stock ready‑to‑eat salads, sushi rolls, and fruit bowls. A university student finishing a night class can walk in at 2 am and pick up a chilled salmon kimbap as easily as a bottle of water. These stores often receive fresh deliveries several times a day, so the produce stays crisp like it was bought earlier.",
+    "twist": "Some chains use automated shelving that helps keep items refreshed throughout the night.",
     "verify_note": "24 hour convenience store fresh food Korea schedule 2023",
     "country": "Midnight Fresh Food Runs",
     "created_at": "2026-10-11T22:46:26.442933+00:00",
-    "status": "verified"
+    "status": "video_done",
+    "narration": "Ever ordered a fresh salad at 2 am in Seoul? In the city, many 24‑hour convenience stores carry ready‑to‑eat salads, sushi rolls, and fruit bowls. A university student finishing a night class can walk in at 2 am and grab a chilled salmon kimbap as easily as a bottle of water. These stores often receive fresh deliveries several times a day, so the produce stays crisp like it was bought at noon. Some chains use automated shelving that helps keep items refreshed throughout the night. It’s a midnight snack solution you won’t find everywhere.",
+    "fact_checked": true,
+    "fact_issues": [
+      "“almost every corner has a 24‑hour convenience store” – overstated; changed to “you’ll find many 24‑hour convenience stores”.",
+      "“Stores receive fresh deliveries every two hours” – unverified frequency; changed to “many stores receive fresh deliveries several times a day”.",
+      "“rotating cold‑storage units that automatically replace items every hour” – likely inaccurate; changed to “some stores use automated shelving that helps keep items refreshed”."
+    ],
+    "fact_risk": "medium",
+    "narration_original": "Ever ordered a fresh salad at 2 am in Seoul? In the city, almost every corner has a 24‑hour convenience store stocked with ready‑to‑eat salads, sushi rolls, and fruit bowls. A university student finishing a night class can walk in at 2 am and grab a chilled salmon kimbap as easily as a bottle of water. These stores receive fresh deliveries every two hours, so the produce stays crisp like it was bought at noon. Some chains even use rotating cold‑storage units that automatically replace items each hour, keeping everything fresh around the clock. It’s a midnight snack solution you won’t find in most places.",
+    "title_line1": "am snack runs",
+    "title_line2": "Fresh salad at 2am?",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Fresh salad at *2 am*"
+      },
+      {
+        "s": 3,
+        "text": "Grab *salmon* kimbap"
+      },
+      {
+        "s": 5,
+        "text": "Auto *shelf* fresh"
+      },
+      {
+        "s": 6,
+        "text": "*Midnight* snack"
+      }
+    ],
+    "image_queries": [
+      "Seoul convenience store interior",
+      "Korean night market snack",
+      "Salad bowl midnight Seoul",
+      "Korean sushi roll display",
+      "University campus late night",
+      "Automated shelving grocery Korea"
+    ],
+    "ko_title": "한국: 새벽 간식이 2시 새 샐러드? #Shorts",
+    "ko_description": "🎯 서울에서 새벽 2시에 신선한 샐러드를 주문해 본 적 있나요?\n\n대한민국에는 24시간 운영되는 편의점이 많아 즉석 샐러드, 초밥 롤, 과일 볼 등을 판매합니다. 야간 수업을 마치는 대학생이 새벽 2시에 들어가 물 한 병만큼 쉽게 차가운 연어 김밥을 집어 들 수 있습니다. 이런 매장들은 하루에 여러 차례 신선한 물품을 배송받아 채소가 마치 아침에 산 듯 바삭하게 유지됩니다.\n\n💡 일부 체인점은 자동 선반을 도입해 밤새 제품을 신선하게 유지합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#MidnightFreshFoodRuns #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "서울에서 새벽 2시에 신선한 샐러드를 주문해 본 적 있나요? 도심 곳곳에 있는 24시간 편의점에서는 즉석 샐러드, 초밥 롤, 과일 볼 등을 판매합니다. 야간 수업을 마치는 대학생이 새벽 2시에 들어가 물 한 병만큼 쉽게 차가운 연어 김밥을 집어 들 수 있습니다. 이런 매장들은 하루에 여러 차례 신선한 물품을 배송받아 채소가 마치 정오에 산 듯 바삭하게 유지됩니다. 일부 체인점은 자동 선반을 도입해 밤새 제품을 신선하게 유지합니다. 이것은 어디서든 찾을 수 없는 새벽 간식 솔루션입니다.",
+    "ko_issues": [
+      "“거의 모든 구석에 24시간 편의점이 있다” – 과장된 표현; “많은 24시간 편의점을 찾을 수 있다”로 수정했습니다.",
+      "“매장은 2시간마다 신선한 물품을 배송받는다” – 확인되지 않은 빈도; “많은 매장이 하루에 여러 차례 신선한 물품을 배송받는다”로 수정했습니다.",
+      "“시간마다 자동으로 교체되는 회전식 냉장 유닛” – 사실과 다를 가능성이 있음; “일부 매장은 자동 선반을 사용해 제품을 신선하게 유지한다”로 수정했습니다."
+    ],
+    "ko_src": "130a8735fa71",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0012_Midnight Fresh Food Runs_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0012_Midnight Fresh Food Runs_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_source": "pixabay",
+    "image_credits": [
+      {
+        "scene": 1,
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/apparel-boutique-bags-shoes-shop-1850804/"
+      },
+      {
+        "scene": 2,
+        "user": "multifacetedgirl",
+        "page": "https://pixabay.com/photos/street-food-asian-food-asia-korea-1302615/"
+      },
+      {
+        "scene": 3,
+        "user": "silviarita",
+        "page": "https://pixabay.com/photos/salad-fruit-berry-healthy-vitamins-2756467/"
+      },
+      {
+        "scene": 4,
+        "user": "kim1220",
+        "page": "https://pixabay.com/photos/korean-food-sushi-vegetables-plate-8385414/"
+      },
+      {
+        "scene": 5,
+        "user": "alisonupdyke",
+        "page": "https://pixabay.com/photos/mansion-nature-growth-vines-facade-4751778/"
+      },
+      {
+        "scene": 6,
+        "user": "Sunriseforever",
+        "page": "https://pixabay.com/photos/girl-chocolate-candies-supermarket-7024552/"
+      }
+    ],
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0012_Midnight Fresh Food Runs.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Elevator Karaoke Surprise",
@@ -907,7 +1075,7 @@
     "verify_note": "Korean elevator karaoke panels installed 2022 news",
     "country": "Elevator Karaoke Surprise",
     "created_at": "2026-10-11T22:46:26.442933+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Air‑Aware Streetlights",
@@ -918,7 +1086,7 @@
     "verify_note": "Seoul smart streetlights color air quality 2021 project",
     "country": "Air‑Aware Streetlights",
     "created_at": "2026-10-11T22:46:26.442933+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Team Lunch Sync",
