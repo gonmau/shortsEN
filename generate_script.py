@@ -163,6 +163,7 @@ def build_prompt(fact):
     body = fact.get("body", "")
     twist = fact.get("twist", "")
     verify_note = fact.get("verify_note", "")
+    caveat = fact.get("caveat", "")
 
     return f"""
 You are a scriptwriter for English YouTube Shorts about Korean culture and daily life,
@@ -185,6 +186,9 @@ Write a 35-50 second voice-over using ONLY the verified material below.
 [Twist / surprising point]
 {twist}
 
+[Limits of this fact]
+{caveat}
+
 [Verification note]
 {verify_note}
 
@@ -193,6 +197,9 @@ Rules:
 2. Open with a strong first sentence built from the [Hook]. No greetings, no "Hey guys".
 3. Explain the key facts, then work in the twist.
 4. Do not invent facts, numbers, dates, or prices that are not in the material.
+   ACCURACY OVER DRAMA: stay calm and factual, never exaggerate. No absolutes ("everyone", "always", "never", "all Koreans", "illegal", "the only country", "the most/biggest").
+   Use qualifiers such as "many", "often", "in some places", "at many cafes" and name the scope (for example "in Seoul"). Never turn a common practice into a universal rule.
+   Respect the [Limits of this fact] and mention the limit briefly when it matters.
 5. Use short sentences that are easy to read aloud with TTS. Avoid parentheses, emoji, hashtags, and abbreviations.
 6. Write Korean words in plain English letters (for example "banchan", "jeonse"), and briefly explain them. No Hangul.
 7. Total length: 90 to 115 words. Hard limit: never more than 120 words, never fewer than 80. Count the words before you answer and cut if you are over.
@@ -293,7 +300,7 @@ Rules:
 2. Line 1 sets up the situation or subject. Line 2 creates curiosity with the result or the twist.
 3. Each line is at most 20 characters including spaces. Short and punchy.
 4. Do not invent facts or numbers that are not in the material.
-5. No clickbait exaggeration. It must match the content.
+5. No clickbait exaggeration. It must match the content. No absolutes such as "Everyone", "Always", "Never", "Illegal", "Only" unless the narration states it exactly that way.
 6. English only. No Hangul. Korean words in plain English letters.
 7. No emoji, quotation marks, periods, numbering, or labels. Just the two lines.
 
@@ -521,6 +528,84 @@ def generate_queries(client, models, fact, narration, retries=3):
     )
 
 
+# ============================================================
+# 사실 검수(과장/일반화 교정) 패스
+# ============================================================
+
+def build_factcheck_prompt(fact, narration):
+    return f"""You are a strict fact-checker and editor for English YouTube Shorts about Korea.
+Review the texts below and fix anything exaggerated, over-generalized, absolute, sensationalized, or likely inaccurate.
+
+[Subject] {fact.get("label") or fact.get("country", "")}
+[Topic] {fact.get("topic", "")}
+[Limits of this fact] {fact.get("caveat", "")}
+
+[hook]
+{fact.get("hook", "")}
+[body]
+{fact.get("body", "")}
+[twist]
+{fact.get("twist", "")}
+[narration]
+{narration}
+
+What to look for:
+- absolutes: everyone, all Koreans, always, never, illegal, banned, the only/first/biggest/most
+- a trend, a company's or one city's practice presented as a nationwide rule
+- statistics, prices, dates or numbers that are unverified or likely wrong
+- claims stronger than the evidence, stereotypes, shock-bait wording
+- anything you believe is factually wrong
+
+Fix them with qualified, calm wording (many / often / in some places / typically) and a clear scope, or delete the claim if it cannot be fixed.
+Keep the same style, make the narration still 90 to 115 words, short sentences, no emoji, no subscribe/like requests.
+If everything is already accurate and calm, return the texts unchanged with an empty issues list.
+
+Respond with a pure JSON object only:
+{{"issues": ["short English description of each problem you fixed or that remains uncertain"],
+  "risk": "low, medium or high (how likely the ORIGINAL contained a factual error)",
+  "hook": "...", "body": "...", "twist": "...", "narration": "..."}}"""
+
+
+def parse_factcheck(text):
+    data = extract_json(text)
+    if not isinstance(data, dict) or not str(data.get("narration", "")).strip():
+        return None
+    return data
+
+
+def factcheck_fact(client, models, fact, retries=3):
+    """대본/설명(hook,body,twist)의 과장·일반화를 교정한다. 교정 내용은 fact_issues에 남긴다."""
+    narration = fact.get("narration", "")
+    data = ask_models(
+        client, models,
+        "You are a careful fact-checking editor. Output JSON only.",
+        build_factcheck_prompt(fact, narration), 3000, retries, parse_factcheck,
+    )
+    fact["fact_checked"] = True
+    if not data:
+        print("  [사실 검수 실패] 원본 대본을 그대로 사용합니다. review.txt에서 직접 확인하세요.")
+        fact["fact_risk"] = "unchecked"
+        return True
+    issues = [str(x).strip() for x in (data.get("issues") or []) if str(x).strip()]
+    fact["fact_issues"] = issues
+    fact["fact_risk"] = str(data.get("risk", "low")).strip().lower()
+    new_narr = clean_narration(str(data.get("narration", "")))
+    ok, why = validate_narration(new_narr)
+    if issues and ok:
+        fact["narration_original"] = narration
+        fact["narration"] = new_narr
+        for k in ("hook", "body", "twist"):
+            v = str(data.get(k, "")).strip()
+            if v:
+                fact[k] = v
+    elif issues and not ok:
+        print(f"  [사실 검수] 수정본이 기준에 안 맞아 원본 유지 ({why})")
+    print(f"  [사실 검수] 위험도 {fact['fact_risk']} / 교정 {len(issues)}건")
+    for i in issues:
+        print(f"    - {i}")
+    return True
+
+
 def title_ok(fact):
     l1, l2 = fact.get("title_line1"), fact.get("title_line2")
     return bool(l1 and l2 and is_english_title(l1) and is_english_title(l2))
@@ -528,8 +613,10 @@ def title_ok(fact):
 
 def ensure_extras(client, models, fact, retries=3):
     """제목 2줄 / 핵심 문구 / 이미지 검색어 중 없는 것만 만든다. 바뀐 게 있으면 True."""
-    narration = fact.get("narration", "")
     changed = False
+    if not fact.get("fact_checked") and fact.get("narration"):
+        changed = factcheck_fact(client, models, fact, retries) or changed
+    narration = fact.get("narration", "")
     if not title_ok(fact):
         titles = generate_title(client, models, fact, narration, retries)
         if titles:
@@ -569,7 +656,7 @@ def run_extras(client, models, db, limit, start, delay, retries):
 
     todo = [
         (i, f) for i, f in targets
-        if not (title_ok(f) and f.get("highlights") is not None and f.get("image_queries"))
+        if not (title_ok(f) and f.get("highlights") is not None and f.get("image_queries") and f.get("fact_checked"))
     ]
     print(f"제목/핵심 문구/이미지 검색어 보충 대상: {len(todo)}개")
     for number, (index, fact) in enumerate(todo, start=1):
@@ -917,7 +1004,7 @@ def main():
             fact["status"] = "scripted"  # TTS 단계(generate_tts_v2.py)가 이 상태를 찾습니다.
 
             # 대본이 새로 바뀌었으므로 이전 제목/핵심 문구/검색어는 지우고 새로 만든다
-            for key in ("title_line1", "title_line2", "highlights", "image_queries"):
+            for key in ("title_line1", "title_line2", "highlights", "image_queries", "fact_checked", "fact_issues", "fact_risk", "narration_original"):
                 fact.pop(key, None)
             ensure_extras(client, models, fact, args.retries)
 

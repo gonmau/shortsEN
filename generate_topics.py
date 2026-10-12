@@ -1,5 +1,5 @@
 """
-Korea Culture Shorts (English) - 소재 자동 생성 스크립트
+KoreaAtoZ (English) - 소재 자동 생성 스크립트
 
 외국인 시청자 시선에서 흥미로운 한국 문화/일상/음식/예절/언어/현대 생활 소재를
 Groq(무료 API)로 배치 생성해 facts_db.json에 누적 저장합니다.
@@ -73,6 +73,11 @@ Requirements:
 - Each topic must make an outsider think "wait, really?". Surprise matters more than trivia.
 - Only well-documented, widely verifiable facts. If you are not sure it is true, leave it out. Do not repeat myths or stereotypes (for example "fan death", or claims about dog meat being common). Prefer present-day Korea over old history.
 - Exclude politics, North Korea, territorial or historical disputes, religion debates, and private lives of celebrities. K-pop and K-drama are fine only as culture and industry facts, never gossip, and never quote lyrics.
+- ACCURACY FIRST. Surprising must never mean exaggerated. Use calm, qualified wording and state the scope (who, where, when).
+  * Do not use absolutes: "everyone", "all Koreans", "always", "never", "illegal", "banned", "the only country", "the first/biggest/most" unless it is firmly documented.
+  * Say "many", "often", "in some places", "at many cafes" when a practice is common but not universal. Never turn a trend, a single company or a single city's practice into a nationwide rule.
+  * No statistics, prices or dates unless you are highly confident of the exact figure; otherwise describe it qualitatively ("relatively cheap", "a few minutes").
+  * No generalizations about Koreans as a people, no shock-bait, no insulting comparisons with other countries.
 - Avoid the most overused topics (kimchi basics, "Korean age" alone, soju shots). Look for fresh angles.
 
 Here are topics already used. Do not overlap with them:
@@ -86,6 +91,8 @@ Respond with a pure JSON array only, no markdown and no other text:
     "hook": "Opening line for the first 3 seconds, a question or surprising claim in English (example: In Korea, you can order fried chicken to a bench by the river.)",
     "body": "Explanation in English, 3 to 4 sentences including why it is like this",
     "twist": "One English sentence with a surprising extra detail",
+    "caveat": "One English sentence on the limits of this fact (where/when/for whom it applies, what is not universal)",
+    "confidence": "high only if you are sure this is accurate and well documented, otherwise medium or low",
     "verify_note": "Keywords a human can search to fact-check this"
   }}
 ]"""
@@ -120,7 +127,11 @@ def generate_batch(client: Groq, model: str, count: int, used: str) -> list[dict
     if not text.strip():
         raise ValueError(f"응답이 비어있음 (finish_reason={finish_reason})")
 
-    return extract_json_array(text)
+    items = extract_json_array(text)
+    kept = [f for f in items if str(f.get("confidence", "")).strip().lower() == "high"]
+    if len(kept) < len(items):
+        print(f"  확신도 낮은 소재 {len(items) - len(kept)}개 제외 (과장/오류 방지)")
+    return kept
 
 
 def generate_facts(
