@@ -1550,7 +1550,33 @@
     "verify_note": "Korean café study zone quiet area, Seoul coffee shop study pods, Korean cafés silent study zones",
     "country": "Café Study Pods",
     "created_at": "2026-10-13T02:04:34.256921+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Did you know many cafés in Seoul turn into silent study rooms at lunch? Walk into a chain coffee shop and you’ll often see a small sign that reads “Study Zone.” That corner comes with its own lamp, a power outlet, and a polite reminder to keep phones on silent. Students and freelancers treat it like a mini‑library, and if you ask, the staff will hand you a pair of headphones. The idea grew because office rents are high, so affordable Wi‑Fi‑rich workspaces are in demand. Some cafés even play a soft “focus music” playlist through hidden speakers, adding a uniform hum. The study‑zone setup is common in many urban cafés, but you won’t find it in every coffee shop across the country. So next time you need quiet focus, look for that little sign and let the hum guide you.",
+    "title_line1": "Study zones in Seoul",
+    "title_line2": "Study zone, focus up",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Turn *silent* at lunch"
+      },
+      {
+        "s": 2,
+        "text": "Find the *Study Zone*"
+      },
+      {
+        "s": 4,
+        "text": "*Workspaces* rise"
+      },
+      {
+        "s": 5,
+        "text": "Soft *focus music* hum"
+      }
+    ],
+    "ko_title": "Korea: Study zones in Seoul Study zone, focus up #Shorts",
+    "ko_description": "🎯 서울의 많은 카페가 점심시간에 조용한 공부 공간으로 변한다는 사실, 알고 계셨나요?\n\n서울 전역 체인 카페 곳곳에서 “Study Zone”이라고 적힌 작은 표지판이 달린 코너를 찾을 수 있습니다. 그 구역에는 개인용 램프와 전원 콘센트가 마련돼 있고, 휴대폰을 무음으로 해 달라는 정중한 안내문도 붙어 있습니다. 주로 학생이나 프리랜서인 손님들은 이 공간을 작은 도서관처럼 이용하며, 요청하면 직원이 헤드폰을 직접 건네주기도 합니다. 사무실 임대료가 비싼 도시에서 저렴하고 와이‑파이 환경이 잘 갖춰진 작업 공간에 대한 수요가 높아지면서 이런 문화가 생겨났습니다.\n\n💡 일부 카페는 숨겨진 스피커를 통해 부드러운 “focus music” 재생 목록을 틀어 일관된 배경 소리를 제공하기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#CafStudyPods #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "서울의 많은 카페가 점심시간에 조용한 공부 방으로 변한다는 사실, 알고 계셨나요? 체인 커피숍에 들어서면 “Study Zone”이라고 적힌 작은 표지판을 자주 볼 수 있습니다. 그 코너에는 각각 램프와 전원 콘센트가 마련돼 있으며, 휴대폰을 무음으로 해 달라는 정중한 안내문도 있습니다. 학생과 프리랜서들은 이를 작은 도서관처럼 이용하고, 요청하면 직원이 헤드폰을 건네줍니다. 사무실 임대료가 비싸기 때문에 저렴하고 와이‑파이가 풍부한 작업 공간에 대한 수요가 늘어나면서 이 아이디어가 생겨났습니다. 일부 카페는 숨은 스피커를 통해 부드러운 “focus music” 재생 목록을 틀어 일관된 윙윙거림을 더합니다. 공부 구역 설정은 많은 도시 카페에서 흔하지만, 전국 모든 커피숍에서 찾아볼 수는 없습니다. 다음에 조용히 집중하고 싶을 때는 그 작은 표지판을 찾아 그 윙윙거림을 따라보세요.",
+    "ko_issues": [],
+    "ko_src": "1a09a5d7d040"
   },
   {
     "label": "Respectful Drink Pour",
@@ -1563,7 +1589,41 @@
     "verify_note": "Korean drink pouring etiquette, two hands soju pour, Korean table manners pour with both hands",
     "country": "Respectful Drink Pour",
     "created_at": "2026-10-13T02:04:34.256921+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Ever seen a Korean pour a drink with two hands and wonder why? At a typical Korean dinner, the youngest person lifts the bottle or pitcher with both hands and carefully pours a small amount into the elder’s glass. The elder nods, maybe returns the favor, but that first two‑handed pour signals respect and attentiveness. It’s taught from childhood and applies to soju, makgeolli, even water, helping keep the pour steady and spill‑free. When the drink is soju, the server often adds a tiny splash of water as a subtle sign of hospitality. With close friends the gesture can be more casual, but with older family members the two‑handed pour remains a polite staple. So the next time you see that careful two‑handed pour, you’ll know it’s more than just a drink—it’s a sign of respect.",
+    "title_line1": "Two‑handed drink pour",
+    "title_line2": "What it really means",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Two‑handed *pour*?"
+      },
+      {
+        "s": 2,
+        "text": "Youngest lifts *bottle*"
+      },
+      {
+        "s": 4,
+        "text": "*Steady* two‑handed pour"
+      },
+      {
+        "s": 7,
+        "text": "Respect in a *drink*"
+      }
+    ],
+    "image_queries": [
+      "Korean dinner pour two hands",
+      "Seoul traditional soju serving",
+      "Korean elder glass water",
+      "Busan family dinner drinks",
+      "Korean pitcher pouring ceremony",
+      "Jeju table with glasses"
+    ],
+    "ko_title": "한국: 두 손으로 술 따기, 그 의미는? #Shorts",
+    "ko_description": "🎯 한국인이 두 손으로 술을 따는 모습을 본 적 있나요?\n\n보통 한국 식사 자리에서 가장 어린 사람이 병이나 주전자를 두 손으로 들어 어른의 잔에 조금 따 줍니다. 어른은 고개를 끄덕이며 때로는 다시 따라 주기도 하지만, 처음 두 손으로 따는 행위는 존경과 배려를 나타냅니다. 이 예절은 소주, 막걸리, 심지어 물에도 적용되며 어릴 때부터 가르쳐집니다. 두 손으로 따면 흐트러짐이 적어 흘리는 것을 방지할 수 있습니다.\n\n💡 술이 소주일 경우, 서빙하는 사람이 잔에 물을 살짝 한 방울 넣어 은은한 환대를 표시하기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#RespectfulDrinkPour #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "한국인이 두 손으로 술을 따는 모습을 본 적 있나요? 일반적인 한국 식사 자리에서 가장 어린 사람이 병이나 주전자를 두 손으로 들어 조심스럽게 어른의 잔에 조금 따 줍니다. 어른은 고개를 끄덕이며 때로는 다시 따라 주기도 하지만, 그 첫 번째 두 손으로 따는 행위는 존경과 배려를 의미합니다. 어릴 때부터 가르쳐지는 이 예절은 소주, 막걸리, 물에도 적용돼 따를 안정적으로 하고 흘림을 방지합니다. 술이 소주일 때는 서빙하는 사람이 물을 살짝 한 방울 넣어 은은한 환대를 표시합니다. 가까운 친구와는 좀 더 캐주얼하게 할 수 있지만, 연령이 높은 가족에게는 두 손으로 따는 것이 여전히 예의 바른 기본입니다. 다음에 그 조심스러운 두 손으로 따는 모습을 보면, 그것이 단순히 술을 따는 것이 아니라 존경의 표시라는 것을 알게 될 것입니다.",
+    "ko_issues": [],
+    "ko_src": "c18a9f49edc0"
   },
   {
     "label": "1000‑Day Celebration",
@@ -1576,7 +1636,41 @@
     "verify_note": "Baek-il Korean 1000 day celebration, Korean 1000th day birthday, Korean baby milestones baekil",
     "country": "1000‑Day Celebration",
     "created_at": "2026-10-13T02:04:34.256921+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Did you know Korean families throw a party when a baby turns 1,000 days old? In South Korea many parents mark that milestone, called baek‑il, with a small gathering of relatives. The menu often features white rice cake, baekseolgi, and seaweed soup, both symbols of purity and health. Parents may ask the pediatrician for a quick growth check, and guests usually bring a modest cash gift in a folded paper envelope. The focus is on family blessings rather than big commercial fanfare. Lately some modern families add a photo‑shoot day, hiring a professional photographer to capture the moment. Not every household celebrates, but baek‑il remains a cherished tradition for many.",
+    "title_line1": "Korean 1000‑Day",
+    "title_line2": "A quiet family rite",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Baby hits *1,000* days"
+      },
+      {
+        "s": 3,
+        "text": "*White rice cake*"
+      },
+      {
+        "s": 5,
+        "text": "Family *blessings*"
+      },
+      {
+        "s": 6,
+        "text": "*Photo‑shoot* trend"
+      }
+    ],
+    "image_queries": [
+      "Korean family gathering",
+      "baekseolgi rice cake Korea",
+      "Korean seaweed soup bowl",
+      "pediatrician checkup Korea",
+      "Korean cash gift envelope",
+      "Seoul photo shoot studio"
+    ],
+    "ko_title": "한국 1000일 조용한 가족 의식 #Shorts",
+    "ko_description": "🎯 한국 가정에서는 아기가 1,000일이 되면 파티를 연다는 사실, 알고 계셨나요?\n\n대한민국에서는 아이가 태어난 뒤 1,000일째 되는 날을 ‘백일’이라고 부르며, 친척들이 모이는 작은 모임과 백설기와 미역국 등 특별한 메뉴를 준비합니다. 이 날은 건강 점검의 의미가 있어 부모가 소아과 의사에게 성장 확인을 요청하기도 합니다. 손님들은 보통 접힌 종이 봉투에 넣은 소액의 현금을 선물로 가져옵니다. 첫 생일 파티보다 상업성이 적고 가족의 축복에 초점을 둡니다.\n\n💡 현대 가정 중 일부는 전통에 ‘촬영일’을 결합해 전문 사진작가를 고용해 순간을 기록하기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#1000DayCelebration #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "한국 가정에서는 아기가 1,000일이 되면 파티를 연다는 사실, 알고 계셨나요? 대한민국에서는 많은 부모가 ‘백일’이라고 부르는 이 이정표를 친척들이 모이는 작은 모임으로 기념합니다. 메뉴에는 순수와 건강을 상징하는 백설기와 미역국이 자주 등장합니다. 부모는 소아과 의사에게 간단한 성장 점검을 요청할 수 있고, 손님들은 보통 접힌 종이 봉투에 넣은 소액 현금 선물을 가져옵니다. 큰 상업적 행사보다 가족의 축복에 초점을 맞춥니다. 최근 일부 현대 가정은 촬영일을 추가해 전문 사진작가를 고용해 순간을 기록합니다. 모든 가정이 기념하는 것은 아니지만, 백일은 많은 사람에게 소중한 전통으로 남아 있습니다.",
+    "ko_issues": [],
+    "ko_src": "9e8e375ab540"
   },
   {
     "label": "Vending Machine City",
