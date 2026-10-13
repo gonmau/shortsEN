@@ -1332,21 +1332,21 @@
   {
     "label": "The ‘‑ssi’ Slip",
     "topic": "Korean honorific ‘‑ssi’ is used like ‘Mr./Ms.’ but can sound overly formal in casual texts",
-    "hook": "Ever text a Korean friend and get a confused ‘‑ssi?’ – it’s a common etiquette trap.",
-    "body": "A foreigner messages a colleague with “지민씨, 오늘 회의 어때?” and receives a puzzled reply of just “씨?”. In spoken Korean, ‘‑ssi’ is a polite suffix attached to a name, but in many digital chats it is often dropped for brevity, making its use feel stiff. The suffix stems from the older honorific ‘시(shi)’ and is still common in face‑to‑face conversation, especially with strangers or seniors. Using it in informal messages can unintentionally create distance, while omitting it with a senior may sometimes be seen as disrespectful.",
-    "twist": "In professional emails, attaching ‘‑ssi’ after a full name often signals respect, whereas omitting it can sometimes be read as a lack of respect.",
+    "hook": "한국 친구에게 문자를 보냈는데 ‘‑씨?’라는 반응을 받은 적 있나요? – 흔한 한국어 예절 포인트입니다.",
+    "body": "한국어에서 ‘‑씨’는 이름 뒤에 붙는 정중한 호칭으로, 영어의 Mr.나 Ms.와 비슷하지만 관계와 상황에 따라 뉘앙스가 다릅니다. 보통은 이름 또는 성+이름 뒤에 붙이며, 비슷한 지위의 동료나 지인에게 자연스럽습니다. 다만 성만 붙인 ‘김 씨’는 무례하거나 거리감 있게 들릴 수 있어 피하는 것이 좋습니다.",
+    "twist": "친한 친구나 비격식 채팅에서는 ‘‑씨’를 생략하기도 하지만, 윗사람에게는 ‘‑씨’보다 직함+‘님’을 쓰는 편이 안전합니다.",
     "verify_note": "Korean -ssi suffix usage texting etiquette honorific",
     "country": "The ‘‑ssi’ Slip",
     "created_at": "2026-10-11T22:46:34.213037+00:00",
-    "status": "scripted",
-    "narration": "Ever text a Korean friend and get a confused “‑ssi?” – it’s a common etiquette trap. In Korean, ‑ssi is a polite suffix like “Mr.” or “Ms.” attached to a name. In face‑to‑face conversation, especially with strangers or seniors, you’ll hear ‑ssi used regularly. But in many digital chats people drop it for brevity. That’s why a foreigner might write “Jimin‑ssi, 오늘 회의 어때?” and get a puzzled reply of just “씨?” Using ‑ssi in informal messages can feel stiff and create distance, while leaving it off when texting a senior may seem disrespectful. The twist: in professional emails, adding ‑ssi after a full name often signals respect, whereas omitting it can sometimes be read as a lack of respect. So next time, think twice before you type that suffix.",
+    "status": "video_done",
+    "narration": "Ever text a Korean friend and get a confused “‑ssi?” – it’s a common Korean etiquette point. In Korean, ‑ssi is a polite suffix attached to a person’s given name or full name, similar to “Mr.” or “Ms.” It is most natural with colleagues, acquaintances, or people of a similar social position. But avoid attaching it to only a surname: “Kim‑ssi” can sound distant or rude. In casual chats with close friends, people often drop it for a softer tone. The twist: with a boss, teacher, or much older person, a title plus “‑nim” is usually safer than “‑ssi.” So use “Jimin‑ssi” with a peer, but “Manager Kim‑nim” with your manager.",
     "fact_checked": true,
     "fact_issues": [
       "Overgeneralized claim that dropping ‘‑ssi’ in professional emails is always seen as disrespectful – changed to ‘often’ and noted it can vary.",
       "Implied that all Koreans drop ‘‑ssi’ in digital chats – softened to ‘many people’."
     ],
-    "fact_risk": "low",
-    "fact_verifiability": "documented",
+    "fact_risk": "user-reviewed",
+    "fact_verifiability": "user",
     "fact_applied": true,
     "narration_original": "Ever text a Korean friend and get a confused “‑ssi?” – it’s a common etiquette trap. In Korean, ‑ssi is a polite suffix like “Mr.” or “Ms.” attached to a name. In face‑to‑face conversation, especially with strangers or seniors, you’ll hear ‑ssi used regularly. But in digital chats most people drop it for brevity. That’s why a foreigner might write “Jimin‑ssi, 오늘 회의 어때?” and get a puzzled reply of just “씨?” Using ‑ssi in informal messages can feel stiff and create distance, while leaving it off when texting a senior may seem disrespectful. The twist: in professional emails, adding ‑ssi after a full name signals seniority, whereas omitting it can be read as a lack of respect. So next time, think twice before you type that suffix.",
     "title_line1": "When you text ssi",
@@ -1358,15 +1358,15 @@
       },
       {
         "s": 3,
-        "text": "Use ‑ssi *formally*"
+        "text": "Use ‑ssi *with peers*"
       },
       {
         "s": 5,
-        "text": "Sounds *stiff* in chat"
+        "text": "Sounds *formal* in chat"
       },
       {
         "s": 6,
-        "text": "Email *respect* with ‑ssi"
+        "text": "Use *님* for seniors"
       }
     ],
     "image_queries": [
@@ -1378,13 +1378,52 @@
       "Korean handwritten note"
     ],
     "ko_title": "Korea: When you text ssi Is it too formal? #Shorts",
-    "ko_description": "🎯 한국 친구에게 문자 보냈는데 ‘‑씨?’ 라는 혼란스러운 반응을 받은 적 있나요? – 흔한 예절 함정입니다.\n\n외국인이 동료에게 “지민씨, 오늘 회의 어때?” 라고 메시지를 보내면 “씨?” 라는 당황스러운 답장을 받을 수 있습니다. 구어체 한국어에서 ‘‑씨’는 이름에 붙는 정중한 접미사이지만, 많은 디지털 채팅에서는 간결함을 위해 종종 생략되어 딱딱하게 느껴질 수 있습니다. 이 접미사는 오래된 경칭 ‘시(shi)’에서 유래했으며, 특히 낯선 사람이나 선배와 대면 대화에서 여전히 흔히 사용됩니다. 비공식 메시지에 사용하면 거리감을 만들 수 있고, 선배에게 생략하면 때때로 무례하게 보일 수 있습니다.\n\n💡 직장 이메일에서는 전체 이름 뒤에 ‘‑씨’를 붙이는 것이 존경을 나타내는 경우가 많으며, 생략하면 때때로 존경 부족으로 해석될 수 있습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#TheSsiSlip #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
-    "ko_narration": "한국 친구에게 문자 보냈는데 ‘‑씨?’ 라는 혼란스러운 반응을 받은 적 있나요? – 흔한 예절 함정입니다. 한국어에서 ‘‑씨’는 ‘Mr.’ 혹은 ‘Ms.’ 와 같은 정중한 접미사로 이름에 붙습니다. 특히 낯선 사람이나 선배와 대면 대화에서는 ‘‑씨’를 정기적으로 듣게 됩니다. 하지만 많은 디지털 채팅에서는 간결함을 위해 이를 생략합니다. 그래서 외국인이 “Jimin‑씨, 오늘 회의 어때?” 라고 쓰면 “씨?” 라는 당황스러운 답장을 받을 수 있습니다. 비공식 메시지에 ‘‑씨’를 사용하면 딱딱하고 거리감을 만들 수 있고, 선배에게 생략하면 무례하게 보일 수 있습니다. 반전은 직장 이메일에서 전체 이름 뒤에 ‘‑씨’를 붙이면 존경을 나타내는 경우가 많으며, 생략하면 때때로 존경 부족으로 해석될 수 있다는 점입니다. 다음에 접미사를 입력하기 전에 한 번 더 생각해 보세요.",
+    "ko_description": "🎯 한국 친구에게 문자를 보냈는데 ‘‑씨?’라는 반응을 받은 적 있나요? – 흔한 한국어 예절 포인트입니다.\n\n한국어에서 ‘‑씨’는 이름 뒤에 붙는 정중한 호칭으로, 영어의 Mr.나 Ms.와 비슷하지만 관계와 상황에 따라 뉘앙스가 다릅니다. 보통은 이름 또는 성+이름 뒤에 붙으며, 비슷한 지위의 동료나 지인에게 자연스럽습니다. 다만 성만 붙인 ‘김 씨’는 무례하거나 거리감 있게 들릴 수 있어 피하는 것이 좋습니다.\n\n💡 친한 친구나 비격식 채팅에서는 ‘‑씨’를 생략하기도 하지만, 윗사람에게는 ‘‑씨’보다 직함+‘님’을 쓰는 편이 안전합니다.\n\n🇰🇷 Real Korea in under a minute: everyday life, food, etiquette and surprising facts.\n\n#TheSsiSlip #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "Ever text a Korean friend and get a confused “‑ssi?” – it’s a common Korean etiquette point. In Korean, ‑ssi is a polite suffix attached to a person’s given name or full name, similar to “Mr.” or “Ms.” It is most natural with colleagues, acquaintances, or people of a similar social position. But avoid attaching it to only a surname: “Kim‑ssi” can sound distant or rude. In casual chats with close friends, people often drop it for a softer tone. The twist: with a boss, teacher, or much older person, a title plus “‑nim” is usually safer than “‑ssi.” So use “Jimin‑ssi” with a peer, but “Manager Kim‑nim” with your manager.",
     "ko_issues": [
-      "‘‑씨’를 직장 이메일에서 생략하면 항상 무례하게 보인다는 과잉 일반화된 주장을 ‘자주’로 바꾸고 상황에 따라 다를 수 있음을 명시했습니다.",
-      "모든 한국인이 디지털 채팅에서 ‘‑씨’를 생략한다는 암시를 ‘많은 사람들’로 완화했습니다."
+      "‘‑ssi’를 전문적인 이메일에서 생략하면 항상 무례하게 보인다는 과잉 일반화 주장 → ‘자주’로 수정하고 상황에 따라 달라질 수 있음을 명시함.",
+      "모든 한국인이 디지털 채팅에서 ‘‑ssi’를 생략한다는 암시 → ‘많은 사람들이’로 완화함."
     ],
-    "ko_src": "2c2a2373f3db"
+    "ko_src": "5130075a9ada",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0018_The ‘‐ssi’ Slip_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0018_The ‘‐ssi’ Slip_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_source": "pixabay",
+    "image_credits": [
+      {
+        "scene": 1,
+        "user": "niekverlaan",
+        "page": "https://pixabay.com/photos/telephone-mobile-call-samsung-586266/"
+      },
+      {
+        "scene": 2,
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/buildings-city-coffee-shop-doors-1836478/"
+      },
+      {
+        "scene": 3,
+        "user": "kangbch",
+        "page": "https://pixabay.com/photos/barley-field-wheat-agriculture-plow-1684052/"
+      },
+      {
+        "scene": 4,
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/laptop-apple-computer-desk-macbook-1846277/"
+      },
+      {
+        "scene": 5,
+        "user": "manseok_Kim",
+        "page": "https://pixabay.com/photos/night-view-city-ocean-night-busan-800348/"
+      },
+      {
+        "scene": 6,
+        "user": "kangso-eun",
+        "page": "https://pixabay.com/photos/handwriting-hieroglyph-language-820913/"
+      }
+    ],
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0018_The ‘‐ssi’ Slip.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "EV Charger Density",
