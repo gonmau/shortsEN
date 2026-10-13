@@ -1309,24 +1309,82 @@
   {
     "label": "All‑Night Library Pods",
     "topic": "Seoul’s public libraries let you book private study pods 24/7 via an app",
-    "hook": "Imagine reserving a soundproof study booth in a library at 2 am—Korea makes it real.",
-    "body": "A university student opens the Seoul Metropolitan Library app at 1 am, selects a vacant ‘study pod’, and walks to a glass‑walled booth on the 3rd floor. Inside, a small desk, power outlet, ambient lighting, and a personal climate control let the student focus while the city sleeps. The service, launched in 2022, now offers more than 300 pods scattered across 15 branches, targeting night‑owl learners and freelancers. Each pod is monitored for occupancy in real time, so you never find it unexpectedly taken.",
-    "twist": "The pods are equipped with a built‑in air purifier that cycles fresh air every 15 minutes.",
+    "hook": "Imagine reserving a sound‑proof study booth in a library at 2 am—some Korean libraries are making it possible.",
+    "body": "A university student opens the Seoul Metropolitan Library app around 1 am, selects a vacant “study pod,” and walks to a glass‑walled booth on the third floor. Inside, a small desk, power outlet, ambient lighting and basic climate control help the student focus while the city sleeps. Launched in 2022, the pilot program now includes several hundred pods across multiple branches, aimed at night‑owl learners and freelancers. Real‑time occupancy tracking reduces the chance of finding a pod already taken.",
+    "twist": "Many of the pods are equipped with built‑in air purifiers that refresh the air roughly every fifteen minutes.",
     "verify_note": "Seoul library study pods 24/7 private study rooms app",
     "country": "All‑Night Library Pods",
     "created_at": "2026-10-11T22:46:34.213037+00:00",
-    "status": "verified"
+    "status": "rejected",
+    "narration": "Imagine reserving a sound‑proof study booth in a library at 2 am—some Korean libraries are making it possible. A university student opens the Seoul Metropolitan Library app at 1 am, taps a vacant “study pod,” and heads to a glass‑walled booth on the third floor. Inside, a small desk, power outlet, ambient lighting and basic climate control create a focused oasis while the city sleeps. Launched in 2022, the pilot now offers several hundred pods across multiple branches for night‑owl learners and freelancers. Real‑time occupancy tracking means you’re less likely to find the pod unexpectedly taken. The surprise? Many pods have built‑in air purifiers that refresh the air roughly every fifteen minutes.",
+    "fact_checked": true,
+    "fact_issues": [
+      "The claim that Seoul’s public libraries let you book private study pods 24/7 via an app is not confirmed; evidence of a city‑wide, always‑open reservation system is lacking.",
+      "Exact numbers (300 pods, 15 branches) are unverified and may be overstated.",
+      "The description of “personal climate control” and “air purifier that cycles fresh air every 15 minutes” is likely exaggerated without specific source."
+    ],
+    "fact_risk": "medium",
+    "fact_verifiability": "unverified",
+    "fact_applied": true,
+    "narration_original": "Imagine reserving a soundproof study booth in a library at 2 am—Korea makes it real. A university student opens the Seoul Metropolitan Library app at 1 am, taps a vacant “study pod,” and heads to a glass‑walled booth on the third floor. Inside, a small desk, power outlet, ambient lighting and personal climate control create a focused oasis while the city sleeps. Launched in 2022, the program now offers more than 300 pods across 15 branches, aimed at night‑owl learners and freelancers. Real‑time occupancy tracking means you won’t find the pod unexpectedly taken. The surprise? Each pod has a built‑in air purifier that refreshes the air every fifteen minutes, keeping the space crisp even in the dead of night.",
+    "reject_reason": "확인 불가/조작 의심 (unverified)"
   },
   {
     "label": "The ‘‑ssi’ Slip",
     "topic": "Korean honorific ‘‑ssi’ is used like ‘Mr./Ms.’ but can sound overly formal in casual texts",
     "hook": "Ever text a Korean friend and get a confused ‘‑ssi?’ – it’s a common etiquette trap.",
-    "body": "A foreigner messages a colleague with “지민씨, 오늘 회의 어때?” and receives a puzzled reply of just “씨?”. In spoken Korean, ‘‑ssi’ is a polite suffix attached to a name, but in digital chats it is usually dropped for brevity, making its use feel stiff. The suffix stems from the older honorific ‘시(shi)’ and is still common in face‑to‑face conversation, especially with strangers or seniors. Using it in informal messages can unintentionally create distance, while omitting it with a senior may be seen as disrespectful.",
-    "twist": "In professional emails, attaching ‘‑ssi’ after a full name signals seniority, whereas dropping it can be interpreted as a lack of respect.",
+    "body": "A foreigner messages a colleague with “지민씨, 오늘 회의 어때?” and receives a puzzled reply of just “씨?”. In spoken Korean, ‘‑ssi’ is a polite suffix attached to a name, but in many digital chats it is often dropped for brevity, making its use feel stiff. The suffix stems from the older honorific ‘시(shi)’ and is still common in face‑to‑face conversation, especially with strangers or seniors. Using it in informal messages can unintentionally create distance, while omitting it with a senior may sometimes be seen as disrespectful.",
+    "twist": "In professional emails, attaching ‘‑ssi’ after a full name often signals respect, whereas omitting it can sometimes be read as a lack of respect.",
     "verify_note": "Korean -ssi suffix usage texting etiquette honorific",
     "country": "The ‘‑ssi’ Slip",
     "created_at": "2026-10-11T22:46:34.213037+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "Ever text a Korean friend and get a confused “‑ssi?” – it’s a common etiquette trap. In Korean, ‑ssi is a polite suffix like “Mr.” or “Ms.” attached to a name. In face‑to‑face conversation, especially with strangers or seniors, you’ll hear ‑ssi used regularly. But in many digital chats people drop it for brevity. That’s why a foreigner might write “Jimin‑ssi, 오늘 회의 어때?” and get a puzzled reply of just “씨?” Using ‑ssi in informal messages can feel stiff and create distance, while leaving it off when texting a senior may seem disrespectful. The twist: in professional emails, adding ‑ssi after a full name often signals respect, whereas omitting it can sometimes be read as a lack of respect. So next time, think twice before you type that suffix.",
+    "fact_checked": true,
+    "fact_issues": [
+      "Overgeneralized claim that dropping ‘‑ssi’ in professional emails is always seen as disrespectful – changed to ‘often’ and noted it can vary.",
+      "Implied that all Koreans drop ‘‑ssi’ in digital chats – softened to ‘many people’."
+    ],
+    "fact_risk": "low",
+    "fact_verifiability": "documented",
+    "fact_applied": true,
+    "narration_original": "Ever text a Korean friend and get a confused “‑ssi?” – it’s a common etiquette trap. In Korean, ‑ssi is a polite suffix like “Mr.” or “Ms.” attached to a name. In face‑to‑face conversation, especially with strangers or seniors, you’ll hear ‑ssi used regularly. But in digital chats most people drop it for brevity. That’s why a foreigner might write “Jimin‑ssi, 오늘 회의 어때?” and get a puzzled reply of just “씨?” Using ‑ssi in informal messages can feel stiff and create distance, while leaving it off when texting a senior may seem disrespectful. The twist: in professional emails, adding ‑ssi after a full name signals seniority, whereas omitting it can be read as a lack of respect. So next time, think twice before you type that suffix.",
+    "title_line1": "When you text ssi",
+    "title_line2": "Is it too formal?",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "A *confusing* ‑ssi"
+      },
+      {
+        "s": 3,
+        "text": "Use ‑ssi *formally*"
+      },
+      {
+        "s": 5,
+        "text": "Sounds *stiff* in chat"
+      },
+      {
+        "s": 6,
+        "text": "Email *respect* with ‑ssi"
+      }
+    ],
+    "image_queries": [
+      "Korean smartphone texting",
+      "Seoul street coffee shop",
+      "Jeju island traditional market",
+      "Korean office desk with laptop",
+      "Busan harbor night lights",
+      "Korean handwritten note"
+    ],
+    "ko_title": "Korea: When you text ssi Is it too formal? #Shorts",
+    "ko_description": "🎯 한국 친구에게 문자 보냈는데 ‘‑씨?’ 라는 혼란스러운 반응을 받은 적 있나요? – 흔한 예절 함정입니다.\n\n외국인이 동료에게 “지민씨, 오늘 회의 어때?” 라고 메시지를 보내면 “씨?” 라는 당황스러운 답장을 받을 수 있습니다. 구어체 한국어에서 ‘‑씨’는 이름에 붙는 정중한 접미사이지만, 많은 디지털 채팅에서는 간결함을 위해 종종 생략되어 딱딱하게 느껴질 수 있습니다. 이 접미사는 오래된 경칭 ‘시(shi)’에서 유래했으며, 특히 낯선 사람이나 선배와 대면 대화에서 여전히 흔히 사용됩니다. 비공식 메시지에 사용하면 거리감을 만들 수 있고, 선배에게 생략하면 때때로 무례하게 보일 수 있습니다.\n\n💡 직장 이메일에서는 전체 이름 뒤에 ‘‑씨’를 붙이는 것이 존경을 나타내는 경우가 많으며, 생략하면 때때로 존경 부족으로 해석될 수 있습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#TheSsiSlip #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "한국 친구에게 문자 보냈는데 ‘‑씨?’ 라는 혼란스러운 반응을 받은 적 있나요? – 흔한 예절 함정입니다. 한국어에서 ‘‑씨’는 ‘Mr.’ 혹은 ‘Ms.’ 와 같은 정중한 접미사로 이름에 붙습니다. 특히 낯선 사람이나 선배와 대면 대화에서는 ‘‑씨’를 정기적으로 듣게 됩니다. 하지만 많은 디지털 채팅에서는 간결함을 위해 이를 생략합니다. 그래서 외국인이 “Jimin‑씨, 오늘 회의 어때?” 라고 쓰면 “씨?” 라는 당황스러운 답장을 받을 수 있습니다. 비공식 메시지에 ‘‑씨’를 사용하면 딱딱하고 거리감을 만들 수 있고, 선배에게 생략하면 무례하게 보일 수 있습니다. 반전은 직장 이메일에서 전체 이름 뒤에 ‘‑씨’를 붙이면 존경을 나타내는 경우가 많으며, 생략하면 때때로 존경 부족으로 해석될 수 있다는 점입니다. 다음에 접미사를 입력하기 전에 한 번 더 생각해 보세요.",
+    "ko_issues": [
+      "‘‑씨’를 직장 이메일에서 생략하면 항상 무례하게 보인다는 과잉 일반화된 주장을 ‘자주’로 바꾸고 상황에 따라 다를 수 있음을 명시했습니다.",
+      "모든 한국인이 디지털 채팅에서 ‘‑씨’를 생략한다는 암시를 ‘많은 사람들’로 완화했습니다."
+    ],
+    "ko_src": "2c2a2373f3db"
   },
   {
     "label": "EV Charger Density",
