@@ -1432,7 +1432,7 @@
     "verify_note": "Korean food delivery banchan inclusion, Baedal Minjok Korean restaurant side dishes, banchan refill custom",
     "country": "South Korea",
     "created_at": "2026-10-12T13:36:21.188824+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "In Korea, ordering one main dish can still mean several side dishes arrive with it. When you use delivery apps like Baedal Minjok or Coupang Eats, often Korean restaurants automatically pack banchan—small sides such as kimchi, pickled radish, or seasoned vegetables—alongside your main course. This mirrors the traditional meal layout of rice, soup, a main protein, and shared banchan at the table. Some places even send a full set: rice, soup, meat and a handful of banchan, turning a single order into a complete Korean‑style spread. Keep in mind, banchan aren’t guaranteed with every delivery; non‑Korean menus like pizza or chicken usually don’t include them.",
     "fact_checked": true,
     "fact_issues": [
@@ -1472,7 +1472,46 @@
     "ko_issues": [
       "“많은 한국 식당이 자동으로 반찬을 포장한다”를 “종종 한국 식당이 자동으로 반찬을 포장한다”로 변경하여 범위를 보다 정확하게 했습니다."
     ],
-    "ko_src": "848861690825"
+    "ko_src": "848861690825",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0019_South Korea_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0019_South Korea_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_source": "pixabay",
+    "image_credits": [
+      {
+        "scene": 1,
+        "user": "Alexas_Fotos",
+        "page": "https://pixabay.com/photos/bicycle-to-go-biking-transport-9828774/"
+      },
+      {
+        "scene": 2,
+        "user": "Couleur",
+        "page": "https://pixabay.com/photos/coffee-coffee-beans-beans-roasted-3392168/"
+      },
+      {
+        "scene": 3,
+        "user": "touchngo",
+        "page": "https://pixabay.com/photos/kimchi-dish-food-korean-kimchi-5939198/"
+      },
+      {
+        "scene": 4,
+        "user": "kangbch",
+        "page": "https://pixabay.com/photos/barley-field-wheat-agriculture-plow-1684052/"
+      },
+      {
+        "scene": 5,
+        "user": "touchngo",
+        "page": "https://pixabay.com/photos/kimchi-dish-food-korean-kimchi-5939202/"
+      },
+      {
+        "scene": 6,
+        "user": "ah64dka52",
+        "page": "https://pixabay.com/photos/night-view-night-bridge-busan-7943221/"
+      }
+    ],
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0019_South Korea.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Convenience Store Meal Kits",
