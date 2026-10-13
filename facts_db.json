@@ -1581,10 +1581,6 @@
     "fact_verifiability": "user",
     "fact_risk": "user-reviewed",
     "fact_applied": true,
-    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0021_Café Study Pods_v2.mp3",
-    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0021_Café Study Pods_v2_timing.json",
-    "tts_voice_v2": "en-US-AndrewNeural",
-    "status_tts_v2": "done",
     "image_queries_done": [
       "Café Study Pods travel",
       "Café Study Pods travel",
@@ -1836,7 +1832,88 @@
     "verify_note": "Seoul vending machines fruit, Korea vending machine variety, Seoul street vending machines sell umbrellas",
     "country": "Vending Machine City",
     "created_at": "2026-10-13T02:04:34.256921+00:00",
-    "status": "unverified"
+    "status": "video_done",
+    "narration": "Imagine stepping out of a subway and finding a vending machine that hands you a fresh banana. In Seoul, you’ll see these machines on almost every block, not just for drinks but for fruit, instant noodles, face masks, and even rain‑proof umbrellas. They’re temperature‑controlled and accept credit cards or mobile payments, so you can grab a chilled apple in summer or a warm cup of tea in winter without stepping inside a shop. Many stations have multi‑product machines that rotate stock with the seasons. Some even show a live count of how many items sold that day, turning a simple purchase into a tiny game of “most popular snack.” The density is strongest in central Seoul and major transit hubs, while smaller towns have fewer options. So next time you wander the streets, keep an eye on the machines—your next snack might be just a button away.",
+    "title_line1": "Seoul vending lanes",
+    "title_line2": "Banana from machine",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*fresh* banana"
+      },
+      {
+        "s": 2,
+        "text": "*Fruit* & umbrellas"
+      },
+      {
+        "s": 3,
+        "text": "*Cold* apple anytime"
+      },
+      {
+        "s": 6,
+        "text": "Your snack *awaits*"
+      }
+    ],
+    "image_queries": [
+      "banana vending machine",
+      "Seoul street vending machine fruit",
+      "Seoul vending machine cold apple",
+      "Seoul seasonal vending machine",
+      "Seoul vending machine sales display",
+      "Seoul vending machine snack"
+    ],
+    "ko_title": "Korea: Seoul vending lanes Banana from machine #Shorts",
+    "ko_description": "🎯 지하철을 나와서 자동 판매기에서 신선한 바나나가 나오는 모습을 상상해 보세요.\n\n서울 곳곳에 자동 판매기가 거의 매 블록마다 설치돼 있어 음료는 물론 신선한 과일, 즉석 라면, 마스크, 심지어 방수 우산까지 판매합니다. 기계는 온도 조절이 가능하고 신용카드·모바일 결제도 받아 여름엔 차가운 사과, 겨울엔 따뜻한 차를 가게에 들어가지 않고도 구매할 수 있습니다. 이 촘촘한 네트워크는 빠른 생활 리듬과 즉석 편의에 대한 높은 수요에서 탄생했습니다. 많은 역에는 계절에 따라 재고를 바꾸는 ‘멀티‑상품’ 자동 판매기도 있습니다.\n\n💡 일부 기계에는 오늘 판매된 아이템 수를 실시간으로 보여주는 작은 화면이 달려 있어, 구매를 ‘가장 인기 있는 간식’ 게임처럼 만들기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#VendingMachineCity #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "지하철을 나와서 자동 판매기에서 신선한 바나나가 나오는 모습을 상상해 보세요. 서울에서는 이런 자동 판매기를 거의 모든 블록에서 볼 수 있는데, 음료뿐 아니라 과일, 즉석 라면, 마스크, 심지어 방수 우산까지 판매합니다. 온도 조절이 가능하고 신용카드·모바일 결제도 받아 여름엔 차가운 사과, 겨울엔 따뜻한 차를 가게에 들어가지 않고도 잡을 수 있습니다. 많은 역에는 계절에 따라 재고를 바꾸는 멀티‑상품 자동 판매기가 있습니다. 일부는 그날 판매된 아이템 수를 실시간으로 보여줘 간단한 구매를 ‘가장 인기 있는 간식’ 게임처럼 만들기도 합니다. 밀집도는 중심 서울과 주요 교통 허브에서 가장 높고, 작은 도시에서는 옵션이 적습니다. 다음에 거리를 걸을 때 자동 판매기에 눈길을 주세요—다음 간식이 버튼 하나만큼 가까이에 있을지도 모릅니다.",
+    "ko_issues": [],
+    "ko_src": "5df5ed025025",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0024_Vending Machine City_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0024_Vending Machine City_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "banana vending machine",
+      "Seoul street vending machine fruit",
+      "Seoul vending machine cold apple",
+      "Seoul seasonal vending machine",
+      "Seoul vending machine sales display",
+      "Seoul vending machine snack"
+    ],
+    "image_source": "pixabay",
+    "image_credits": [
+      {
+        "scene": 1,
+        "user": "MaximilianHemon",
+        "page": "https://pixabay.com/photos/japan-vending-machine-fireworks-5021733/"
+      },
+      {
+        "scene": 2,
+        "user": "yoonason23",
+        "page": "https://pixabay.com/photos/street-autumn-japan-city-travel-6884534/"
+      },
+      {
+        "scene": 3,
+        "user": "zuzanajobbova0",
+        "page": "https://pixabay.com/photos/gearbox-vending-machine-car-5167294/"
+      },
+      {
+        "scene": 4,
+        "user": "HeungSoon",
+        "page": "https://pixabay.com/photos/maple-leaves-autumn-leaves-foliage-2789234/"
+      },
+      {
+        "scene": 5,
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/hangers-clothing-shopping-market-1850082/"
+      },
+      {
+        "scene": 6,
+        "user": "Atlantis_C",
+        "page": "https://pixabay.com/photos/vending-machines-coca-cola-276171/"
+      }
+    ],
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0024_Vending Machine City.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Toilet Sound Masking",
@@ -1849,7 +1926,88 @@
     "verify_note": "Korean restroom music, toilet sound masking, public bathroom flush music South Korea",
     "country": "Toilet Sound Masking",
     "created_at": "2026-10-13T02:04:42.297001+00:00",
-    "status": "unverified"
+    "status": "video_done",
+    "narration": "Did you know many Korean restrooms play a song when you flush? In subway stations, malls and office buildings across South Korea, a tiny speaker pops out each time the flush button is pressed. A short pop tune or gentle chime fills the stall for a few seconds, covering the sound of the flush and easing any embarrassment. The music is simple, often a catchy jingle, and many visitors say the bathroom feels like it’s singing. In some places the sound is even linked to the building’s public‑announcement system, so every restroom on a floor plays the same melody at once. Newer facilities in big cities use this, while older or rural restrooms usually stay silent. So next time you hear a little tune in a Korean bathroom, you’ll know it’s the country’s quiet way of keeping privacy music‑filled.",
+    "title_line1": "Restrooms play a tune",
+    "title_line2": "What masks the flush?",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Flush *plays* a tune"
+      },
+      {
+        "s": 3,
+        "text": "Music *covers* the flush"
+      },
+      {
+        "s": 5,
+        "text": "Floor *syncs* the tune"
+      },
+      {
+        "s": 7,
+        "text": "*Privacy* with music"
+      }
+    ],
+    "image_queries": [
+      "toilet speaker flush music",
+      "toilet music covering flush",
+      "Korean restroom interior",
+      "floor synchronized restroom music",
+      "old rural Korean bathroom",
+      "privacy music bathroom"
+    ],
+    "ko_title": "Korea: Restrooms play a tune What masks the flush? #Shorts",
+    "ko_description": "🎯 한국 화장실에서 물을 내릴 때마다 노래가 나오는 걸 알고 계셨나요?\n\n한국 전역의 지하철역, 쇼핑몰, 사무실 건물 등에서 화장실에 스피커가 설치돼 물 내리는 버튼을 누를 때마다 짧은 멜로디나 배경음이 재생됩니다. 이 관행은 물 내리는 소리를 가리기 위한 프라이버시 조치로 시작됐으며, 공공장소에서 부끄러워할 수 있는 소리를 가릴 수 있습니다. 음악은 보통 간단한 팝 튠이나 부드러운 차임이며 몇 초 후에 멈춥니다. 방문객들은 화장실이 노래를 부르는 듯하다고 종종 말합니다.\n\n💡 일부 장소에서는 건물의 안내 방송 시스템과 음악을 동기화해 같은 층에 있는 모든 화장실에서 같은 곡이 동시에 재생되기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절 그리고 놀라운 사실들.\n\n#ToiletSoundMasking #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "한국 화장실에서 물을 내릴 때마다 노래가 나오는 걸 알고 계셨나요? 한국 전역의 지하철역, 쇼핑몰, 사무실 건물에서 물 내리는 버튼을 누를 때마다 작은 스피커가 작동합니다. 짧은 팝 튠이나 부드러운 차임이 몇 초 동안 화장실을 가득 채워 물 내리는 소리를 가리고 당황함을 덜어줍니다. 음악은 간단하고 흔히 귀에 잘 들어오는 징글이며, 많은 방문객이 화장실이 노래를 부르는 듯하다고 말합니다. 일부 장소에서는 이 소리가 건물의 안내 방송 시스템과 연동돼 같은 층의 모든 화장실에서 동시에 같은 멜로디가 재생됩니다. 대도시의 최신 시설에서는 이런 방식을 사용하지만, 오래된 화장실이나 농촌 지역의 화장실은 보통 조용합니다. 그래서 다음에 한국 화장실에서 작은 멜로디를 듣게 되면, 그것이 프라이버시를 지키기 위한 조용한 음악 방식이라는 것을 알게 될 것입니다.",
+    "ko_issues": [],
+    "ko_src": "165d34f47120",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0025_Toilet Sound Masking_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0025_Toilet Sound Masking_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "toilet speaker flush music",
+      "toilet music covering flush",
+      "Korean restroom interior",
+      "floor synchronized restroom music",
+      "old rural Korean bathroom",
+      "privacy music bathroom"
+    ],
+    "image_source": "pixabay",
+    "image_credits": [
+      {
+        "scene": 1,
+        "user": "jarmoluk",
+        "page": "https://pixabay.com/photos/toilets-toilet-purely-public-toilet-265278/"
+      },
+      {
+        "scene": 2,
+        "user": "chriskeller",
+        "page": "https://pixabay.com/photos/wc-toilet-public-toilet-clean-1210963/"
+      },
+      {
+        "scene": 3,
+        "user": "jeanvdmeulen",
+        "page": "https://pixabay.com/photos/modern-minimalist-bathroom-interior-3150293/"
+      },
+      {
+        "scene": 4,
+        "user": "thedanw",
+        "page": "https://pixabay.com/photos/music-kids-children-play-xylophone-818459/"
+      },
+      {
+        "scene": 5,
+        "user": "viarami",
+        "page": "https://pixabay.com/photos/business-bar-restaurant-shield-5475283/"
+      },
+      {
+        "scene": 6,
+        "user": "wilkernet",
+        "page": "https://pixabay.com/photos/woman-bath-wet-water-glass-465577/"
+      }
+    ],
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0025_Toilet Sound Masking.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "QR‑Only Street Food",
@@ -1940,6 +2098,162 @@
     "verify_note": "KTX power outlets, KTX free Wi‑Fi, South Korea high‑speed rail amenities",
     "country": "KTX Power Seats",
     "created_at": "2026-10-13T02:05:37.917825+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Bike‑Tree Parking Robot",
+    "topic": "Automated bike‑stacking robot lets cyclists park in a compact tower",
+    "hook": "In Seoul, you can drop your bike into a robot that stacks it like a tree.",
+    "body": "In the Seongsu‑Pangyo area, a machine called the Bike‑Tree (or Smart Bike Parking) automatically lifts, rotates, and stores bicycles vertically, creating a tower of bikes in a footprint of about two meters. The system uses sensors to identify the bike’s size and places it in an empty slot, then returns it when the owner scans a QR code. It was installed to solve limited sidewalk space and has become a popular sight for commuters and tourists alike. The service is managed by the local district and can be used via a mobile app or a membership card.",
+    "twist": "The robot can hold up to 100 bikes while occupying less than 2 m² of ground space.",
+    "caveat": "It is currently limited to a few pilot locations such as Seongsu, Pangyo, and some university campuses, not city‑wide.",
+    "confidence": "high",
+    "verify_note": "Seoul Bike Tree robot, Smart bike parking Seongsu, Pangyo bike stacking system",
+    "country": "Bike‑Tree Parking Robot",
+    "created_at": "2026-10-13T23:27:31.474335+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Heated Public Toilets",
+    "topic": "Many subway station restrooms feature heated toilet seats for winter comfort",
+    "hook": "Ever sat on a warm toilet seat in a subway bathroom?",
+    "body": "In major subway stations across Seoul and Busan, public restrooms are equipped with electric heated toilet seats that turn on automatically when the room temperature drops below a set point. The seats are powered by the station’s electricity and are especially common in newer stations built after 2010. This small comfort measure is intended to make winter commutes more pleasant for passengers who often need to use the facilities during rush hour. The heating is controlled centrally, so the seat stays warm even after the user leaves.",
+    "twist": "Some models include a temperature sensor that adjusts the heat level based on the outside temperature, keeping the seat just above room temperature on the coldest days.",
+    "caveat": "Heated seats are mainly found in newer or renovated stations and not in every public restroom, especially older ones in smaller cities.",
+    "confidence": "high",
+    "verify_note": "heated toilet seats Korea subway stations, public restroom heated seats Seoul Metro",
+    "country": "Heated Public Toilets",
+    "created_at": "2026-10-13T23:27:31.474335+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Pepero Day Exchange",
+    "topic": "November 11 is celebrated by swapping thin chocolate sticks as a friendly gesture",
+    "hook": "On November 11, Koreans swap thin chocolate sticks like love letters.",
+    "body": "Pepero Day, observed on 11/11 because the date resembles four stick-shaped snacks, has become a popular occasion for friends, classmates, and coworkers to give each other Pepero, a chocolate‑coated biscuit stick. The tradition started in the 1990s as a marketing event by a confectionery company and spread through schools and offices, where people often write short messages on the sticks. In recent years, many brands have released alternative flavors such as pretzel or almond, and some people use the day to give non‑chocolate gifts as a playful twist. While the day is widely recognized among younger generations, it is not an official holiday and many adults may simply ignore it.",
+    "twist": "Some retailers report that Pepero sales on 11/11 can exceed the combined sales of the entire month of October.",
+    "caveat": "The practice is most common among students and office workers in urban areas; it is not a nationwide public holiday.",
+    "confidence": "high",
+    "verify_note": "Pepero Day November 11 Korea tradition, Pepero sales 11/11",
+    "country": "Pepero Day Exchange",
+    "created_at": "2026-10-13T23:27:31.474335+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "‘뭐해?’ Greeting",
+    "topic": "'What are you doing?' is often used as an informal way to say hello",
+    "hook": "When a Korean says ‘What are you doing?’, they might just be saying hello.",
+    "body": "In casual Korean conversation, especially among friends and younger people, the phrase ‘뭐해?’ (mwohae?) is frequently used as a greeting rather than a literal inquiry, similar to asking “What’s up?” in English. The speaker typically expects a brief response like “nothing” or “just working,” and the exchange serves to acknowledge the other person’s presence. This usage stems from a cultural tendency to start conversations with a light, open‑ended question that can be answered quickly. Because it is informal, it is usually avoided in formal settings or with elders, where a more polite greeting would be chosen.",
+    "twist": "The same phrase can be heard on public transportation in Seoul, where commuters shout “뭐해?” to start a brief chat before boarding the train.",
+    "caveat": "It is primarily used among peers and younger adults; older generations or formal contexts favor more respectful greetings.",
+    "confidence": "high",
+    "verify_note": "Korean informal greeting 뭐해 usage, Korean language casual greeting",
+    "country": "‘뭐해?’ Greeting",
+    "created_at": "2026-10-13T23:27:31.474335+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "QR Business Cards",
+    "topic": "QR codes on small cards let Koreans share contact info instantly in cafés and meetings.",
+    "hook": "In Seoul, a single QR code on a coaster can add you a new friend in seconds.",
+    "body": "Many young professionals print a tiny QR code on a business card or even on a coffee coaster that links directly to their KakaoTalk profile or a digital vCard. When someone scans it with their phone, the contact is saved without typing a name. This practice has grown alongside the ubiquity of smartphones and the preference for quick, mess‑free networking. Cafés often display QR‑code stickers on tables to encourage spontaneous connections.",
+    "twist": "Some cafés even generate a unique QR code for each table, letting patrons exchange contact info with just a scan, turning the whole venue into a networking hub.",
+    "caveat": "The practice is most common in urban areas like Seoul and among younger adults; older generations may still prefer traditional name cards.",
+    "confidence": "high",
+    "verify_note": "Korean QR code business card trend, KakaoTalk QR code, Seoul café networking QR",
+    "country": "QR Business Cards",
+    "created_at": "2026-10-13T23:28:03.975031+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Underground Delivery Rooms",
+    "topic": "Apartment complexes use secure underground rooms where couriers leave parcels for residents to pick up via an app.",
+    "hook": "Ever wonder where 300 parcels a day disappear in a Seoul high‑rise? They’re waiting in a hidden underground room.",
+    "body": "Many high‑rise apartment buildings in Seoul have a dedicated underground delivery room equipped with electronic lockers. Couriers place the package inside, the system records the recipient, and a push notification is sent to the resident’s smartphone. The resident opens the specific locker using a one‑time code or fingerprint, collects the item, and the locker relocks automatically. This setup reduces missed deliveries and keeps hallways clutter‑free.",
+    "twist": "A growing number of complexes integrate facial recognition, allowing residents to open their locker simply by looking at a camera.",
+    "caveat": "These delivery rooms are typical in newer or upscale complexes in Seoul and some other major cities; older buildings may still rely on door‑to‑door delivery.",
+    "confidence": "high",
+    "verify_note": "Seoul apartment underground delivery room, smart parcel lockers, Korean apartment delivery system",
+    "country": "Underground Delivery Rooms",
+    "created_at": "2026-10-13T23:28:03.975031+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Winter Shaved Ice",
+    "topic": "Street vendors serve bingsu, a shaved‑ice dessert, even during Seoul’s freezing winter months.",
+    "hook": "Yes, you can eat snow‑like ice cream in Seoul’s December chill—called bingsu.",
+    "body": "In popular tourist spots like Myeongdong and Hongdae, street stalls set up insulated carts that serve bingsu year‑round. The shaved ice is topped with warm red bean paste, toasted rice cakes, and hot syrups, creating a contrast between the cold base and the comforting heat. Vendors often serve it in small disposable bowls, making it easy to enjoy while strolling through the night market. The practice started as a summer treat but persisted because the hot toppings keep customers warm.",
+    "twist": "Some stalls even add a splash of hot chocolate or ginger tea over the ice, turning the dessert into an instant hand‑warmer.",
+    "caveat": "Winter bingsu is most common in busy commercial districts and tourist areas; quieter neighborhoods may not have vendors offering it in cold weather.",
+    "confidence": "high",
+    "verify_note": "Winter bingsu Seoul, bingsu in December, Korean street food winter shaved ice",
+    "country": "Winter Shaved Ice",
+    "created_at": "2026-10-13T23:28:03.975031+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Delivery Robots on Streets",
+    "topic": "Autonomous robots bring food and parcels to doorsteps in Seoul neighborhoods",
+    "hook": "Did you know tiny robots are already delivering pizza to Korean apartments?",
+    "body": "In districts like Gangnam and Seongnam, companies operate small, box‑shaped delivery robots that travel on sidewalks. Residents receive a notification on their phone, open a door, and the robot slides a sealed bag onto a mat. The service is popular because it avoids traffic and contact during busy hours. It works mainly in upscale residential complexes that have a dedicated robot charging station.",
+    "twist": "Some robots can climb a few steps, so they can reach the front door of a high‑rise building without an elevator.",
+    "caveat": "The service is limited to certain neighborhoods and apartment complexes that have signed up for the pilot program; it is not yet city‑wide.",
+    "confidence": "high",
+    "verify_note": "Seoul delivery robot pilot, Starship delivery robot, Korean autonomous sidewalk robot",
+    "country": "Delivery Robots on Streets",
+    "created_at": "2026-10-13T23:28:26.706977+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Smart Toilets with Music",
+    "topic": "High‑tech public restrooms play a short tune after flushing to mask sounds",
+    "hook": "Ever heard a bathroom sing after you finish?",
+    "body": "Many public restrooms in Seoul’s subway stations and large malls are equipped with smart toilets that have heated seats, bidet functions, and a sound‑masking system. When a user flushes, a brief, soothing melody automatically plays for a few seconds. The feature was added to reduce embarrassment in crowded facilities and is controlled by motion sensors, so no extra button is needed.",
+    "twist": "The same system can be set to play a different tune depending on the time of day, like a calm chime in the morning and a brighter jingle at night.",
+    "caveat": "These smart toilets are common in newer or renovated public spaces, but older facilities may still have standard fixtures.",
+    "confidence": "high",
+    "verify_note": "Seoul public restroom sound masking, Korean smart toilet melody, Korean bathroom music",
+    "country": "Smart Toilets with Music",
+    "created_at": "2026-10-13T23:28:26.706977+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Black Day Jajangmyeon",
+    "topic": "Singles gather on April 14th to eat black‑bean noodles as a playful holiday",
+    "hook": "Why do some Koreans eat black noodles on a day called Black Day?",
+    "body": "Two weeks after Valentine’s Day and White Day, South Korea observes Black Day on April 14th. Uncoupled friends and coworkers wear black clothing and meet at restaurants to share jajangmyeon, a noodle dish topped with dark soy‑bean sauce. The tradition started as a tongue‑in‑cheek response to the couple‑focused holidays, and many eateries offer special “Black Day” menus and discounts for groups in black attire.",
+    "twist": "Some cafés even serve a dessert called “black coffee mousse” to keep the color theme consistent throughout the meal.",
+    "caveat": "The celebration is most popular among younger adults in urban areas; not all Koreans observe Black Day.",
+    "confidence": "high",
+    "verify_note": "Korean Black Day jajangmyeon, April 14 Black Day Korea, Korean singles holiday",
+    "country": "Black Day Jajangmyeon",
+    "created_at": "2026-10-13T23:28:26.706977+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "QR‑Only Street Food",
+    "topic": "Street vendors in Seoul accept only mobile QR payments, eliminating cash handling",
+    "hook": "You can buy tteokbokki from a stall without ever pulling out a wallet.",
+    "body": "In bustling food streets such as Hongdae and Gwangjang Market, many vendors now display a small QR code on a stand beside their stall. Customers scan the code with KakaoPay or other Korean mobile payment apps, select the menu on their phone, and pay instantly. A tiny thermal printer then issues a receipt with a number, and the vendor hands over the order when the number is called. This contact‑free system speeds up service and reduces the need for change.",
+    "twist": "Some vendors also embed a short video of the dish’s preparation into the QR code, so diners can watch a quick clip while they wait.",
+    "caveat": "The QR‑only system is common in popular tourist and nightlife districts, but many smaller or older stalls still accept cash.",
+    "confidence": "high",
+    "verify_note": "Korean street food QR payment, Seoul QR code vending, KakaoPay street vendors",
+    "country": "QR‑Only Street Food",
+    "created_at": "2026-10-13T23:28:26.706977+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Silent Study Cafés",
+    "topic": "24‑hour study cafés where students rent desks, order snacks via QR, and keep quiet",
+    "hook": "Did you know you can pay by the minute to study in a silent café that serves coffee through a QR app?",
+    "body": "Across Seoul and other major cities, many cafés operate as 24‑hour study spaces. Patrons rent a desk or a private booth for an hourly fee, order coffee, instant noodles, or desserts by scanning a QR code on the table, and are expected to keep conversation below a whisper so everyone can focus. The quiet rule is reinforced with gentle reminders on the screens, and the venues often include sound‑proof booths and even nap pods for short breaks. This blend of work‑culture efficiency, modern tech ordering, and communal etiquette has turned study cafés into a daily hub for students, freelancers, and office workers alike.",
+    "twist": "Some locations even let you book a 20‑minute power‑nap pod that automatically wakes you with a soft chime and a fresh cup of tea.",
+    "caveat": "The silent‑study concept is most common in larger cities and among chains; smaller cafés may not enforce the quiet rule or offer QR ordering.",
+    "confidence": "high",
+    "verify_note": "Korean study café culture, 24-hour study cafés Seoul, QR ordering at study cafés, silent study café etiquette, nap pods study café Korea",
+    "country": "Silent Study Cafés",
+    "created_at": "2026-10-13T23:29:29.048716+00:00",
     "status": "unverified"
   }
 ]

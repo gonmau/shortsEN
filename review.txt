@@ -9,77 +9,55 @@
 #   대본을 고치고 이미지 줄은 그대로 두면, 새 대본에 맞춰 검색어를 자동으로 다시 만듭니다.
 # - '('로 시작하는 줄은 참고용이라 무시됩니다. '=== [번호] ===' 줄은 바꾸지 마세요.
 
-=== [21] Café Study Pods ===
-(사실 확인용 검색어) Korean cafe study zone Seoul, Korea cafe study culture cagongjok, Seoul study cafe power outlets
-(한글 제목) 한국: 서울 카페의 공부 문화 #Shorts
-후크: Did you know many people in Seoul use cafés as quiet places to study and work?
-본문: In Seoul, many people use cafés as places to study, work, or spend long hours with a laptop. Some cafés provide power outlets, quiet seating, and areas marked for working or studying, while dedicated study cafés offer individual desks, partitions, and stricter silence rules. This reflects the popularity of “cagongjok,” people who study or work at cafés, especially among students and young professionals. However, rules differ by café, and some chains have introduced guidance for customers who occupy seats for very long periods or bring large equipment.
-반전: In dedicated study cafés, talking, food, and even loud typing can be restricted, while regular cafés may be more flexible.
-제목1: Seoul café study culture
-제목2: Coffee, Wi‑Fi, focus
-핵심[1]: Cafés become *study spots*
-핵심[2]: Look for *Study Zone*
-핵심[4]: Bring your *laptop*
-핵심[6]: Rules *differ by café*
-대본[1]: Did you know many people in Seoul use cafés as quiet places to study and work?
-대본[2]: Walk into some cafés and you may find a sign marking an area for working or studying.
-대본[3]: These spaces often have power outlets, quieter seating, and rules asking customers to keep phones on silent.
-대본[4]: Students and freelancers often use them like a small library, working on laptops for hours.
-대본[5]: In Korea, this habit is so common that people who study at cafés are sometimes called “cagongjok.”
-대본[6]: Dedicated study cafés go further, with individual desks, partitions, and stricter rules against talking or eating.
-대본[7]: But every café is different, so it is best to check the signs and follow the rules of each place.
-(한글 대본) 서울의 많은 사람들이 카페를 조용히 공부하거나 일하는 공간으로 이용합니다. 일부 카페에 들어가면 일하거나 공부하기 위한 공간을 알리는 표지판을 볼 수 있습니다. 이런 공간에는 전원 콘센트, 조용한 좌석, 휴대전화를 무음으로 해 달라는 안내가 있는 경우가 많습니다. 학생과 프리랜서는 노트북을 들고 오래 머물며 작은 도서관처럼 이용하기도 합니다. 한국에서는 카페에서 공부하는 사람이 흔해 ‘카공족’이라는 말도 사용됩니다. 전문 스터디카페는 개인 책상과 파티션을 갖추고, 대화나 음식 섭취를 제한하는 등 더 엄격한 규칙을 적용하기도 합니다. 다만 카페마다 규칙이 다르므로, 표지판을 확인하고 각 장소의 규칙을 따르는 것이 좋습니다.
+=== [24] Vending Machine City ===
+(사실 확인용 검색어) Seoul vending machines fruit, Korea vending machine variety, Seoul street vending machines sell umbrellas
+(한글 제목) Korea: Seoul vending lanes Banana from machine #Shorts
+후크: Imagine stepping out of a subway and finding a vending machine that hands you a fresh banana.
+본문: Across Seoul, vending machines appear on almost every block, offering not only drinks but also fresh fruit, instant noodles, face masks, and even rain‑proof umbrellas. The machines are temperature‑controlled and accept credit cards or mobile payments, so you can buy a chilled apple in summer or a warm cup of tea in winter without entering a shop. This dense network grew from the city’s fast‑paced lifestyle and high demand for on‑the‑go convenience. Many stations even have “multi‑product” machines that rotate their stock based on the season.
+반전: Some machines are equipped with a small screen that shows a live count of how many items have been sold that day, turning the purchase into a tiny game of “most popular snack.”
+제목1: Seoul vending lanes
+제목2: Banana from machine
+핵심[1]: *fresh* banana
+핵심[2]: *Fruit* & umbrellas
+핵심[3]: *Cold* apple anytime
+핵심[6]: Your snack *awaits*
+이미지[1]: banana vending machine
+이미지[2]: Seoul street vending machine fruit
+이미지[3]: Seoul vending machine cold apple
+이미지[4]: Seoul seasonal vending machine
+이미지[5]: Seoul vending machine sales display
+이미지[6]: Seoul vending machine snack
+대본[1]: Imagine stepping out of a subway and finding a vending machine that hands you a fresh banana.
+대본[2]: In Seoul, you’ll see these machines on almost every block, not just for drinks but for fruit, instant noodles, face masks, and even rain‑proof umbrellas.
+대본[3]: They’re temperature‑controlled and accept credit cards or mobile payments, so you can grab a chilled apple in summer or a warm cup of tea in winter without stepping inside a shop.
+대본[4]: Many stations have multi‑product machines that rotate stock with the seasons.
+대본[5]: Some even show a live count of how many items sold that day, turning a simple purchase into a tiny game of “most popular snack.” The density is strongest in central Seoul and major transit hubs, while smaller towns have fewer options.
+대본[6]: So next time you wander the streets, keep an eye on the machines—your next snack might be just a button away.
+(한글 대본) 지하철을 나와서 자동 판매기에서 신선한 바나나가 나오는 모습을 상상해 보세요. 서울에서는 이런 자동 판매기를 거의 모든 블록에서 볼 수 있는데, 음료뿐 아니라 과일, 즉석 라면, 마스크, 심지어 방수 우산까지 판매합니다. 온도 조절이 가능하고 신용카드·모바일 결제도 받아 여름엔 차가운 사과, 겨울엔 따뜻한 차를 가게에 들어가지 않고도 잡을 수 있습니다. 많은 역에는 계절에 따라 재고를 바꾸는 멀티‑상품 자동 판매기가 있습니다. 일부는 그날 판매된 아이템 수를 실시간으로 보여줘 간단한 구매를 ‘가장 인기 있는 간식’ 게임처럼 만들기도 합니다. 밀집도는 중심 서울과 주요 교통 허브에서 가장 높고, 작은 도시에서는 옵션이 적습니다. 다음에 거리를 걸을 때 자동 판매기에 눈길을 주세요—다음 간식이 버튼 하나만큼 가까이에 있을지도 모릅니다.
 
-=== [22] Respectful Drink Pour ===
-(사실 확인용 검색어) Korean drinking etiquette two hands pour elder, Korea soju pour respect, Korean table manners alcohol
-(한글 제목) 한국: 어른에게 술 따르는 예절 #Shorts
-후크: Ever seen a Korean pour a drink with two hands and wonder why?
-본문: In Korean drinking etiquette, pouring for someone older or more senior is a way to show respect. A person commonly holds the bottle with the right hand while supporting the right forearm or wrist with the left hand. The person receiving the drink may also hold the glass with both hands or support it with the other hand. This custom is especially associated with soju and other shared drinks, though the level of formality depends on age, relationship, and setting. Among close friends of similar age, a more casual one-handed pour may be acceptable.
-반전: It is also considered polite to receive a drink from an elder with both hands, often with a slight bow.
-제목1: Two‑handed drink pour
-제목2: A sign of respect
-핵심[1]: Two‑handed *pour*?
-핵심[2]: Respect for *elders*
-핵심[4]: Receive with *two hands*
-핵심[7]: More than a *drink*
-이미지[1]: Korean dinner pour two hands
-이미지[2]: Seoul traditional soju serving
-이미지[3]: Korean elder glass water
-이미지[4]: Korean family dinner drinks
-이미지[5]: Korean soju bottle glass
-이미지[6]: Korean table with glasses
-대본[1]: Ever seen a Korean pour a drink with two hands and wonder why?
-대본[2]: In Korean drinking etiquette, pouring for someone older or more senior is a way to show respect.
-대본[3]: A person often holds the bottle with the right hand while supporting the right forearm or wrist with the left hand.
-대본[4]: The person receiving the drink may also hold the glass with both hands or support it with the other hand.
-대본[5]: This custom is especially associated with soju and other drinks shared at the table.
-대본[6]: Among close friends of similar age, a more casual one-handed pour may be acceptable.
-대본[7]: So the next time you see that careful two-handed pour, you’ll know it is more than a drink—it is a sign of respect.
-(한글 대본) 한국인이 두 손으로 술을 따는 모습을 본 적 있나요? 한국의 음주 예절에서 나이 많거나 윗사람에게 술을 따르는 것은 존경을 표하는 방법입니다. 보통 오른손으로 병을 잡고, 왼손으로 오른팔이나 손목을 받쳐 따릅니다. 술을 받는 사람도 두 손으로 잔을 받거나 한 손으로 잔 밑을 받치는 경우가 많습니다. 이 예절은 특히 소주를 비롯해 식탁에서 함께 나누는 술과 연관됩니다. 나이나 관계, 상황에 따라 격식의 정도는 달라집니다. 나이가 비슷한 친한 친구 사이에서는 한 손으로 따르는 것도 받아들여질 수 있습니다. 다음에 조심스럽게 두 손으로 술을 따르는 모습을 보면, 그것이 단순한 술 따르기가 아니라 존경의 표시라는 것을 알게 될 것입니다.
-
-=== [23] 100‑Day Celebration ===
-(사실 확인용 검색어) Baek-il Korean 100 day baby celebration, baekseolgi rice cake Korea, Korean baby 100 days tradition
-(한글 제목) 한국: 아기의 백일 축하 #Shorts
-후크: Did you know Korean families often celebrate a baby’s 100th day?
-본문: In South Korea, many families celebrate a baby’s 100th day, called “baek-il.” The celebration often includes a simple family gathering and foods such as baekseolgi, a plain white steamed rice cake, and seaweed soup. Traditionally, baekseolgi was shared with others in the hope that blessings and good health would return to the baby. The day is a meaningful family milestone, though how families celebrate it varies widely today. Some keep the ceremony simple at home, while others take commemorative photos or hold a small gathering.
-반전: Baek-il is different from doljanchi, the larger first-birthday celebration held when a baby turns one year old.
-제목1: Korean 100‑Day
-제목2: A family milestone
-핵심[1]: Baby turns *100* days
-핵심[3]: *Baekseolgi* rice cake
-핵심[5]: Family *blessings*
-핵심[6]: Not the *first birthday*
-이미지[1]: Korean family gathering
-이미지[2]: baekseolgi rice cake Korea
-이미지[3]: Korean seaweed soup bowl
-이미지[4]: Korean baby hanbok celebration
-이미지[5]: Korean traditional rice cake table
-이미지[6]: Korean family photo celebration
-대본[1]: Did you know Korean families often celebrate a baby’s 100th day?
-대본[2]: This milestone is called “baek-il” in Korean.
-대본[3]: Families may gather simply at home and share foods such as baekseolgi, a plain white steamed rice cake, and seaweed soup.
-대본[4]: Traditionally, baekseolgi was shared with others in the hope that blessings and good health would return to the baby.
-대본[5]: Today, some families keep the day simple, while others take commemorative photos or hold a small gathering.
-대본[6]: Baek-il is different from doljanchi, the larger first-birthday celebration held when a baby turns one year old.
-대본[7]: It is a quiet but meaningful way for families to celebrate a baby’s early growth and health.
-(한글 대본) 한국 가족은 아기의 100일을 축하하는 경우가 많다는 사실, 알고 계셨나요? 이 날을 한국어로 ‘백일’이라고 합니다. 가족은 집에서 간단히 모여 백설기와 미역국 같은 음식을 나누기도 합니다. 전통적으로 백설기는 여러 사람과 나누며 아기에게 복과 건강이 돌아오기를 바랐습니다. 오늘날에는 집에서 조용히 지내는 가족도 있고, 기념 사진을 찍거나 작은 모임을 여는 가족도 있습니다. 백일은 아기가 한 살이 되는 날 크게 축하하는 돌잔치와는 다른 의미입니다. 백일은 아기의 초기 성장과 건강을 가족이 함께 축하하는 조용하지만 소중한 날입니다.
+=== [25] Toilet Sound Masking ===
+(사실 확인용 검색어) Korean restroom music, toilet sound masking, public bathroom flush music South Korea
+(한글 제목) Korea: Restrooms play a tune What masks the flush? #Shorts
+후크: Did you know many Korean restrooms play a song when you flush?
+본문: In many subway stations, malls, and office buildings across South Korea, the toilets are equipped with speakers that emit a short melody or ambient sound each time the flush button is pressed. The practice started as a privacy measure to mask the sounds of flushing, which can be considered embarrassing in public. The music is usually a simple pop tune or a gentle chime, and it stops after a few seconds. Visitors often comment that it feels like the bathroom is singing.
+반전: Some locations even synchronize the music with the building’s public announcement system, so the same song plays across all restrooms on a floor.
+제목1: Restrooms play a tune
+제목2: What masks the flush?
+핵심[1]: Flush *plays* a tune
+핵심[3]: Music *covers* the flush
+핵심[5]: Floor *syncs* the tune
+핵심[7]: *Privacy* with music
+이미지[1]: toilet speaker flush music
+이미지[2]: toilet music covering flush
+이미지[3]: Korean restroom interior
+이미지[4]: floor synchronized restroom music
+이미지[5]: old rural Korean bathroom
+이미지[6]: privacy music bathroom
+대본[1]: Did you know many Korean restrooms play a song when you flush?
+대본[2]: In subway stations, malls and office buildings across South Korea, a tiny speaker pops out each time the flush button is pressed.
+대본[3]: A short pop tune or gentle chime fills the stall for a few seconds, covering the sound of the flush and easing any embarrassment.
+대본[4]: The music is simple, often a catchy jingle, and many visitors say the bathroom feels like it’s singing.
+대본[5]: In some places the sound is even linked to the building’s public‑announcement system, so every restroom on a floor plays the same melody at once.
+대본[6]: Newer facilities in big cities use this, while older or rural restrooms usually stay silent.
+대본[7]: So next time you hear a little tune in a Korean bathroom, you’ll know it’s the country’s quiet way of keeping privacy music‑filled.
+(한글 대본) 한국 화장실에서 물을 내릴 때마다 노래가 나오는 걸 알고 계셨나요? 한국 전역의 지하철역, 쇼핑몰, 사무실 건물에서 물 내리는 버튼을 누를 때마다 작은 스피커가 작동합니다. 짧은 팝 튠이나 부드러운 차임이 몇 초 동안 화장실을 가득 채워 물 내리는 소리를 가리고 당황함을 덜어줍니다. 음악은 간단하고 흔히 귀에 잘 들어오는 징글이며, 많은 방문객이 화장실이 노래를 부르는 듯하다고 말합니다. 일부 장소에서는 이 소리가 건물의 안내 방송 시스템과 연동돼 같은 층의 모든 화장실에서 동시에 같은 멜로디가 재생됩니다. 대도시의 최신 시설에서는 이런 방식을 사용하지만, 오래된 화장실이나 농촌 지역의 화장실은 보통 조용합니다. 그래서 다음에 한국 화장실에서 작은 멜로디를 듣게 되면, 그것이 프라이버시를 지키기 위한 조용한 음악 방식이라는 것을 알게 될 것입니다.
