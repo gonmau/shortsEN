@@ -13,21 +13,28 @@
 (사실 검수 위험도) low
 (검수 메모 1) ‘‑씨’를 직장 이메일에서 생략하면 항상 무례하게 보인다는 과잉 일반화된 주장을 ‘자주’로 바꾸고 상황에 따라 다를 수 있음을 명시했습니다.
 (검수 메모 2) 모든 한국인이 디지털 채팅에서 ‘‑씨’를 생략한다는 암시를 ‘많은 사람들’로 완화했습니다.
-(한글 제목) Korea: When you text ssi Is it too formal? #Shorts
-후크: Ever text a Korean friend and get a confused ‘‑ssi?’ – it’s a common etiquette trap.
-본문: A foreigner messages a colleague with “지민씨, 오늘 회의 어때?” and receives a puzzled reply of just “씨?”. In spoken Korean, ‘‑ssi’ is a polite suffix attached to a name, but in many digital chats it is often dropped for brevity, making its use feel stiff. The suffix stems from the older honorific ‘시(shi)’ and is still common in face‑to‑face conversation, especially with strangers or seniors. Using it in informal messages can unintentionally create distance, while omitting it with a senior may sometimes be seen as disrespectful.
-반전: In professional emails, attaching ‘‑ssi’ after a full name often signals respect, whereas omitting it can sometimes be read as a lack of respect.
+(한글 제목) 한국어 ‘‑씨’, 채팅에서 너무 딱딱할까? #Shorts
+후크: 한국 친구에게 문자를 보냈는데 ‘‑씨?’라는 반응을 받은 적 있나요? – 흔한 한국어 예절 포인트입니다.
+본문: 한국어에서 ‘‑씨’는 이름 뒤에 붙는 정중한 호칭으로, 영어의 Mr.나 Ms.와 비슷하지만 관계와 상황에 따라 뉘앙스가 다릅니다. 보통은 이름 또는 성+이름 뒤에 붙이며, 비슷한 지위의 동료나 지인에게 자연스럽습니다. 다만 성만 붙인 ‘김 씨’는 무례하거나 거리감 있게 들릴 수 있어 피하는 것이 좋습니다.
+반전: 친한 친구나 비격식 채팅에서는 ‘‑씨’를 생략하기도 하지만, 윗사람에게는 ‘‑씨’보다 직함+‘님’을 쓰는 편이 안전합니다.
 제목1: When you text ssi
 제목2: Is it too formal?
 핵심[1]: A *confusing* ‑ssi
-핵심[3]: Use ‑ssi *formally*
-핵심[5]: Sounds *stiff* in chat
-핵심[6]: Email *respect* with ‑ssi
-대본[1]: Ever text a Korean friend and get a confused “‑ssi?” – it’s a common etiquette trap.
-대본[2]: In Korean, ‑ssi is a polite suffix like “Mr.” or “Ms.” attached to a name.
-대본[3]: In face‑to‑face conversation, especially with strangers or seniors, you’ll hear ‑ssi used regularly.
-대본[4]: But in many digital chats people drop it for brevity.
-대본[5]: That’s why a foreigner might write “Jimin‑ssi, 오늘 회의 어때?” and get a puzzled reply of just “씨?” Using ‑ssi in informal messages can feel stiff and create distance, while leaving it off when texting a senior may seem disrespectful.
-대본[6]: The twist: in professional emails, adding ‑ssi after a full name often signals respect, whereas omitting it can sometimes be read as a lack of respect.
-대본[7]: So next time, think twice before you type that suffix.
-(한글 대본) 한국 친구에게 문자 보냈는데 ‘‑씨?’ 라는 혼란스러운 반응을 받은 적 있나요? – 흔한 예절 함정입니다. 한국어에서 ‘‑씨’는 ‘Mr.’ 혹은 ‘Ms.’ 와 같은 정중한 접미사로 이름에 붙습니다. 특히 낯선 사람이나 선배와 대면 대화에서는 ‘‑씨’를 정기적으로 듣게 됩니다. 하지만 많은 디지털 채팅에서는 간결함을 위해 이를 생략합니다. 그래서 외국인이 “Jimin‑씨, 오늘 회의 어때?” 라고 쓰면 “씨?” 라는 당황스러운 답장을 받을 수 있습니다. 비공식 메시지에 ‘‑씨’를 사용하면 딱딱하고 거리감을 만들 수 있고, 선배에게 생략하면 무례하게 보일 수 있습니다. 반전은 직장 이메일에서 전체 이름 뒤에 ‘‑씨’를 붙이면 존경을 나타내는 경우가 많으며, 생략하면 때때로 존경 부족으로 해석될 수 있다는 점입니다. 다음에 접미사를 입력하기 전에 한 번 더 생각해 보세요.
+핵심[3]: Use ‑ssi *with peers*
+핵심[5]: Sounds *formal* in chat
+핵심[6]: Use *님* for seniors
+대본[1]: Ever text a Korean friend and get a confused “‑ssi?” – it’s a common Korean etiquette point.
+대본[2]: In Korean, ‑ssi is a polite suffix attached to a person’s given name or full name, similar to “Mr.” or “Ms.”
+대본[3]: It is most natural with colleagues, acquaintances, or people of a similar social position.
+대본[4]: But avoid attaching it to only a surname: “Kim‑ssi” can sound distant or rude.
+대본[5]: In casual chats with close friends, people often drop it for a softer tone.
+대본[6]: The twist: with a boss, teacher, or much older person, a title plus “‑nim” is usually safer than “‑ssi.”
+대본[7]: So use “Jimin‑ssi” with a peer, but “Manager Kim‑nim” with your manager.
+(한글 대본)
+한국 친구에게 문자를 보냈는데 ‘‑씨?’라는 반응을 받은 적 있나요? – 흔한 한국어 예절 포인트입니다.
+한국어에서 ‘‑씨’는 이름 또는 성+이름 뒤에 붙는 정중한 호칭으로, 영어의 Mr.나 Ms.와 비슷합니다.
+다만 주로 동료, 지인, 비슷한 지위의 사람에게 자연스럽게 쓰입니다.
+성만 붙인 ‘김 씨’는 거리감 있거나 무례하게 들릴 수 있으니 피하는 것이 좋습니다.
+친한 친구와의 비격식 채팅에서는 ‘‑씨’를 생략해 더 부드러운 느낌을 주기도 합니다.
+반면 상사, 선생님, 연장자에게는 ‘‑씨’보다 직함에 ‘님’을 붙이는 편이 안전합니다.
+그래서 또래 동료에게는 ‘지민 씨’, 상사에게는 ‘김 부장님’처럼 구분해 쓰면 됩니다.
