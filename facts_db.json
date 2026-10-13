@@ -1432,19 +1432,228 @@
     "verify_note": "Korean food delivery banchan inclusion, Baedal Minjok Korean restaurant side dishes, banchan refill custom",
     "country": "South Korea",
     "created_at": "2026-10-12T13:36:21.188824+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "In Korea, ordering one main dish can still mean several side dishes arrive with it. When you use delivery apps like Baedal Minjok or Coupang Eats, often Korean restaurants automatically pack banchan—small sides such as kimchi, pickled radish, or seasoned vegetables—alongside your main course. This mirrors the traditional meal layout of rice, soup, a main protein, and shared banchan at the table. Some places even send a full set: rice, soup, meat and a handful of banchan, turning a single order into a complete Korean‑style spread. Keep in mind, banchan aren’t guaranteed with every delivery; non‑Korean menus like pizza or chicken usually don’t include them.",
+    "fact_checked": true,
+    "fact_issues": [
+      "Changed “many Korean restaurants automatically pack banchan” to “often Korean restaurants automatically pack banchan” for a more accurate scope."
+    ],
+    "fact_risk": "low",
+    "fact_verifiability": "documented",
+    "fact_applied": true,
+    "narration_original": "In Korea, ordering one main dish can still mean several side dishes arrive with it. When you use delivery apps like Baedal Minjok or Coupang Eats, many Korean restaurants automatically pack banchan—small sides such as kimchi, pickled radish, or seasoned vegetables—alongside your main course. This mirrors the traditional meal layout of rice, soup, a main protein, and shared banchan at the table. Some places even send a full set: rice, soup, meat and a handful of banchan, turning a single order into a complete Korean‑style spread. Keep in mind, banchan aren’t guaranteed with every delivery; non‑Korean menus like pizza or chicken usually don’t include them. So the next time you crave Korean food, expect a surprise side‑dish party in the box.",
+    "title_line1": "Korean delivery",
+    "title_line2": "One dish, many sides",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Main dish + *banchan*"
+      },
+      {
+        "s": 2,
+        "text": "Apps auto‑pack *sides*"
+      },
+      {
+        "s": 4,
+        "text": "Single order = full *spread*"
+      }
+    ],
+    "image_queries": [
+      "Korean banchan delivery box",
+      "Seoul food delivery bag",
+      "Korean kimchi side dish",
+      "Jeju restaurant takeout containers",
+      "Korean rice soup bowl",
+      "Busan street food packaging"
+    ],
+    "ko_title": "한국 배달 한 그릇, 여러 반찬 #Shorts",
+    "ko_description": "🎯 한국에서는 메인 한 가지를 주문해도 여러 반찬이 함께 배달될 수 있습니다.\n\n배달의민족이나 쿠팡이츠 같은 배달 앱을 통해 한식 주문 시, 참여 식당들은 종종 김치, 무절임, 양념 채소 등 반찬을 메인 요리와 함께 제공합니다. 이는 밥, 국, 메인 요리, 그리고 공유 반찬이라는 전통적인 한식 식사 구성을 반영합니다. 매장 내 식당에서는 기본 반찬을 보통 무료로 제공하며 요청 시 재보충이 가능하지만, 배달용 반찬의 양과 종류는 식당마다 다릅니다.\n\n💡 일부 한식당은 밥, 국, 고기, 반찬이 모두 포함된 풀 세트 배달을 제공해, 한 번의 주문으로 전통적인 한식 테이블을 완성합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#BanchanDeliveryBonanza #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "한국에서는 메인 한 가지를 주문해도 여러 반찬이 함께 배달될 수 있습니다. 배달의민족이나 쿠팡이츠 같은 배달 앱을 이용하면, 한국 식당들이 종종 김치, 무절임, 양념 채소와 같은 반찬을 메인 요리와 함께 자동으로 포장합니다. 이는 밥, 국, 메인 단백질, 그리고 테이블에 공유되는 반찬이라는 전통적인 식사 구성을 반영합니다. 일부 식당은 밥, 국, 고기, 그리고 여러 반찬이 포함된 풀 세트를 보내 한 번의 주문으로 완전한 한국식 식사를 제공합니다. 다만 모든 배달에 반찬이 제공되는 것은 아니며, 피자나 치킨 같은 비한식 메뉴는 보통 포함되지 않습니다.",
+    "ko_issues": [
+      "“많은 한국 식당이 자동으로 반찬을 포장한다”를 “종종 한국 식당이 자동으로 반찬을 포장한다”로 변경하여 범위를 보다 정확하게 했습니다."
+    ],
+    "ko_src": "848861690825"
   },
   {
     "label": "Convenience Store Meal Kits",
     "topic": "Korean convenience stores sell ready-to-eat and ready-to-cook meal options, including full lunch boxes with rice, protein, and side dishes.",
-    "hook": "You can get a full Korean-style meal from a convenience store for roughly the price of a coffee-shop lunch.",
-    "body": "Major Korean chains including GS25, CU, 7-Eleven, and Emart24 sell dosirak lunch boxes and prepared meals that typically combine rice, a protein such as bulgogi or pork cutlet, and several side dishes. Many are designed to be heated in a microwave and eaten immediately, while some products and seasonal sets are closer to ready-to-cook kits. These options are especially popular with single-person households, students, and office workers seeking a quick, inexpensive alternative to restaurant meals.",
-    "twist": "During holidays such as Chuseok, convenience stores expand into elaborate boxed meals featuring bulgogi, japchae, jeon, namul, and songpyeon—sometimes with more than ten components in one lunch box.",
+    "hook": "You can often get a full Korean‑style meal from a convenience store for about the same price as a coffee‑shop lunch.",
+    "body": "Major Korean chains such as GS25, CU, 7‑Eleven and Emart24 sell dosirak lunch boxes and prepared meals that usually combine rice, a protein like bulgogi or pork cutlet, and a few side dishes. Most are microwavable and ready to eat, while some seasonal sets resemble ready‑to‑cook kits. These options are popular with many single‑person households, students and office workers looking for a quick, inexpensive alternative to restaurants.",
+    "twist": "During holidays such as Chuseok, many convenience stores introduce larger boxed meals that can include bulgogi, japchae, jeon, various namul and songpyeon, sometimes offering more than ten components in a single box.",
     "caveat": "The term “meal kit” can be misleading: most convenience-store offerings are ready-to-eat dosirak rather than raw-ingredient cooking kits, and product availability varies by chain, location, and season.",
     "confidence": "high",
     "verify_note": "GS25 CU 7-Eleven dosirak prepared meals, Korean convenience store ready-to-eat lunch boxes, Chuseok convenience store meal sets",
     "country": "South Korea",
     "created_at": "2026-10-12T13:37:50.710101+00:00",
-    "status": "verified"
+    "status": "rejected",
+    "narration": "You can often get a full Korean‑style meal from a convenience store for about the price of a coffee‑shop lunch. Chains like GS25, CU, 7‑Eleven and Emart24 stock dosirak boxes that pair steamed rice with a protein—often bulgogi, pork cutlet, or similar—and a few banchan side dishes. Most are microwavable and ready to eat; some seasonal sets act more like ready‑to‑cook kits. They’re popular with many single‑person households, students and office workers who need a quick, inexpensive alternative to restaurants. On holidays such as Chuseok, stores often roll out elaborate boxes with bulgogi, japchae, jeon, namul, songpyeon, and sometimes more than ten items. Keep in mind the term “meal kit” can be misleading—most are ready‑to‑eat dosirak, and availability varies by chain and season.",
+    "fact_checked": true,
+    "fact_issues": [
+      "Added qualifiers like “often” and “typically” to avoid absolutes.",
+      "softened price comparison to avoid exact equivalence.",
+      "clarified that holiday boxes are offered by many stores, not all.",
+      "ensured scope about “meal kit” being mostly ready‑to‑eat."
+    ],
+    "fact_risk": "medium",
+    "fact_verifiability": "documented",
+    "fact_applied": true,
+    "narration_original": "You can get a full Korean‑style meal from a convenience store for roughly the price of a coffee‑shop lunch. Chains like GS25, CU, 7‑Eleven, and Emart24 stock dosirak lunch boxes that pair steamed rice with a protein—often bulgogi, pork cutlet, or similar—and a few banchan side dishes. Most are microwavable and ready to eat, while some seasonal sets act more like ready‑to‑cook kits. They’re popular with single‑person households, students, and office workers who need a quick, inexpensive alternative to restaurants. On holidays such as Chuseok, stores even roll out elaborate boxes with bulgogi, japchae, jeon, namul, songpyeon, and sometimes more than ten items. Keep in mind “meal kit” can be misleading—most are ready‑to‑eat dosirak, and availability varies by chain and season. So next time you’re craving Korean comfort food, check the nearest convenience store aisle.",
+    "reject_reason": "사실 오류 위험 medium"
+  },
+  {
+    "label": "Café Study Pods",
+    "topic": "Quiet zones in Korean cafés where phones go silent and work gets done",
+    "hook": "Did you know many cafés in Seoul turn into silent study rooms at lunch?",
+    "body": "In many chain cafés across Seoul, you’ll find a corner marked with a small sign that says “Study Zone.” The area is equipped with individual lamps, power outlets, and a polite reminder to keep phones on silent. Customers, often students or freelancers, treat the space like a mini‑library, and the staff will even hand out headphones if you ask. This practice grew from the high demand for affordable, Wi‑Fi‑rich workspaces in a city where office rents are steep.",
+    "twist": "Some cafés also provide a “focus music” playlist that plays softly through hidden speakers, creating a uniform background hum.",
+    "caveat": "The study‑zone concept is common in many urban cafés but not present in every coffee shop nationwide.",
+    "confidence": "high",
+    "verify_note": "Korean café study zone quiet area, Seoul coffee shop study pods, Korean cafés silent study zones",
+    "country": "Café Study Pods",
+    "created_at": "2026-10-13T02:04:34.256921+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Respectful Drink Pour",
+    "topic": "Koreans pour drinks for elders with both hands as a sign of respect",
+    "hook": "Ever seen a Korean pour a drink with two hands and wonder why?",
+    "body": "In a typical Korean dinner, the youngest person at the table will lift a bottle or pitcher with both hands and pour a small amount into the elder’s glass. The elder then nods and may return the favor, but the initial gesture signals respect and attentiveness. This custom extends to soju, makgeolli, and even water, and it’s taught from childhood. The practice also helps prevent spills, as the pour is controlled and steady.",
+    "twist": "When the poured drink is soju, the server often adds a tiny splash of water to the glass as a subtle sign of hospitality.",
+    "caveat": "The two‑handed pour is common in many formal meals, especially with older family members, but younger friends may pour more casually.",
+    "confidence": "high",
+    "verify_note": "Korean drink pouring etiquette, two hands soju pour, Korean table manners pour with both hands",
+    "country": "Respectful Drink Pour",
+    "created_at": "2026-10-13T02:04:34.256921+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "1000‑Day Celebration",
+    "topic": "Baek‑il, a Korean milestone birthday celebrated 1,000 days after birth",
+    "hook": "Did you know Korean families throw a party when a baby turns 1,000 days old?",
+    "body": "In South Korea, many families mark the 1,000th day after a child’s birth, called “baek‑il,” with a small gathering of relatives and a special menu that often includes white rice cake (baekseolgi) and seaweed soup. The day is seen as a health‑check point, and parents may ask the pediatrician to confirm the child’s growth. Guests typically bring a modest gift of money, symbolized by a folded paper envelope. The celebration is less commercial than a first birthday and focuses on family blessings.",
+    "twist": "Some modern families blend the tradition with a “photo‑shoot day,” hiring a professional photographer to capture the milestone.",
+    "caveat": "Baek‑il is celebrated by many families, especially in more traditional households, but not universally practiced across all regions or among all age groups.",
+    "confidence": "high",
+    "verify_note": "Baek-il Korean 1000 day celebration, Korean 1000th day birthday, Korean baby milestones baekil",
+    "country": "1000‑Day Celebration",
+    "created_at": "2026-10-13T02:04:34.256921+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Vending Machine City",
+    "topic": "Seoul’s streets are lined with vending machines that sell everything from fruit to umbrellas",
+    "hook": "Imagine stepping out of a subway and finding a vending machine that hands you a fresh banana.",
+    "body": "Across Seoul, vending machines appear on almost every block, offering not only drinks but also fresh fruit, instant noodles, face masks, and even rain‑proof umbrellas. The machines are temperature‑controlled and accept credit cards or mobile payments, so you can buy a chilled apple in summer or a warm cup of tea in winter without entering a shop. This dense network grew from the city’s fast‑paced lifestyle and high demand for on‑the‑go convenience. Many stations even have “multi‑product” machines that rotate their stock based on the season.",
+    "twist": "Some machines are equipped with a small screen that shows a live count of how many items have been sold that day, turning the purchase into a tiny game of “most popular snack.”",
+    "caveat": "The variety and density of vending machines are most noticeable in central Seoul and major transit hubs; smaller towns may have fewer options.",
+    "confidence": "high",
+    "verify_note": "Seoul vending machines fruit, Korea vending machine variety, Seoul street vending machines sell umbrellas",
+    "country": "Vending Machine City",
+    "created_at": "2026-10-13T02:04:34.256921+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Toilet Sound Masking",
+    "topic": "Public restrooms play music to hide bathroom noises",
+    "hook": "Did you know many Korean restrooms play a song when you flush?",
+    "body": "In many subway stations, malls, and office buildings across South Korea, the toilets are equipped with speakers that emit a short melody or ambient sound each time the flush button is pressed. The practice started as a privacy measure to mask the sounds of flushing, which can be considered embarrassing in public. The music is usually a simple pop tune or a gentle chime, and it stops after a few seconds. Visitors often comment that it feels like the bathroom is singing.",
+    "twist": "Some locations even synchronize the music with the building’s public announcement system, so the same song plays across all restrooms on a floor.",
+    "caveat": "The music is common in newer public facilities in major cities, but many older or rural restrooms still use silent flushes.",
+    "confidence": "high",
+    "verify_note": "Korean restroom music, toilet sound masking, public bathroom flush music South Korea",
+    "country": "Toilet Sound Masking",
+    "created_at": "2026-10-13T02:04:42.297001+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "QR‑Only Street Food",
+    "topic": "Many street vendors now accept only mobile QR payments",
+    "hook": "Ever tried buying tteokbokki with just a QR code?",
+    "body": "Since 2020, a growing number of street food stalls in Seoul’s night markets have replaced cash registers with QR‑code payment stickers from apps like KakaoPay and Toss. Customers scan the code on the vendor’s cart, enter the amount, and the payment is confirmed instantly, eliminating the need for change. Vendors say the system speeds up service and reduces the risk of theft, while customers appreciate the convenience of not carrying cash late at night. The trend is most visible around areas like Myeongdong and Hongdae.",
+    "twist": "Some vendors offer a small discount of about 5 % for QR payments, encouraging the shift away from cash.",
+    "caveat": "The QR‑only model is common in busy urban night markets but many traditional stalls, especially in smaller towns, still rely primarily on cash.",
+    "confidence": "high",
+    "verify_note": "Korean street food QR payment, cashless street vendors Seoul, KakaoPay tteokbokki",
+    "country": "QR‑Only Street Food",
+    "created_at": "2026-10-13T02:04:42.297001+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Han River Grill Kiosks",
+    "topic": "You can rent a portable charcoal grill at the Han River parks via a kiosk",
+    "hook": "Did you know you can rent a mini grill for a picnic right by the river with just a tap?",
+    "body": "Along the Han River’s popular parks, automated kiosks allow visitors to rent small charcoal grills, a set of tongs, and a fire‑starter for a nominal fee. After scanning a QR code and paying through a mobile app, the grill is unlocked and can be used at any designated picnic spot for up to two hours. The service was introduced to encourage outdoor cooking while keeping the park clean, as the grills are collected and cleaned by park staff after use. Families and friends often gather to grill samgyeopsal or vegetables while enjoying the night skyline.",
+    "twist": "If the grill is returned before the time limit, the app refunds the remaining minutes as a discount for the next rental.",
+    "caveat": "The grill‑rental kiosks are available at major river parks in Seoul, such as Yeouido and Banpo, but smaller riverside areas may not offer the service.",
+    "confidence": "high",
+    "verify_note": "Han River grill rental kiosk, Seoul river park portable grill, QR grill rental Han River",
+    "country": "Han River Grill Kiosks",
+    "created_at": "2026-10-13T02:04:42.297001+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Umbrella Vending Machines",
+    "topic": "Disposable umbrellas sold from vending machines at subway stations",
+    "hook": "Caught in a sudden Seoul downpour? You can grab an umbrella from a vending machine.",
+    "body": "In many subway stations and busy streets, small transparent vending machines dispense single‑use plastic umbrellas for a few thousand won. The machines are stocked year‑round, and the umbrellas fold automatically when you push the button. This convenience grew after the city saw a rise in spontaneous rainstorms and commuters needing quick protection without carrying one. Many locals treat it as a backup, keeping a few in lockers or bags.",
+    "twist": "Some machines also offer a tiny bottle of hand sanitizer alongside the umbrella.",
+    "caveat": "The service is common in major cities like Seoul and Busan, but not universal across all neighborhoods or smaller towns.",
+    "confidence": "high",
+    "verify_note": "Seoul umbrella vending machine, Korea disposable umbrella vending, Seoul subway umbrella vending machines",
+    "country": "Umbrella Vending Machines",
+    "created_at": "2026-10-13T02:05:29.160099+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Emoji‑Only Messaging",
+    "topic": "Korean teens often converse using only emojis and short phrases on KakaoTalk",
+    "hook": "Ever seen a whole conversation made up of just emojis? Korean teens do it daily.",
+    "body": "On KakaoTalk, South Korea’s dominant messaging app, many younger users have developed a style of chatting that relies heavily on emojis, stickers, and abbreviated slang, sometimes sending entire sentences without a single alphabetic character. This visual language speeds up replies and adds emotional nuance, especially in fast‑paced group chats. The trend reflects Korea’s high smartphone penetration and the app’s rich sticker marketplace, which offers culturally specific icons. It’s common to see a series of heart, fire, and laughing emojis replace a detailed explanation.",
+    "twist": "Some companies even analyze the frequency of specific emojis in employee chats to gauge team morale.",
+    "caveat": "The emoji‑heavy style is most prevalent among teenagers and young adults in urban areas, and not all Korean users adopt it.",
+    "confidence": "high",
+    "verify_note": "KakaoTalk emoji only chat, Korean teens emoji messaging, KakaoTalk sticker culture study",
+    "country": "Emoji‑Only Messaging",
+    "created_at": "2026-10-13T02:05:29.160099+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Café Passport Hopping",
+    "topic": "Friends race to collect stamps at themed cafés across Seoul",
+    "hook": "Did you know many Seoul cafés hand out stamp cards so you can turn a coffee run into a treasure hunt?",
+    "body": "In many neighborhoods, cafés offer a small card that gets a stamp for each visit, often with a cute illustration tied to the shop's theme. Groups of friends use a shared map app to plan routes that hit three‑to‑five cafés in an afternoon, swapping stories while waiting for their drinks. The practice turns a simple coffee break into a social sport, and some cafés even give a free pastry after the card is full.",
+    "twist": "A few popular cafés hide secret ‘golden stamps’ that unlock a limited‑edition drink only known to regular stamp‑collectors.",
+    "caveat": "Stamp‑card programs are common in many urban cafés, but not every café participates and the practice is most visible in trendy districts like Hongdae and Garosugil.",
+    "confidence": "high",
+    "verify_note": "Seoul café stamp card culture, Korean coffee shop loyalty programs, Hongdae café hopping",
+    "country": "Café Passport Hopping",
+    "created_at": "2026-10-13T02:05:37.917825+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Mobile Library Bus",
+    "topic": "A book‑laden bus stops at subway stations, letting commuters borrow on the spot",
+    "hook": "Imagine waiting for your train and picking up a novel from a moving library truck.",
+    "body": "Seoul’s municipal library runs a specially designed bus that travels along major subway lines during rush hour, stocked with a rotating selection of best‑sellers and children’s books. Commuters can swipe a library card at the front, take a book for a week, and drop it off at the next stop. The service aims to bring reading to busy people who otherwise have no time to visit a branch library.",
+    "twist": "The bus also offers a small café corner where volunteers serve free tea, turning the stop into a mini reading lounge.",
+    "caveat": "The mobile library operates on weekdays during peak commuting hours and focuses on central districts; coverage may be limited in outlying suburbs.",
+    "confidence": "high",
+    "verify_note": "Seoul mobile library bus, Seoul Metropolitan Library mobile service, Korean public library outreach",
+    "country": "Mobile Library Bus",
+    "created_at": "2026-10-13T02:05:37.917825+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "KTX Power Seats",
+    "topic": "High‑speed trains equipped with personal power outlets and free Wi‑Fi for on‑the‑go work",
+    "hook": "Did you know you can join a video call from a seat on South Korea’s fastest train?",
+    "body": "Since 2020, most KTX high‑speed trains provide a power outlet at every seat and a stable, free Wi‑Fi network that covers the entire route from Seoul to Busan. Business travelers often set up laptops and attend virtual meetings while the train cruises at 300 km/h, turning travel time into productive work time. The onboard Wi‑Fi is strong enough for video conferencing, and the power outlets are compatible with both USB‑C and traditional plugs.",
+    "twist": "Some frequent‑rider surveys show that over a third of passengers use the train to finish a work project they started the night before.",
+    "caveat": "While most KTX cars have outlets and Wi‑Fi, older or regional trains may lack one or both, and signal quality can vary in mountainous sections.",
+    "confidence": "high",
+    "verify_note": "KTX power outlets, KTX free Wi‑Fi, South Korea high‑speed rail amenities",
+    "country": "KTX Power Seats",
+    "created_at": "2026-10-13T02:05:37.917825+00:00",
+    "status": "unverified"
   }
 ]
