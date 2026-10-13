@@ -84,6 +84,9 @@ jobs:
       - run: pip install -r requirements.txt
 
       # ---------- 검수 파일에서 고친 내용 반영 ----------
+      - name: 직접 넣은 대본 인식 (facts_db.json에 대본을 넣은 소재)
+        run: python promote_ready.py --start "$START"
+
       - name: review.txt 수정 사항 반영
         run: python apply_review.py
 
@@ -137,6 +140,10 @@ jobs:
         run: python export_review.py --limit "$COUNT" --start "$START"
 
       # ---------- 제작 단계 (render / all) ----------
+      - name: 빠진 제목/핵심 문구/이미지 검색어 보충 (대본 기준)
+        if: ${{ env.STAGE == 'render' }}
+        run: python generate_script.py --extras-only --limit "$COUNT" --start "$START"
+
       - name: 음성(TTS)
         if: ${{ env.STAGE != 'prepare' }}
         run: python generate_tts.py --limit "$COUNT" --start "$START"
