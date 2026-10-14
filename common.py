@@ -60,32 +60,6 @@ def pending_render(db, start=0):
     return out
 
 
-def image_credit_lines(item):
-    """유튜브 설명란에 넣을 사진 출처. Pixabay는 한 줄, Wikimedia Commons는 사진마다 작성자/라이선스/링크."""
-    cr = item.get("image_credits") or []
-    has_pix = any(c.get("source", "pixabay") == "pixabay" for c in cr) or (not cr and item.get("image_source") == "pixabay")
-    com = sorted((c for c in cr if c.get("source") == "commons"), key=lambda c: c.get("scene", 0))
-    lines = []
-    if has_pix:
-        lines.append("Photos: Pixabay (pixabay.com)")
-    if com:
-        lines.append("Photos from Wikimedia Commons (cropped/zoomed):")
-        for c in com:
-            lines.append(f'- "{c.get("title", "")}" by {c.get("user", "")}, {c.get("license", "")} - {c.get("page", "")}')
-    return lines
-
-
-def credit_label(item):
-    """영상 화면(이미지 아래)에 쓸 짧은 출처 문구. 사진 출처가 없으면 빈 문자열."""
-    cr = item.get("image_credits") or []
-    names = []
-    if any(c.get("source", "pixabay") == "pixabay" for c in cr) or (not cr and item.get("image_source") == "pixabay"):
-        names.append("Pixabay")
-    if any(c.get("source") == "commons" for c in cr):
-        names.append("Wikimedia Commons")
-    return ("Photos: " + " · ".join(names)) if names else ""
-
-
 FIXED_TAGS = ["Korea", "SouthKorea", "KoreanCulture", "KoreaTravel", "CultureShock"]
 CHANNEL_BLURB = "🇰🇷 Real Korea in under a minute: everyday life, food, etiquette and surprising facts."
 
@@ -124,8 +98,7 @@ def youtube_meta(item):
     if item.get("twist"):
         parts.append(f"💡 {str(item['twist']).strip()}")
     parts.append(CHANNEL_BLURB)
-    credit = image_credit_lines(item)
-    if credit:
-        parts.append("\n".join(credit))
+    if item.get("image_source") == "pixabay":
+        parts.append("Photos: Pixabay (pixabay.com)")
     parts.append(" ".join("#" + t for t in youtube_tags(item)) + " #Shorts")
     return title, "\n\n".join(parts)
