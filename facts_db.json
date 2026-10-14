@@ -2020,7 +2020,41 @@
     "verify_note": "Korean street food QR payment, cashless street vendors Seoul, KakaoPay tteokbokki",
     "country": "QR‑Only Street Food",
     "created_at": "2026-10-13T02:04:42.297001+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Ever tried buying tteokbokki with just a QR code? In Seoul’s night markets, many street stalls have swapped cash registers for QR‑code stickers from apps like KakaoPay and Toss since 2020. You simply scan the code on the cart, type the amount, and the payment confirms instantly, so no change is needed. Vendors say the system speeds up service and cuts theft risk, while late‑night customers like not carrying cash. Around busy spots like Myeongdong and Hongdae, some sellers even give a small 5 % discount for QR payments, nudging the shift. Outside the city, especially in smaller towns, many stalls still rely on cash.",
+    "title_line1": "QR Only Street Food",
+    "title_line2": "Tteokbokki via QR?",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Buy tteokbokki *QR*"
+      },
+      {
+        "s": 2,
+        "text": "Stalls go *QR* only"
+      },
+      {
+        "s": 4,
+        "text": "QR speeds *service*"
+      },
+      {
+        "s": 5,
+        "text": "5% *discount* for QR"
+      }
+    ],
+    "image_queries": [
+      "Tteokbokki QR code",
+      "Seoul night market QR",
+      "Scanning QR payment",
+      "QR speed service",
+      "QR discount food stall",
+      "Cash street vendor"
+    ],
+    "ko_title": "한국: QR 전용 길거리 음식 떡볶이 QR로 구매? #Shorts",
+    "ko_description": "🎯 단지 QR 코드만으로 떡볶이를 구매해본 적이 있나요?\n\n2020년부터 서울 야시장에 있는 길거리 음식 가판대가 현금 계산대 대신 카카오페이, 토스 같은 앱의 QR‑코드 결제 스티커로 교체되고 있습니다. 고객은 가판대에 부착된 코드를 스캔하고 금액을 입력하면 결제가 즉시 확인되어 거스름돈이 필요 없습니다. 가판대 주인들은 이 시스템이 서비스 속도를 높이고 절도 위험을 줄여준다고 말하며, 늦은 밤 현금을 들고 다니지 않아도 되는 편리함을 고객이 좋아합니다. 이 트렌드는 명동, 홍대 같은 지역에서 가장 두드러집니다.\n\n💡 일부 가판대는 QR 결제에 대해 약 5 % 할인 혜택을 제공해 현금 사용에서 벗어나도록 장려합니다.\n\n🇰🇷 한 분량의 짧은 영상으로 한국의 일상, 음식, 예절과 놀라운 사실을 소개합니다.\n\n#QROnlyStreetFood #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "단지 QR 코드만으로 떡볶이를 구매해본 적이 있나요? 서울 야시장에 있는 많은 길거리 가판대는 2020년부터 현금 계산대를 QR‑코드 스티커(카카오페이, 토스 등)로 교체했습니다. 카트에 부착된 코드를 스캔하고 금액을 입력하면 결제가 즉시 확인돼 거스름돈이 필요 없습니다. 가판대 주인들은 이 시스템이 서비스 속도를 높이고 절도 위험을 줄여준다고 말하며, 늦은 밤 고객은 현금을 들고 다니지 않아도 되어서 좋아합니다. 명동, 홍대 같은 붐비는 지역에서는 일부 판매자가 QR 결제에 대해 소정의 5 % 할인을 제공해 현금 사용에서 벗어나도록 유도하고 있습니다. 도시 외곽, 특히 작은 마을에서는 여전히 현금에 의존하는 가판대가 많습니다.",
+    "ko_issues": [],
+    "ko_src": "f96e08af9d5f"
   },
   {
     "label": "Han River Grill Kiosks",
@@ -2033,7 +2067,41 @@
     "verify_note": "Han River grill rental kiosk, Seoul river park portable grill, QR grill rental Han River",
     "country": "Han River Grill Kiosks",
     "created_at": "2026-10-13T02:04:42.297001+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Did you know you can rent a mini grill for a picnic right by the river with just a tap? Along the Han River’s popular parks, automated kiosks let you rent a charcoal grill, tongs, and a fire‑starter for a fee. Scan a QR code, pay through a mobile app, and the grill unlocks. You can use it at any picnic spot for up to two hours. The service encourages outdoor cooking while keeping the park clean, because park staff collect and clean the grills afterward. If you return early, the app refunds the minutes as a discount on your rental. This works in major parks like Yeouido and Banpo, but not all riverside spots.",
+    "title_line1": "Han River Grill Kiosk",
+    "title_line2": "Rent a grill by tap",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*Tap* for grill"
+      },
+      {
+        "s": 2,
+        "text": "*Rent* charcoal grill"
+      },
+      {
+        "s": 3,
+        "text": "QR *unlock* grill"
+      },
+      {
+        "s": 4,
+        "text": "*2‑hour* grill use"
+      }
+    ],
+    "image_queries": [
+      "Tap for grill",
+      "Rent charcoal grill",
+      "QR unlock grill",
+      "Park cleaning staff",
+      "Early return refund",
+      "Yeouido Banpo parks"
+    ],
+    "ko_title": "한국: 한강 그릴 키오스크, 한 번 터치로 그릴 렌트 #Shorts",
+    "ko_description": "🎯 한강 옆에서 한 번 터치만으로 피크닉용 미니 그릴을 대여할 수 있다는 사실, 알고 계셨나요?\n\n한강의 인기 공원 곳곳에 설치된 자동 키오스크를 통해 방문객들은 소형 숯 그릴, 집게 세트, 그리고 화로 시동 장치를 소액으로 대여할 수 있습니다. QR 코드를 스캔하고 모바일 앱으로 결제하면 그릴이 잠금 해제되어 지정된 피크닉 장소에서 최대 2시간 동안 사용할 수 있습니다. 이 서비스는 공원을 깨끗하게 유지하면서 야외 요리를 장려하기 위해 도입되었습니다. 사용 후 그릴은 공원 직원이 수거해 청소합니다. 가족과 친구들은 밤 하늘을 배경으로 삼겹살이나 야채를 구워 먹으며 즐거운 시간을 보냅니다.\n\n💡 사용 시간이 남아 있을 때 그릴을 조기 반납하면, 앱이 남은 분을 다음 렌탈에 대한 할인으로 환불해 줍니다.\n\n🇰🇷 1분 안에 본격 한국 생활, 음식, 예절, 놀라운 사실을 만나보세요.\n\n#HanRiverGrillKiosks #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "한강 옆에서 한 번 터치만으로 피크닉용 미니 그릴을 대여할 수 있다는 사실, 알고 계셨나요? 한강의 인기 공원 곳곳에 설치된 자동 키오스크를 통해 숯 그릴, 집게, 화로 시동 장치를 수수료를 내고 대여할 수 있습니다. QR 코드를 스캔하고 모바일 앱으로 결제하면 그릴이 잠금 해제됩니다. 지정된 피크닉 장소에서 최대 2시간 동안 사용할 수 있습니다. 이 서비스는 야외 요리를 장려하면서 공원을 깨끗하게 유지하도록 설계되었습니다. 사용 후 공원 직원이 그릴을 수거해 청소합니다. 일찍 반납하면 앱이 남은 분을 다음 렌탈에 대한 할인으로 환불해 줍니다. 여의도와 반포 같은 주요 공원에서는 이 서비스가 제공되지만, 모든 강변 장소에서 제공되는 것은 아닙니다.",
+    "ko_issues": [],
+    "ko_src": "329c469a40ad"
   },
   {
     "label": "Umbrella Vending Machines",

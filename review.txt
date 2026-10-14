@@ -9,55 +9,55 @@
 #   대본을 고치고 이미지 줄은 그대로 두면, 새 대본에 맞춰 검색어를 자동으로 다시 만듭니다.
 # - '('로 시작하는 줄은 참고용이라 무시됩니다. '=== [번호] ===' 줄은 바꾸지 마세요.
 
-=== [24] Vending Machine City ===
-(사실 확인용 검색어) Seoul vending machines fruit, Korea vending machine variety, Seoul street vending machines sell umbrellas
-(한글 제목) Korea: Seoul vending lanes Banana from machine #Shorts
-후크: Imagine stepping out of a subway and finding a vending machine that hands you a fresh banana.
-본문: Across Seoul, vending machines appear on almost every block, offering not only drinks but also fresh fruit, instant noodles, face masks, and even rain‑proof umbrellas. The machines are temperature‑controlled and accept credit cards or mobile payments, so you can buy a chilled apple in summer or a warm cup of tea in winter without entering a shop. This dense network grew from the city’s fast‑paced lifestyle and high demand for on‑the‑go convenience. Many stations even have “multi‑product” machines that rotate their stock based on the season.
-반전: Some machines are equipped with a small screen that shows a live count of how many items have been sold that day, turning the purchase into a tiny game of “most popular snack.”
-제목1: Seoul vending lanes
-제목2: Banana from machine
-핵심[1]: *fresh* banana
-핵심[2]: *Fruit* & umbrellas
-핵심[3]: *Cold* apple anytime
-핵심[6]: Your snack *awaits*
-이미지[1]: banana vending machine
-이미지[2]: Seoul street vending machine fruit
-이미지[3]: Seoul vending machine cold apple
-이미지[4]: Seoul seasonal vending machine
-이미지[5]: Seoul vending machine sales display
-이미지[6]: Seoul vending machine snack
-대본[1]: Imagine stepping out of a subway and finding a vending machine that hands you a fresh banana.
-대본[2]: In Seoul, you’ll see these machines on almost every block, not just for drinks but for fruit, instant noodles, face masks, and even rain‑proof umbrellas.
-대본[3]: They’re temperature‑controlled and accept credit cards or mobile payments, so you can grab a chilled apple in summer or a warm cup of tea in winter without stepping inside a shop.
-대본[4]: Many stations have multi‑product machines that rotate stock with the seasons.
-대본[5]: Some even show a live count of how many items sold that day, turning a simple purchase into a tiny game of “most popular snack.” The density is strongest in central Seoul and major transit hubs, while smaller towns have fewer options.
-대본[6]: So next time you wander the streets, keep an eye on the machines—your next snack might be just a button away.
-(한글 대본) 지하철을 나와서 자동 판매기에서 신선한 바나나가 나오는 모습을 상상해 보세요. 서울에서는 이런 자동 판매기를 거의 모든 블록에서 볼 수 있는데, 음료뿐 아니라 과일, 즉석 라면, 마스크, 심지어 방수 우산까지 판매합니다. 온도 조절이 가능하고 신용카드·모바일 결제도 받아 여름엔 차가운 사과, 겨울엔 따뜻한 차를 가게에 들어가지 않고도 잡을 수 있습니다. 많은 역에는 계절에 따라 재고를 바꾸는 멀티‑상품 자동 판매기가 있습니다. 일부는 그날 판매된 아이템 수를 실시간으로 보여줘 간단한 구매를 ‘가장 인기 있는 간식’ 게임처럼 만들기도 합니다. 밀집도는 중심 서울과 주요 교통 허브에서 가장 높고, 작은 도시에서는 옵션이 적습니다. 다음에 거리를 걸을 때 자동 판매기에 눈길을 주세요—다음 간식이 버튼 하나만큼 가까이에 있을지도 모릅니다.
+=== [26] QR‑Only Street Food ===
+(사실 확인용 검색어) Korean street food QR payment, cashless street vendors Seoul, KakaoPay tteokbokki
+(한글 제목) 한국: QR 전용 길거리 음식 떡볶이 QR로 구매? #Shorts
+후크: Ever tried buying tteokbokki with just a QR code?
+본문: Since 2020, a growing number of street food stalls in Seoul’s night markets have replaced cash registers with QR‑code payment stickers from apps like KakaoPay and Toss. Customers scan the code on the vendor’s cart, enter the amount, and the payment is confirmed instantly, eliminating the need for change. Vendors say the system speeds up service and reduces the risk of theft, while customers appreciate the convenience of not carrying cash late at night. The trend is most visible around areas like Myeongdong and Hongdae.
+반전: Some vendors offer a small discount of about 5 % for QR payments, encouraging the shift away from cash.
+제목1: QR Only Street Food
+제목2: Tteokbokki via QR?
+핵심[1]: Buy tteokbokki *QR*
+핵심[2]: Stalls go *QR* only
+핵심[4]: QR speeds *service*
+핵심[5]: 5% *discount* for QR
+이미지[1]: Tteokbokki QR code
+이미지[2]: Seoul night market QR
+이미지[3]: Scanning QR payment
+이미지[4]: QR speed service
+이미지[5]: QR discount food stall
+이미지[6]: Cash street vendor
+대본[1]: Ever tried buying tteokbokki with just a QR code?
+대본[2]: In Seoul’s night markets, many street stalls have swapped cash registers for QR‑code stickers from apps like KakaoPay and Toss since 2020.
+대본[3]: You simply scan the code on the cart, type the amount, and the payment confirms instantly, so no change is needed.
+대본[4]: Vendors say the system speeds up service and cuts theft risk, while late‑night customers like not carrying cash.
+대본[5]: Around busy spots like Myeongdong and Hongdae, some sellers even give a small 5 % discount for QR payments, nudging the shift.
+대본[6]: Outside the city, especially in smaller towns, many stalls still rely on cash.
+(한글 대본) 단지 QR 코드만으로 떡볶이를 구매해본 적이 있나요? 서울 야시장에 있는 많은 길거리 가판대는 2020년부터 현금 계산대를 QR‑코드 스티커(카카오페이, 토스 등)로 교체했습니다. 카트에 부착된 코드를 스캔하고 금액을 입력하면 결제가 즉시 확인돼 거스름돈이 필요 없습니다. 가판대 주인들은 이 시스템이 서비스 속도를 높이고 절도 위험을 줄여준다고 말하며, 늦은 밤 고객은 현금을 들고 다니지 않아도 되어서 좋아합니다. 명동, 홍대 같은 붐비는 지역에서는 일부 판매자가 QR 결제에 대해 소정의 5 % 할인을 제공해 현금 사용에서 벗어나도록 유도하고 있습니다. 도시 외곽, 특히 작은 마을에서는 여전히 현금에 의존하는 가판대가 많습니다.
 
-=== [25] Toilet Sound Masking ===
-(사실 확인용 검색어) Korean restroom music, toilet sound masking, public bathroom flush music South Korea
-(한글 제목) Korea: Restrooms play a tune What masks the flush? #Shorts
-후크: Did you know many Korean restrooms play a song when you flush?
-본문: In many subway stations, malls, and office buildings across South Korea, the toilets are equipped with speakers that emit a short melody or ambient sound each time the flush button is pressed. The practice started as a privacy measure to mask the sounds of flushing, which can be considered embarrassing in public. The music is usually a simple pop tune or a gentle chime, and it stops after a few seconds. Visitors often comment that it feels like the bathroom is singing.
-반전: Some locations even synchronize the music with the building’s public announcement system, so the same song plays across all restrooms on a floor.
-제목1: Restrooms play a tune
-제목2: What masks the flush?
-핵심[1]: Flush *plays* a tune
-핵심[3]: Music *covers* the flush
-핵심[5]: Floor *syncs* the tune
-핵심[7]: *Privacy* with music
-이미지[1]: toilet speaker flush music
-이미지[2]: toilet music covering flush
-이미지[3]: Korean restroom interior
-이미지[4]: floor synchronized restroom music
-이미지[5]: old rural Korean bathroom
-이미지[6]: privacy music bathroom
-대본[1]: Did you know many Korean restrooms play a song when you flush?
-대본[2]: In subway stations, malls and office buildings across South Korea, a tiny speaker pops out each time the flush button is pressed.
-대본[3]: A short pop tune or gentle chime fills the stall for a few seconds, covering the sound of the flush and easing any embarrassment.
-대본[4]: The music is simple, often a catchy jingle, and many visitors say the bathroom feels like it’s singing.
-대본[5]: In some places the sound is even linked to the building’s public‑announcement system, so every restroom on a floor plays the same melody at once.
-대본[6]: Newer facilities in big cities use this, while older or rural restrooms usually stay silent.
-대본[7]: So next time you hear a little tune in a Korean bathroom, you’ll know it’s the country’s quiet way of keeping privacy music‑filled.
-(한글 대본) 한국 화장실에서 물을 내릴 때마다 노래가 나오는 걸 알고 계셨나요? 한국 전역의 지하철역, 쇼핑몰, 사무실 건물에서 물 내리는 버튼을 누를 때마다 작은 스피커가 작동합니다. 짧은 팝 튠이나 부드러운 차임이 몇 초 동안 화장실을 가득 채워 물 내리는 소리를 가리고 당황함을 덜어줍니다. 음악은 간단하고 흔히 귀에 잘 들어오는 징글이며, 많은 방문객이 화장실이 노래를 부르는 듯하다고 말합니다. 일부 장소에서는 이 소리가 건물의 안내 방송 시스템과 연동돼 같은 층의 모든 화장실에서 동시에 같은 멜로디가 재생됩니다. 대도시의 최신 시설에서는 이런 방식을 사용하지만, 오래된 화장실이나 농촌 지역의 화장실은 보통 조용합니다. 그래서 다음에 한국 화장실에서 작은 멜로디를 듣게 되면, 그것이 프라이버시를 지키기 위한 조용한 음악 방식이라는 것을 알게 될 것입니다.
+=== [27] Han River Grill Kiosks ===
+(사실 확인용 검색어) Han River grill rental kiosk, Seoul river park portable grill, QR grill rental Han River
+(한글 제목) 한국: 한강 그릴 키오스크, 한 번 터치로 그릴 렌트 #Shorts
+후크: Did you know you can rent a mini grill for a picnic right by the river with just a tap?
+본문: Along the Han River’s popular parks, automated kiosks allow visitors to rent small charcoal grills, a set of tongs, and a fire‑starter for a nominal fee. After scanning a QR code and paying through a mobile app, the grill is unlocked and can be used at any designated picnic spot for up to two hours. The service was introduced to encourage outdoor cooking while keeping the park clean, as the grills are collected and cleaned by park staff after use. Families and friends often gather to grill samgyeopsal or vegetables while enjoying the night skyline.
+반전: If the grill is returned before the time limit, the app refunds the remaining minutes as a discount for the next rental.
+제목1: Han River Grill Kiosk
+제목2: Rent a grill by tap
+핵심[1]: *Tap* for grill
+핵심[2]: *Rent* charcoal grill
+핵심[3]: QR *unlock* grill
+핵심[4]: *2‑hour* grill use
+이미지[1]: Tap for grill
+이미지[2]: Rent charcoal grill
+이미지[3]: QR unlock grill
+이미지[4]: Park cleaning staff
+이미지[5]: Early return refund
+이미지[6]: Yeouido Banpo parks
+대본[1]: Did you know you can rent a mini grill for a picnic right by the river with just a tap?
+대본[2]: Along the Han River’s popular parks, automated kiosks let you rent a charcoal grill, tongs, and a fire‑starter for a fee.
+대본[3]: Scan a QR code, pay through a mobile app, and the grill unlocks.
+대본[4]: You can use it at any picnic spot for up to two hours.
+대본[5]: The service encourages outdoor cooking while keeping the park clean, because park staff collect and clean the grills afterward.
+대본[6]: If you return early, the app refunds the minutes as a discount on your rental.
+대본[7]: This works in major parks like Yeouido and Banpo, but not all riverside spots.
+(한글 대본) 한강 옆에서 한 번 터치만으로 피크닉용 미니 그릴을 대여할 수 있다는 사실, 알고 계셨나요? 한강의 인기 공원 곳곳에 설치된 자동 키오스크를 통해 숯 그릴, 집게, 화로 시동 장치를 수수료를 내고 대여할 수 있습니다. QR 코드를 스캔하고 모바일 앱으로 결제하면 그릴이 잠금 해제됩니다. 지정된 피크닉 장소에서 최대 2시간 동안 사용할 수 있습니다. 이 서비스는 야외 요리를 장려하면서 공원을 깨끗하게 유지하도록 설계되었습니다. 사용 후 공원 직원이 그릴을 수거해 청소합니다. 일찍 반납하면 앱이 남은 분을 다음 렌탈에 대한 할인으로 환불해 줍니다. 여의도와 반포 같은 주요 공원에서는 이 서비스가 제공되지만, 모든 강변 장소에서 제공되는 것은 아닙니다.
