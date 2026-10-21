@@ -3028,7 +3028,107 @@
     "verify_note": "Korean informal greeting 뭐해 usage, Korean language casual greeting",
     "country": "‘뭐해?’ Greeting",
     "created_at": "2026-10-13T23:27:31.474335+00:00",
-    "status": "unverified"
+    "status": "video_done",
+    "narration": "When a Korean says “What are you doing?” they might just be saying hello. In casual conversation, especially among friends and younger people, the phrase “mwohae?” is used like “What’s up?” rather than a literal question. The speaker expects a quick reply—maybe “nothing” or “just working”—and the exchange simply acknowledges the other person’s presence. This habit comes from a cultural tendency to start chats with a light, open‑ended question. Because it’s informal, it’s avoided with elders or in formal settings, where polite greetings are chosen. You’ll even hear commuters on Seoul’s subways shout “mwohae?” to spark a brief chat before boarding. It’s a friendly cue that says, “I see you.”",
+    "title_line1": "Korean greeting: mwohae?",
+    "title_line2": "Just saying hello?",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Just saying *hello*"
+      },
+      {
+        "s": 2,
+        "text": "*What’s up* vibe"
+      },
+      {
+        "s": 4,
+        "text": "Use a *light* question"
+      }
+    ],
+    "image_queries": [
+      "Korean person waving hello",
+      "Korean friends laughing together",
+      "young Korean working on laptop",
+      "person holding coffee chatting",
+      "elderly Korean smiling politely",
+      "Seoul subway interior commuters",
+      "Korean person making eye contact"
+    ],
+    "scene_count": 10,
+    "ko_title": "한국인 인사: 뭐해? 그냥 안부 인사? #Shorts",
+    "ko_description": "🎯 한국인이 ‘뭐 해?’라고 물으면, 단순히 안부 인사일 수도 있다.\n\n일상적인 한국어 대화, 특히 친구 사이와 젊은 층 사이에서는 ‘뭐해?’(mwohae?)라는 표현이 문자 그대로의 질문이라기보다 영어의 “What’s up?”에 해당하는 인사말로 자주 쓰인다. 말하는 사람은 보통 “아무것도 안 해” 혹은 “그냥 일하고 있어” 같은 짧은 대답을 기대하고, 이 교환은 상대방의 존재를 확인해 주는 역할을 한다. 이런 사용은 가볍고 개방적인 질문으로 대화를 시작하려는 문화적 경향에서 비롯된 것이다. 비격식적인 표현이기 때문에 보통 어른이나 공식적인 자리에서는 피하고, 보다 정중한 인사를 사용한다.\n\n💡 같은 표현을 서울의 대중교통에서도 들을 수 있는데, 승객들이 열차에 타기 전 ‘뭐해?’라고 외치며 짧은 대화를 시작한다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#Greeting #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "한국인이 “뭐 해?”라고 하면 단순히 안부 인사일 수도 있다. 일상 대화, 특히 친구 사이와 젊은 층에서는 “뭐해?”라는 표현을 “What’s up?”처럼 사용한다. 말하는 사람은 “아무것도 안 해” 혹은 “그냥 일하고 있어” 같은 짧은 대답을 기대하고, 이 교환은 상대방의 존재를 확인해 주는 역할을 한다. 이 습관은 가볍고 개방적인 질문으로 대화를 시작하려는 문화적 경향에서 비롯된다. 비격식적이기 때문에 어른이나 공식적인 자리에서는 피하고, 정중한 인사를 선택한다. 서울 지하철에서 승객들이 “뭐해?”라고 외치는 소리를 들을 수 있는데, 이는 탑승 전에 짧은 대화를 시작하기 위한 친근한 신호다.",
+    "ko_issues": [],
+    "ko_src": "9e360f737ded",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0036_‘뭐해_’ Greeting_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0036_‘뭐해_’ Greeting_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Korean person waving hello",
+      "Korean friends laughing together",
+      "young Korean working on laptop",
+      "person holding coffee chatting",
+      "elderly Korean smiling politely",
+      "Seoul subway interior commuters",
+      "Korean person making eye contact"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "anaterate",
+        "page": "https://pixabay.com/photos/woman-clothing-facade-building-7307739/",
+        "id": 7307739
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "CaiHuuThanh",
+        "page": "https://pixabay.com/photos/friendship-best-friends-women-happy-6126262/",
+        "id": 6126262
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "StartupStockPhotos",
+        "page": "https://pixabay.com/photos/entrepreneur-start-up-man-planning-593371/",
+        "id": 593371
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/smartphone-technology-mobile-phone-1281632/",
+        "id": 1281632
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "geralt",
+        "page": "https://pixabay.com/photos/elderly-couple-garden-conversation-10186248/",
+        "id": 10186248
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "Sunriseforever",
+        "page": "https://pixabay.com/photos/metro-subway-metro-station-people-4957736/",
+        "id": 4957736
+      },
+      {
+        "scene": 7,
+        "source": "pixabay",
+        "user": "我见青山多妩媚",
+        "page": "https://pixabay.com/photos/dog-husky-pets-animal-eye-contact-7694676/",
+        "id": 7694676
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0036_‘뭐해_’ Greeting.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0036_‘뭐해_’ Greeting.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "QR Business Cards",
@@ -3041,7 +3141,119 @@
     "verify_note": "Korean QR code business card trend, KakaoTalk QR code, Seoul café networking QR",
     "country": "QR Business Cards",
     "created_at": "2026-10-13T23:28:03.975031+00:00",
-    "status": "unverified"
+    "status": "video_done",
+    "narration": "In Seoul, a QR code on a coaster can add you a new friend in seconds. Many young professionals print a tiny QR code on a business card or even on a coffee coaster that links straight to their KakaoTalk profile or a digital vCard. When someone scans it, the contact saves automatically, no typing needed. This habit grew with smartphones and a love for networking. Cafés often stick QR‑code stickers on tables to spark spontaneous connections. Some cafés even create a unique QR code for each table, turning the whole venue into a hub. The trend is strongest in urban spots like Seoul and among younger adults, while older generations still favor name cards.",
+    "title_line1": "QR cards in Seoul",
+    "title_line2": "Instant new friend",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*QR* adds friend fast"
+      },
+      {
+        "s": 3,
+        "text": "*Scan* saves contact"
+      },
+      {
+        "s": 5,
+        "text": "*QR* stickers tables"
+      },
+      {
+        "s": 6,
+        "text": "Unique *QR* per table"
+      }
+    ],
+    "image_queries": [
+      "QR code coaster friend",
+      "tiny QR code business card coffee",
+      "scan saves contact",
+      "smartphones networking",
+      "QR stickers tables",
+      "unique QR table hub",
+      "Seoul young adults"
+    ],
+    "scene_count": 10,
+    "ko_title": "Korea: QR 카드가 서울에서 즉시 새로운 친구를 만들어 줍니다 #Shorts",
+    "ko_description": "🎯 서울에서는 코스터에 붙은 하나의 QR 코드만으로도 몇 초 만에 새로운 친구를 추가할 수 있습니다.\n\n많은 젊은 직장인들이 명함이나 심지어 커피 코스터에 작은 QR 코드를 인쇄해 카카오톡 프로필이나 디지털 vCard로 바로 연결합니다. 누군가 스마트폰으로 스캔하면 이름을 입력할 필요 없이 바로 연락처가 저장됩니다. 이 문화는 스마트폰 보급과 빠르고 깔끔한 네트워킹을 선호하는 흐름과 함께 성장했습니다. 카페에서는 테이블에 QR 코드 스티커를 붙여 즉흥적인 만남을 유도하기도 합니다.\n\n💡 일부 카페는 테이블마다 고유 QR 코드를 생성해 손님들이 스캔만으로 연락처를 교환할 수 있게 하여, 전체 매장을 네트워킹 허브로 만들고 있습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#QRBusinessCards #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "서울에서는 코스터에 있는 QR 코드 하나로 몇 초 만에 새로운 친구를 추가할 수 있습니다. 많은 젊은 직장인들이 명함이나 커피 코스터에 작은 QR 코드를 인쇄해 카카오톡 프로필이나 디지털 vCard로 바로 연결합니다. 누군가 스캔하면 이름을 입력할 필요 없이 자동으로 연락처가 저장됩니다. 이 습관은 스마트폰 보급과 네트워킹을 사랑하는 문화와 함께 성장했습니다. 카페에서는 테이블에 QR 코드 스티커를 붙여 즉흥적인 만남을 촉진합니다. 일부 카페는 테이블마다 고유 QR 코드를 만들어 전체 매장을 네트워킹 허브로 바꾸고 있습니다. 이 트렌드는 서울 같은 도심 지역과 젊은 층에서 가장 강하게 나타나며, 연령이 높은 세대는 아직도 명함을 선호합니다.",
+    "ko_issues": [],
+    "ko_src": "3c6bab9966d0",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0037_QR Business Cards_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0037_QR Business Cards_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "QR code coaster friend",
+      "tiny QR code business card coffee",
+      "scan saves contact",
+      "smartphones networking",
+      "QR stickers tables",
+      "unique QR table hub",
+      "Seoul young adults"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "commons",
+        "user": "사랑",
+        "license": "Public domain",
+        "title": "QR code coffee.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:QR_code_coffee.jpg",
+        "id": "c:74822779"
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "kaboompics",
+        "page": "https://pixabay.com/photos/coffee-phone-paper-business-792113/",
+        "id": 792113
+      },
+      {
+        "scene": 3,
+        "source": "commons",
+        "user": "사랑",
+        "license": "Public domain",
+        "title": "QR code Ppuripark Ryoo.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:QR_code_Ppuripark_Ryoo.jpg",
+        "id": "c:74823573"
+      },
+      {
+        "scene": 4,
+        "source": "commons",
+        "user": "彭嘉傑 & Google",
+        "license": "CC BY 2.5",
+        "title": "Android Smartphones.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Android_Smartphones.jpg",
+        "id": "c:64463080"
+      },
+      {
+        "scene": 5,
+        "source": "commons",
+        "user": "최광모 (Choe Kwangmo)",
+        "license": "CC0",
+        "title": "최광모 라인 QR 코드 Choe Kwangmo LINE QR code 2017-09-01 21.33.54.png",
+        "page": "https://commons.wikimedia.org/wiki/File:%EC%B5%9C%EA%B4%91%EB%AA%A8_%EB%9D%BC%EC%9D%B8_QR_%EC%BD%94%EB%93%9C_Choe_Kwangmo_LINE_QR_code_2017-09-01_21.33.54.png",
+        "id": "c:62074843"
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "Brockenhexe",
+        "page": "https://pixabay.com/photos/stone-table-table-bank-stones-2814444/",
+        "id": 2814444
+      },
+      {
+        "scene": 7,
+        "source": "pixabay",
+        "user": "bongbabyhousevn",
+        "page": "https://pixabay.com/photos/baby-young-korea-seoul-vitamin-7277541/",
+        "id": 7277541
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0037_QR Business Cards.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0037_QR Business Cards.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Underground Delivery Rooms",
@@ -3054,7 +3266,124 @@
     "verify_note": "Seoul apartment underground delivery room, smart parcel lockers, Korean apartment delivery system",
     "country": "Underground Delivery Rooms",
     "created_at": "2026-10-13T23:28:03.975031+00:00",
-    "status": "unverified"
+    "status": "video_done",
+    "narration": "Ever wonder where 300 parcels a day disappear in a Seoul high‑rise? They’re waiting in a hidden underground room. Many newer apartment complexes in Seoul have a dedicated delivery lounge below the lobby, fitted with electronic lockers. A courier scans the package, the system logs the recipient, and a push notification pops up on the resident’s phone. The resident opens the exact locker with a one‑time code or fingerprint, grabs the item, and the locker automatically locks again. This cuts missed deliveries and keeps hallways tidy. Some upscale buildings even add facial recognition, so a quick glance at a camera unlocks the box. Older buildings still rely on door‑to‑door drops, but the underground smart lockers are reshaping parcel pickup in modern Seoul.",
+    "title_line1": "Hidden delivery hub",
+    "title_line2": "Parcels wait below",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "300 parcels *vanish*"
+      },
+      {
+        "s": 2,
+        "text": "Hidden *underground* room"
+      },
+      {
+        "s": 4,
+        "text": "Push *alert* pops"
+      },
+      {
+        "s": 5,
+        "text": "*code* opens locker"
+      },
+      {
+        "s": 7,
+        "text": "*Facial* unlock"
+      }
+    ],
+    "image_queries": [
+      "300 parcels in hallway",
+      "underground delivery room",
+      "Seoul apartment locker lounge",
+      "phone notification popup",
+      "locker code panel",
+      "tidy apartment hallway",
+      "facial recognition locker",
+      "modern Seoul parcel pickup"
+    ],
+    "scene_count": 10,
+    "ko_title": "Korea: Hidden delivery hub Parcels wait below #Shorts",
+    "ko_description": "🎯 하루에 300개의 택배가 서울 고층 건물에서 어디로 사라지는지 궁금하신가요? 그것들은 숨겨진 지하 방에 대기하고 있습니다.\n\n서울의 많은 고층 아파트에는 전자 사물함이 설치된 전용 지하 배송실이 있습니다. 택배 기사는 물품을 사물함에 넣고, 시스템이 수취인을 기록하며, 푸시 알림이 주민의 스마트폰으로 전송됩니다. 주민은 일회용 코드나 지문으로 해당 사물함을 열어 물품을 수령하고, 사물함은 자동으로 다시 잠깁니다. 이 시스템은 배송 실패를 줄이고 복도에 물건이 쌓이는 것을 방지합니다.\n\n💡 점점 더 많은 단지에서 얼굴 인식을 도입해, 카메라를 바라보기만 하면 사물함을 열 수 있게 하고 있습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#UndergroundDeliveryRooms #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "하루에 300개의 택배가 서울 고층 건물에서 어디로 사라지는지 궁금하신가요? 그것들은 숨겨진 지하 방에 대기하고 있습니다. 서울의 많은 최신 아파트 단지는 로비 아래에 전용 배송 라운지를 두고 전자 사물함을 설치했습니다. 택배 기사는 물품을 스캔하고, 시스템이 수취인을 기록하며, 푸시 알림이 주민의 휴대폰에 뜹니다. 주민은 일회용 코드나 지문으로 정확한 사물함을 열어 물품을 꺼내고, 사물함은 자동으로 다시 잠깁니다. 이는 배송 실패를 줄이고 복도를 깔끔하게 유지합니다. 일부 고급 건물은 얼굴 인식을 추가해, 카메라를 한 번 바라보면 사물함이 열리게 합니다. 오래된 건물은 여전히 문 앞에 직접 배달하는 방식을 사용하지만, 지하 스마트 사물함이 현대 서울의 택배 수령 방식을 바꾸고 있습니다.",
+    "ko_issues": [],
+    "ko_src": "b8f4b7a60cbb",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0038_Underground Delivery Rooms_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0038_Underground Delivery Rooms_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "300 parcels in hallway",
+      "underground delivery room",
+      "Seoul apartment locker lounge",
+      "phone notification popup",
+      "locker code panel",
+      "tidy apartment hallway",
+      "facial recognition locker",
+      "modern Seoul parcel pickup"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/water-architecture-arches-arcade-1283963/",
+        "id": 1283963
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "anaterate",
+        "page": "https://pixabay.com/photos/room-bunker-shelter-underground-7348721/",
+        "id": 7348721
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "nicolagiordano",
+        "page": "https://pixabay.com/photos/lounge-area-sofa-modern-inside-8268914/",
+        "id": 8268914
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "kevberon",
+        "page": "https://pixabay.com/photos/mobile-smartphone-cellular-phone-5165279/",
+        "id": 5165279
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "jamesmarkosborne",
+        "page": "https://pixabay.com/photos/code-html-digital-coding-web-1076536/",
+        "id": 1076536
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "PIRO4D",
+        "page": "https://pixabay.com/photos/hallway-corridor-entrance-2228277/",
+        "id": 2228277
+      },
+      {
+        "scene": 7,
+        "source": "pixabay",
+        "user": "Tumisu",
+        "page": "https://pixabay.com/photos/man-face-facial-recognition-5946820/",
+        "id": 5946820
+      },
+      {
+        "scene": 8,
+        "source": "pixabay",
+        "user": "ssalae",
+        "page": "https://pixabay.com/photos/building-architecture-city-410266/",
+        "id": 410266
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0038_Underground Delivery Rooms.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0038_Underground Delivery Rooms.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Winter Shaved Ice",
@@ -3132,6 +3461,162 @@
     "verify_note": "Korean study café culture, 24-hour study cafés Seoul, QR ordering at study cafés, silent study café etiquette, nap pods study café Korea",
     "country": "Silent Study Cafés",
     "created_at": "2026-10-13T23:29:29.048716+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Did You Eat? Greeting",
+    "topic": "Koreans often ask “Did you eat?” as a casual hello, not a literal question about food.",
+    "hook": "Ever been asked “Did you eat?” right after saying hello?",
+    "body": "In many everyday situations—from a subway ride to a coffee shop—Koreans greet each other with 밥 먹었어요? (Did you eat?). It’s a way of checking on someone’s wellbeing, similar to “How are you?” The phrase can appear even when the person knows the other just finished a meal, turning a simple hello into a warm check‑in.",
+    "twist": "The same question can also be a subtle invitation to share a quick snack if you’re near a street‑food stall.",
+    "caveat": "This greeting is most common among friends, family, and older generations; younger people in formal settings may use different expressions.",
+    "confidence": "high",
+    "verify_note": "Korean greeting 밥 먹었어요? cultural etiquette",
+    "country": "Did You Eat? Greeting",
+    "created_at": "2026-10-21T08:21:13.904881+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Reusable Cup Lockers",
+    "topic": "Some Seoul cafés let customers store personal reusable cups in keyless lockers for quick pick‑up.",
+    "hook": "Imagine borrowing a coffee cup, locking it, and never losing it again.",
+    "body": "Eco‑focused cafés in neighborhoods like Hongdae and Seongsu have installed small locker banks next to the counter. After you bring your own cup, you scan a QR code, the locker opens, and you store the cup; the system logs the locker number on your phone. When you return, you retrieve it without any exchange of keys, encouraging a zero‑waste habit while keeping your cup safe from being misplaced.",
+    "twist": "A few of these lockers even charge a tiny fee that donates to local environmental NGOs.",
+    "caveat": "Lockers are offered mainly by boutique or sustainability‑focused cafés, not by the majority of coffee shops across the city.",
+    "confidence": "high",
+    "verify_note": "Seoul café reusable cup lockers zero waste",
+    "country": "Reusable Cup Lockers",
+    "created_at": "2026-10-21T08:21:13.904881+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Morning Milk Bike Delivery",
+    "topic": "Fresh milk is still delivered by bike to many apartment complexes before 8 am.",
+    "hook": "Did you know you can get farm‑fresh milk delivered to your doorstep before school starts?",
+    "body": "In residential districts such as Gangbuk and parts of Busan, local dairy vendors ride electric bikes through the early‑morning streets, stopping at apartment entrances to hand out chilled milk cartons. Residents often greet the rider by name, and the delivery schedule is posted on a community board, making it a ritual that has persisted despite supermarkets. The service is valued for its freshness and the personal connection it creates between the rider and the community.",
+    "twist": "Some riders also hand out a small free sample of seasonal fruit jam as a thank‑you for regular customers.",
+    "caveat": "Bike milk delivery is common in many but not all apartment complexes, especially those with active resident committees; larger high‑rise towers usually rely on grocery deliveries.",
+    "confidence": "high",
+    "verify_note": "Korean milk delivery by bike residential neighborhoods",
+    "country": "Morning Milk Bike Delivery",
+    "created_at": "2026-10-21T08:21:13.904881+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Smart Elevator Queue",
+    "topic": "New high‑rise apartments use smartphone apps to assign virtual elevator tickets, cutting wait times.",
+    "hook": "What if you could reserve an elevator slot from your phone before you even reach the lobby?",
+    "body": "Buildings like the Lotte World Tower and newer complexes in Songpa have installed “smart elevator” systems. Residents tap a button on a dedicated app, select their floor, and receive a digital ticket that shows up on the lobby screen. The elevators group passengers heading to similar floors, so the lobby line shortens dramatically. The system also alerts you when the elevator is arriving, letting you time your coffee break perfectly.",
+    "twist": "During peak hours, the app can reroute you to a nearby stairwell that has a moving walkway, offering a faster alternative.",
+    "caveat": "These systems are limited to recently built high‑rise apartments and office towers; older buildings still rely on traditional button calls.",
+    "confidence": "high",
+    "verify_note": "Korea smart elevator app high rise buildings",
+    "country": "Smart Elevator Queue",
+    "created_at": "2026-10-21T08:21:13.904881+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Underground Parcel Lockers",
+    "topic": "How Koreans receive online orders without meeting couriers",
+    "hook": "Ever wonder how a Korean apartment gets a package without anyone at the door?",
+    "body": "In many newer apartment complexes, couriers drop parcels into a secure underground locker that has dozens of individual compartments. The resident’s phone receives a push notification with a QR code, which they scan at the locker’s panel to open the specific box. This system lets the delivery happen 24 hours a day, even when the building is closed, and it reduces missed deliveries. Residents often watch the locker doors open on a small screen as they retrieve their items.",
+    "twist": "Some of these lockers are climate‑controlled, keeping groceries like fresh milk or salads at the right temperature until the owner picks them up.",
+    "caveat": "The locker system is most common in high‑rise apartments in Seoul and a few other major cities; older buildings and rural areas still rely on door‑to‑door delivery.",
+    "confidence": "high",
+    "verify_note": "Korean apartment parcel lockers, underground delivery lockers, QR code parcel pickup South Korea",
+    "country": "Underground Parcel Lockers",
+    "created_at": "2026-10-21T08:21:23.822730+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "School Banchan Buffet",
+    "topic": "Students serve themselves side dishes in Korean school cafeterias",
+    "hook": "Did you know Korean kids pick their own side dishes at lunch, just like a buffet?",
+    "body": "In many public elementary and middle schools, the cafeteria presents a rotating tray of banchan—small side dishes such as kimchi, seasoned spinach, and rolled omelet. Students line up, take a plate, and choose the banchan they like, while the teacher often joins the line to eat with them. The dishes are portion‑controlled, and the staff refills the tray every few minutes, keeping the food fresh. Some schools let students vote via a tablet for the next week’s banchan menu, giving them a voice in the menu planning.",
+    "twist": "A few districts have introduced a 'zero‑waste' rule where students can only take as many side dishes as they finish, dramatically cutting food waste.",
+    "caveat": "This self‑serve style is typical in public schools in larger cities; private schools may use pre‑served meals.",
+    "confidence": "high",
+    "verify_note": "Korean school cafeteria banchan self serve, school lunch side dishes South Korea, student menu voting",
+    "country": "School Banchan Buffet",
+    "created_at": "2026-10-21T08:21:23.822730+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "NFC Café Study Pods",
+    "topic": "Tables that silence phones automatically for focused study",
+    "hook": "Imagine a café table that makes your phone go silent the moment you sit down.",
+    "body": "Several chain cafés in Seoul embed NFC tags in the tops of their private study pods. When a patron taps their phone, an app switches the device to silent mode, disables notifications, and even starts a Pomodoro timer. The pod also offers adjustable LED lighting and a built‑in air purifier that syncs with the timer, creating a personalized focus environment. After the session, a second tap restores the phone’s normal settings.",
+    "twist": "Some locations reward completed focus sessions with a small free drink voucher that appears in the app.",
+    "caveat": "These NFC‑enabled pods are currently limited to major café chains in central Seoul and a handful of other cities; most independent cafés still rely on manual signs.",
+    "confidence": "high",
+    "verify_note": "Korean café NFC silent mode study pod, Seoul café focus pod NFC, Pomodoro café South Korea",
+    "country": "NFC Café Study Pods",
+    "created_at": "2026-10-21T08:21:23.822730+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Hanbok Tea Welcome",
+    "topic": "Tourists try on hanbok and receive a traditional tea greeting",
+    "hook": "Step into a hanbok and be served a cup of tea—South Korea’s sweet welcome for visitors.",
+    "body": "At cultural villages and heritage sites such as Bukchon Hanok Village, visitors can rent a hanbok for a short period and walk the historic streets in traditional dress. After dressing, staff in the hanok tea house offer a small cup of warm jujube‑infused tea, explaining its calming properties and its role in Korean hospitality. The gesture is meant to make tourists feel part of the culture and often includes a brief lesson on proper tea‑drinking etiquette. Many tourists share the experience on social media, sparking a modern revival of hanbok wear.",
+    "twist": "The tea is sometimes served in a miniature ceramic bowl that matches the hanbok’s color palette, creating a coordinated visual experience.",
+    "caveat": "The service is most common in designated heritage zones and larger tourist attractions; smaller museums may not provide the tea.",
+    "confidence": "high",
+    "verify_note": "Hanbok rental tea ceremony Bukchon Hanok Village, Korean heritage site tea greeting, jujube tea Korean tourism",
+    "country": "Hanbok Tea Welcome",
+    "created_at": "2026-10-21T08:21:23.822730+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Office Nap Pods",
+    "topic": "Quiet rooms in Korean offices where employees can take short power naps",
+    "hook": "Did you know many Korean offices have secret nap rooms you can slip into after lunch?",
+    "body": "In a growing number of South Korean companies, a small room equipped with a reclining chair, dim lighting and a timer is set aside for employees to rest for 10–20 minutes. The idea gained traction after studies showed that brief naps can improve afternoon alertness, and firms such as Samsung and Naver have installed them in their headquarters. Workers usually book the slot via an internal app or simply knock and wait for a free spot. The practice is still optional and more common in tech‑oriented firms than in traditional manufacturing sites.",
+    "twist": "Some companies even provide a gentle alarm that plays a short K‑pop melody to wake nap‑takers.",
+    "caveat": "Nap rooms are present mainly in larger corporations and startups in Seoul; smaller firms and many public‑sector offices often do not have them.",
+    "confidence": "high",
+    "verify_note": "Korean office nap rooms, corporate wellness, Samsung nap room, Naver nap pod",
+    "country": "Office Nap Pods",
+    "created_at": "2026-10-21T08:21:32.134696+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Power‑Bank Rental Kiosks",
+    "topic": "QR‑based portable charger rentals found at subway stations and malls",
+    "hook": "Your phone dies on the subway? You can rent a power bank from a kiosk in minutes.",
+    "body": "Across Seoul, vending‑style kiosks let you borrow a portable charger by scanning a QR code with your smartphone; you pay a small fee and keep the device for a few hours before returning it to any other kiosk. The service, launched by companies such as KT and LG U+, is aimed at commuters and tourists who don’t want to carry their own charger. The kiosks are usually located near station exits, and the return process is automated, requiring only another QR scan. While the system is widespread in the capital, similar stations are fewer in provincial cities.",
+    "twist": "Some kiosks also display real‑time weather forecasts and subway arrival times on the same screen.",
+    "caveat": "The rental service is most common in Seoul’s major lines and large malls; not all subway stations or smaller towns have these kiosks.",
+    "confidence": "high",
+    "verify_note": "Seoul power bank rental kiosk, KT power bank rental, LG U+ portable charger rental",
+    "country": "Power‑Bank Rental Kiosks",
+    "created_at": "2026-10-21T08:21:32.134696+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Rooftop Picnic Gardens",
+    "topic": "Residents use apartment rooftops for casual picnics and socialising",
+    "hook": "Ever seen a city skyline turned into a weekend picnic spot?",
+    "body": "Many high‑rise apartment complexes in Seoul reserve a portion of their roof as a communal garden, complete with benches, grills, and a small herb plot. On Saturdays, groups of friends bring simple snacks, a Bluetooth speaker, and enjoy a view of the city while chatting, effectively creating a park in the sky. Because the space is shared among all residents, it’s common for neighbours you’ve never met to join in a spontaneous gathering. The trend grew as urban dwellers sought outdoor space without leaving the building.",
+    "twist": "Some rooftops even host pop‑up yoga classes early in the morning, led by resident instructors.",
+    "caveat": "Access is limited to residents of the specific apartment complex; the amenity is more typical in newer developments and less common in older low‑rise neighborhoods.",
+    "confidence": "high",
+    "verify_note": "Seoul apartment rooftop garden picnic, communal rooftop space Korea, rooftop garden Seoul",
+    "country": "Rooftop Picnic Gardens",
+    "created_at": "2026-10-21T08:21:32.134696+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Subway Wi‑Fi & Seat Screens",
+    "topic": "Free high‑speed internet and seat‑back displays on Seoul subway trains",
+    "hook": "You can stream a drama while riding the subway thanks to free Wi‑Fi and seat screens.",
+    "body": "Since 2020, every line of the Seoul Metropolitan Subway provides complimentary high‑speed Wi‑Fi, and many newer train sets feature seat‑back LCD panels that show news, weather and short ads. Commuters often use the connection to watch Korean dramas, catch up on work emails, or play mobile games during the 30‑ to 60‑minute ride. The service is managed by the Seoul Metropolitan Rapid Transit Corporation and is funded through advertising displayed on the screens. While Wi‑Fi is generally reliable in central lines, some outer‑city routes may experience occasional outages.",
+    "twist": "During peak hours, the system automatically prioritises streaming video for a smoother viewing experience.",
+    "caveat": "Free Wi‑Fi and seat‑back screens are available on most lines in Seoul, but not on all regional or intercity trains outside the capital.",
+    "confidence": "high",
+    "verify_note": "Seoul subway free WiFi, subway seat back screens, SMRT WiFi service",
+    "country": "Subway Wi‑Fi & Seat Screens",
+    "created_at": "2026-10-21T08:21:32.134696+00:00",
     "status": "unverified"
   }
 ]

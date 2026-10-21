@@ -11,86 +11,91 @@
 #   제외한 소재는 폐기(rejected)로 바뀌어 render에서 건너뛰고, 나중에 'redo_script=번호!'로 되살릴 수 있습니다.
 # - '('로 시작하는 줄은 참고용이라 무시됩니다. '=== [번호] ===' 줄은 바꾸지 마세요.
 
-=== [33] Bike‑Tree Parking Robot ===
-(사실 확인용 검색어) Seoul Bike Tree robot, Smart bike parking Seongsu, Pangyo bike stacking system
-(한글 제목) Korea: 자전거‑트리 로봇이 100대 자전거 보관 tiny #Shorts
-후크: In Seoul, you can drop your bike into a robot that stacks it like a tree.
-본문: In the Seongsu‑Pangyo area, a machine called the Bike‑Tree (or Smart Bike Parking) automatically lifts, rotates, and stores bicycles vertically, creating a tower of bikes in a footprint of about two meters. The system uses sensors to identify the bike’s size and places it in an empty slot, then returns it when the owner scans a QR code. It was installed to solve limited sidewalk space and has become a popular sight for commuters and tourists alike. The service is managed by the local district and can be used via a mobile app or a membership card.
-반전: The robot can hold up to 100 bikes while occupying less than 2 m² of ground space.
+=== [36] ‘뭐해?’ Greeting ===
+(사실 확인용 검색어) Korean informal greeting 뭐해 usage, Korean language casual greeting
+(한글 제목) 한국인 인사: 뭐해? 그냥 안부 인사? #Shorts
+후크: When a Korean says ‘What are you doing?’, they might just be saying hello.
+본문: In casual Korean conversation, especially among friends and younger people, the phrase ‘뭐해?’ (mwohae?) is frequently used as a greeting rather than a literal inquiry, similar to asking “What’s up?” in English. The speaker typically expects a brief response like “nothing” or “just working,” and the exchange serves to acknowledge the other person’s presence. This usage stems from a cultural tendency to start conversations with a light, open‑ended question that can be answered quickly. Because it is informal, it is usually avoided in formal settings or with elders, where a more polite greeting would be chosen.
+반전: The same phrase can be heard on public transportation in Seoul, where commuters shout “뭐해?” to start a brief chat before boarding the train.
 제외:
-제목1: Bike‑Tree robot
-제목2: Holds 100 bikes tiny
-핵심[1]: Drop bike into *robot*
-핵심[2]: Bike *tree* stacking
-핵심[6]: Hold up to *100* bikes
-이미지[1]: Drop bike into robot
-이미지[2]: Bike tree stacking
-이미지[3]: Seoul bike tree sensor
-이미지[4]: Hold up to 100 bikes
-이미지[5]: Seongsu bike parking
-이미지[6]: Smart bike parking forest
-대본[1]: In Seoul, you can drop your bike into a robot that stacks it like a tree.
-대본[2]: In the Seongsu‑Pangyo area, the Bike‑Tree—also called Smart Bike Parking—automatically lifts, rotates, and stores bicycles vertically, building a compact tower in a footprint of about two meters.
-대본[3]: Sensors measure each bike’s size and slot it into an empty spot.
-대본[4]: When you’re ready to leave, you scan a QR code with your phone or membership card and the system returns your bike.
-대본[5]: The surprising part?
-대본[6]: The robot can hold up to 100 bikes while occupying less than 2 m² of ground space.
-대본[7]: It’s currently only at a few pilot sites, like Seongsu, Pangyo, and some campuses, but it’s already a favorite sight for commuters and tourists alike.
-대본[8]: Imagine a whole forest of bikes, right where a sidewalk once cramped.
-(한글 대본) 서울에서는 자전거를 나무처럼 쌓아 올리는 로봇에 넣을 수 있습니다. 성수‑판교 지역에 있는 ‘자전거‑트리’(스마트 자전거 주차)라는 기계는 자동으로 자전거를 들어올리고 회전시켜 수직으로 보관해 약 2미터 정도의 면적에 콤팩트한 탑을 만듭니다. 센서가 각 자전거의 크기를 측정해 빈 자리에 슬롯에 넣습니다. 떠날 준비가 되면 휴대폰 QR 코드나 멤버십 카드를 스캔하면 시스템이 자전거를 반환합니다. 놀라운 점은? 로봇은 2 m² 미만의 바닥 면적에 100대까지 보관할 수 있다는 것입니다. 현재는 성수, 판교, 몇몇 캠퍼스 등 몇몇 파일럿 현장에만 설치돼 있지만 이미 출퇴근자와 관광객 모두에게 사랑받는 풍경이 되었습니다. 인도가 좁았던 곳에 자전거 숲이 생긴 모습을 상상해 보세요.
+제목1: Korean greeting: mwohae?
+제목2: Just saying hello?
+핵심[1]: Just saying *hello*
+핵심[2]: *What’s up* vibe
+핵심[4]: Use a *light* question
+이미지[1]: Korean person waving hello
+이미지[2]: Korean friends laughing together
+이미지[3]: young Korean working on laptop
+이미지[4]: person holding coffee chatting
+이미지[5]: elderly Korean smiling politely
+이미지[6]: Seoul subway interior commuters
+이미지[7]: Korean person making eye contact
+대본[1]: When a Korean says “What are you doing?” they might just be saying hello.
+대본[2]: In casual conversation, especially among friends and younger people, the phrase “mwohae?” is used like “What’s up?” rather than a literal question.
+대본[3]: The speaker expects a quick reply—maybe “nothing” or “just working”—and the exchange simply acknowledges the other person’s presence.
+대본[4]: This habit comes from a cultural tendency to start chats with a light, open‑ended question.
+대본[5]: Because it’s informal, it’s avoided with elders or in formal settings, where polite greetings are chosen.
+대본[6]: You’ll even hear commuters on Seoul’s subways shout “mwohae?” to spark a brief chat before boarding.
+대본[7]: It’s a friendly cue that says, “I see you.”
+(한글 대본) 한국인이 “뭐 해?”라고 하면 단순히 안부 인사일 수도 있다. 일상 대화, 특히 친구 사이와 젊은 층에서는 “뭐해?”라는 표현을 “What’s up?”처럼 사용한다. 말하는 사람은 “아무것도 안 해” 혹은 “그냥 일하고 있어” 같은 짧은 대답을 기대하고, 이 교환은 상대방의 존재를 확인해 주는 역할을 한다. 이 습관은 가볍고 개방적인 질문으로 대화를 시작하려는 문화적 경향에서 비롯된다. 비격식적이기 때문에 어른이나 공식적인 자리에서는 피하고, 정중한 인사를 선택한다. 서울 지하철에서 승객들이 “뭐해?”라고 외치는 소리를 들을 수 있는데, 이는 탑승 전에 짧은 대화를 시작하기 위한 친근한 신호다.
 
-=== [34] Heated Public Toilets ===
-(사실 확인용 검색어) heated toilet seats Korea subway stations, public restroom heated seats Seoul Metro
-(한글 제목) 한국: 따뜻한 지하철 좌석 겨울에 따뜻한 좌석 #Shorts
-후크: Ever sat on a warm toilet seat in a subway bathroom?
-본문: In major subway stations across Seoul and Busan, public restrooms are equipped with electric heated toilet seats that turn on automatically when the room temperature drops below a set point. The seats are powered by the station’s electricity and are especially common in newer stations built after 2010. This small comfort measure is intended to make winter commutes more pleasant for passengers who often need to use the facilities during rush hour. The heating is controlled centrally, so the seat stays warm even after the user leaves.
-반전: Some models include a temperature sensor that adjusts the heat level based on the outside temperature, keeping the seat just above room temperature on the coldest days.
+=== [37] QR Business Cards ===
+(사실 확인용 검색어) Korean QR code business card trend, KakaoTalk QR code, Seoul café networking QR
+(한글 제목) Korea: QR 카드가 서울에서 즉시 새로운 친구를 만들어 줍니다 #Shorts
+후크: In Seoul, a single QR code on a coaster can add you a new friend in seconds.
+본문: Many young professionals print a tiny QR code on a business card or even on a coffee coaster that links directly to their KakaoTalk profile or a digital vCard. When someone scans it with their phone, the contact is saved without typing a name. This practice has grown alongside the ubiquity of smartphones and the preference for quick, mess‑free networking. Cafés often display QR‑code stickers on tables to encourage spontaneous connections.
+반전: Some cafés even generate a unique QR code for each table, letting patrons exchange contact info with just a scan, turning the whole venue into a networking hub.
 제외:
-제목1: Heated subway seats
-제목2: Warm seats in winter
-핵심[1]: Sit on a *warm* seat
-핵심[3]: Seats auto *heat*
-핵심[4]: Newer stations *warm*
-핵심[6]: Smart *heat* sensor
-이미지[1]: warm toilet seat Seoul subway
-이미지[2]: automatic heated toilet seat subway
-이미지[3]: new subway station restroom Seoul
-이미지[4]: central heating toilet seat subway
-이미지[5]: smart temperature sensor seat
-이미지[6]: old subway restroom seat
-대본[1]: Ever sat on a warm toilet seat in a subway bathroom?
-대본[2]: In Seoul and Busan, many newer subway stations have electric heated seats in their public restrooms.
-대본[3]: When the station temperature falls below a set point, the seats automatically turn on using the station’s power.
-대본[4]: They’re most common in stations built after 2010 and help commuters stay comfortable during rush‑hour winter trips.
-대본[5]: The heating is controlled centrally, so the seat stays warm even after you leave.
-대본[6]: Some models even have a temperature sensor that tweaks the heat based on the outside cold, keeping the seat just above room temperature.
-대본[7]: Older or smaller stations may still have regular seats, though.
-(한글 대본) 지하철 화장실에서 따뜻한 변기 시트를 앉아본 적 있나요? 서울과 부산의 많은 신형 지하철역 공중 화장실에는 전기 온열 시트가 설치되어 있습니다. 역 온도가 설정값 이하로 떨어지면 시트가 자동으로 역 전력을 사용해 켜집니다. 2010년 이후에 건설된 역에서 가장 흔하며, 출퇴근 시간 겨울 여행 중 승객들이 편안하게 지낼 수 있도록 도와줍니다. 난방은 중앙에서 제어되어 사용자가 떠도 좌석이 따뜻하게 유지됩니다. 일부 모델은 외부 추위에 따라 난방을 미세 조정하는 온도 센서를 갖추고 있어 좌석을 실내 온도보다 약간 높게 유지합니다. 오래된 역이나 작은 역은 아직 일반 시트를 사용할 수 있습니다.
+제목1: QR cards in Seoul
+제목2: Instant new friend
+핵심[1]: *QR* adds friend fast
+핵심[3]: *Scan* saves contact
+핵심[5]: *QR* stickers tables
+핵심[6]: Unique *QR* per table
+이미지[1]: QR code coaster friend
+이미지[2]: tiny QR code business card coffee
+이미지[3]: scan saves contact
+이미지[4]: smartphones networking
+이미지[5]: QR stickers tables
+이미지[6]: unique QR table hub
+이미지[7]: Seoul young adults
+대본[1]: In Seoul, a QR code on a coaster can add you a new friend in seconds.
+대본[2]: Many young professionals print a tiny QR code on a business card or even on a coffee coaster that links straight to their KakaoTalk profile or a digital vCard.
+대본[3]: When someone scans it, the contact saves automatically, no typing needed.
+대본[4]: This habit grew with smartphones and a love for networking.
+대본[5]: Cafés often stick QR‑code stickers on tables to spark spontaneous connections.
+대본[6]: Some cafés even create a unique QR code for each table, turning the whole venue into a hub.
+대본[7]: The trend is strongest in urban spots like Seoul and among younger adults, while older generations still favor name cards.
+(한글 대본) 서울에서는 코스터에 있는 QR 코드 하나로 몇 초 만에 새로운 친구를 추가할 수 있습니다. 많은 젊은 직장인들이 명함이나 커피 코스터에 작은 QR 코드를 인쇄해 카카오톡 프로필이나 디지털 vCard로 바로 연결합니다. 누군가 스캔하면 이름을 입력할 필요 없이 자동으로 연락처가 저장됩니다. 이 습관은 스마트폰 보급과 네트워킹을 사랑하는 문화와 함께 성장했습니다. 카페에서는 테이블에 QR 코드 스티커를 붙여 즉흥적인 만남을 촉진합니다. 일부 카페는 테이블마다 고유 QR 코드를 만들어 전체 매장을 네트워킹 허브로 바꾸고 있습니다. 이 트렌드는 서울 같은 도심 지역과 젊은 층에서 가장 강하게 나타나며, 연령이 높은 세대는 아직도 명함을 선호합니다.
 
-=== [35] Pepero Day Exchange ===
-(사실 확인용 검색어) Pepero Day November 11 Korea tradition, Pepero sales 11/11
-(한글 제목) Korea: 달콤한 막대 교환 11/11 사랑편지 #Shorts
-후크: On November 11, Koreans swap thin chocolate sticks like love letters.
-본문: Pepero Day, observed on 11/11 because the date resembles four stick-shaped snacks, has become a popular occasion for friends, classmates, and coworkers to give each other Pepero, a chocolate‑coated biscuit stick. The tradition started in the 1990s as a marketing event by a confectionery company and spread through schools and offices, where people often write short messages on the sticks. In recent years, many brands have released alternative flavors such as pretzel or almond, and some people use the day to give non‑chocolate gifts as a playful twist. While the day is widely recognized among younger generations, it is not an official holiday and many adults may simply ignore it.
-반전: Some retailers report that Pepero sales on 11/11 can exceed the combined sales of the entire month of October.
+=== [38] Underground Delivery Rooms ===
+(사실 확인용 검색어) Seoul apartment underground delivery room, smart parcel lockers, Korean apartment delivery system
+(한글 제목) Korea: Hidden delivery hub Parcels wait below #Shorts
+후크: Ever wonder where 300 parcels a day disappear in a Seoul high‑rise? They’re waiting in a hidden underground room.
+본문: Many high‑rise apartment buildings in Seoul have a dedicated underground delivery room equipped with electronic lockers. Couriers place the package inside, the system records the recipient, and a push notification is sent to the resident’s smartphone. The resident opens the specific locker using a one‑time code or fingerprint, collects the item, and the locker relocks automatically. This setup reduces missed deliveries and keeps hallways clutter‑free.
+반전: A growing number of complexes integrate facial recognition, allowing residents to open their locker simply by looking at a camera.
 제외:
-제목1: Sweet stick exchange
-제목2: Love notes on 11/11
-핵심[1]: Swap *love* sticks
-핵심[2]: *Pepero* Day 11/11
-핵심[3]: 1990s *spark* launch
-핵심[5]: New *flavors* added
-이미지[1]: Pepero chocolate sticks
-이미지[2]: 1990s school hallway
-이미지[3]: Friends sharing chocolate sticks
-이미지[4]: Assorted flavored Pepero sticks
-이미지[5]: Students with chocolate sticks
-이미지[6]: Pepero sales display
-대본[1]: On November 11, Koreans swap thin chocolate sticks like love letters.
-대본[2]: The day is called Pepero Day because the date looks like four stick‑shaped snacks.
-대본[3]: It began in the 1990s as a marketing push by a confectionery company, and it quickly spread through schools and offices.
-대본[4]: Friends, classmates, and coworkers often give each other Pepero—biscuit sticks coated in chocolate—and may write short messages on the sticks.
-대본[5]: In recent years many brands added pretzel, almond or other flavors, and some people even give non‑chocolate gifts for a playful twist.
-대본[6]: The practice is most common among students and urban office workers, not a national holiday.
-대본[7]: Some retailers say Pepero sales on 11/11 can surpass the entire month of October, showing just how sweet the hype gets.
-(한글 대본) 11월 11일, 한국인들은 얇은 초콜릿 막대를 사랑 편지처럼 교환합니다. 날짜가 네 개의 막대 모양 간식처럼 보여 피에로데이라고 부릅니다. 이 행사는 1990년대 제과 회사의 마케팅 추진으로 시작돼 학교와 사무실에 빠르게 퍼졌습니다. 친구·동급생·동료들은 종종 초콜릿 코팅 비스킷 막대인 피에로를 서로 주고받으며, 막대에 짧은 메시지를 적기도 합니다. 최근 몇 년간 많은 브랜드가 프레첼·아몬드 등 다른 맛을 추가했고, 일부는 장난스럽게 비초콜릿 선물을 주기도 합니다. 이 관행은 학생과 도시 사무직 근로자 사이에서 가장 흔하지만, 국가 공휴일은 아닙니다. 일부 소매업체는 11/11 피에로 매출이 전체 10월 매출을 넘어설 수 있다고 말해, 얼마나 달콤한 열기가 되는지 보여줍니다.
+제목1: Hidden delivery hub
+제목2: Parcels wait below
+핵심[1]: 300 parcels *vanish*
+핵심[2]: Hidden *underground* room
+핵심[4]: Push *alert* pops
+핵심[5]: *code* opens locker
+핵심[7]: *Facial* unlock
+이미지[1]: 300 parcels in hallway
+이미지[2]: underground delivery room
+이미지[3]: Seoul apartment locker lounge
+이미지[4]: phone notification popup
+이미지[5]: locker code panel
+이미지[6]: tidy apartment hallway
+이미지[7]: facial recognition locker
+이미지[8]: modern Seoul parcel pickup
+대본[1]: Ever wonder where 300 parcels a day disappear in a Seoul high‑rise?
+대본[2]: They’re waiting in a hidden underground room.
+대본[3]: Many newer apartment complexes in Seoul have a dedicated delivery lounge below the lobby, fitted with electronic lockers.
+대본[4]: A courier scans the package, the system logs the recipient, and a push notification pops up on the resident’s phone.
+대본[5]: The resident opens the exact locker with a one‑time code or fingerprint, grabs the item, and the locker automatically locks again.
+대본[6]: This cuts missed deliveries and keeps hallways tidy.
+대본[7]: Some upscale buildings even add facial recognition, so a quick glance at a camera unlocks the box.
+대본[8]: Older buildings still rely on door‑to‑door drops, but the underground smart lockers are reshaping parcel pickup in modern Seoul.
+(한글 대본) 하루에 300개의 택배가 서울 고층 건물에서 어디로 사라지는지 궁금하신가요? 그것들은 숨겨진 지하 방에 대기하고 있습니다. 서울의 많은 최신 아파트 단지는 로비 아래에 전용 배송 라운지를 두고 전자 사물함을 설치했습니다. 택배 기사는 물품을 스캔하고, 시스템이 수취인을 기록하며, 푸시 알림이 주민의 휴대폰에 뜹니다. 주민은 일회용 코드나 지문으로 정확한 사물함을 열어 물품을 꺼내고, 사물함은 자동으로 다시 잠깁니다. 이는 배송 실패를 줄이고 복도를 깔끔하게 유지합니다. 일부 고급 건물은 얼굴 인식을 추가해, 카메라를 한 번 바라보면 사물함이 열리게 합니다. 오래된 건물은 여전히 문 앞에 직접 배달하는 방식을 사용하지만, 지하 스마트 사물함이 현대 서울의 택배 수령 방식을 바꾸고 있습니다.
