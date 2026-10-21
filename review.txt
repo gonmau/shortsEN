@@ -11,91 +11,86 @@
 #   제외한 소재는 폐기(rejected)로 바뀌어 render에서 건너뛰고, 나중에 'redo_script=번호!'로 되살릴 수 있습니다.
 # - '('로 시작하는 줄은 참고용이라 무시됩니다. '=== [번호] ===' 줄은 바꾸지 마세요.
 
-=== [36] ‘뭐해?’ Greeting ===
-(사실 확인용 검색어) Korean informal greeting 뭐해 usage, Korean language casual greeting
-(한글 제목) 한국인 인사: 뭐해? 그냥 안부 인사? #Shorts
-후크: When a Korean says ‘What are you doing?’, they might just be saying hello.
-본문: In casual Korean conversation, especially among friends and younger people, the phrase ‘뭐해?’ (mwohae?) is frequently used as a greeting rather than a literal inquiry, similar to asking “What’s up?” in English. The speaker typically expects a brief response like “nothing” or “just working,” and the exchange serves to acknowledge the other person’s presence. This usage stems from a cultural tendency to start conversations with a light, open‑ended question that can be answered quickly. Because it is informal, it is usually avoided in formal settings or with elders, where a more polite greeting would be chosen.
-반전: The same phrase can be heard on public transportation in Seoul, where commuters shout “뭐해?” to start a brief chat before boarding the train.
+=== [39] Winter Shaved Ice ===
+(사실 확인용 검색어) Winter bingsu Seoul, bingsu in December, Korean street food winter shaved ice
+(한글 제목) Korea: Winter bingsu Seoul Cold ice, warm bean #Shorts
+후크: Yes, you can eat snow‑like ice cream in Seoul’s December chill—called bingsu.
+본문: In popular tourist spots like Myeongdong and Hongdae, street stalls set up insulated carts that serve bingsu year‑round. The shaved ice is topped with warm red bean paste, toasted rice cakes, and hot syrups, creating a contrast between the cold base and the comforting heat. Vendors often serve it in small disposable bowls, making it easy to enjoy while strolling through the night market. The practice started as a summer treat but persisted because the hot toppings keep customers warm.
+반전: Some stalls even add a splash of hot chocolate or ginger tea over the ice, turning the dessert into an instant hand‑warmer.
 제외:
-제목1: Korean greeting: mwohae?
-제목2: Just saying hello?
-핵심[1]: Just saying *hello*
-핵심[2]: *What’s up* vibe
-핵심[4]: Use a *light* question
-이미지[1]: Korean person waving hello
-이미지[2]: Korean friends laughing together
-이미지[3]: young Korean working on laptop
-이미지[4]: person holding coffee chatting
-이미지[5]: elderly Korean smiling politely
-이미지[6]: Seoul subway interior commuters
-이미지[7]: Korean person making eye contact
-대본[1]: When a Korean says “What are you doing?” they might just be saying hello.
-대본[2]: In casual conversation, especially among friends and younger people, the phrase “mwohae?” is used like “What’s up?” rather than a literal question.
-대본[3]: The speaker expects a quick reply—maybe “nothing” or “just working”—and the exchange simply acknowledges the other person’s presence.
-대본[4]: This habit comes from a cultural tendency to start chats with a light, open‑ended question.
-대본[5]: Because it’s informal, it’s avoided with elders or in formal settings, where polite greetings are chosen.
-대본[6]: You’ll even hear commuters on Seoul’s subways shout “mwohae?” to spark a brief chat before boarding.
-대본[7]: It’s a friendly cue that says, “I see you.”
-(한글 대본) 한국인이 “뭐 해?”라고 하면 단순히 안부 인사일 수도 있다. 일상 대화, 특히 친구 사이와 젊은 층에서는 “뭐해?”라는 표현을 “What’s up?”처럼 사용한다. 말하는 사람은 “아무것도 안 해” 혹은 “그냥 일하고 있어” 같은 짧은 대답을 기대하고, 이 교환은 상대방의 존재를 확인해 주는 역할을 한다. 이 습관은 가볍고 개방적인 질문으로 대화를 시작하려는 문화적 경향에서 비롯된다. 비격식적이기 때문에 어른이나 공식적인 자리에서는 피하고, 정중한 인사를 선택한다. 서울 지하철에서 승객들이 “뭐해?”라고 외치는 소리를 들을 수 있는데, 이는 탑승 전에 짧은 대화를 시작하기 위한 친근한 신호다.
+제목1: Winter bingsu Seoul
+제목2: Cold ice, warm bean
+핵심[1]: *Ice* cream chill
+핵심[2]: All‑year *bingsu* carts
+핵심[3]: Hot *toppings* warm
+핵심[5]: Ice + *hot chocolate*
+이미지[1]: bingsu ice cream winter
+이미지[2]: year-round bingsu street cart
+이미지[3]: bingsu with hot toppings
+이미지[4]: bingsu disposable bowl
+이미지[5]: bingsu with hot chocolate
+이미지[6]: bingsu ginger tea topping
+이미지[7]: bingsu tourist district stall
+대본[1]: Yes, you can eat ice cream in Seoul’s December chill—called bingsu.
+대본[2]: In busy spots like Myeongdong and Hongdae, street stalls set up insulated carts that serve bingsu all year.
+대본[3]: The shaved ice comes with warm red bean paste, toasted rice cakes, and hot syrups, so the cold base meets comforting heat.
+대본[4]: Vendors hand it in small disposable bowls, perfect for strolling through markets.
+대본[5]: The treat began as a summer snack, but the hot toppings keep you warm enough to keep it going in winter.
+대본[6]: Some stalls even pour hot chocolate or ginger tea over the ice, turning the dessert into a hand‑warmer.
+대본[7]: You’ll mostly find it in these tourist districts, not in quieter neighborhoods.
+(한글 대본) 네, 서울의 12월 추위 속에서도 빙수를 먹을 수 있어요—빙수라고 합니다. 명동, 홍대 같은 번화가에서는 거리 노점들이 단열된 카트를 설치해 연중 빙수를 제공합니다. 갈아 만든 얼음 위에 따뜻한 팥소, 구운 떡, 뜨거운 시럽이 올려져 차가운 베이스와 따뜻함이 만납니다. 판매자들은 작은 일회용 그릇에 담아 시장을 거닐기에 딱 맞게 제공합니다. 이 간식은 원래 여름 간식으로 시작했지만 뜨거운 토핑 덕분에 겨울에도 충분히 따뜻하게 즐길 수 있습니다. 일부 노점은 얼음 위에 뜨거운 초콜릿이나 생강차를 부어 디저트를 손난로로 바꾸기도 합니다. 주로 이런 관광지에서 찾을 수 있고, 조용한 동네에서는 드물어요.
 
-=== [37] QR Business Cards ===
-(사실 확인용 검색어) Korean QR code business card trend, KakaoTalk QR code, Seoul café networking QR
-(한글 제목) Korea: QR 카드가 서울에서 즉시 새로운 친구를 만들어 줍니다 #Shorts
-후크: In Seoul, a single QR code on a coaster can add you a new friend in seconds.
-본문: Many young professionals print a tiny QR code on a business card or even on a coffee coaster that links directly to their KakaoTalk profile or a digital vCard. When someone scans it with their phone, the contact is saved without typing a name. This practice has grown alongside the ubiquity of smartphones and the preference for quick, mess‑free networking. Cafés often display QR‑code stickers on tables to encourage spontaneous connections.
-반전: Some cafés even generate a unique QR code for each table, letting patrons exchange contact info with just a scan, turning the whole venue into a networking hub.
+=== [40] Delivery Robots on Streets ===
+(사실 확인용 검색어) Seoul delivery robot pilot, Starship delivery robot, Korean autonomous sidewalk robot
+(한글 제목) Korea: Food bots zip Seoul Pizza at your door #Shorts
+후크: Did you know tiny robots are already delivering pizza to Korean apartments?
+본문: In districts like Gangnam and Seongnam, companies operate small, box‑shaped delivery robots that travel on sidewalks. Residents receive a notification on their phone, open a door, and the robot slides a sealed bag onto a mat. The service is popular because it avoids traffic and contact during busy hours. It works mainly in upscale residential complexes that have a dedicated robot charging station.
+반전: Some robots can climb a few steps, so they can reach the front door of a high‑rise building without an elevator.
 제외:
-제목1: QR cards in Seoul
-제목2: Instant new friend
-핵심[1]: *QR* adds friend fast
-핵심[3]: *Scan* saves contact
-핵심[5]: *QR* stickers tables
-핵심[6]: Unique *QR* per table
-이미지[1]: QR code coaster friend
-이미지[2]: tiny QR code business card coffee
-이미지[3]: scan saves contact
-이미지[4]: smartphones networking
-이미지[5]: QR stickers tables
-이미지[6]: unique QR table hub
-이미지[7]: Seoul young adults
-대본[1]: In Seoul, a QR code on a coaster can add you a new friend in seconds.
-대본[2]: Many young professionals print a tiny QR code on a business card or even on a coffee coaster that links straight to their KakaoTalk profile or a digital vCard.
-대본[3]: When someone scans it, the contact saves automatically, no typing needed.
-대본[4]: This habit grew with smartphones and a love for networking.
-대본[5]: Cafés often stick QR‑code stickers on tables to spark spontaneous connections.
-대본[6]: Some cafés even create a unique QR code for each table, turning the whole venue into a hub.
-대본[7]: The trend is strongest in urban spots like Seoul and among younger adults, while older generations still favor name cards.
-(한글 대본) 서울에서는 코스터에 있는 QR 코드 하나로 몇 초 만에 새로운 친구를 추가할 수 있습니다. 많은 젊은 직장인들이 명함이나 커피 코스터에 작은 QR 코드를 인쇄해 카카오톡 프로필이나 디지털 vCard로 바로 연결합니다. 누군가 스캔하면 이름을 입력할 필요 없이 자동으로 연락처가 저장됩니다. 이 습관은 스마트폰 보급과 네트워킹을 사랑하는 문화와 함께 성장했습니다. 카페에서는 테이블에 QR 코드 스티커를 붙여 즉흥적인 만남을 촉진합니다. 일부 카페는 테이블마다 고유 QR 코드를 만들어 전체 매장을 네트워킹 허브로 바꾸고 있습니다. 이 트렌드는 서울 같은 도심 지역과 젊은 층에서 가장 강하게 나타나며, 연령이 높은 세대는 아직도 명함을 선호합니다.
+제목1: Food bots zip Seoul
+제목2: Pizza at your door
+핵심[1]: Tiny robots *deliver* pizza
+핵심[2]: Bots zip *sidewalks*
+핵심[4]: *Contactless* delivery
+핵심[5]: Robots *climb* steps
+이미지[1]: delivery robot pizza
+이미지[2]: delivery robot sidewalk
+이미지[3]: robot delivering bag door
+이미지[4]: contactless delivery robot
+이미지[5]: delivery robot climbing steps
+이미지[6]: Seoul delivery robot pilot
+대본[1]: Did you know tiny robots are already delivering pizza to Korean apartments?
+대본[2]: In upscale neighborhoods like Gangnam and Seongnam, small box‑shaped delivery robots zip along the sidewalks.
+대본[3]: When an order arrives, residents get a phone notification, open their door, and the robot slides a sealed bag onto a mat.
+대본[4]: The service skips traffic and limits contact during rush hour, making it popular in many high‑rise complexes that have a dedicated charging station.
+대본[5]: Some of these robots can even climb a few steps, reaching the front door without needing an elevator.
+대본[6]: Right now it’s a pilot limited to certain apartment buildings, not a city‑wide system, but it shows how autonomous tech is reshaping everyday life in Seoul.
+(한글 대본) 작은 로봇이 이미 한국 아파트에 피자를 배달하고 있다는 사실, 알고 계셨나요? 강남·성남 같은 고급 동네에서는 상자 모양의 소형 배달 로봇이 인도를 질주합니다. 주문이 들어오면 주민은 스마트폰 알림을 받고, 문을 열면 로봇이 봉인된 가방을 매트 위에 미끄러뜨려 줍니다. 이 서비스는 교통 체증을 피하고 러시아워에 접촉을 최소화해 많은 고층 단지에서 인기를 끌고 있습니다. 전용 충전 스테이션이 있는 단지에서 주로 운영됩니다. 일부 로봇은 몇 계단을 오를 수 있어 엘리베이터 없이도 현관문에 도달합니다. 현재는 특정 아파트 건물에 한정된 시범 운영이며 전역적인 시스템은 아니지만, 자율 기술이 서울 일상을 어떻게 바꾸고 있는지를 보여줍니다.
 
-=== [38] Underground Delivery Rooms ===
-(사실 확인용 검색어) Seoul apartment underground delivery room, smart parcel lockers, Korean apartment delivery system
-(한글 제목) Korea: Hidden delivery hub Parcels wait below #Shorts
-후크: Ever wonder where 300 parcels a day disappear in a Seoul high‑rise? They’re waiting in a hidden underground room.
-본문: Many high‑rise apartment buildings in Seoul have a dedicated underground delivery room equipped with electronic lockers. Couriers place the package inside, the system records the recipient, and a push notification is sent to the resident’s smartphone. The resident opens the specific locker using a one‑time code or fingerprint, collects the item, and the locker relocks automatically. This setup reduces missed deliveries and keeps hallways clutter‑free.
-반전: A growing number of complexes integrate facial recognition, allowing residents to open their locker simply by looking at a camera.
+=== [41] Smart Toilets with Music ===
+(사실 확인용 검색어) Seoul public restroom sound masking, Korean smart toilet melody, Korean bathroom music
+(한글 제목) Korea: Seoul 스마트 변기 음악 마스크 플러시 #Shorts
+후크: Ever heard a bathroom sing after you finish?
+본문: Many public restrooms in Seoul’s subway stations and large malls are equipped with smart toilets that have heated seats, bidet functions, and a sound‑masking system. When a user flushes, a brief, soothing melody automatically plays for a few seconds. The feature was added to reduce embarrassment in crowded facilities and is controlled by motion sensors, so no extra button is needed.
+반전: The same system can be set to play a different tune depending on the time of day, like a calm chime in the morning and a brighter jingle at night.
 제외:
-제목1: Hidden delivery hub
-제목2: Parcels wait below
-핵심[1]: 300 parcels *vanish*
-핵심[2]: Hidden *underground* room
-핵심[4]: Push *alert* pops
-핵심[5]: *code* opens locker
-핵심[7]: *Facial* unlock
-이미지[1]: 300 parcels in hallway
-이미지[2]: underground delivery room
-이미지[3]: Seoul apartment locker lounge
-이미지[4]: phone notification popup
-이미지[5]: locker code panel
-이미지[6]: tidy apartment hallway
-이미지[7]: facial recognition locker
-이미지[8]: modern Seoul parcel pickup
-대본[1]: Ever wonder where 300 parcels a day disappear in a Seoul high‑rise?
-대본[2]: They’re waiting in a hidden underground room.
-대본[3]: Many newer apartment complexes in Seoul have a dedicated delivery lounge below the lobby, fitted with electronic lockers.
-대본[4]: A courier scans the package, the system logs the recipient, and a push notification pops up on the resident’s phone.
-대본[5]: The resident opens the exact locker with a one‑time code or fingerprint, grabs the item, and the locker automatically locks again.
-대본[6]: This cuts missed deliveries and keeps hallways tidy.
-대본[7]: Some upscale buildings even add facial recognition, so a quick glance at a camera unlocks the box.
-대본[8]: Older buildings still rely on door‑to‑door drops, but the underground smart lockers are reshaping parcel pickup in modern Seoul.
-(한글 대본) 하루에 300개의 택배가 서울 고층 건물에서 어디로 사라지는지 궁금하신가요? 그것들은 숨겨진 지하 방에 대기하고 있습니다. 서울의 많은 최신 아파트 단지는 로비 아래에 전용 배송 라운지를 두고 전자 사물함을 설치했습니다. 택배 기사는 물품을 스캔하고, 시스템이 수취인을 기록하며, 푸시 알림이 주민의 휴대폰에 뜹니다. 주민은 일회용 코드나 지문으로 정확한 사물함을 열어 물품을 꺼내고, 사물함은 자동으로 다시 잠깁니다. 이는 배송 실패를 줄이고 복도를 깔끔하게 유지합니다. 일부 고급 건물은 얼굴 인식을 추가해, 카메라를 한 번 바라보면 사물함이 열리게 합니다. 오래된 건물은 여전히 문 앞에 직접 배달하는 방식을 사용하지만, 지하 스마트 사물함이 현대 서울의 택배 수령 방식을 바꾸고 있습니다.
+제목1: Seoul smart toilets
+제목2: Music masks flush
+핵심[1]: Bathroom *sing*?
+핵심[3]: *Melody* on flush
+핵심[5]: Time‑of‑day *tunes*
+이미지[1]: Toilet with music
+이미지[2]: Seoul subway public restroom
+이미지[3]: Toilet flush melody
+이미지[4]: Toilet motion sensor
+이미지[5]: Morning and night toilet music
+이미지[6]: Modern Korean public restroom
+이미지[7]: Seoul bathroom sound masking
+대본[1]: Ever heard a bathroom sing after you finish?
+대본[2]: In many Seoul subway stations and big malls, public restrooms now have smart toilets with heated seats, bidet sprays, and a sound‑masking system.
+대본[3]: When you flush, a brief, soothing melody plays automatically, covering any awkward noises.
+대본[4]: The tune comes from a motion sensor, so you don’t need to press any extra button.
+대본[5]: The clever part is that the melody can change with the time of day—a calm chime in the morning and a brighter jingle at night.
+대본[6]: These high‑tech fixtures are common in newer or renovated spaces, though older restrooms still use regular toilets.
+대본[7]: So the next time you hear a bathroom hum, you’ll know it’s Seoul’s way of keeping things private.
+(한글 대본) 화장실에서 마친 뒤 노래가 나오는 걸 들어본 적 있나요? 서울 지하철역과 대형 쇼핑몰의 공공 화장실에는 이제 히터가 달린 좌석, 비데 분사, 그리고 소리 가림 시스템이 갖춰진 스마트 변기가 있습니다. 물을 내리면 짧고 부드러운 멜로디가 자동으로 재생돼 어색한 소리를 가려줍니다. 이 멜로디는 동작 센서에서 나오기 때문에 별도의 버튼을 누를 필요가 없습니다. 흥미로운 점은 멜로디가 시간대에 따라 바뀐다는 것으로, 아침엔 차분한 종소리, 밤엔 밝은 징글이 흐릅니다. 이러한 첨단 설비는 새로 짓거나 리모델링한 공간에 흔히 보이지만, 오래된 화장실은 여전히 일반 변기를 사용합니다. 그래서 다음에 화장실에서 울려 퍼지는 소리를 듣게 되면, 그것이 서울만의 사생활 보호 방식이라는 것을 알게 될 것입니다.

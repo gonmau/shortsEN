@@ -3396,7 +3396,43 @@
     "verify_note": "Winter bingsu Seoul, bingsu in December, Korean street food winter shaved ice",
     "country": "Winter Shaved Ice",
     "created_at": "2026-10-13T23:28:03.975031+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Yes, you can eat ice cream in Seoul’s December chill—called bingsu. In busy spots like Myeongdong and Hongdae, street stalls set up insulated carts that serve bingsu all year. The shaved ice comes with warm red bean paste, toasted rice cakes, and hot syrups, so the cold base meets comforting heat. Vendors hand it in small disposable bowls, perfect for strolling through markets. The treat began as a summer snack, but the hot toppings keep you warm enough to keep it going in winter. Some stalls even pour hot chocolate or ginger tea over the ice, turning the dessert into a hand‑warmer. You’ll mostly find it in these tourist districts, not in quieter neighborhoods.",
+    "title_line1": "Winter bingsu Seoul",
+    "title_line2": "Cold ice, warm bean",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*Ice* cream chill"
+      },
+      {
+        "s": 2,
+        "text": "All‑year *bingsu* carts"
+      },
+      {
+        "s": 3,
+        "text": "Hot *toppings* warm"
+      },
+      {
+        "s": 5,
+        "text": "Ice + *hot chocolate*"
+      }
+    ],
+    "image_queries": [
+      "bingsu ice cream winter",
+      "year-round bingsu street cart",
+      "bingsu with hot toppings",
+      "bingsu disposable bowl",
+      "bingsu with hot chocolate",
+      "bingsu ginger tea topping",
+      "bingsu tourist district stall"
+    ],
+    "scene_count": 10,
+    "ko_title": "Korea: Winter bingsu Seoul Cold ice, warm bean #Shorts",
+    "ko_description": "🎯 네, 서울의 12월 추위 속에서도 눈처럼 부드러운 빙수를 먹을 수 있어요—빙수라고 합니다.\n\n명동, 홍대 같은 인기 관광지에서는 거리 노점들이 단열된 카트를 설치해 연중 빙수를 제공합니다. 갈아 만든 얼음 위에 따뜻한 팥소, 구운 떡, 뜨거운 시럽을 올려 차가운 베이스와 따뜻함이 대비됩니다. 판매자들은 보통 작은 일회용 그릇에 담아 밤시장 거리를 걸으며 쉽게 즐길 수 있게 합니다. 이 음식은 원래 여름 간식으로 시작했지만 뜨거운 토핑 덕분에 겨울에도 계속됩니다.\n\n💡 일부 노점은 얼음 위에 뜨거운 초콜릿이나 생강차를 부어 즉석 손난로 같은 디저트로 만들기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절 그리고 놀라운 사실들.\n\n#WinterShavedIce #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "네, 서울의 12월 추위 속에서도 빙수를 먹을 수 있어요—빙수라고 합니다. 명동, 홍대 같은 번화가에서는 거리 노점들이 단열된 카트를 설치해 연중 빙수를 제공합니다. 갈아 만든 얼음 위에 따뜻한 팥소, 구운 떡, 뜨거운 시럽이 올려져 차가운 베이스와 따뜻함이 만납니다. 판매자들은 작은 일회용 그릇에 담아 시장을 거닐기에 딱 맞게 제공합니다. 이 간식은 원래 여름 간식으로 시작했지만 뜨거운 토핑 덕분에 겨울에도 충분히 따뜻하게 즐길 수 있습니다. 일부 노점은 얼음 위에 뜨거운 초콜릿이나 생강차를 부어 디저트를 손난로로 바꾸기도 합니다. 주로 이런 관광지에서 찾을 수 있고, 조용한 동네에서는 드물어요.",
+    "ko_issues": [],
+    "ko_src": "a17c1e026024"
   },
   {
     "label": "Delivery Robots on Streets",
@@ -3409,7 +3445,42 @@
     "verify_note": "Seoul delivery robot pilot, Starship delivery robot, Korean autonomous sidewalk robot",
     "country": "Delivery Robots on Streets",
     "created_at": "2026-10-13T23:28:26.706977+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Did you know tiny robots are already delivering pizza to Korean apartments? In upscale neighborhoods like Gangnam and Seongnam, small box‑shaped delivery robots zip along the sidewalks. When an order arrives, residents get a phone notification, open their door, and the robot slides a sealed bag onto a mat. The service skips traffic and limits contact during rush hour, making it popular in many high‑rise complexes that have a dedicated charging station. Some of these robots can even climb a few steps, reaching the front door without needing an elevator. Right now it’s a pilot limited to certain apartment buildings, not a city‑wide system, but it shows how autonomous tech is reshaping everyday life in Seoul.",
+    "title_line1": "Food bots zip Seoul",
+    "title_line2": "Pizza at your door",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Tiny robots *deliver* pizza"
+      },
+      {
+        "s": 2,
+        "text": "Bots zip *sidewalks*"
+      },
+      {
+        "s": 4,
+        "text": "*Contactless* delivery"
+      },
+      {
+        "s": 5,
+        "text": "Robots *climb* steps"
+      }
+    ],
+    "image_queries": [
+      "delivery robot pizza",
+      "delivery robot sidewalk",
+      "robot delivering bag door",
+      "contactless delivery robot",
+      "delivery robot climbing steps",
+      "Seoul delivery robot pilot"
+    ],
+    "scene_count": 10,
+    "ko_title": "Korea: Food bots zip Seoul Pizza at your door #Shorts",
+    "ko_description": "🎯 작은 로봇이 이미 한국 아파트에 피자를 배달하고 있다는 사실, 알고 계셨나요?\n\n강남·성남 등 지역에서는 상자 모양의 소형 배달 로봇이 인도로 이동합니다. 주민은 스마트폰으로 알림을 받고, 문을 열면 로봇이 봉인된 가방을 매트 위에 미끄러뜨려 줍니다. 교통 체증을 피하고 혼잡 시간대에 접촉을 최소화한다는 이유로 인기가 높습니다. 주로 전용 로봇 충전 스테이션이 설치된 고급 주거 단지에서 운영됩니다.\n\n💡 일부 로봇은 몇 계단을 오를 수 있어 엘리베이터 없이 고층 건물 앞문까지 도달할 수 있습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#DeliveryRobotsOnStreets #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "작은 로봇이 이미 한국 아파트에 피자를 배달하고 있다는 사실, 알고 계셨나요? 강남·성남 같은 고급 동네에서는 상자 모양의 소형 배달 로봇이 인도를 질주합니다. 주문이 들어오면 주민은 스마트폰 알림을 받고, 문을 열면 로봇이 봉인된 가방을 매트 위에 미끄러뜨려 줍니다. 이 서비스는 교통 체증을 피하고 러시아워에 접촉을 최소화해 많은 고층 단지에서 인기를 끌고 있습니다. 전용 충전 스테이션이 있는 단지에서 주로 운영됩니다. 일부 로봇은 몇 계단을 오를 수 있어 엘리베이터 없이도 현관문에 도달합니다. 현재는 특정 아파트 건물에 한정된 시범 운영이며 전역적인 시스템은 아니지만, 자율 기술이 서울 일상을 어떻게 바꾸고 있는지를 보여줍니다.",
+    "ko_issues": [],
+    "ko_src": "153be889c0fa"
   },
   {
     "label": "Smart Toilets with Music",
@@ -3422,7 +3493,39 @@
     "verify_note": "Seoul public restroom sound masking, Korean smart toilet melody, Korean bathroom music",
     "country": "Smart Toilets with Music",
     "created_at": "2026-10-13T23:28:26.706977+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Ever heard a bathroom sing after you finish? In many Seoul subway stations and big malls, public restrooms now have smart toilets with heated seats, bidet sprays, and a sound‑masking system. When you flush, a brief, soothing melody plays automatically, covering any awkward noises. The tune comes from a motion sensor, so you don’t need to press any extra button. The clever part is that the melody can change with the time of day—a calm chime in the morning and a brighter jingle at night. These high‑tech fixtures are common in newer or renovated spaces, though older restrooms still use regular toilets. So the next time you hear a bathroom hum, you’ll know it’s Seoul’s way of keeping things private.",
+    "title_line1": "Seoul smart toilets",
+    "title_line2": "Music masks flush",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Bathroom *sing*?"
+      },
+      {
+        "s": 3,
+        "text": "*Melody* on flush"
+      },
+      {
+        "s": 5,
+        "text": "Time‑of‑day *tunes*"
+      }
+    ],
+    "image_queries": [
+      "Toilet with music",
+      "Seoul subway public restroom",
+      "Toilet flush melody",
+      "Toilet motion sensor",
+      "Morning and night toilet music",
+      "Modern Korean public restroom",
+      "Seoul bathroom sound masking"
+    ],
+    "scene_count": 10,
+    "ko_title": "Korea: Seoul 스마트 변기 음악 마스크 플러시 #Shorts",
+    "ko_description": "🎯 화장실에서 마친 뒤 노래가 나오는 걸 들어본 적 있나요?\n\n서울 지하철역과 대형 쇼핑몰의 많은 공공 화장실에 히터가 달린 좌석, 비데 기능, 그리고 소리 가림 시스템이 장착된 스마트 변기가 설치되어 있습니다. 사용자가 물을 내리면 몇 초 동안 짧고 부드러운 멜로디가 자동으로 재생됩니다. 이 기능은 붐비는 시설에서의 당혹감을 줄이기 위해 추가됐으며, 동작 센서로 작동해 별도의 버튼이 필요 없습니다.\n\n💡 같은 시스템을 시간대에 따라 다른 곡을 재생하도록 설정할 수 있습니다. 예를 들어 아침엔 차분한 종소리, 밤엔 밝은 징글이 흐릅니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절 그리고 놀라운 사실들.\n\n#SmartToiletsWithMusic #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "화장실에서 마친 뒤 노래가 나오는 걸 들어본 적 있나요? 서울 지하철역과 대형 쇼핑몰의 공공 화장실에는 이제 히터가 달린 좌석, 비데 분사, 그리고 소리 가림 시스템이 갖춰진 스마트 변기가 있습니다. 물을 내리면 짧고 부드러운 멜로디가 자동으로 재생돼 어색한 소리를 가려줍니다. 이 멜로디는 동작 센서에서 나오기 때문에 별도의 버튼을 누를 필요가 없습니다. 흥미로운 점은 멜로디가 시간대에 따라 바뀐다는 것으로, 아침엔 차분한 종소리, 밤엔 밝은 징글이 흐릅니다. 이러한 첨단 설비는 새로 짓거나 리모델링한 공간에 흔히 보이지만, 오래된 화장실은 여전히 일반 변기를 사용합니다. 그래서 다음에 화장실에서 울려 퍼지는 소리를 듣게 되면, 그것이 서울만의 사생활 보호 방식이라는 것을 알게 될 것입니다.",
+    "ko_issues": [],
+    "ko_src": "13459a65a0f7"
   },
   {
     "label": "Black Day Jajangmyeon",
