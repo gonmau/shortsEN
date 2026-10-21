@@ -2528,7 +2528,7 @@
     "verify_note": "Seoul mobile library bus, Seoul Metropolitan Library mobile service, Korean public library outreach",
     "country": "Mobile Library Bus",
     "created_at": "2026-10-13T02:05:37.917825+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Imagine waiting for your train and picking up a novel from a moving library truck. In Seoul, the municipal library runs a specially designed bus that cruises along major subway lines during rush hour. Inside, you’ll find a rotating selection of best‑sellers and children’s books. Commuters swipe a library card at the front, borrow a book for a week, and can drop it off at the next stop. The idea is to bring reading to busy people who rarely have time for a branch library. The surprise? A small café corner where volunteers serve free tea, turning the brief pause into a mini reading lounge. The service runs on weekdays, peak hours, and mainly in central districts, so outlying suburbs see less coverage. Next time you wait for a train, you might just leave with a story in hand.",
     "title_line1": "Subway library bus",
     "title_line2": "Grab a book at stop",
@@ -2561,7 +2561,67 @@
       "reading for busy commuters",
       "free tea cafe corner",
       "person leaving with book"
-    ]
+    ],
+    "ko_title": "Korea: Subway library bus Grab a book at stop #Shorts",
+    "ko_description": "🎯 기차를 기다리면서 움직이는 도서버스에서 소설을 집어드는 모습을 상상해 보세요.\n\n서울시립도서관은 출퇴근 시간에 주요 지하철 노선을 따라 운행되는 특별 설계된 버스를 운영합니다. 버스 안에는 베스트셀러와 어린이 책이 순환적으로 비치되어 있습니다. 승객은 앞쪽에서 도서관 카드를 스와이프하고 일주일 동안 책을 빌린 뒤 다음 정류장에서 반납할 수 있습니다. 이 서비스는 평소에 지점 도서관을 방문할 시간이 없는 바쁜 사람들에게 독서를 제공하는 것이 목표입니다.\n\n💡 버스에는 자원봉사자가 무료 차를 제공하는 작은 카페 코너도 있어 정류장을 미니 독서 라운지로 바꿔 줍니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#MobileLibraryBus #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "기차를 기다리면서 움직이는 도서버스에서 소설을 집어드는 모습을 상상해 보세요. 서울에서는 시립도서관이 출퇴근 시간에 주요 지하철 노선을 따라 운행되는 특별 설계된 버스를 운영합니다. 내부에는 베스트셀러와 어린이 책이 순환적으로 비치되어 있습니다. 승객은 앞쪽에서 도서관 카드를 스와이프하고 일주일 동안 책을 빌린 뒤 다음 정류장에서 반납할 수 있습니다. 이 아이디어는 지점 도서관에 갈 시간이 거의 없는 바쁜 사람들에게 독서를 제공하는 데 있습니다. 놀라운 점은 자원봉사자가 무료 차를 제공하는 작은 카페 코너가 있어 짧은 대기 시간을 미니 독서 라운지로 바꾼다는 것입니다. 이 서비스는 평일 피크 시간에 운영되며 주로 중심 지역에서 이루어져 외곽 교외에서는 덜 제공됩니다. 다음에 기차를 기다릴 때는 이야기를 손에 들고 떠날 수도 있습니다.",
+    "ko_issues": [],
+    "ko_src": "d37c0d2e3a7f",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0031_Mobile Library Bus_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0031_Mobile Library Bus_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "reading on moving bus",
+      "Seoul mobile library bus subway",
+      "Seoul library bus card swipe",
+      "reading for busy commuters",
+      "free tea cafe corner",
+      "person leaving with book"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "Vladvictoria",
+        "page": "https://pixabay.com/photos/bridge-bus-stop-sunset-empty-3720642/"
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "tonysell",
+        "page": "https://pixabay.com/photos/transport-subway-architecture-4834813/"
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "thaoantran0101",
+        "page": "https://pixabay.com/photos/books-library-bookstore-study-7744938/"
+      },
+      {
+        "scene": 4,
+        "source": "commons",
+        "user": "John Mueller from Shenandoah Valley of VA, USA",
+        "license": "CC BY 2.0",
+        "title": "Lansdale, Pennsylvania Train Station.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Lansdale,_Pennsylvania_Train_Station.jpg"
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "Oliver_Nguyen",
+        "page": "https://pixabay.com/photos/vietnam-tea-plantation-agriculture-8259984/"
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "NoName_13",
+        "page": "https://pixabay.com/photos/read-park-bank-to-learn-a-book-3788535/"
+      }
+    ],
+    "image_source": "pixabay",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0031_Mobile Library Bus.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "KTX Power Seats",
@@ -2574,7 +2634,7 @@
     "verify_note": "KTX power outlets, KTX free Wi‑Fi, South Korea high‑speed rail amenities",
     "country": "KTX Power Seats",
     "created_at": "2026-10-13T02:05:37.917825+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Did you know you can join a video call from a seat on South Korea’s fastest train? Since 2020 most KTX high‑speed trains have a power outlet at every seat and free, stable Wi‑Fi that runs the whole Seoul‑to‑Busan route. Business travelers often set up laptops and attend virtual meetings while the train speeds at 300 km/h, turning travel time into productive work time. The outlets accept USB‑C and traditional plugs, and the Wi‑Fi is strong enough for video conferencing. In fact, surveys show over a third of frequent riders finish a work project they started the night before. Older or regional trains may lack these amenities, and signal can dip in mountainous sections.",
     "title_line1": "KTX power seats",
     "title_line2": "Video call on KTX",
@@ -2603,7 +2663,59 @@
       "KTX free WiFi",
       "South Korea train passenger working",
       "regional Korean train interior"
-    ]
+    ],
+    "ko_title": "Korea: KTX 파워 시트 비디오 콜 on KTX #Shorts",
+    "ko_description": "🎯 한국에서 가장 빠른 열차인 KTX 좌석에서 영상 통화를 할 수 있다는 사실, 알고 계셨나요?\n\n2020년부터 대부분의 KTX 고속열차는 모든 좌석에 전원 콘센트를 제공하고, 서울‑부산 전 구간을 아우르는 안정적인 무료 Wi‑Fi 네트워크를 갖추고 있습니다. 비즈니스 여행객들은 노트북을 설치하고 열차가 시속 300km로 달리는 동안 가상 회의에 참석해 이동 시간을 생산적인 업무 시간으로 전환합니다. 탑승 중 Wi‑Fi는 영상 회의에 충분히 강력하며, 전원 콘센트는 USB‑C와 기존 플러그 모두에 호환됩니다.\n\n💡 일부 잦은 이용자 설문조사에 따르면, 승객의 3분의 1 이상이 전날 밤에 시작한 업무 프로젝트를 열차에서 마무리한다고 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#KTXPowerSeats #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "한국에서 가장 빠른 열차인 KTX 좌석에서 영상 통화를 할 수 있다는 사실, 알고 계셨나요? 2020년부터 대부분의 KTX 고속열차는 모든 좌석에 전원 콘센트를 제공하고, 서울‑부산 전 구간을 아우르는 무료, 안정적인 Wi‑Fi를 갖추고 있습니다. 비즈니스 여행객들은 노트북을 설치하고 열차가 시속 300km로 달리는 동안 가상 회의에 참석해 이동 시간을 생산적인 업무 시간으로 전환합니다. 콘센트는 USB‑C와 기존 플러그를 모두 수용하며, Wi‑Fi는 영상 회의에 충분히 강력합니다. 실제로 설문조사에 따르면, 잦은 이용자 중 3분의 1 이상이 전날 밤에 시작한 업무 프로젝트를 열차에서 마무리한다는 결과가 나왔습니다. 오래된 열차나 지방열차는 이러한 편의 시설이 없을 수 있으며, 산악 구간에서는 신호가 약해질 수 있습니다.",
+    "ko_issues": [],
+    "ko_src": "dee24016fd5e",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0032_KTX Power Seats_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0032_KTX Power Seats_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "KTX train video call",
+      "KTX seat power outlet",
+      "business laptop on KTX",
+      "KTX free WiFi",
+      "South Korea train passenger working",
+      "regional Korean train interior"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "bhahn0",
+        "page": "https://pixabay.com/photos/ktx-train-travel-travel-3668473/"
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "StartupStockPhotos",
+        "page": "https://pixabay.com/photos/office-startup-business-home-office-594132/"
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "geralt",
+        "page": "https://pixabay.com/photos/wlan-web-free-access-wifi-2500161/"
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "asd14235714",
+        "page": "https://pixabay.com/photos/subway-metro-subway-station-4823909/"
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "wal_172619",
+        "page": "https://pixabay.com/photos/train-travellers-transport-people-7855480/"
+      }
+    ],
+    "image_source": "pixabay",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0032_KTX Power Seats.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Bike‑Tree Parking Robot",
