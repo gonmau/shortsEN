@@ -3538,7 +3538,43 @@
     "verify_note": "Korean Black Day jajangmyeon, April 14 Black Day Korea, Korean singles holiday",
     "country": "Black Day Jajangmyeon",
     "created_at": "2026-10-13T23:28:26.706977+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Why do some Koreans eat black noodles on a day called Black Day? Two weeks after Valentine’s Day and White Day, South Korea marks Black Day on April 14th. Uncoupled friends and coworkers wear black clothing and head to restaurants for jajangmyeon, thick noodles topped with dark soy‑bean sauce. The tradition began as a tongue‑in‑cheek response to the couple‑focused holidays, and many eateries roll out special “Black Day” menus and discounts for groups dressed in black. At some cafés, the theme continues with a dessert called black coffee mousse, keeping everything ebony from start to finish. The celebration is most popular among younger adults in cities, and not every Korean observes it. So next time you see a bowl of jet‑black noodles, you’ll know the playful story behind it.",
+    "title_line1": "Singles black noodle",
+    "title_line2": "Why the dark sauce?",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Why eat black *noodles*?"
+      },
+      {
+        "s": 2,
+        "text": "April 14: *Black Day*"
+      },
+      {
+        "s": 3,
+        "text": "Wear *black*, jajang"
+      },
+      {
+        "s": 5,
+        "text": "Black *coffee mousse* dessert"
+      }
+    ],
+    "image_queries": [
+      "black noodles bowl",
+      "April 14 Korean calendar",
+      "people wearing black jajangmyeon",
+      "Korean black day menu",
+      "black coffee mousse dessert",
+      "young adults city gathering",
+      "jet black noodles"
+    ],
+    "scene_count": 10,
+    "ko_title": "Korea: Singles black noodle Why the dark sauce? #Shorts",
+    "ko_description": "🎯 왜 일부 한국인들은 블랙 데이라고 불리는 날에 검은 면을 먹을까요?\n\n밸런타인데이와 화이트 데이로부터 2주 뒤인 4월 14일, 한국은 블랙 데이를 기념합니다. 연인 관계가 아닌 친구와 직장 동료들은 검은 옷을 입고 식당에 모여 검은 콩 소스를 얹은 면 요리인 짜장면을 나눠 먹습니다. 이 전통은 커플 중심의 명절에 대한 장난스러운 반응으로 시작됐으며, 많은 식당에서 검은 복장을 한 단체를 위한 특별 “블랙 데이” 메뉴와 할인 혜택을 제공합니다.\n\n💡 일부 카페에서는 식사 전체의 색감 통일을 위해 “블랙 커피 무스”라는 디저트를 제공하기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상 생활, 음식, 예절 및 놀라운 사실들.\n\n#BlackDayJajangmyeon #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "왜 일부 한국인들은 블랙 데이라고 불리는 날에 검은 면을 먹을까요? 밸런타인데이와 화이트 데이로부터 2주 뒤인 4월 14일, 한국은 블랙 데이를 기념합니다. 연인 관계가 아닌 친구와 직장 동료들은 검은 옷을 입고 짜장면, 검은 콩 소스를 얹은 굵은 면을 먹으러 식당에 갑니다. 이 전통은 커플 중심 명절에 대한 장난스러운 반응으로 시작됐으며, 많은 식당에서 검은 복장을 한 그룹을 위한 특별 “블랙 데이” 메뉴와 할인을 제공하고 있습니다. 일부 카페에서는 블랙 커피 무스라는 디저트를 제공해 색감 테마를 시작부터 끝까지 검게 유지합니다. 이 축제는 주로 도시의 젊은 성인들 사이에서 인기가 많으며, 모든 한국인이 이를 지키는 것은 아닙니다. 다음에 검은 색 국수 한 그릇을 보게 된다면, 그 장난스러운 이야기를 알게 될 것입니다.",
+    "ko_issues": [],
+    "ko_src": "756535a8125d"
   },
   {
     "label": "QR‑Only Street Food",
@@ -3551,7 +3587,48 @@
     "verify_note": "Korean street food QR payment, Seoul QR code vending, KakaoPay street vendors",
     "country": "QR‑Only Street Food",
     "created_at": "2026-10-13T23:28:26.706977+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "You can buy tteokbokki from a stall without ever pulling out a wallet. In busy food streets like Hongdae and Gwangjang Market, many vendors now put a small QR code on a stand next to their cart. You scan it with KakaoPay or another Korean mobile payment app, pick the menu on your phone, and pay instantly. A tiny thermal printer spits out a receipt with a number, and the vendor calls that number when your dish is ready. The contact‑free system speeds up service and cuts out the need for change. Some stalls even embed a short video of the cooking process in the QR code, so you can watch the sizzle while you wait. The QR‑only setup is common in popular tourist and nightlife areas, but many smaller or older stalls still take cash. Next time you crave street food, remember your phone might be the only thing you need.",
+    "title_line1": "Seoul street food QR",
+    "title_line2": "Cashless tteokbokki",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Tteokbokki *cashless*"
+      },
+      {
+        "s": 3,
+        "text": "Scan & *pay* instantly"
+      },
+      {
+        "s": 5,
+        "text": "Contact‑free *speed*"
+      },
+      {
+        "s": 6,
+        "text": "QR *sizzle* video"
+      },
+      {
+        "s": 8,
+        "text": "Phone is all you *need*"
+      }
+    ],
+    "image_queries": [
+      "cashless tteokbokki stall",
+      "Seoul street food QR code",
+      "scan and pay instantly mobile",
+      "thermal receipt printer stall",
+      "contact-free speed street vendor",
+      "QR sizzle video cooking",
+      "tourist area QR street vendors",
+      "phone only street food"
+    ],
+    "scene_count": 10,
+    "ko_title": "Korea: Seoul street food QR Cashless tteokbokki #Shorts",
+    "ko_description": "🎯 지갑을 꺼내지 않아도 포장마차에서 떡볶이를 살 수 있습니다.\n\n홍대·광장시장 등 붐비는 먹거리 거리에서 많은 가게들이 이제 매대 옆에 작은 QR 코드를 놓고 있습니다. 고객은 카카오페이 등 한국 모바일 결제 앱으로 코드를 스캔하고, 휴대폰으로 메뉴를 선택해 즉시 결제합니다. 작은 열전사 프린터가 번호가 적힌 영수증을 출력하고, 번호가 호출되면 가게 주인이 주문을 건네줍니다. 이 비접촉 시스템은 서비스 속도를 높이고 거스름돈 필요성을 줄여줍니다.\n\n💡 일부 가게는 QR 코드에 요리 과정을 담은 짧은 영상을 삽입해, 손님이 기다리는 동안 빠르게 감상할 수 있게 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#QROnlyStreetFood #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "지갑을 꺼내지 않아도 포장마차에서 떡볶이를 살 수 있습니다. 홍대·광장시장 등 분주한 먹거리 거리에서 많은 가게들이 이제 카트 옆에 작은 QR 코드를 놓고 있습니다. 카카오페이 등 다른 한국 모바일 결제 앱으로 코드를 스캔하고, 휴대폰으로 메뉴를 선택해 즉시 결제합니다. 작은 열전사 프린터가 번호가 적힌 영수증을 뿜어내고, 가게 주인이 그 번호를 호출하면 음식이 준비됩니다. 비접촉 시스템은 서비스 속도를 높이고 거스름돈 필요성을 없앱니다. 일부 포장마차는 QR 코드에 요리 과정을 담은 짧은 영상을 삽입해, 기다리는 동안 불꽃 튀는 모습을 볼 수 있게 합니다. QR 전용 결제는 인기 관광지와 야 nightlife 지역에서 흔하지만, 여전히 작은 규모이거나 오래된 가게는 현금을 받습니다. 다음에 길거리 음식을 먹고 싶을 때, 전화기만 있으면 된다는 점을 기억하세요.",
+    "ko_issues": [],
+    "ko_src": "cc2bc55138d2"
   },
   {
     "label": "Silent Study Cafés",
@@ -3564,7 +3641,28 @@
     "verify_note": "Korean study café culture, 24-hour study cafés Seoul, QR ordering at study cafés, silent study café etiquette, nap pods study café Korea",
     "country": "Silent Study Cafés",
     "created_at": "2026-10-13T23:29:29.048716+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Did you know you can pay by the minute to study in a silent café that serves coffee through a QR app? Across Seoul and other big cities, many cafés stay open 24 hours and turn into study hubs. You rent a desk or a private booth for an hourly fee, then scan the QR code on the table to order coffee, instant noodles, or a dessert. The rule is simple: keep conversation below a whisper, with gentle reminders on the screen. Some places even have sound‑proof booths and nap pods for short breaks. The twist? You can book a 20‑minute power‑nap pod that wakes you with a soft chime and a fresh cup of tea. Smaller cafés might not enforce the quiet rule or offer QR ordering, but the silent‑study vibe is a growing part of Korean city life.",
+    "title_line1": "4‑hr silent study",
+    "title_line2": "Pay by minute, QR coffee",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Pay by the *minute*"
+      },
+      {
+        "s": 3,
+        "text": "*QR* coffee & snacks"
+      },
+      {
+        "s": 5,
+        "text": "Sound‑proof *booths*"
+      },
+      {
+        "s": 7,
+        "text": "*Power‑nap* pod"
+      }
+    ]
   },
   {
     "label": "Did You Eat? Greeting",
@@ -3577,7 +3675,34 @@
     "verify_note": "Korean greeting 밥 먹었어요? cultural etiquette",
     "country": "Did You Eat? Greeting",
     "created_at": "2026-10-21T08:21:13.904881+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Ever been asked “Did you eat?” right after saying hello? In Korea, that simple question—bap meogeosseoyo?—is a common greeting. You’ll hear it on the subway, in a coffee shop, or at a street‑food stall. It’s less about the meal and more about checking on someone’s wellbeing, much like “How are you?” Even if the person just finished a bite, the phrase turns a quick hello into a warm check‑in. Sometimes it doubles as a subtle invitation to share a snack nearby. The habit is most common among friends, family, and older generations, while younger folks in formal settings may choose other expressions. So the next time someone asks, you might just be getting a friendly hello—plus a possible snack offer.",
+    "title_line1": "He asks Did you eat",
+    "title_line2": "Just a friendly hi",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*Did you eat?* greeting"
+      },
+      {
+        "s": 2,
+        "text": "*Hello* in Korea"
+      },
+      {
+        "s": 4,
+        "text": "A *check‑in* greeting"
+      }
+    ],
+    "image_queries": [
+      "Did you eat greeting",
+      "Hello in Korea",
+      "Korean subway interior",
+      "Check-in greeting",
+      "Sharing snack together",
+      "Older friends chatting",
+      "Friendly Korean hello"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Reusable Cup Lockers",
@@ -3590,7 +3715,38 @@
     "verify_note": "Seoul café reusable cup lockers zero waste",
     "country": "Reusable Cup Lockers",
     "created_at": "2026-10-21T08:21:13.904881+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Imagine borrowing a coffee cup, locking it, and never losing it again. In Seoul, some eco‑focused cafés in neighborhoods like Hongdae and Seongsu have small locker banks right by the counter. You bring your own reusable cup, scan a QR code, and a locker pops open. The system logs the locker number on your phone, so you can drop the cup in and walk away. When you return, the same code opens the locker and you retrieve your cup—no keys needed. A few cafés even add a tiny fee that goes to local environmental NGOs. These lockers are offered mainly by boutique or sustainability‑focused cafés, not by most coffee shops in the city.",
+    "title_line1": "Seoul cafés lock cups",
+    "title_line2": "Grab yours anytime",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Lock it, *never lose*"
+      },
+      {
+        "s": 3,
+        "text": "Scan QR, locker *opens*"
+      },
+      {
+        "s": 5,
+        "text": "Code opens, *get* cup"
+      },
+      {
+        "s": 7,
+        "text": "*Boutique* cafés only"
+      }
+    ],
+    "image_queries": [
+      "Reusable cup lock",
+      "Seoul cafe lockers",
+      "QR code lock",
+      "Phone locker log",
+      "Code opens cup",
+      "Eco fee donation",
+      "Boutique cafe lockers"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Morning Milk Bike Delivery",

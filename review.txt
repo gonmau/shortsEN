@@ -94,3 +94,64 @@
 대본[6]: These high‑tech fixtures are common in newer or renovated spaces, though older restrooms still use regular toilets.
 대본[7]: So the next time you hear a bathroom hum, you’ll know it’s Seoul’s way of keeping things private.
 (한글 대본) 화장실에서 마친 뒤 노래가 나오는 걸 들어본 적 있나요? 서울 지하철역과 대형 쇼핑몰의 공공 화장실에는 이제 히터가 달린 좌석, 비데 분사, 그리고 소리 가림 시스템이 갖춰진 스마트 변기가 있습니다. 물을 내리면 짧고 부드러운 멜로디가 자동으로 재생돼 어색한 소리를 가려줍니다. 이 멜로디는 동작 센서에서 나오기 때문에 별도의 버튼을 누를 필요가 없습니다. 흥미로운 점은 멜로디가 시간대에 따라 바뀐다는 것으로, 아침엔 차분한 종소리, 밤엔 밝은 징글이 흐릅니다. 이러한 첨단 설비는 새로 짓거나 리모델링한 공간에 흔히 보이지만, 오래된 화장실은 여전히 일반 변기를 사용합니다. 그래서 다음에 화장실에서 울려 퍼지는 소리를 듣게 되면, 그것이 서울만의 사생활 보호 방식이라는 것을 알게 될 것입니다.
+
+=== [42] Black Day Jajangmyeon ===
+(사실 확인용 검색어) Korean Black Day jajangmyeon, April 14 Black Day Korea, Korean singles holiday
+(한글 제목) Korea: Singles black noodle Why the dark sauce? #Shorts
+후크: Why do some Koreans eat black noodles on a day called Black Day?
+본문: Two weeks after Valentine’s Day and White Day, South Korea observes Black Day on April 14th. Uncoupled friends and coworkers wear black clothing and meet at restaurants to share jajangmyeon, a noodle dish topped with dark soy‑bean sauce. The tradition started as a tongue‑in‑cheek response to the couple‑focused holidays, and many eateries offer special “Black Day” menus and discounts for groups in black attire.
+반전: Some cafés even serve a dessert called “black coffee mousse” to keep the color theme consistent throughout the meal.
+제외:
+제목1: Singles black noodle
+제목2: Why the dark sauce?
+핵심[1]: Why eat black *noodles*?
+핵심[2]: April 14: *Black Day*
+핵심[3]: Wear *black*, jajang
+핵심[5]: Black *coffee mousse* dessert
+이미지[1]: black noodles bowl
+이미지[2]: April 14 Korean calendar
+이미지[3]: people wearing black jajangmyeon
+이미지[4]: Korean black day menu
+이미지[5]: black coffee mousse dessert
+이미지[6]: young adults city gathering
+이미지[7]: jet black noodles
+대본[1]: Why do some Koreans eat black noodles on a day called Black Day?
+대본[2]: Two weeks after Valentine’s Day and White Day, South Korea marks Black Day on April 14th.
+대본[3]: Uncoupled friends and coworkers wear black clothing and head to restaurants for jajangmyeon, thick noodles topped with dark soy‑bean sauce.
+대본[4]: The tradition began as a tongue‑in‑cheek response to the couple‑focused holidays, and many eateries roll out special “Black Day” menus and discounts for groups dressed in black.
+대본[5]: At some cafés, the theme continues with a dessert called black coffee mousse, keeping everything ebony from start to finish.
+대본[6]: The celebration is most popular among younger adults in cities, and not every Korean observes it.
+대본[7]: So next time you see a bowl of jet‑black noodles, you’ll know the playful story behind it.
+(한글 대본) 왜 일부 한국인들은 블랙 데이라고 불리는 날에 검은 면을 먹을까요? 밸런타인데이와 화이트 데이로부터 2주 뒤인 4월 14일, 한국은 블랙 데이를 기념합니다. 연인 관계가 아닌 친구와 직장 동료들은 검은 옷을 입고 짜장면, 검은 콩 소스를 얹은 굵은 면을 먹으러 식당에 갑니다. 이 전통은 커플 중심 명절에 대한 장난스러운 반응으로 시작됐으며, 많은 식당에서 검은 복장을 한 그룹을 위한 특별 “블랙 데이” 메뉴와 할인을 제공하고 있습니다. 일부 카페에서는 블랙 커피 무스라는 디저트를 제공해 색감 테마를 시작부터 끝까지 검게 유지합니다. 이 축제는 주로 도시의 젊은 성인들 사이에서 인기가 많으며, 모든 한국인이 이를 지키는 것은 아닙니다. 다음에 검은 색 국수 한 그릇을 보게 된다면, 그 장난스러운 이야기를 알게 될 것입니다.
+
+=== [43] QR‑Only Street Food ===
+(사실 확인용 검색어) Korean street food QR payment, Seoul QR code vending, KakaoPay street vendors
+(한글 제목) Korea: Seoul street food QR Cashless tteokbokki #Shorts
+후크: You can buy tteokbokki from a stall without ever pulling out a wallet.
+본문: In bustling food streets such as Hongdae and Gwangjang Market, many vendors now display a small QR code on a stand beside their stall. Customers scan the code with KakaoPay or other Korean mobile payment apps, select the menu on their phone, and pay instantly. A tiny thermal printer then issues a receipt with a number, and the vendor hands over the order when the number is called. This contact‑free system speeds up service and reduces the need for change.
+반전: Some vendors also embed a short video of the dish’s preparation into the QR code, so diners can watch a quick clip while they wait.
+제외:
+제목1: Seoul street food QR
+제목2: Cashless tteokbokki
+핵심[1]: Tteokbokki *cashless*
+핵심[3]: Scan & *pay* instantly
+핵심[5]: Contact‑free *speed*
+핵심[6]: QR *sizzle* video
+핵심[8]: Phone is all you *need*
+이미지[1]: cashless tteokbokki stall
+이미지[2]: Seoul street food QR code
+이미지[3]: scan and pay instantly mobile
+이미지[4]: thermal receipt printer stall
+이미지[5]: contact-free speed street vendor
+이미지[6]: QR sizzle video cooking
+이미지[7]: tourist area QR street vendors
+이미지[8]: phone only street food
+대본[1]: You can buy tteokbokki from a stall without ever pulling out a wallet.
+대본[2]: In busy food streets like Hongdae and Gwangjang Market, many vendors now put a small QR code on a stand next to their cart.
+대본[3]: You scan it with KakaoPay or another Korean mobile payment app, pick the menu on your phone, and pay instantly.
+대본[4]: A tiny thermal printer spits out a receipt with a number, and the vendor calls that number when your dish is ready.
+대본[5]: The contact‑free system speeds up service and cuts out the need for change.
+대본[6]: Some stalls even embed a short video of the cooking process in the QR code, so you can watch the sizzle while you wait.
+대본[7]: The QR‑only setup is common in popular tourist and nightlife areas, but many smaller or older stalls still take cash.
+대본[8]: Next time you crave street food, remember your phone might be the only thing you need.
+(한글 대본) 지갑을 꺼내지 않아도 포장마차에서 떡볶이를 살 수 있습니다. 홍대·광장시장 등 분주한 먹거리 거리에서 많은 가게들이 이제 카트 옆에 작은 QR 코드를 놓고 있습니다. 카카오페이 등 다른 한국 모바일 결제 앱으로 코드를 스캔하고, 휴대폰으로 메뉴를 선택해 즉시 결제합니다. 작은 열전사 프린터가 번호가 적힌 영수증을 뿜어내고, 가게 주인이 그 번호를 호출하면 음식이 준비됩니다. 비접촉 시스템은 서비스 속도를 높이고 거스름돈 필요성을 없앱니다. 일부 포장마차는 QR 코드에 요리 과정을 담은 짧은 영상을 삽입해, 기다리는 동안 불꽃 튀는 모습을 볼 수 있게 합니다. QR 전용 결제는 인기 관광지와 야 nightlife 지역에서 흔하지만, 여전히 작은 규모이거나 오래된 가게는 현금을 받습니다. 다음에 길거리 음식을 먹고 싶을 때, 전화기만 있으면 된다는 점을 기억하세요.
