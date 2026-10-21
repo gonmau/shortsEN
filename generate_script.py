@@ -9,7 +9,8 @@ from pathlib import Path
 from groq import Groq, RateLimitError
 
 from common import split_sentences, strip_marks, pending_render
-from scenes import scene_groups
+from scenes import scene_groups, default_scene_count
+import crosscheck
 
 
 DB_FILE = Path("facts_db.json")
@@ -50,6 +51,23 @@ MIN_CHARS = 380
 TARGET_MIN_CHARS = 520
 TARGET_MAX_CHARS = 900   # 이보다 길면 재생성
 HARD_MAX_CHARS = 1050    # 재시도가 모두 실패하면 이 길이까지는 마지막 후보를 그대로 사용
+
+# 목표 길이(초): 환경변수 SCRIPT_TARGET_SEC 이 있으면 단어 수 기준을 거기에 맞춘다 (UI 2단계에서 지정). 없으면 아래 기본값(90~115단어).
+def _rate_mult():
+    m = re.match(r"\s*([+-]?\d+)", os.environ.get("TTS_RATE", ""))
+    return 1.0 + (int(m.group(1)) / 100.0 if m else 0.0)
+
+
+W_LO, W_HI, W_HARD_MAX, W_HARD_MIN = 90, 115, 120, 80
+_SEC = os.environ.get("SCRIPT_TARGET_SEC", "").strip()
+if _SEC.replace(".", "", 1).isdigit() and float(_SEC) > 0:
+    _w = float(_SEC) * 2.2 * _rate_mult()  # 영어 약 2.2단어/초 (속도 설정 반영)
+    W_LO, W_HI = max(20, round(_w * 0.88)), max(25, round(_w * 1.12))
+    W_HARD_MAX, W_HARD_MIN = round(_w * 1.2), max(15, round(_w * 0.8))
+    MIN_CHARS = int(W_HARD_MIN * 4.75)
+    TARGET_MIN_CHARS = int(W_LO * 5.8)
+    TARGET_MAX_CHARS = int(W_HARD_MAX * 7.5)
+    HARD_MAX_CHARS = int(TARGET_MAX_CHARS * 1.17)
 
 
 # ============================================================
@@ -205,7 +223,7 @@ Rules:
    Respect the [Limits of this fact] and mention the limit briefly when it matters.
 5. Use short sentences that are easy to read aloud with TTS. Avoid parentheses, emoji, hashtags, and abbreviations.
 6. Write Korean words in plain English letters (for example "banchan", "jeonse"), and briefly explain them. No Hangul.
-7. Total length: 90 to 115 words. Hard limit: never more than 120 words, never fewer than 80. Count the words before you answer and cut if you are over.
+7. Total length: {W_LO} to {W_HI} words. Hard limit: never more than {W_HARD_MAX} words, never fewer than {W_HARD_MIN}. Count the words before you answer and cut if you are over.
 8. If the material is short, explain its meaning and context without adding new facts.
 9. Never ask people to subscribe, like, follow, turn on notifications, or comment.
    End on a lingering line or a twist, ideally connected to the opening question so people want to watch again.
@@ -491,7 +509,7 @@ def generate_highlights(client, models, fact, narration, retries=3):
 
 def build_query_prompt(fact, narration):
     sents = split_sentences(narration)
-    groups = scene_groups(sents, 6)
+    groups = scene_groups(sents, default_scene_count())
     hl = {h.get("s"): strip_marks(h.get("text", "")) for h in (fact.get("highlights") or []) if isinstance(h, dict)}
     blocks = []
     for k, (a, b) in enumerate(groups, start=1):
@@ -545,7 +563,7 @@ def generate_queries(client, models, fact, narration, retries=3):
         client, models,
         "You are a careful photo editor. Output JSON only.",
         build_query_prompt(fact, narration), 600, retries,
-        lambda t: parse_queries(t, len(scene_groups(split_sentences(narration), 6)) or 6),
+        lambda t: parse_queries(t, len(scene_groups(split_sentences(narration), default_scene_count())) or 6),
     )
 
 
@@ -578,7 +596,7 @@ What to look for:
 - anything you believe is factually wrong
 
 Fix them with qualified, calm wording (many / often / in some places / typically) and a clear scope, or delete the claim if it cannot be fixed.
-Keep the same style, make the narration still 90 to 115 words, short sentences, no emoji, no subscribe/like requests.
+Keep the same style, make the narration still {W_LO} to {W_HI} words, short sentences, no emoji, no subscribe/like requests.
 If everything is already accurate and calm, return the texts unchanged with an empty issues list.
 
 Respond with a pure JSON object only:
@@ -654,6 +672,10 @@ def ensure_extras(client, models, fact, retries=3):
     changed = False
     # AI 사실검수는 하지 않는다 (사실 확인은 사람이 직접 한다)
     narration = fact.get("narration", "")
+    if crosscheck.enabled() and not fact.get("cross_checked") and fact.get("status") != "rejected":
+        changed = crosscheck.cross_check(client, models, fact) or changed
+        if fact.get("status") == "rejected":
+            return True
     if not title_ok(fact):
         titles = generate_title(client, models, fact, narration, retries)
         if titles:
@@ -674,6 +696,7 @@ def ensure_extras(client, models, fact, retries=3):
         qs = generate_queries(client, models, fact, narration, retries)
         if qs:
             fact["image_queries"] = qs
+            fact["scene_count"] = default_scene_count()
             changed = True
             print("  [이미지 검색어] " + " | ".join(qs))
         else:
@@ -694,6 +717,7 @@ def run_extras(client, models, db, limit, start, delay, retries):
     todo = [
         (i, f) for i, f in targets
         if not (title_ok(f) and f.get("highlights") is not None and f.get("image_queries"))
+        or (crosscheck.enabled() and not f.get("cross_checked"))
     ]
     print(f"제목/핵심 문구/이미지 검색어 보충 대상: {len(todo)}개")
     for number, (index, fact) in enumerate(todo, start=1):
@@ -1076,7 +1100,7 @@ def main():
             fact["status"] = "scripted"  # TTS 단계(generate_tts_v2.py)가 이 상태를 찾습니다.
 
             # 대본이 새로 바뀌었으므로 이전 제목/핵심 문구/검색어는 지우고 새로 만든다
-            for key in ("title_line1", "title_line2", "highlights", "image_queries", "fact_checked", "fact_issues", "fact_risk", "fact_verifiability", "fact_applied", "reject_reason", "narration_original"):
+            for key in ("title_line1", "title_line2", "highlights", "image_queries", "fact_checked", "fact_issues", "fact_risk", "fact_verifiability", "fact_applied", "reject_reason", "narration_original", "cross_checked", "cross_notes", "cross_verdict", "cross_model", "cross_sources"):
                 fact.pop(key, None)
             ensure_extras(client, models, fact, args.retries)
 

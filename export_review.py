@@ -33,6 +33,10 @@ def main():
         if not item.get("narration"):
             continue
         lines = [f"=== [{idx}] {item.get('country', '')} ==="]
+        if item.get("cross_verdict"):
+            lines.append(f"(교차검증) {item['cross_verdict']}")
+        for n, t in enumerate(item.get("cross_notes") or [], start=1):
+            lines.append(f"(교차검증 메모 {n}) {t}")
         if item.get("verify_note"):
             lines.append(f"(사실 확인용 검색어) {item['verify_note']}")
         if item.get("fact_risk"):

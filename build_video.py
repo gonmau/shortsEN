@@ -26,8 +26,9 @@ from moviepy.editor import (
 
 from layout import IMG_BOX, SUBTITLE_Y, make_template, make_corner_overlay
 from common import split_sentences, strip_marks, visual_dir, credit_label
-from scenes import scene_groups
+from scenes import scene_groups, item_scene_count
 import subtitles
+import overlays
 
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -160,10 +161,10 @@ def get_visual_paths(idx, item):
     """scene_01~06.png 경로 목록 (없는 파일도 경로는 돌려줌 - 장면별로 대체 카드 사용)."""
     d = visual_dir(BASE_DIR, idx, item)
     for cand in (d, d.parent / (d.name + "_clean")):
-        paths = [cand / f"scene_{n:02d}.png" for n in range(1, SCENE_COUNT + 1)]
+        paths = [cand / f"scene_{n:02d}.png" for n in range(1, item_scene_count(item) + 1)]
         if all(p.exists() for p in paths):
             return paths
-    return [d / f"scene_{n:02d}.png" for n in range(1, SCENE_COUNT + 1)]
+    return [d / f"scene_{n:02d}.png" for n in range(1, item_scene_count(item) + 1)]
 
 
 def load_timings(path, audio_duration, script_text):
@@ -596,7 +597,7 @@ def build_one(idx, item):
     srcs, real_images = load_scene_sources(
         visual_paths, country, str(item.get("topic") or "")
     )
-    print(f"이미지: {real_images}/{SCENE_COUNT}장 사용 (나머지는 대체 카드)")
+    print(f"이미지: {real_images}/{item_scene_count(item)}장 사용 (나머지는 대체 카드)")
 
     audio = AudioFileClip(str(audio_path))
     audio_duration = float(audio.duration)
@@ -612,7 +613,7 @@ def build_one(idx, item):
     timings = load_timings(timing_path, audio_duration, script)
 
     # 장면(이미지)은 대본 문장 묶음에 맞춰 바뀐다 (그 문장을 읽는 동안 그 장면 이미지)
-    starts = scene_starts(script, timings, audio_duration, SCENE_COUNT)
+    starts = scene_starts(script, timings, audio_duration, item_scene_count(item))
     n_scenes = len(starts)
     srcs = srcs[:n_scenes]
     scene_duration = audio_duration / max(n_scenes, 1)
@@ -626,6 +627,51 @@ def build_one(idx, item):
         print(f"  장면 {i+1}: {start:.2f}s ~ {end:.2f}s")
 
     scene_clips = [make_image_box_clip(srcs, audio_duration, starts=starts)]
+
+    # 편집 포인트(UI '편집 포인트' 탭): 지정한 문장이 읽히는 동안 지정한 이미지를 크게 보여주거나 여러 이미지를 번갈아(교차 편집) 보여줌
+    try:
+        import edit_points as EP
+        # 지시 글만 저장돼 있으면 여기서 해석하고, 받지 않은 이미지는 자동으로 받는다 (렌더링 때 그때그때 반영)
+        if str(item.get("edit_points_text") or "").strip() and not item.get("edit_points"):
+            try:
+                item["edit_points"] = EP.parse_text(split_sentences(script), item["edit_points_text"])
+                print(f"  편집 지시 해석: {len(item['edit_points'])}개")
+            except BaseException as e:
+                print(f"  편집 지시 해석 실패: {e}")
+        if item.get("edit_points"):
+            _fd = Path(visual_paths[0]).parent
+            if any(not EP.image_path(_fd, k_, j_).exists() for k_, p_ in enumerate(item["edit_points"], 1) for j_ in range(len(p_.get("queries") or []))):
+                print("  편집 포인트 이미지 받는 중...")
+                try:
+                    EP.fetch_points(idx, item)
+                except BaseException as e:
+                    print(f"  편집 포인트 이미지 받기 실패: {e}")
+        for t0, t1, act, js, iv, k in EP.resolve(item.get("edit_points"), timings, audio_duration):
+            folder_ = Path(visual_paths[0]).parent
+            eimgs = []
+            for j in js:
+                ep_ = EP.image_path(folder_, k, j)
+                if ep_.exists():
+                    eimgs.append(Image.fromarray(prepare_scene_image(ep_)))
+            if not eimgs:
+                print(f"  편집 포인트 {k}: 이미지가 없어 건너뜀 (편집 포인트 탭에서 이미지 받기)")
+                continue
+            dur_ = t1 - t0
+
+            def _ef(t, eimgs=eimgs, act=act, iv=iv, dur_=dur_, k=k):
+                if act == "cross" and len(eimgs) > 1:
+                    j = int(t / iv) % len(eimgs)
+                    return np.asarray(render_motion_frame(eimgs[j], j + k, min((t % iv) / iv, 1.0), ZOOM), dtype=np.uint8)
+                if act == "sequence" and len(eimgs) > 1:  # 순서대로 한 번씩 (마지막 이미지는 구간 끝까지 유지)
+                    seg = dur_ / len(eimgs)
+                    j = min(int(t / seg), len(eimgs) - 1)
+                    return np.asarray(render_motion_frame(eimgs[j], j + k, min((t - j * seg) / seg, 1.0), ZOOM), dtype=np.uint8)
+                return np.asarray(render_motion_frame(eimgs[0], k, min(t / max(dur_, 0.01), 1.0), ZOOM), dtype=np.uint8)
+
+            scene_clips.append(VideoClip(_ef, duration=dur_).set_start(t0).set_position((IMG_BOX[0], IMG_BOX[1])))
+            print(f"  편집 포인트 {k}: {t0:.1f}s~{t1:.1f}s {act} ({len(eimgs)}장)")
+    except Exception as e:
+        print(f"  편집 포인트 적용 실패: {type(e).__name__}: {e}")
 
     # 배경 템플릿(프로필/제목/크레딧/하단바) + 이미지 박스 + 모서리 오버레이
     title1, title2 = split_title(item)
@@ -645,7 +691,8 @@ def build_one(idx, item):
         .set_position((IMG_BOX[0], IMG_BOX[1]))
     )
 
-    caption_mode = os.environ.get("CAPTION_MODE", "script")  # script=대본 자막(기본), highlight=예전 핵심 문구
+    # script=영상에 대본 자막(기본) / srt=.srt 파일만(영상엔 자막 없음) / both=둘 다 / highlight=예전 핵심 문구
+    caption_mode = subtitles.caption_mode()
     scrim_arr = make_scrim() if caption_mode == "highlight" else make_scrim(h=300, max_alpha=60)
     scrim = (
         ImageClip(scrim_arr)
@@ -653,12 +700,12 @@ def build_one(idx, item):
         .set_position((IMG_BOX[0], IMG_BOX[3] - scrim_arr.shape[0]))
     )
 
-    base = CompositeVideoClip(
-        [bg_clip] + scene_clips + [scrim, corner],
-        size=(W, H),
-    ).set_duration(audio_duration)
+    layers = [bg_clip] + scene_clips + ([] if caption_mode == "srt" else [scrim]) + [corner]
+    base = CompositeVideoClip(layers, size=(W, H)).set_duration(audio_duration)
 
     caption_clips = []
+    all_cues = subtitles.make_cues(timings, audio_duration)   # 대본 자막 조각 (SRT는 어떤 방식이든 같이 만든다)
+    srt_text = subtitles.to_srt(all_cues)
     if caption_mode == "highlight":
         # 핵심 문구 (예전 방식)
         cues = highlight_cues(item, timings, audio_duration, script)
@@ -676,7 +723,7 @@ def build_one(idx, item):
         # 대본 자막: 음성 속도에 맞춰 2줄 이내 조각으로 나눠 보여주고, 사진 밝기에 따라 패널 진하기를 조절
         stats = [subtitles.region_stats(im) for im in srcs]
         cap_y = IMG_BOX[3] - subtitles.CAP_H - 18
-        for start, end, text in subtitles.make_cues(timings, audio_duration):
+        for start, end, text in (all_cues if subtitles.burn_in(caption_mode) else []):
             idxs = [k for k in range(n_scenes)
                     if starts[k] < end and (k == n_scenes - 1 or starts[k + 1] > start)] or [0]
             luma = max(stats[k][0] for k in idxs)
@@ -690,8 +737,13 @@ def build_one(idx, item):
             )
             caption_clips.append(cc)
 
+    # 직접 넣은 문구(overlays): UI '문구 넣기' 탭에서 입력한 시점/위치/효과대로 자막 위에 합성
+    overlay_clips = overlays.make_clips(item.get("overlays"), audio_duration)
+    if overlay_clips:
+        print(f"문구 오버레이 {len(item.get('overlays') or [])}개 적용")
+
     final = CompositeVideoClip(
-        [base] + caption_clips,
+        [base] + caption_clips + overlay_clips,
         size=(W, H),
     ).set_duration(audio_duration)
 
@@ -700,6 +752,11 @@ def build_one(idx, item):
     VIDEO_DIR.mkdir(exist_ok=True)
 
     out_path = VIDEO_DIR / f"{idx:04d}_{safe_filename(country)}.mp4"
+    if True:
+        srt_path = out_path.with_suffix(".srt")
+        srt_path.write_text(srt_text, encoding="utf-8")
+        item["srt_path"] = str(srt_path)
+        print(f"자막 파일(SRT): {srt_path}")
 
     print(f"렌더링 시작: {out_path}")
 
@@ -737,7 +794,7 @@ def build_one(idx, item):
         except Exception:
             pass
 
-    for c in caption_clips:
+    for c in caption_clips + overlay_clips:
         try:
             c.close()
         except Exception:
