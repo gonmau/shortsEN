@@ -3642,17 +3642,21 @@
     "country": "Silent Study Cafés",
     "created_at": "2026-10-13T23:29:29.048716+00:00",
     "status": "scripted",
-    "narration": "Did you know you can pay by the minute to study in a silent café that serves coffee through a QR app? Across Seoul and other big cities, many cafés stay open 24 hours and turn into study hubs. You rent a desk or a private booth for an hourly fee, then scan the QR code on the table to order coffee, instant noodles, or a dessert. The rule is simple: keep conversation below a whisper, with gentle reminders on the screen. Some places even have sound‑proof booths and nap pods for short breaks. The twist? You can book a 20‑minute power‑nap pod that wakes you with a soft chime and a fresh cup of tea. Smaller cafés might not enforce the quiet rule or offer QR ordering, but the silent‑study vibe is a growing part of Korean city life.",
+    "narration": "Did you know you can pay by the minute to study in a silent café that serves coffee through a QR app? In Seoul and other big cities, many cafés stay open 24 hours and turn into study hubs. You rent a desk or a private booth for an hourly fee, then scan the QR code on the table to order coffee, instant noodles, or a dessert. The rule is simple: keep conversation below a whisper, with gentle reminders on the screens. Some places even add sound‑proof booths and nap pods for short breaks. The twist? You can book a 20‑minute power‑nap pod that wakes you with a soft chime and a fresh cup of tea. This quiet, tech‑savvy setup is popular with students, freelancers, and office workers, though smaller cafés may not enforce the silence or offer QR ordering.",
     "title_line1": "4‑hr silent study",
-    "title_line2": "Pay by minute, QR coffee",
+    "title_line2": "Minute pay QR coffee",
     "highlights": [
       {
         "s": 1,
         "text": "Pay by the *minute*"
       },
       {
+        "s": 2,
+        "text": "24‑hour *study* cafés"
+      },
+      {
         "s": 3,
-        "text": "*QR* coffee & snacks"
+        "text": "QR *order* coffee"
       },
       {
         "s": 5,
@@ -3660,9 +3664,20 @@
       },
       {
         "s": 7,
-        "text": "*Power‑nap* pod"
+        "text": "20‑minute *power‑nap*"
       }
-    ]
+    ],
+    "image_queries": [
+      "Seoul minute timer coffee",
+      "24 hour study cafe Seoul",
+      "QR code coffee order Seoul",
+      "quiet study desk Seoul",
+      "soundproof study booth",
+      "empty study corner",
+      "20 minute nap pod",
+      "students using laptops cafe"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Did You Eat? Greeting",
@@ -3759,7 +3774,37 @@
     "verify_note": "Korean milk delivery by bike residential neighborhoods",
     "country": "Morning Milk Bike Delivery",
     "created_at": "2026-10-21T08:21:13.904881+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Did you know you can get farm‑fresh milk delivered to your doorstep before school starts? In neighborhoods like Gangbuk and parts of Busan, local dairy vendors hop on electric bikes just after sunrise. They zip through the quiet streets, stop at each apartment entrance, and hand out chilled milk cartons. Residents often greet the rider by name, and the delivery times are posted on a community board, turning it into a small daily ritual. Many riders even add a tiny free sample of seasonal fruit jam as a thank‑you for regular customers. The service isn’t everywhere—larger high‑rise towers usually rely on grocery deliveries—but it keeps a personal, fresh connection alive.",
+    "title_line1": "Bike milk drops dawn",
+    "title_line2": "Milk before school",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*Farm‑fresh* milk"
+      },
+      {
+        "s": 2,
+        "text": "*Electric* bike sunrise"
+      },
+      {
+        "s": 3,
+        "text": "*Chilled* milk"
+      },
+      {
+        "s": 5,
+        "text": "*Free* fruit jam"
+      }
+    ],
+    "image_queries": [
+      "Korean farm fresh milk",
+      "Korean electric bike sunrise",
+      "Korean chilled milk carton",
+      "Korean apartment hallway",
+      "free fruit jam sample",
+      "high rise apartment exterior"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Smart Elevator Queue",
@@ -3772,7 +3817,36 @@
     "verify_note": "Korea smart elevator app high rise buildings",
     "country": "Smart Elevator Queue",
     "created_at": "2026-10-21T08:21:13.904881+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "What if you could reserve an elevator slot from your phone before you even reach the lobby? In Seoul’s newest high‑rise apartments, like the Lotte World Tower and modern complexes in Songpa, residents tap a button on a dedicated app, pick their floor, and get a digital ticket that appears on the lobby screen. The system groups riders heading to similar floors, so the line shrinks and you see a countdown for the arriving car, letting you time a coffee break perfectly. During rush hour, the app may even reroute you to a nearby stairwell with a moving walkway for a quicker climb. Older buildings still use traditional button calls, but the smart elevator is changing daily life in many new towers.",
+    "title_line1": "Smart Elevator Queue",
+    "title_line2": "Book lift via app",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Reserve *elevator* slot"
+      },
+      {
+        "s": 2,
+        "text": "Get *ticket* on screen"
+      },
+      {
+        "s": 3,
+        "text": "Grouped rides, *short*"
+      },
+      {
+        "s": 4,
+        "text": "App can *reroute* you"
+      }
+    ],
+    "image_queries": [
+      "Smart elevator slot reservation",
+      "Elevator ticket on screen",
+      "Grouped elevator rides",
+      "Elevator app reroute",
+      "Korean high-rise elevator lobby"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Underground Parcel Lockers",
@@ -3785,7 +3859,39 @@
     "verify_note": "Korean apartment parcel lockers, underground delivery lockers, QR code parcel pickup South Korea",
     "country": "Underground Parcel Lockers",
     "created_at": "2026-10-21T08:21:23.822730+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Ever wonder how a Korean apartment gets a package without anyone at the door? In many newer high‑rise buildings, couriers drop parcels into a secure underground locker with dozens of compartments. Your phone buzzes with a push notification and a QR code. Scan the code on the locker panel and the exact box pops open. The system works 24 hours, when the building is closed, so missed deliveries are rare. A small screen often shows the doors opening as you retrieve your item. Some lockers are climate‑controlled, keeping milk or salads fresh until you pick them up. This setup is common in Seoul’s tall apartments, but older complexes and rural areas rely on door‑to‑door delivery.",
+    "title_line1": "Underground lockers",
+    "title_line2": "QR opens your locker",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Package *magic*"
+      },
+      {
+        "s": 3,
+        "text": "Phone *buzz* QR code"
+      },
+      {
+        "s": 4,
+        "text": "Scan *code* opens box"
+      },
+      {
+        "s": 5,
+        "text": "24h *service* nonstop"
+      }
+    ],
+    "image_queries": [
+      "package magic locker",
+      "underground parcel lockers high rise",
+      "phone buzz QR code",
+      "scan code opens box locker",
+      "24h service nonstop locker",
+      "locker screen showing doors",
+      "climate controlled locker interior",
+      "Seoul apartment delivery locker exterior"
+    ],
+    "scene_count": 10
   },
   {
     "label": "School Banchan Buffet",
@@ -3798,7 +3904,38 @@
     "verify_note": "Korean school cafeteria banchan self serve, school lunch side dishes South Korea, student menu voting",
     "country": "School Banchan Buffet",
     "created_at": "2026-10-21T08:21:23.822730+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Did you know Korean kids pick their own side dishes at lunch, just like a buffet? In many elementary and middle schools, the cafeteria rolls out a rotating tray of banchan—small dishes like kimchi, seasoned spinach, and rolled omelet. Students line up, grab a plate, and choose the banchan they want. Portions are controlled and staff refill the tray every few minutes. Some schools let students vote on next week’s banchan menu with a tablet, giving them a voice. A few districts have a zero‑waste rule: kids may only take as many side dishes as they finish, cutting waste. This self‑serve style is common in schools in cities, though private schools may serve meals pre‑plated.",
+    "title_line1": "Korean school lunch",
+    "title_line2": "Kids pick their side",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Pick *buffet* lunch"
+      },
+      {
+        "s": 2,
+        "text": "Rotating *banchan*"
+      },
+      {
+        "s": 5,
+        "text": "Vote *menu* on tablet"
+      },
+      {
+        "s": 6,
+        "text": "Zero‑waste *rule*"
+      }
+    ],
+    "image_queries": [
+      "Korean school buffet lunch",
+      "Rotating banchan tray",
+      "Students picking side dishes",
+      "Cafeteria staff refilling trays",
+      "Tablet voting menu school",
+      "Zero waste cafeteria rule",
+      "Korean school lunch line"
+    ],
+    "scene_count": 10
   },
   {
     "label": "NFC Café Study Pods",
@@ -3811,7 +3948,7 @@
     "verify_note": "Korean café NFC silent mode study pod, Seoul café focus pod NFC, Pomodoro café South Korea",
     "country": "NFC Café Study Pods",
     "created_at": "2026-10-21T08:21:23.822730+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Hanbok Tea Welcome",
