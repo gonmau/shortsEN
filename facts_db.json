@@ -2228,7 +2228,7 @@
     "verify_note": "Seoul umbrella vending machine, Korea disposable umbrella vending, Seoul subway umbrella vending machines",
     "country": "Umbrella Vending Machines",
     "created_at": "2026-10-13T02:05:29.160099+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Caught in a sudden Seoul downpour? You can grab an umbrella from a vending machine. At many subway stations and busy street corners, small transparent machines dispense single‑use plastic umbrellas for just a few thousand won. You push a button, the umbrella folds out automatically, and you’re ready to dash to the next train. The machines are stocked year‑round because Seoul experiences frequent, unexpected rainstorms, and commuters like a quick backup instead of carrying a heavy one. Many locals keep a spare in their lockers or bags. A surprising extra: some machines also dispense a tiny bottle of hand sanitizer. This service is common in big cities like Seoul and Busan, though you won’t find it everywhere. So next time the sky opens, look for the glass box and stay dry.",
     "title_line1": "Sudden Seoul rain",
     "title_line2": "Umbrella vending box",
@@ -2261,7 +2261,65 @@
       "Seoul subway rain umbrella",
       "Hand sanitizer vending",
       "Glass box umbrella vending"
-    ]
+    ],
+    "ko_title": "한국: 갑작스러운 서울 비 우산 자판기 #Shorts",
+    "ko_description": "🎯 갑자기 서울에 소나기가 내리나요? 자판기에서 우산을 뽑을 수 있습니다.\n\n많은 지하철역과 번화가에 작은 투명 자판기가 몇 천 원에 일회용 플라스틱 우산을 제공합니다. 이 자판기는 연중 내내 재고가 채워져 있으며, 버튼을 누르면 우산이 자동으로 펴집니다. 서울에 급작스러운 소나기가 잦아지면서 통근자들이 우산을 따로 들고 다니지 않고도 빠르게 보호받을 수 있게 되면서 이 편리함이 확대되었습니다. 많은 현지인들은 이를 비상용으로 여기며 사물함이나 가방에 몇 개씩 보관합니다.\n\n💡 일부 자판기에서는 우산과 함께 작은 손 소독제 병도 제공됩니다.\n\n🇰🇷 1분 이하로 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#UmbrellaVendingMachines #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "갑자기 서울에 소나기가 내리나요? 자판기에서 우산을 뽑을 수 있습니다. 많은 지하철역과 번화한 거리 모퉁이에 작은 투명 자판기가 몇 천 원에 일회용 플라스틱 우산을 제공합니다. 버튼을 누르면 우산이 자동으로 펴지고, 다음 열차까지 달려갈 준비가 됩니다. 서울은 자주 예기치 못한 비가 내리기 때문에 이 자판기는 연중 내내 재고가 채워져 있으며, 통근자들은 무거운 우산을 들고 다니기보다 빠른 비상용을 선호합니다. 많은 현지인들은 사물함이나 가방에 여분을 보관합니다. 놀라운 추가 서비스로, 일부 자판기에서는 작은 손 소독제 병도 함께 제공합니다. 이 서비스는 서울과 부산 같은 대도시에서 흔하지만 모든 곳에서 찾아볼 수는 없습니다. 다음에 하늘이 열리면, 유리 상자를 찾아 건조하게 지내세요.",
+    "ko_issues": [],
+    "ko_src": "107b01213a8b",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0028_Umbrella Vending Machines_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0028_Umbrella Vending Machines_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Seoul rain downpour",
+      "Umbrella vending machine",
+      "Automatic umbrella dispenser",
+      "Seoul subway rain umbrella",
+      "Hand sanitizer vending",
+      "Glass box umbrella vending"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "WalterBieck",
+        "page": "https://pixabay.com/photos/rain-shower-downpour-meadow-fog-6583650/"
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "StockSnap",
+        "page": "https://pixabay.com/photos/asian-sitting-restaurant-chairs-2589321/"
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "ogamiichiro3",
+        "page": "https://pixabay.com/photos/senbon-torii-torii-japanese-woman-6389421/"
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "GPoulsen",
+        "page": "https://pixabay.com/photos/temple-shrine-boy-courtyard-rain-6683242/"
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "slavoljubovski",
+        "page": "https://pixabay.com/photos/hand-washing-soap-wash-hygiene-4818792/"
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "maxmann",
+        "page": "https://pixabay.com/photos/bottle-drink-beverages-glass-4264820/"
+      }
+    ],
+    "image_source": "pixabay",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0028_Umbrella Vending Machines.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Emoji‑Only Messaging",
@@ -2274,7 +2332,7 @@
     "verify_note": "KakaoTalk emoji only chat, Korean teens emoji messaging, KakaoTalk sticker culture study",
     "country": "Emoji‑Only Messaging",
     "created_at": "2026-10-13T02:05:29.160099+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Ever seen a whole conversation made up of just emojis? Korean teens do it daily on KakaoTalk, the country’s dominant messaging app. Many younger users chat with strings of emojis, stickers, and short slang, sometimes sending a full sentence without a single alphabetic character. This visual language speeds up replies and adds emotional nuance, especially in fast‑paced group chats. It thrives because South Korea has high smartphone penetration and KakaoTalk’s sticker marketplace offers culturally specific icons. You’ll often see hearts, fire, and laughing faces replace a detailed explanation. Surprisingly, some companies even analyze emoji frequency in employee chats to gauge team morale. The trend stays strongest among teenagers and young adults in urban areas, not all Korean users adopt it.",
     "title_line1": "Korean teen emoji chat",
     "title_line2": "Chat made of only icons",
@@ -2307,7 +2365,65 @@
       "Seoul street people using smartphones",
       "Phone screen with laughing emoji",
       "Urban Korean teenagers with phones"
-    ]
+    ],
+    "ko_title": "한국 청소년 이모지 채팅, 아이콘만으로 대화 #Shorts",
+    "ko_description": "🎯 전체 대화가 이모지만으로 이루어진 걸 본 적 있나요? 한국 청소년들은 매일 그렇게 합니다.\n\n카카오톡, 한국의 대표 메신저 앱에서 많은 젊은 사용자들은 이모지, 스티커, 줄인 속어를 활용해 대화하는 스타일을 개발했으며, 때로는 알파벳 문자 하나 없이 전체 문장을 보내기도 합니다. 이러한 시각적 언어는 답장을 빠르게 하고 감정적인 뉘앙스를 더해 주며, 특히 빠르게 진행되는 그룹 채팅에서 효과적입니다. 이 트렌드는 한국의 높은 스마트폰 보급률과 문화적으로 특화된 아이콘을 제공하는 스티커 마켓플레이스가 풍부한 점을 반영합니다. 상세한 설명 대신 하트, 불꽃, 웃음 이모지가 연속으로 나타나는 모습을 흔히 볼 수 있습니다.\n\n💡 일부 기업은 직원 채팅에서 특정 이모지 사용 빈도를 분석해 팀 분위기를 파악하기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절 그리고 놀라운 사실들.\n\n#EmojiOnlyMessaging #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "전체 대화가 이모지만으로 이루어진 걸 본 적 있나요? 한국 청소년들은 카카오톡, 이 나라의 대표 메신저 앱에서 매일 그렇게 합니다. 많은 젊은 사용자들은 이모지, 스티커, 짧은 속어 문자열로 채팅하며, 때로는 알파벳 문자 하나 없이 전체 문장을 보내기도 합니다. 이 시각적 언어는 답장을 빠르게 하고 감정적인 뉘앙스를 더해 주며, 특히 빠르게 진행되는 그룹 채팅에서 효과적입니다. 한국은 스마트폰 보급률이 높고 카카오톡의 스티커 마켓플레이스가 문화적으로 특화된 아이콘을 제공하기 때문에 이 현상이 번성합니다. 상세한 설명 대신 하트, 불꽃, 웃는 얼굴 이모지가 자주 나타납니다. 놀랍게도 일부 기업은 직원 채팅에서 이모지 사용 빈도를 분석해 팀 분위기를 파악하기도 합니다. 이 트렌드는 도시 지역의 청소년과 젊은 성인 사이에서 가장 강하게 나타나며, 모든 한국 사용자가 채택한 것은 아닙니다.",
+    "ko_issues": [],
+    "ko_src": "109163f25a02",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0029_Emoji‐Only Messaging_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0029_Emoji‐Only Messaging_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Korean teen texting on phone",
+      "Phone screen showing emojis",
+      "Fast emoji messages on phone",
+      "Seoul street people using smartphones",
+      "Phone screen with laughing emoji",
+      "Urban Korean teenagers with phones"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/smartphone-technology-mobile-phone-1281632/"
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "JESHOOTS-com",
+        "page": "https://pixabay.com/photos/iphone-hand-girl-smartphone-500291/"
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "tranmautritam",
+        "page": "https://pixabay.com/photos/iphone-hand-phone-mobile-phone-5537230/"
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "viarami",
+        "page": "https://pixabay.com/photos/business-bar-restaurant-shield-5475283/"
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "JESHOOTS-com",
+        "page": "https://pixabay.com/photos/iphone-smartphone-apps-apple-inc-410324/"
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "brianmuhammad_96",
+        "page": "https://pixabay.com/photos/man-woman-couple-model-pose-5852122/"
+      }
+    ],
+    "image_source": "pixabay",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0029_Emoji‐Only Messaging.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Café Passport Hopping",
@@ -2320,7 +2436,86 @@
     "verify_note": "Seoul café stamp card culture, Korean coffee shop loyalty programs, Hongdae café hopping",
     "country": "Café Passport Hopping",
     "created_at": "2026-10-13T02:05:37.917825+00:00",
-    "status": "unverified"
+    "status": "video_done",
+    "narration": "Did you know many Seoul cafés hand out stamp cards so you can turn a coffee run into a treasure hunt? In neighborhoods like Hongdae and Garosugil, cafés give a small card with a cute illustration that gets a stamp each visit. Friends often use a shared map app to plot three to five spots, swapping stories while they wait for their drinks. The habit turns a coffee break into a social sport, and many places reward a full card with a free pastry. Some cafés even hide golden stamps that unlock a limited‑edition drink known only to regular stamp‑collectors. Not every café participates, but the trend adds a playful twist to Seoul’s café culture.",
+    "title_line1": "Cafe stamps in Seoul",
+    "title_line2": "Coffee run = quest",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*Treasure* coffee run"
+      },
+      {
+        "s": 2,
+        "text": "Cute *stamp* cards"
+      },
+      {
+        "s": 4,
+        "text": "Earn *free* pastry"
+      },
+      {
+        "s": 5,
+        "text": "Find *golden* stamp"
+      }
+    ],
+    "ko_title": "한국: 서울 카페 스탬프 = 커피 미션 #Shorts",
+    "ko_description": "🎯 서울의 많은 카페들이 스탬프 카드를 나눠줘서 커피를 마시는 걸 보물찾기로 만들 수 있다는 사실, 알고 계셨나요?\n\n많은 동네에서 카페들은 방문할 때마다 스탬프가 찍히는 작은 카드를 제공하는데, 보통 가게 테마와 맞는 귀여운 일러스트가 들어 있습니다. 친구 그룹은 공유 지도 앱을 이용해 오후에 3~5곳의 카페를 정해두고, 음료를 기다리며 이야기를 나눕니다. 이 문화는 단순한 커피 타임을 사회적 스포츠로 바꾸고, 카드를 다 채우면 무료 페이스트리를 제공하는 카페도 있습니다.\n\n💡 일부 인기 카페는 비밀 ‘골든 스탬프’를 숨겨두어, 이를 모으면 한정판 음료를 얻을 수 있습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#CafPassportHopping #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "서울의 많은 카페들이 스탬프 카드를 나눠줘서 커피를 마시는 걸 보물찾기로 만들 수 있다는 사실, 알고 계셨나요? 홍대와 가로수길 같은 동네에서는 카페가 귀여운 일러스트가 들어간 작은 카드를 주고, 방문할 때마다 스탬프를 찍어줍니다. 친구들은 보통 공유 지도 앱을 사용해 3~5곳을 정하고, 음료를 기다리며 이야기를 나눕니다. 이 습관은 커피 타임을 사회적 스포츠로 바꾸고, 많은 가게가 카드를 다 채우면 무료 페이스트리를 제공합니다. 일부 카페는 정기 스탬프 수집가만 아는 한정판 음료를 열 수 있는 골든 스탬프를 숨겨두기도 합니다. 모든 카페가 참여하는 것은 아니지만, 이 트렌드는 서울 카페 문화에 장난기 가득한 변화를 주고 있습니다.",
+    "ko_issues": [],
+    "ko_src": "3a62854e73a2",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0030_Café Passport Hopping_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0030_Café Passport Hopping_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Café Passport Hopping travel",
+      "Café Passport Hopping travel",
+      "Café Passport Hopping travel",
+      "Café Passport Hopping travel",
+      "Café Passport Hopping travel",
+      "Café Passport Hopping travel"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "JoshuaWoroniecki",
+        "page": "https://pixabay.com/photos/merry-christmas-boarding-pass-travel-5219496/"
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "Pamjpat",
+        "page": "https://pixabay.com/photos/passport-map-world-trip-tourism-2714675/"
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "heybeautimagazine",
+        "page": "https://pixabay.com/photos/travel-passport-perfume-beauty-3999655/"
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "cytis",
+        "page": "https://pixabay.com/photos/passport-flag-travel-visa-2642172/"
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "juanfer_erazo",
+        "page": "https://pixabay.com/photos/man-airport-travel-passport-flight-4862367/"
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "nahchon",
+        "page": "https://pixabay.com/photos/heaven-travel-blue-passport-5311146/"
+      }
+    ],
+    "image_source": "pixabay",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0030_Café Passport Hopping.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Mobile Library Bus",
@@ -2333,7 +2528,40 @@
     "verify_note": "Seoul mobile library bus, Seoul Metropolitan Library mobile service, Korean public library outreach",
     "country": "Mobile Library Bus",
     "created_at": "2026-10-13T02:05:37.917825+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Imagine waiting for your train and picking up a novel from a moving library truck. In Seoul, the municipal library runs a specially designed bus that cruises along major subway lines during rush hour. Inside, you’ll find a rotating selection of best‑sellers and children’s books. Commuters swipe a library card at the front, borrow a book for a week, and can drop it off at the next stop. The idea is to bring reading to busy people who rarely have time for a branch library. The surprise? A small café corner where volunteers serve free tea, turning the brief pause into a mini reading lounge. The service runs on weekdays, peak hours, and mainly in central districts, so outlying suburbs see less coverage. Next time you wait for a train, you might just leave with a story in hand.",
+    "title_line1": "Subway library bus",
+    "title_line2": "Grab a book at stop",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Read on the *move*"
+      },
+      {
+        "s": 2,
+        "text": "*Bus* rides subway"
+      },
+      {
+        "s": 5,
+        "text": "Reading for the *busy*"
+      },
+      {
+        "s": 7,
+        "text": "Free tea at *café*"
+      },
+      {
+        "s": 9,
+        "text": "Leave with a *story*"
+      }
+    ],
+    "image_queries": [
+      "reading on moving bus",
+      "Seoul mobile library bus subway",
+      "Seoul library bus card swipe",
+      "reading for busy commuters",
+      "free tea cafe corner",
+      "person leaving with book"
+    ]
   },
   {
     "label": "KTX Power Seats",
@@ -2346,7 +2574,36 @@
     "verify_note": "KTX power outlets, KTX free Wi‑Fi, South Korea high‑speed rail amenities",
     "country": "KTX Power Seats",
     "created_at": "2026-10-13T02:05:37.917825+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Did you know you can join a video call from a seat on South Korea’s fastest train? Since 2020 most KTX high‑speed trains have a power outlet at every seat and free, stable Wi‑Fi that runs the whole Seoul‑to‑Busan route. Business travelers often set up laptops and attend virtual meetings while the train speeds at 300 km/h, turning travel time into productive work time. The outlets accept USB‑C and traditional plugs, and the Wi‑Fi is strong enough for video conferencing. In fact, surveys show over a third of frequent riders finish a work project they started the night before. Older or regional trains may lack these amenities, and signal can dip in mountainous sections.",
+    "title_line1": "KTX power seats",
+    "title_line2": "Video call on KTX",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Video call on *KTX*"
+      },
+      {
+        "s": 2,
+        "text": "Power at *every* seat"
+      },
+      {
+        "s": 3,
+        "text": "Work while *300km/h*"
+      },
+      {
+        "s": 4,
+        "text": "*Free* Wi‑Fi onboard"
+      }
+    ],
+    "image_queries": [
+      "KTX train video call",
+      "KTX seat power outlet",
+      "business laptop on KTX",
+      "KTX free WiFi",
+      "South Korea train passenger working",
+      "regional Korean train interior"
+    ]
   },
   {
     "label": "Bike‑Tree Parking Robot",
