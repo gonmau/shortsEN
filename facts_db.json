@@ -3948,7 +3948,8 @@
     "verify_note": "Korean café NFC silent mode study pod, Seoul café focus pod NFC, Pomodoro café South Korea",
     "country": "NFC Café Study Pods",
     "created_at": "2026-10-21T08:21:23.822730+00:00",
-    "status": "verified"
+    "status": "rejected",
+    "reject_reason": "ㄱ냥"
   },
   {
     "label": "Hanbok Tea Welcome",
