@@ -3961,7 +3961,8 @@
     "verify_note": "Hanbok rental tea ceremony Bukchon Hanok Village, Korean heritage site tea greeting, jujube tea Korean tourism",
     "country": "Hanbok Tea Welcome",
     "created_at": "2026-10-21T08:21:23.822730+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "ㄱ냥"
   },
   {
     "label": "Office Nap Pods",
@@ -3974,7 +3975,8 @@
     "verify_note": "Korean office nap rooms, corporate wellness, Samsung nap room, Naver nap pod",
     "country": "Office Nap Pods",
     "created_at": "2026-10-21T08:21:32.134696+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "ㄱ냥"
   },
   {
     "label": "Power‑Bank Rental Kiosks",
@@ -3987,7 +3989,8 @@
     "verify_note": "Seoul power bank rental kiosk, KT power bank rental, LG U+ portable charger rental",
     "country": "Power‑Bank Rental Kiosks",
     "created_at": "2026-10-21T08:21:32.134696+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "ㄱ냥"
   },
   {
     "label": "Rooftop Picnic Gardens",
@@ -4000,7 +4003,8 @@
     "verify_note": "Seoul apartment rooftop garden picnic, communal rooftop space Korea, rooftop garden Seoul",
     "country": "Rooftop Picnic Gardens",
     "created_at": "2026-10-21T08:21:32.134696+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "ㄱ냥"
   },
   {
     "label": "Subway Wi‑Fi & Seat Screens",
@@ -4013,6 +4017,7 @@
     "verify_note": "Seoul subway free WiFi, subway seat back screens, SMRT WiFi service",
     "country": "Subway Wi‑Fi & Seat Screens",
     "created_at": "2026-10-21T08:21:32.134696+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "ㄱ냥"
   }
 ]
