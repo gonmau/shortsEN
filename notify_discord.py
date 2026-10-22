@@ -137,7 +137,7 @@ def main():
         # 실행 결과 뒤에 "지금 render/prepare 가능한 개수" 현황을 붙인다
         try:
             from status_report import summary
-            post(os.environ["DISCORD_WEBHOOK_URL"], summary(load_db(), int(os.environ.get("START", "0") or 0)))
+            post_long(os.environ["DISCORD_WEBHOOK_URL"], summary(load_db(), int(os.environ.get("START", "0") or 0)))
         except Exception as e:
             print("현황 전송 실패:", e)
 
