@@ -137,7 +137,7 @@ def youtube_meta(item):
     title = " ".join(filter(None, [item.get("title_line1"), item.get("title_line2")])) or item.get("topic", "")
     if "korea" not in title.lower():
         title = f"Korea: {title}"
-    title = f"{title[:88].rstrip()} #Shorts"
+    title = title[:100].rstrip()   # 제목에는 #Shorts 를 붙이지 않는다 (설명 끝 해시태그에만 둔다)
 
     parts = []
     if item.get("hook"):
