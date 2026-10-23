@@ -46,37 +46,60 @@
     "image_credits": [
       {
         "scene": 1,
-        "user": "PatrickLFC93",
-        "page": "https://pixabay.com/photos/phone-booth-phone-english-uk-7728783/"
+        "source": "pixabay",
+        "user": "manseok_Kim",
+        "page": "https://pixabay.com/photos/building-architecture-city-9761776/",
+        "id": 9761776
       },
       {
         "scene": 2,
-        "user": "wal_172619",
-        "page": "https://pixabay.com/photos/office-worker-sculpture-briefcase-7299228/"
+        "source": "pixabay",
+        "user": "Sunriseforever",
+        "page": "https://pixabay.com/photos/architecture-metropolis-building-3292084/",
+        "id": 3292084
       },
       {
         "scene": 3,
-        "user": "thaoantran0101",
-        "page": "https://pixabay.com/photos/books-library-bookstore-study-7744938/"
+        "source": "pixabay",
+        "user": "pc500k",
+        "page": "https://pixabay.com/photos/seoul-cafe-coffee-shop-7106196/",
+        "id": 7106196
       },
       {
         "scene": 4,
-        "user": "ELG21",
-        "page": "https://pixabay.com/photos/christmas-ornament-lights-blue-7594052/"
+        "source": "pixabay",
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/audio-microphone-bokeh-lights-1851517/",
+        "id": 1851517
       },
       {
         "scene": 5,
-        "user": "viarami",
-        "page": "https://pixabay.com/photos/bar-restaurant-shield-night-life-5475279/"
+        "source": "pixabay",
+        "user": "binmassam",
+        "page": "https://pixabay.com/photos/city-japan-travel-tourism-asia-4807268/",
+        "id": 4807268
       },
       {
         "scene": 6,
-        "user": "lukasbieri",
-        "page": "https://pixabay.com/photos/laptop-mockup-graphics-tablet-2838921/"
+        "source": "pixabay",
+        "user": "bycoo32",
+        "page": "https://pixabay.com/photos/karaoke-karaoke-microphone-3416245/",
+        "id": 3416245
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0000_Solo Karaoke Boom.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "image_queries_done": [
+      "Seoul solo karaoke booth",
+      "Korean office worker karaoke",
+      "Seoul soundproof noraebang interior",
+      "Korean LED karaoke lights",
+      "Korean city street outside karaoke",
+      "Seoul tablet playlist karaoke"
+    ],
+    "youtube_id": "4opEGr5wyDs",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-11"
   },
   {
     "label": "Instant Coffee Vending",
@@ -159,7 +182,10 @@
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0001_Instant Coffee Vending.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "q22Bl6WD1us",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-11"
   },
   {
     "label": "Heated Underground Malls",
@@ -238,7 +264,10 @@
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0002_Heated Underground Malls.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "wf26h9x3CCA",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-11"
   },
   {
     "label": "Company Meal Tickets",
@@ -317,7 +346,10 @@
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0003_Company Meal Tickets.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "vZkZYk0MwEY",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-11"
   },
   {
     "label": "Smart Parcel Lockers",
@@ -400,7 +432,10 @@
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0004_Smart Parcel Lockers.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "8YTVQxhXjuM",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-11"
   },
   {
     "label": "Quiet Subway Cars",
@@ -479,7 +514,10 @@
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0005_Quiet Subway Cars.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "Q-2o06jtpzc",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-11"
   },
   {
     "label": "Uniform Rental Service",
@@ -558,7 +596,10 @@
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0006_Uniform Rental Service.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "WjUvpZ-l_94",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-11"
   },
   {
     "label": "Dol Livestream Tradition",
@@ -641,7 +682,10 @@
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0007_Dol Livestream Tradition.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "TyEpgo7Ly5w",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-12"
   },
   {
     "label": "Convenience Store Laundry",
@@ -968,7 +1012,10 @@
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0011_Han River Light Bike.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "aPhTs6tsGOI",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-12"
   },
   {
     "label": "Midnight Fresh Food Runs",
@@ -1064,7 +1111,10 @@
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0012_Midnight Fresh Food Runs.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "L87_C_sAvQI",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-12"
   },
   {
     "label": "Elevator Karaoke Surprise",
@@ -1419,7 +1469,10 @@
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0018_The ‘‐ssi’ Slip.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "fS9ElDnkaK8",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-13"
   },
   {
     "label": "Banchan Delivery Bonanza",
@@ -1511,7 +1564,10 @@
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0019_South Korea.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "Ps3-jpcZygI",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-13"
   },
   {
     "label": "Convenience Store Meal Kits",
@@ -1623,7 +1679,10 @@
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0021_Café Study Pods.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "nDr_cCQOPVA",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-13"
   },
   {
     "label": "Respectful Drink Pour",
@@ -1721,7 +1780,10 @@
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0022_Respectful Drink Pour.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "fW7lRR5Y7Og",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-13"
   },
   {
     "label": "1000‑Day Celebration",
@@ -1819,7 +1881,10 @@
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0023_1000‐Day Celebration.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "6WtGhzjEImk",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-13"
   },
   {
     "label": "Vending Machine City",
@@ -1913,7 +1978,10 @@
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0024_Vending Machine City.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "GklsGYe20yo",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-14"
   },
   {
     "label": "Toilet Sound Masking",
@@ -2007,7 +2075,10 @@
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0025_Toilet Sound Masking.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "BcUvBn1nIWE",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-14"
   },
   {
     "label": "QR‑Only Street Food",
@@ -2113,7 +2184,10 @@
     ],
     "image_source": "pixabay",
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0026_QR‐Only Street Food.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "4avI_7ykvlw",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-15"
   },
   {
     "label": "Han River Grill Kiosks",
@@ -2215,7 +2289,10 @@
     ],
     "image_source": "pixabay",
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0027_Han River Grill Kiosks.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "KPodF78zyMU",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-15"
   },
   {
     "label": "Umbrella Vending Machines",
@@ -2265,7 +2342,7 @@
     "ko_title": "한국: 갑작스러운 서울 비 우산 자판기 #Shorts",
     "ko_description": "🎯 갑자기 서울에 소나기가 내리나요? 자판기에서 우산을 뽑을 수 있습니다.\n\n많은 지하철역과 번화가에 작은 투명 자판기가 몇 천 원에 일회용 플라스틱 우산을 제공합니다. 이 자판기는 연중 내내 재고가 채워져 있으며, 버튼을 누르면 우산이 자동으로 펴집니다. 서울에 급작스러운 소나기가 잦아지면서 통근자들이 우산을 따로 들고 다니지 않고도 빠르게 보호받을 수 있게 되면서 이 편리함이 확대되었습니다. 많은 현지인들은 이를 비상용으로 여기며 사물함이나 가방에 몇 개씩 보관합니다.\n\n💡 일부 자판기에서는 우산과 함께 작은 손 소독제 병도 제공됩니다.\n\n🇰🇷 1분 이하로 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#UmbrellaVendingMachines #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "갑자기 서울에 소나기가 내리나요? 자판기에서 우산을 뽑을 수 있습니다. 많은 지하철역과 번화한 거리 모퉁이에 작은 투명 자판기가 몇 천 원에 일회용 플라스틱 우산을 제공합니다. 버튼을 누르면 우산이 자동으로 펴지고, 다음 열차까지 달려갈 준비가 됩니다. 서울은 자주 예기치 못한 비가 내리기 때문에 이 자판기는 연중 내내 재고가 채워져 있으며, 통근자들은 무거운 우산을 들고 다니기보다 빠른 비상용을 선호합니다. 많은 현지인들은 사물함이나 가방에 여분을 보관합니다. 놀라운 추가 서비스로, 일부 자판기에서는 작은 손 소독제 병도 함께 제공합니다. 이 서비스는 서울과 부산 같은 대도시에서 흔하지만 모든 곳에서 찾아볼 수는 없습니다. 다음에 하늘이 열리면, 유리 상자를 찾아 건조하게 지내세요.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "107b01213a8b",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0028_Umbrella Vending Machines_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0028_Umbrella Vending Machines_v2_timing.json",
@@ -2369,7 +2446,7 @@
     "ko_title": "한국 청소년 이모지 채팅, 아이콘만으로 대화 #Shorts",
     "ko_description": "🎯 전체 대화가 이모지만으로 이루어진 걸 본 적 있나요? 한국 청소년들은 매일 그렇게 합니다.\n\n카카오톡, 한국의 대표 메신저 앱에서 많은 젊은 사용자들은 이모지, 스티커, 줄인 속어를 활용해 대화하는 스타일을 개발했으며, 때로는 알파벳 문자 하나 없이 전체 문장을 보내기도 합니다. 이러한 시각적 언어는 답장을 빠르게 하고 감정적인 뉘앙스를 더해 주며, 특히 빠르게 진행되는 그룹 채팅에서 효과적입니다. 이 트렌드는 한국의 높은 스마트폰 보급률과 문화적으로 특화된 아이콘을 제공하는 스티커 마켓플레이스가 풍부한 점을 반영합니다. 상세한 설명 대신 하트, 불꽃, 웃음 이모지가 연속으로 나타나는 모습을 흔히 볼 수 있습니다.\n\n💡 일부 기업은 직원 채팅에서 특정 이모지 사용 빈도를 분석해 팀 분위기를 파악하기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절 그리고 놀라운 사실들.\n\n#EmojiOnlyMessaging #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "전체 대화가 이모지만으로 이루어진 걸 본 적 있나요? 한국 청소년들은 카카오톡, 이 나라의 대표 메신저 앱에서 매일 그렇게 합니다. 많은 젊은 사용자들은 이모지, 스티커, 짧은 속어 문자열로 채팅하며, 때로는 알파벳 문자 하나 없이 전체 문장을 보내기도 합니다. 이 시각적 언어는 답장을 빠르게 하고 감정적인 뉘앙스를 더해 주며, 특히 빠르게 진행되는 그룹 채팅에서 효과적입니다. 한국은 스마트폰 보급률이 높고 카카오톡의 스티커 마켓플레이스가 문화적으로 특화된 아이콘을 제공하기 때문에 이 현상이 번성합니다. 상세한 설명 대신 하트, 불꽃, 웃는 얼굴 이모지가 자주 나타납니다. 놀랍게도 일부 기업은 직원 채팅에서 이모지 사용 빈도를 분석해 팀 분위기를 파악하기도 합니다. 이 트렌드는 도시 지역의 청소년과 젊은 성인 사이에서 가장 강하게 나타나며, 모든 한국 사용자가 채택한 것은 아닙니다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "109163f25a02",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0029_Emoji‐Only Messaging_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0029_Emoji‐Only Messaging_v2_timing.json",
@@ -2437,21 +2514,17 @@
     "country": "Café Passport Hopping",
     "created_at": "2026-10-13T02:05:37.917825+00:00",
     "status": "video_done",
-    "narration": "Did you know many Seoul cafés hand out stamp cards so you can turn a coffee run into a treasure hunt? In neighborhoods like Hongdae and Garosugil, cafés give a small card with a cute illustration that gets a stamp each visit. Friends often use a shared map app to plot three to five spots, swapping stories while they wait for their drinks. The habit turns a coffee break into a social sport, and many places reward a full card with a free pastry. Some cafés even hide golden stamps that unlock a limited‑edition drink known only to regular stamp‑collectors. Not every café participates, but the trend adds a playful twist to Seoul’s café culture.",
-    "title_line1": "Cafe stamps in Seoul",
-    "title_line2": "Coffee run = quest",
+    "narration": "Did you know many Seoul cafés hand out stamp cards so you can turn a coffee run into a treasure hunt? In neighborhoods like Hongdae and Garosugil, cafés give a small card with a cute illustration that gets a stamp each visit. Friends often use a shared map app to plot three to five spots for an afternoon, swapping stories while waiting for their drinks. When the card fills up, some places reward you with a free pastry. A few popular cafés even hide secret golden stamps that unlock a limited‑edition drink known only to regular stamp‑collectors. The game isn’t everywhere, but it’s a fun way to explore the city.",
+    "title_line1": "Seoul café stamp hunt",
+    "title_line2": "Get pastry or secret",
     "highlights": [
       {
         "s": 1,
-        "text": "*Treasure* coffee run"
+        "text": "Coffee *treasure* hunt"
       },
       {
         "s": 2,
         "text": "Cute *stamp* cards"
-      },
-      {
-        "s": 4,
-        "text": "Earn *free* pastry"
       },
       {
         "s": 5,
@@ -2461,61 +2534,69 @@
     "ko_title": "한국: 서울 카페 스탬프 = 커피 미션 #Shorts",
     "ko_description": "🎯 서울의 많은 카페들이 스탬프 카드를 나눠줘서 커피를 마시는 걸 보물찾기로 만들 수 있다는 사실, 알고 계셨나요?\n\n많은 동네에서 카페들은 방문할 때마다 스탬프가 찍히는 작은 카드를 제공하는데, 보통 가게 테마와 맞는 귀여운 일러스트가 들어 있습니다. 친구 그룹은 공유 지도 앱을 이용해 오후에 3~5곳의 카페를 정해두고, 음료를 기다리며 이야기를 나눕니다. 이 문화는 단순한 커피 타임을 사회적 스포츠로 바꾸고, 카드를 다 채우면 무료 페이스트리를 제공하는 카페도 있습니다.\n\n💡 일부 인기 카페는 비밀 ‘골든 스탬프’를 숨겨두어, 이를 모으면 한정판 음료를 얻을 수 있습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#CafPassportHopping #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "서울의 많은 카페들이 스탬프 카드를 나눠줘서 커피를 마시는 걸 보물찾기로 만들 수 있다는 사실, 알고 계셨나요? 홍대와 가로수길 같은 동네에서는 카페가 귀여운 일러스트가 들어간 작은 카드를 주고, 방문할 때마다 스탬프를 찍어줍니다. 친구들은 보통 공유 지도 앱을 사용해 3~5곳을 정하고, 음료를 기다리며 이야기를 나눕니다. 이 습관은 커피 타임을 사회적 스포츠로 바꾸고, 많은 가게가 카드를 다 채우면 무료 페이스트리를 제공합니다. 일부 카페는 정기 스탬프 수집가만 아는 한정판 음료를 열 수 있는 골든 스탬프를 숨겨두기도 합니다. 모든 카페가 참여하는 것은 아니지만, 이 트렌드는 서울 카페 문화에 장난기 가득한 변화를 주고 있습니다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "3a62854e73a2",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0030_Café Passport Hopping_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0030_Café Passport Hopping_v2_timing.json",
     "tts_voice_v2": "en-US-AndrewNeural",
     "status_tts_v2": "done",
     "image_queries_done": [
-      "Café Passport Hopping travel",
-      "Café Passport Hopping travel",
-      "Café Passport Hopping travel",
-      "Café Passport Hopping travel",
-      "Café Passport Hopping travel",
-      "Café Passport Hopping travel"
+      "Seoul coffee treasure hunt",
+      "Seoul cute stamp cards",
+      "Seoul friends cafe map",
+      "Seoul free pastry reward",
+      "Seoul golden stamp",
+      "Seoul street cafe"
     ],
     "image_credits": [
       {
         "scene": 1,
         "source": "pixabay",
-        "user": "JoshuaWoroniecki",
-        "page": "https://pixabay.com/photos/merry-christmas-boarding-pass-travel-5219496/"
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/treasure-map-navigation-map-1850653/"
       },
       {
         "scene": 2,
         "source": "pixabay",
-        "user": "Pamjpat",
-        "page": "https://pixabay.com/photos/passport-map-world-trip-tourism-2714675/"
+        "user": "modernseoul",
+        "page": "https://pixabay.com/photos/baby-child-korean-happy-korea-4646299/"
       },
       {
         "scene": 3,
         "source": "pixabay",
-        "user": "heybeautimagazine",
-        "page": "https://pixabay.com/photos/travel-passport-perfume-beauty-3999655/"
+        "user": "pc500k",
+        "page": "https://pixabay.com/photos/seoul-cafe-coffee-shop-7106196/"
       },
       {
         "scene": 4,
         "source": "pixabay",
-        "user": "cytis",
-        "page": "https://pixabay.com/photos/passport-flag-travel-visa-2642172/"
+        "user": "viarami",
+        "page": "https://pixabay.com/photos/asia-asian-south-korea-korea-seoul-5387577/"
       },
       {
         "scene": 5,
         "source": "pixabay",
-        "user": "juanfer_erazo",
-        "page": "https://pixabay.com/photos/man-airport-travel-passport-flight-4862367/"
+        "user": "pppearl0",
+        "page": "https://pixabay.com/photos/puppy-golden-retriever-baby-877664/"
       },
       {
         "scene": 6,
         "source": "pixabay",
-        "user": "nahchon",
-        "page": "https://pixabay.com/photos/heaven-travel-blue-passport-5311146/"
+        "user": "AKuptsova",
+        "page": "https://pixabay.com/photos/seoul-korea-night-city-stroll-6884862/"
       }
     ],
     "image_source": "pixabay",
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0030_Café Passport Hopping.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "image_queries": [
+      "Seoul coffee treasure hunt",
+      "Seoul cute stamp cards",
+      "Seoul friends cafe map",
+      "Seoul free pastry reward",
+      "Seoul golden stamp",
+      "Seoul street cafe"
+    ]
   },
   {
     "label": "Mobile Library Bus",
@@ -2565,7 +2646,7 @@
     "ko_title": "Korea: Subway library bus Grab a book at stop #Shorts",
     "ko_description": "🎯 기차를 기다리면서 움직이는 도서버스에서 소설을 집어드는 모습을 상상해 보세요.\n\n서울시립도서관은 출퇴근 시간에 주요 지하철 노선을 따라 운행되는 특별 설계된 버스를 운영합니다. 버스 안에는 베스트셀러와 어린이 책이 순환적으로 비치되어 있습니다. 승객은 앞쪽에서 도서관 카드를 스와이프하고 일주일 동안 책을 빌린 뒤 다음 정류장에서 반납할 수 있습니다. 이 서비스는 평소에 지점 도서관을 방문할 시간이 없는 바쁜 사람들에게 독서를 제공하는 것이 목표입니다.\n\n💡 버스에는 자원봉사자가 무료 차를 제공하는 작은 카페 코너도 있어 정류장을 미니 독서 라운지로 바꿔 줍니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#MobileLibraryBus #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "기차를 기다리면서 움직이는 도서버스에서 소설을 집어드는 모습을 상상해 보세요. 서울에서는 시립도서관이 출퇴근 시간에 주요 지하철 노선을 따라 운행되는 특별 설계된 버스를 운영합니다. 내부에는 베스트셀러와 어린이 책이 순환적으로 비치되어 있습니다. 승객은 앞쪽에서 도서관 카드를 스와이프하고 일주일 동안 책을 빌린 뒤 다음 정류장에서 반납할 수 있습니다. 이 아이디어는 지점 도서관에 갈 시간이 거의 없는 바쁜 사람들에게 독서를 제공하는 데 있습니다. 놀라운 점은 자원봉사자가 무료 차를 제공하는 작은 카페 코너가 있어 짧은 대기 시간을 미니 독서 라운지로 바꾼다는 것입니다. 이 서비스는 평일 피크 시간에 운영되며 주로 중심 지역에서 이루어져 외곽 교외에서는 덜 제공됩니다. 다음에 기차를 기다릴 때는 이야기를 손에 들고 떠날 수도 있습니다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "d37c0d2e3a7f",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0031_Mobile Library Bus_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0031_Mobile Library Bus_v2_timing.json",
@@ -2635,87 +2716,99 @@
     "country": "KTX Power Seats",
     "created_at": "2026-10-13T02:05:37.917825+00:00",
     "status": "video_done",
-    "narration": "Did you know you can join a video call from a seat on South Korea’s fastest train? Since 2020 most KTX high‑speed trains have a power outlet at every seat and free, stable Wi‑Fi that runs the whole Seoul‑to‑Busan route. Business travelers often set up laptops and attend virtual meetings while the train speeds at 300 km/h, turning travel time into productive work time. The outlets accept USB‑C and traditional plugs, and the Wi‑Fi is strong enough for video conferencing. In fact, surveys show over a third of frequent riders finish a work project they started the night before. Older or regional trains may lack these amenities, and signal can dip in mountainous sections.",
-    "title_line1": "KTX power seats",
-    "title_line2": "Video call on KTX",
+    "narration": "Did you know you can join a video call from a seat on South Korea’s fastest train? Since 2020 most KTX high‑speed trains have a power outlet at every seat and free Wi‑Fi that runs the Seoul‑to‑Busan route. Business travelers often plug in laptops, use USB‑C or regular plugs, and hold meetings while the train zips at 300 km/h. The Wi‑Fi is strong enough for video conferencing, turning commute time into productive work time. Surveys show over a third of frequent riders finish a work project they started the night before. Older or regional trains may lack outlets or have weaker signal in mountain sections, but on the modern KTX you can work on the move.",
+    "title_line1": "KTX seats have power",
+    "title_line2": "Call while it speeds",
     "highlights": [
       {
         "s": 1,
-        "text": "Video call on *KTX*"
+        "text": "Video call on *train*"
       },
       {
         "s": 2,
-        "text": "Power at *every* seat"
+        "text": "Outlet at *every* seat"
       },
       {
         "s": 3,
-        "text": "Work while *300km/h*"
+        "text": "Work at *300 km/h*"
       },
       {
         "s": 4,
-        "text": "*Free* Wi‑Fi onboard"
+        "text": "*Wi‑Fi* for calls"
       }
     ],
     "image_queries": [
-      "KTX train video call",
-      "KTX seat power outlet",
-      "business laptop on KTX",
-      "KTX free WiFi",
-      "South Korea train passenger working",
-      "regional Korean train interior"
+      "person video calling on train",
+      "train seat power outlet",
+      "한국 고속철도",
+      "WIFI IN TRAIN",
+      "business person working on train",
+      "modern KTX train interior"
     ],
     "ko_title": "Korea: KTX 파워 시트 비디오 콜 on KTX #Shorts",
     "ko_description": "🎯 한국에서 가장 빠른 열차인 KTX 좌석에서 영상 통화를 할 수 있다는 사실, 알고 계셨나요?\n\n2020년부터 대부분의 KTX 고속열차는 모든 좌석에 전원 콘센트를 제공하고, 서울‑부산 전 구간을 아우르는 안정적인 무료 Wi‑Fi 네트워크를 갖추고 있습니다. 비즈니스 여행객들은 노트북을 설치하고 열차가 시속 300km로 달리는 동안 가상 회의에 참석해 이동 시간을 생산적인 업무 시간으로 전환합니다. 탑승 중 Wi‑Fi는 영상 회의에 충분히 강력하며, 전원 콘센트는 USB‑C와 기존 플러그 모두에 호환됩니다.\n\n💡 일부 잦은 이용자 설문조사에 따르면, 승객의 3분의 1 이상이 전날 밤에 시작한 업무 프로젝트를 열차에서 마무리한다고 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#KTXPowerSeats #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "한국에서 가장 빠른 열차인 KTX 좌석에서 영상 통화를 할 수 있다는 사실, 알고 계셨나요? 2020년부터 대부분의 KTX 고속열차는 모든 좌석에 전원 콘센트를 제공하고, 서울‑부산 전 구간을 아우르는 무료, 안정적인 Wi‑Fi를 갖추고 있습니다. 비즈니스 여행객들은 노트북을 설치하고 열차가 시속 300km로 달리는 동안 가상 회의에 참석해 이동 시간을 생산적인 업무 시간으로 전환합니다. 콘센트는 USB‑C와 기존 플러그를 모두 수용하며, Wi‑Fi는 영상 회의에 충분히 강력합니다. 실제로 설문조사에 따르면, 잦은 이용자 중 3분의 1 이상이 전날 밤에 시작한 업무 프로젝트를 열차에서 마무리한다는 결과가 나왔습니다. 오래된 열차나 지방열차는 이러한 편의 시설이 없을 수 있으며, 산악 구간에서는 신호가 약해질 수 있습니다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "dee24016fd5e",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0032_KTX Power Seats_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0032_KTX Power Seats_v2_timing.json",
     "tts_voice_v2": "en-US-AndrewNeural",
     "status_tts_v2": "done",
     "image_queries_done": [
-      "KTX train video call",
-      "KTX seat power outlet",
-      "business laptop on KTX",
-      "KTX free WiFi",
-      "South Korea train passenger working",
-      "regional Korean train interior"
+      "person video calling on train",
+      "train seat power outlet",
+      "한국 고속철도",
+      "WIFI IN TRAIN",
+      "business person working on train",
+      "modern KTX train interior"
     ],
     "image_credits": [
       {
         "scene": 1,
         "source": "pixabay",
-        "user": "bhahn0",
-        "page": "https://pixabay.com/photos/ktx-train-travel-travel-3668473/"
+        "user": "josealbafotos",
+        "page": "https://pixabay.com/photos/suitcase-person-happy-calm-down-1167697/"
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "Alexandra_Koch",
+        "page": "https://pixabay.com/photos/power-outlet-electricity-energy-7658410/"
       },
       {
         "scene": 3,
         "source": "pixabay",
-        "user": "StartupStockPhotos",
-        "page": "https://pixabay.com/photos/office-startup-business-home-office-594132/"
+        "user": "pdjch66",
+        "page": "https://pixabay.com/photos/train-republic-of-korea-ktx-travel-4525444/"
       },
       {
         "scene": 4,
-        "source": "pixabay",
-        "user": "geralt",
-        "page": "https://pixabay.com/photos/wlan-web-free-access-wifi-2500161/"
+        "source": "commons",
+        "user": "squirrel83 from Astoria, NY , USA",
+        "license": "CC BY 2.0",
+        "title": "6 Avenue wifi vc.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:6_Avenue_wifi_vc.jpg"
       },
       {
         "scene": 5,
         "source": "pixabay",
-        "user": "asd14235714",
-        "page": "https://pixabay.com/photos/subway-metro-subway-station-4823909/"
+        "user": "StartupStockPhotos",
+        "page": "https://pixabay.com/photos/entrepreneur-start-up-man-planning-593371/"
       },
       {
         "scene": 6,
         "source": "pixabay",
-        "user": "wal_172619",
-        "page": "https://pixabay.com/photos/train-travellers-transport-people-7855480/"
+        "user": "bhahn0",
+        "page": "https://pixabay.com/photos/ktx-train-travel-travel-3668473/"
       }
     ],
     "image_source": "pixabay",
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0032_KTX Power Seats.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "srt_path": "C:\\Users\\seokg\\Downloads\\latest-en\\videos\\0032_KTX Power Seats.srt",
+    "youtube_id": "Wf8e6Uw6h5U",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-18"
   },
   {
     "label": "Bike‑Tree Parking Robot",
@@ -2757,7 +2850,7 @@
     "ko_title": "Korea: 자전거‑트리 로봇이 100대 자전거 보관 tiny #Shorts",
     "ko_description": "🎯 서울에서는 자전거를 나무처럼 쌓아 올리는 로봇에 넣을 수 있습니다.\n\n성수‑판교 지역에 있는 ‘자전거‑트리(또는 스마트 자전거 주차)’라는 기계는 자전거를 자동으로 들어올리고 회전시켜 수직으로 보관해 약 2미터 정도의 면적에 자전거 탑을 만듭니다. 시스템은 센서를 이용해 자전거 크기를 파악하고 빈 슬롯에 배치한 뒤, 사용자가 QR 코드를 스캔하면 다시 반환합니다. 인도 공간 부족을 해결하기 위해 설치되었으며, 출퇴근자와 관광객 모두에게 인기 있는 풍경이 되었습니다. 서비스는 해당 구청에서 관리하며 모바일 앱이나 멤버십 카드로 이용할 수 있습니다.\n\n💡 로봇은 2 m² 미만의 바닥 면적에 100대까지 보관할 수 있습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절 그리고 놀라운 사실들.\n\n#BikeTreeParkingRobot #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "서울에서는 자전거를 나무처럼 쌓아 올리는 로봇에 넣을 수 있습니다. 성수‑판교 지역에 있는 ‘자전거‑트리’(스마트 자전거 주차)라는 기계는 자동으로 자전거를 들어올리고 회전시켜 수직으로 보관해 약 2미터 정도의 면적에 콤팩트한 탑을 만듭니다. 센서가 각 자전거의 크기를 측정해 빈 자리에 슬롯에 넣습니다. 떠날 준비가 되면 휴대폰 QR 코드나 멤버십 카드를 스캔하면 시스템이 자전거를 반환합니다. 놀라운 점은? 로봇은 2 m² 미만의 바닥 면적에 100대까지 보관할 수 있다는 것입니다. 현재는 성수, 판교, 몇몇 캠퍼스 등 몇몇 파일럿 현장에만 설치돼 있지만 이미 출퇴근자와 관광객 모두에게 사랑받는 풍경이 되었습니다. 인도가 좁았던 곳에 자전거 숲이 생긴 모습을 상상해 보세요.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "b5cebdc68591",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0033_Bike‐Tree Parking Robot_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0033_Bike‐Tree Parking Robot_v2_timing.json",
@@ -2811,7 +2904,10 @@
     ],
     "image_source": "pixabay",
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0033_Bike‐Tree Parking Robot.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "7GDH6PVnZIo",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-21"
   },
   {
     "label": "Heated Public Toilets",
@@ -2857,7 +2953,7 @@
     "ko_title": "한국: 따뜻한 지하철 좌석 겨울에 따뜻한 좌석 #Shorts",
     "ko_description": "🎯 지하철 화장실에서 따뜻한 변기 시트를 앉아본 적 있나요?\n\n서울과 부산의 주요 지하철역 공중 화장실에는 실내 온도가 설정값 이하로 떨어지면 자동으로 켜지는 전기 온열 변기 시트가 설치되어 있습니다. 이 시트는 역 전력을 사용하며 2010년 이후에 건설된 신형 역에서 특히 흔합니다. 이 작은 편의 시설은 출퇴근 시간에 화장실을 이용해야 하는 승객들의 겨울 통근을 보다 쾌적하게 해주기 위해 도입되었습니다. 난방은 중앙에서 제어되므로 사용자가 자리를 떠도 좌석은 계속 따뜻하게 유지됩니다.\n\n💡 일부 모델은 외부 온도에 따라 난방 수준을 조절하는 온도 센서를 탑재해 가장 추운 날에도 좌석을 실내 온도보다 약간 높게 유지합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상 생활, 음식, 예절 그리고 놀라운 사실들.\n\n#HeatedPublicToilets #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "지하철 화장실에서 따뜻한 변기 시트를 앉아본 적 있나요? 서울과 부산의 많은 신형 지하철역 공중 화장실에는 전기 온열 시트가 설치되어 있습니다. 역 온도가 설정값 이하로 떨어지면 시트가 자동으로 역 전력을 사용해 켜집니다. 2010년 이후에 건설된 역에서 가장 흔하며, 출퇴근 시간 겨울 여행 중 승객들이 편안하게 지낼 수 있도록 도와줍니다. 난방은 중앙에서 제어되어 사용자가 떠도 좌석이 따뜻하게 유지됩니다. 일부 모델은 외부 추위에 따라 난방을 미세 조정하는 온도 센서를 갖추고 있어 좌석을 실내 온도보다 약간 높게 유지합니다. 오래된 역이나 작은 역은 아직 일반 시트를 사용할 수 있습니다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "e022f2e3c071",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0034_Heated Public Toilets_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0034_Heated Public Toilets_v2_timing.json",
@@ -2911,7 +3007,10 @@
     ],
     "image_source": "pixabay",
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0034_Heated Public Toilets.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "jmH_vKHDRnU",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-21"
   },
   {
     "label": "Pepero Day Exchange",
@@ -2925,97 +3024,101 @@
     "country": "Pepero Day Exchange",
     "created_at": "2026-10-13T23:27:31.474335+00:00",
     "status": "video_done",
-    "narration": "On November 11, Koreans swap thin chocolate sticks like love letters. The day is called Pepero Day because the date looks like four stick‑shaped snacks. It began in the 1990s as a marketing push by a confectionery company, and it quickly spread through schools and offices. Friends, classmates, and coworkers often give each other Pepero—biscuit sticks coated in chocolate—and may write short messages on the sticks. In recent years many brands added pretzel, almond or other flavors, and some people even give non‑chocolate gifts for a playful twist. The practice is most common among students and urban office workers, not a national holiday. Some retailers say Pepero sales on 11/11 can surpass the entire month of October, showing just how sweet the hype gets.",
-    "title_line1": "Sweet stick exchange",
+    "narration": "On November 11, Koreans swap thin chocolate sticks like love letters, sending sweet notes across desks and classrooms. The day is called Pepero Day because the date 11/11 looks like four stick‑shaped snacks. It began in the 1990s as a marketing push by a confectionery company, then spread to schools and offices where friends and coworkers hand out Pepero—biscuit sticks coated in chocolate—and often write short messages on them. Lately brands add pretzel, almond or other flavors, and some people even give non‑chocolate gifts for a playful twist. Sales can be huge; some retailers say Pepero sales on 11/11 beat the total sales of the whole month of October. The custom is most common among students and urban office workers, and it isn’t a public holiday. Still, the tiny chocolate sticks turn a simple date into a tiny celebration of friendship.",
+    "title_line1": "Chocolate stick swap",
     "title_line2": "Love notes on 11/11",
     "highlights": [
       {
         "s": 1,
-        "text": "Swap *love* sticks"
+        "text": "*Chocolate* sticks"
       },
       {
         "s": 2,
-        "text": "*Pepero* Day 11/11"
+        "text": "*11/11* = sticks"
       },
       {
         "s": 3,
-        "text": "1990s *spark* launch"
+        "text": "hand out *Pepero*"
       },
       {
         "s": 5,
-        "text": "New *flavors* added"
+        "text": "*Pepero* sales soar"
       }
     ],
     "image_queries": [
-      "Pepero chocolate sticks",
-      "1990s school hallway",
-      "Friends sharing chocolate sticks",
-      "Assorted flavored Pepero sticks",
-      "Students with chocolate sticks",
-      "Pepero sales display"
+      "chocolate stick snacks",
+      "1111 chocolate sticks",
+      "빼빼로",
+      "assorted flavored chocolate sticks",
+      "pepero chocolate stick sales",
+      "students exchanging chocolate sticks"
     ],
     "ko_title": "Korea: 달콤한 막대 교환 11/11 사랑편지 #Shorts",
     "ko_description": "🎯 11월 11일, 한국인들은 얇은 초콜릿 막대를 사랑 편지처럼 교환합니다.\n\n피에로데이(Pepero Day)는 날짜가 네 개의 막대 모양 간식과 닮아 11/11에 기념되며, 친구·동급생·동료들이 초콜릿 코팅 비스킷 막대인 피에로를 서로 주고받는 인기 있는 행사입니다. 이 전통은 1990년대 제과 회사의 마케팅 이벤트로 시작돼 학교와 사무실에 퍼졌으며, 사람들은 종종 막대에 짧은 메시지를 적습니다. 최근 몇 년간 많은 브랜드가 프레첼·아몬드 등 다양한 맛을 출시했으며, 일부는 장난스럽게 비초콜릿 선물을 주기도 합니다. 이 날은 젊은 세대 사이에서는 널리 인식되지만 공식적인 휴일은 아니며, 많은 어른들은 그냥 무시하기도 합니다.\n\n💡 일부 소매업체는 11/11 피에로 매출이 전체 10월 매출을 초과할 수 있다고 보고합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#PeperoDayExchange #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "11월 11일, 한국인들은 얇은 초콜릿 막대를 사랑 편지처럼 교환합니다. 날짜가 네 개의 막대 모양 간식처럼 보여 피에로데이라고 부릅니다. 이 행사는 1990년대 제과 회사의 마케팅 추진으로 시작돼 학교와 사무실에 빠르게 퍼졌습니다. 친구·동급생·동료들은 종종 초콜릿 코팅 비스킷 막대인 피에로를 서로 주고받으며, 막대에 짧은 메시지를 적기도 합니다. 최근 몇 년간 많은 브랜드가 프레첼·아몬드 등 다른 맛을 추가했고, 일부는 장난스럽게 비초콜릿 선물을 주기도 합니다. 이 관행은 학생과 도시 사무직 근로자 사이에서 가장 흔하지만, 국가 공휴일은 아닙니다. 일부 소매업체는 11/11 피에로 매출이 전체 10월 매출을 넘어설 수 있다고 말해, 얼마나 달콤한 열기가 되는지 보여줍니다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "4c9ae84f930a",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0035_Pepero Day Exchange_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0035_Pepero Day Exchange_v2_timing.json",
     "tts_voice_v2": "en-US-AndrewNeural",
     "status_tts_v2": "done",
     "image_queries_done": [
-      "Pepero chocolate sticks",
-      "1990s school hallway",
-      "Friends sharing chocolate sticks",
-      "Assorted flavored Pepero sticks",
-      "Students with chocolate sticks",
-      "Pepero sales display"
+      "chocolate stick snacks",
+      "1111 chocolate sticks",
+      "빼빼로",
+      "assorted flavored chocolate sticks",
+      "pepero chocolate stick sales",
+      "students exchanging chocolate sticks"
     ],
     "image_credits": [
       {
         "scene": 1,
         "source": "pixabay",
-        "user": "blandinejoannic",
-        "page": "https://pixabay.com/photos/cinnamon-sticks-chocolate-star-anise-5828241/"
+        "user": "Neva79",
+        "page": "https://pixabay.com/photos/cake-popcake-dessert-sweet-ball-1899933/"
       },
       {
         "scene": 2,
         "source": "pixabay",
-        "user": "elizabethaferry",
-        "page": "https://pixabay.com/photos/school-lockers-hallway-high-school-417612/"
+        "user": "blandinejoannic",
+        "page": "https://pixabay.com/photos/cinnamon-sticks-chocolate-star-anise-5828241/"
       },
       {
         "scene": 3,
-        "source": "pixabay",
-        "user": "HoangdungFunny",
-        "page": "https://pixabay.com/photos/gathering-friends-fun-disability-7057793/"
+        "source": "commons",
+        "user": "Evan-Amos",
+        "license": "CC0",
+        "title": "Pepero-Almond-Sticks.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Pepero-Almond-Sticks.jpg"
       },
       {
         "scene": 4,
+        "source": "pixabay",
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/doughnuts-desserts-pastries-treats-1868573/"
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "MrsBrown",
+        "page": "https://pixabay.com/photos/apple-fruit-chocolate-stick-sweets-4821540/"
+      },
+      {
+        "scene": 6,
         "source": "commons",
         "user": "Saipiny",
         "license": "CC0",
         "title": "Pepero day 2.jpg",
         "page": "https://commons.wikimedia.org/wiki/File:Pepero_day_2.jpg"
-      },
-      {
-        "scene": 5,
-        "source": "commons",
-        "user": "Saipiny",
-        "license": "CC0",
-        "title": "Pepero day.jpg",
-        "page": "https://commons.wikimedia.org/wiki/File:Pepero_day.jpg"
-      },
-      {
-        "scene": 6,
-        "source": "pixabay",
-        "user": "wal_172619",
-        "page": "https://pixabay.com/photos/mannequin-heat-hats-store-window-8101533/"
       }
     ],
     "image_source": "pixabay",
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0035_Pepero Day Exchange.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "srt_path": "C:\\Users\\seokg\\Downloads\\latest-en\\videos\\0035_Pepero Day Exchange.srt",
+    "youtube_id": "FE2osOliRDQ",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-18"
   },
   {
     "label": "‘뭐해?’ Greeting",
@@ -3059,7 +3162,7 @@
     "ko_title": "한국인 인사: 뭐해? 그냥 안부 인사? #Shorts",
     "ko_description": "🎯 한국인이 ‘뭐 해?’라고 물으면, 단순히 안부 인사일 수도 있다.\n\n일상적인 한국어 대화, 특히 친구 사이와 젊은 층 사이에서는 ‘뭐해?’(mwohae?)라는 표현이 문자 그대로의 질문이라기보다 영어의 “What’s up?”에 해당하는 인사말로 자주 쓰인다. 말하는 사람은 보통 “아무것도 안 해” 혹은 “그냥 일하고 있어” 같은 짧은 대답을 기대하고, 이 교환은 상대방의 존재를 확인해 주는 역할을 한다. 이런 사용은 가볍고 개방적인 질문으로 대화를 시작하려는 문화적 경향에서 비롯된 것이다. 비격식적인 표현이기 때문에 보통 어른이나 공식적인 자리에서는 피하고, 보다 정중한 인사를 사용한다.\n\n💡 같은 표현을 서울의 대중교통에서도 들을 수 있는데, 승객들이 열차에 타기 전 ‘뭐해?’라고 외치며 짧은 대화를 시작한다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#Greeting #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "한국인이 “뭐 해?”라고 하면 단순히 안부 인사일 수도 있다. 일상 대화, 특히 친구 사이와 젊은 층에서는 “뭐해?”라는 표현을 “What’s up?”처럼 사용한다. 말하는 사람은 “아무것도 안 해” 혹은 “그냥 일하고 있어” 같은 짧은 대답을 기대하고, 이 교환은 상대방의 존재를 확인해 주는 역할을 한다. 이 습관은 가볍고 개방적인 질문으로 대화를 시작하려는 문화적 경향에서 비롯된다. 비격식적이기 때문에 어른이나 공식적인 자리에서는 피하고, 정중한 인사를 선택한다. 서울 지하철에서 승객들이 “뭐해?”라고 외치는 소리를 들을 수 있는데, 이는 탑승 전에 짧은 대화를 시작하기 위한 친근한 신호다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "9e360f737ded",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0036_‘뭐해_’ Greeting_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0036_‘뭐해_’ Greeting_v2_timing.json",
@@ -3128,7 +3231,10 @@
     "image_source": "pixabay",
     "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0036_‘뭐해_’ Greeting.srt",
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0036_‘뭐해_’ Greeting.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "gZMGfRmjNvc",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-21"
   },
   {
     "label": "QR Business Cards",
@@ -3176,7 +3282,7 @@
     "ko_title": "Korea: QR 카드가 서울에서 즉시 새로운 친구를 만들어 줍니다 #Shorts",
     "ko_description": "🎯 서울에서는 코스터에 붙은 하나의 QR 코드만으로도 몇 초 만에 새로운 친구를 추가할 수 있습니다.\n\n많은 젊은 직장인들이 명함이나 심지어 커피 코스터에 작은 QR 코드를 인쇄해 카카오톡 프로필이나 디지털 vCard로 바로 연결합니다. 누군가 스마트폰으로 스캔하면 이름을 입력할 필요 없이 바로 연락처가 저장됩니다. 이 문화는 스마트폰 보급과 빠르고 깔끔한 네트워킹을 선호하는 흐름과 함께 성장했습니다. 카페에서는 테이블에 QR 코드 스티커를 붙여 즉흥적인 만남을 유도하기도 합니다.\n\n💡 일부 카페는 테이블마다 고유 QR 코드를 생성해 손님들이 스캔만으로 연락처를 교환할 수 있게 하여, 전체 매장을 네트워킹 허브로 만들고 있습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#QRBusinessCards #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "서울에서는 코스터에 있는 QR 코드 하나로 몇 초 만에 새로운 친구를 추가할 수 있습니다. 많은 젊은 직장인들이 명함이나 커피 코스터에 작은 QR 코드를 인쇄해 카카오톡 프로필이나 디지털 vCard로 바로 연결합니다. 누군가 스캔하면 이름을 입력할 필요 없이 자동으로 연락처가 저장됩니다. 이 습관은 스마트폰 보급과 네트워킹을 사랑하는 문화와 함께 성장했습니다. 카페에서는 테이블에 QR 코드 스티커를 붙여 즉흥적인 만남을 촉진합니다. 일부 카페는 테이블마다 고유 QR 코드를 만들어 전체 매장을 네트워킹 허브로 바꾸고 있습니다. 이 트렌드는 서울 같은 도심 지역과 젊은 층에서 가장 강하게 나타나며, 연령이 높은 세대는 아직도 명함을 선호합니다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "3c6bab9966d0",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0037_QR Business Cards_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0037_QR Business Cards_v2_timing.json",
@@ -3253,7 +3359,10 @@
     "image_source": "pixabay",
     "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0037_QR Business Cards.srt",
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0037_QR Business Cards.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "KgL1-P097Ko",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-21"
   },
   {
     "label": "Underground Delivery Rooms",
@@ -3267,123 +3376,98 @@
     "country": "Underground Delivery Rooms",
     "created_at": "2026-10-13T23:28:03.975031+00:00",
     "status": "video_done",
-    "narration": "Ever wonder where 300 parcels a day disappear in a Seoul high‑rise? They’re waiting in a hidden underground room. Many newer apartment complexes in Seoul have a dedicated delivery lounge below the lobby, fitted with electronic lockers. A courier scans the package, the system logs the recipient, and a push notification pops up on the resident’s phone. The resident opens the exact locker with a one‑time code or fingerprint, grabs the item, and the locker automatically locks again. This cuts missed deliveries and keeps hallways tidy. Some upscale buildings even add facial recognition, so a quick glance at a camera unlocks the box. Older buildings still rely on door‑to‑door drops, but the underground smart lockers are reshaping parcel pickup in modern Seoul.",
-    "title_line1": "Hidden delivery hub",
-    "title_line2": "Parcels wait below",
+    "narration": "Ever wonder where 300 parcels a day disappear in a Seoul high‑rise? They’re waiting in a hidden underground room. Many newer apartment complexes in Seoul have a secure delivery room beneath the lobby, filled with electronic lockers. A courier scans the package, the system logs the resident’s name, and a push notification pops up on the phone. The resident opens the assigned locker with a one‑time code or fingerprint, grabs the item, and the locker clicks shut automatically. This cuts missed deliveries and keeps hallways tidy. Some buildings even add facial recognition, so a quick glance at a camera unlocks the box. Older buildings still rely on door‑to‑door drops, but the underground lockers are becoming a common sight in modern Seoul living.",
+    "title_line1": "Underground lockers",
+    "title_line2": "Parcels hide below",
     "highlights": [
       {
         "s": 1,
         "text": "300 parcels *vanish*"
       },
       {
-        "s": 2,
-        "text": "Hidden *underground* room"
-      },
-      {
-        "s": 4,
-        "text": "Push *alert* pops"
+        "s": 3,
+        "text": "Underground *lockers*"
       },
       {
         "s": 5,
-        "text": "*code* opens locker"
+        "text": "Unlock with *code*"
       },
       {
         "s": 7,
-        "text": "*Facial* unlock"
+        "text": "Facial *recognition*"
       }
     ],
     "image_queries": [
-      "300 parcels in hallway",
-      "underground delivery room",
-      "Seoul apartment locker lounge",
-      "phone notification popup",
-      "locker code panel",
-      "tidy apartment hallway",
-      "facial recognition locker",
-      "modern Seoul parcel pickup"
+      "Seoul underground parcel lockers",
+      "Seoul underground lockers",
+      "courier scanning package",
+      "Seoul locker opening code",
+      "Seoul facial recognition locker",
+      "old Seoul building delivery"
     ],
     "scene_count": 10,
     "ko_title": "Korea: Hidden delivery hub Parcels wait below #Shorts",
     "ko_description": "🎯 하루에 300개의 택배가 서울 고층 건물에서 어디로 사라지는지 궁금하신가요? 그것들은 숨겨진 지하 방에 대기하고 있습니다.\n\n서울의 많은 고층 아파트에는 전자 사물함이 설치된 전용 지하 배송실이 있습니다. 택배 기사는 물품을 사물함에 넣고, 시스템이 수취인을 기록하며, 푸시 알림이 주민의 스마트폰으로 전송됩니다. 주민은 일회용 코드나 지문으로 해당 사물함을 열어 물품을 수령하고, 사물함은 자동으로 다시 잠깁니다. 이 시스템은 배송 실패를 줄이고 복도에 물건이 쌓이는 것을 방지합니다.\n\n💡 점점 더 많은 단지에서 얼굴 인식을 도입해, 카메라를 바라보기만 하면 사물함을 열 수 있게 하고 있습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#UndergroundDeliveryRooms #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "하루에 300개의 택배가 서울 고층 건물에서 어디로 사라지는지 궁금하신가요? 그것들은 숨겨진 지하 방에 대기하고 있습니다. 서울의 많은 최신 아파트 단지는 로비 아래에 전용 배송 라운지를 두고 전자 사물함을 설치했습니다. 택배 기사는 물품을 스캔하고, 시스템이 수취인을 기록하며, 푸시 알림이 주민의 휴대폰에 뜹니다. 주민은 일회용 코드나 지문으로 정확한 사물함을 열어 물품을 꺼내고, 사물함은 자동으로 다시 잠깁니다. 이는 배송 실패를 줄이고 복도를 깔끔하게 유지합니다. 일부 고급 건물은 얼굴 인식을 추가해, 카메라를 한 번 바라보면 사물함이 열리게 합니다. 오래된 건물은 여전히 문 앞에 직접 배달하는 방식을 사용하지만, 지하 스마트 사물함이 현대 서울의 택배 수령 방식을 바꾸고 있습니다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "b8f4b7a60cbb",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0038_Underground Delivery Rooms_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0038_Underground Delivery Rooms_v2_timing.json",
     "tts_voice_v2": "en-US-AndrewNeural",
     "status_tts_v2": "done",
     "image_queries_done": [
-      "300 parcels in hallway",
-      "underground delivery room",
-      "Seoul apartment locker lounge",
-      "phone notification popup",
-      "locker code panel",
-      "tidy apartment hallway",
-      "facial recognition locker",
-      "modern Seoul parcel pickup"
+      "Seoul underground parcel lockers",
+      "Seoul underground lockers",
+      "courier scanning package",
+      "Seoul locker opening code",
+      "Seoul facial recognition locker",
+      "old Seoul building delivery"
     ],
     "image_credits": [
       {
         "scene": 1,
         "source": "pixabay",
-        "user": "Pexels",
-        "page": "https://pixabay.com/photos/water-architecture-arches-arcade-1283963/",
-        "id": 1283963
+        "user": "manseok_Kim",
+        "page": "https://pixabay.com/photos/building-architecture-city-9761776/"
       },
       {
         "scene": 2,
         "source": "pixabay",
-        "user": "anaterate",
-        "page": "https://pixabay.com/photos/room-bunker-shelter-underground-7348721/",
-        "id": 7348721
+        "user": "HeungSoon",
+        "page": "https://pixabay.com/photos/maple-leaves-autumn-leaves-foliage-2789234/"
       },
       {
         "scene": 3,
         "source": "pixabay",
-        "user": "nicolagiordano",
-        "page": "https://pixabay.com/photos/lounge-area-sofa-modern-inside-8268914/",
-        "id": 8268914
+        "user": "ha11ok",
+        "page": "https://pixabay.com/photos/space-wood-deliver-logistics-4967335/"
       },
       {
         "scene": 4,
         "source": "pixabay",
-        "user": "kevberon",
-        "page": "https://pixabay.com/photos/mobile-smartphone-cellular-phone-5165279/",
-        "id": 5165279
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/code-coding-computer-data-1839406/"
       },
       {
         "scene": 5,
         "source": "pixabay",
-        "user": "jamesmarkosborne",
-        "page": "https://pixabay.com/photos/code-html-digital-coding-web-1076536/",
-        "id": 1076536
+        "user": "Tumisu",
+        "page": "https://pixabay.com/photos/man-face-facial-recognition-5946820/"
       },
       {
         "scene": 6,
         "source": "pixabay",
-        "user": "PIRO4D",
-        "page": "https://pixabay.com/photos/hallway-corridor-entrance-2228277/",
-        "id": 2228277
-      },
-      {
-        "scene": 7,
-        "source": "pixabay",
-        "user": "Tumisu",
-        "page": "https://pixabay.com/photos/man-face-facial-recognition-5946820/",
-        "id": 5946820
-      },
-      {
-        "scene": 8,
-        "source": "pixabay",
-        "user": "ssalae",
-        "page": "https://pixabay.com/photos/building-architecture-city-410266/",
-        "id": 410266
+        "user": "Alef_photograph",
+        "page": "https://pixabay.com/photos/city-building-architecture-urban-7358078/"
       }
     ],
     "image_source": "pixabay",
     "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0038_Underground Delivery Rooms.srt",
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0038_Underground Delivery Rooms.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "Fy1ASk4YdYA",
+    "youtube_privacy": "private",
+    "uploaded_at": "2026-10-21"
   },
   {
     "label": "Winter Shaved Ice",
@@ -3397,17 +3481,17 @@
     "country": "Winter Shaved Ice",
     "created_at": "2026-10-13T23:28:03.975031+00:00",
     "status": "scripted",
-    "narration": "Yes, you can eat ice cream in Seoul’s December chill—called bingsu. In busy spots like Myeongdong and Hongdae, street stalls set up insulated carts that serve bingsu all year. The shaved ice comes with warm red bean paste, toasted rice cakes, and hot syrups, so the cold base meets comforting heat. Vendors hand it in small disposable bowls, perfect for strolling through markets. The treat began as a summer snack, but the hot toppings keep you warm enough to keep it going in winter. Some stalls even pour hot chocolate or ginger tea over the ice, turning the dessert into a hand‑warmer. You’ll mostly find it in these tourist districts, not in quieter neighborhoods.",
-    "title_line1": "Winter bingsu Seoul",
-    "title_line2": "Cold ice, warm bean",
+    "narration": "Yes, you can eat ice cream in Seoul’s December chill—called bingsu. In busy spots like Myeongdong and Hongdae, street vendors set up insulated carts that serve shaved‑ice dessert year‑round. The ice is piled high, then drizzled with warm red bean paste, toasted rice cakes, and hot syrups, so the cold base meets comforting heat. Vendors hand it in small disposable bowls, ideal for strolling through a night market. The tradition began as a summer treat, but the hot toppings keep customers warm in winter. Some stalls even pour hot chocolate or ginger tea over the ice, turning the snack into an instant hand‑warmer. Winter bingsu appears mainly in these bustling districts, not in quieter neighborhoods.",
+    "title_line1": "Seoul winter bingsu",
+    "title_line2": "Heat on icy bingsu",
     "highlights": [
       {
         "s": 1,
-        "text": "*Ice* cream chill"
+        "text": "Bingsu in *December*"
       },
       {
         "s": 2,
-        "text": "All‑year *bingsu* carts"
+        "text": "Carts serve *always*"
       },
       {
         "s": 3,
@@ -3415,24 +3499,78 @@
       },
       {
         "s": 5,
-        "text": "Ice + *hot chocolate*"
+        "text": "Turned *winter* treat"
+      },
+      {
+        "s": 6,
+        "text": "Chocolate *over* ice"
       }
     ],
     "image_queries": [
-      "bingsu ice cream winter",
-      "year-round bingsu street cart",
+      "bingsu December Seoul",
+      "shaved ice cart Seoul",
       "bingsu with hot toppings",
-      "bingsu disposable bowl",
-      "bingsu with hot chocolate",
-      "bingsu ginger tea topping",
-      "bingsu tourist district stall"
+      "winter bingsu street vendor",
+      "bingsu with chocolate",
+      "Seoul night market"
     ],
     "scene_count": 10,
     "ko_title": "Korea: Winter bingsu Seoul Cold ice, warm bean #Shorts",
     "ko_description": "🎯 네, 서울의 12월 추위 속에서도 눈처럼 부드러운 빙수를 먹을 수 있어요—빙수라고 합니다.\n\n명동, 홍대 같은 인기 관광지에서는 거리 노점들이 단열된 카트를 설치해 연중 빙수를 제공합니다. 갈아 만든 얼음 위에 따뜻한 팥소, 구운 떡, 뜨거운 시럽을 올려 차가운 베이스와 따뜻함이 대비됩니다. 판매자들은 보통 작은 일회용 그릇에 담아 밤시장 거리를 걸으며 쉽게 즐길 수 있게 합니다. 이 음식은 원래 여름 간식으로 시작했지만 뜨거운 토핑 덕분에 겨울에도 계속됩니다.\n\n💡 일부 노점은 얼음 위에 뜨거운 초콜릿이나 생강차를 부어 즉석 손난로 같은 디저트로 만들기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절 그리고 놀라운 사실들.\n\n#WinterShavedIce #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "네, 서울의 12월 추위 속에서도 빙수를 먹을 수 있어요—빙수라고 합니다. 명동, 홍대 같은 번화가에서는 거리 노점들이 단열된 카트를 설치해 연중 빙수를 제공합니다. 갈아 만든 얼음 위에 따뜻한 팥소, 구운 떡, 뜨거운 시럽이 올려져 차가운 베이스와 따뜻함이 만납니다. 판매자들은 작은 일회용 그릇에 담아 시장을 거닐기에 딱 맞게 제공합니다. 이 간식은 원래 여름 간식으로 시작했지만 뜨거운 토핑 덕분에 겨울에도 충분히 따뜻하게 즐길 수 있습니다. 일부 노점은 얼음 위에 뜨거운 초콜릿이나 생강차를 부어 디저트를 손난로로 바꾸기도 합니다. 주로 이런 관광지에서 찾을 수 있고, 조용한 동네에서는 드물어요.",
-    "ko_issues": [],
-    "ko_src": "a17c1e026024"
+    "ko_issues": null,
+    "ko_src": "a17c1e026024",
+    "audio_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0039_Winter Shaved Ice_v2.mp3",
+    "timing_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0039_Winter Shaved Ice_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "bingsu December Seoul",
+      "shaved ice cart Seoul",
+      "bingsu with hot toppings",
+      "winter bingsu street vendor",
+      "bingsu with chocolate",
+      "Seoul night market"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "manseok_Kim",
+        "page": "https://pixabay.com/photos/building-architecture-city-9761776/"
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "rasp6erry6anana",
+        "page": "https://pixabay.com/photos/strawberry-shaved-ice-cake-dessert-665193/"
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "JillWellington",
+        "page": "https://pixabay.com/photos/valentines-day-heart-cup-coffee-624440/"
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "TuanAnhNgo",
+        "page": "https://pixabay.com/photos/street-vendor-fruit-vendor-hanoi-4176310/"
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "PublicDomainPictures",
+        "page": "https://pixabay.com/photos/chocolate-bars-cocoa-chocolate-bars-2554/"
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "viarami",
+        "page": "https://pixabay.com/photos/women-market-hall-cook-market-sale-5475275/"
+      }
+    ],
+    "image_source": "pixabay"
   },
   {
     "label": "Delivery Robots on Streets",
@@ -3445,7 +3583,7 @@
     "verify_note": "Seoul delivery robot pilot, Starship delivery robot, Korean autonomous sidewalk robot",
     "country": "Delivery Robots on Streets",
     "created_at": "2026-10-13T23:28:26.706977+00:00",
-    "status": "scripted",
+    "status": "rejected",
     "narration": "Did you know tiny robots are already delivering pizza to Korean apartments? In upscale neighborhoods like Gangnam and Seongnam, small box‑shaped delivery robots zip along the sidewalks. When an order arrives, residents get a phone notification, open their door, and the robot slides a sealed bag onto a mat. The service skips traffic and limits contact during rush hour, making it popular in many high‑rise complexes that have a dedicated charging station. Some of these robots can even climb a few steps, reaching the front door without needing an elevator. Right now it’s a pilot limited to certain apartment buildings, not a city‑wide system, but it shows how autonomous tech is reshaping everyday life in Seoul.",
     "title_line1": "Food bots zip Seoul",
     "title_line2": "Pizza at your door",
@@ -3479,8 +3617,9 @@
     "ko_title": "Korea: Food bots zip Seoul Pizza at your door #Shorts",
     "ko_description": "🎯 작은 로봇이 이미 한국 아파트에 피자를 배달하고 있다는 사실, 알고 계셨나요?\n\n강남·성남 등 지역에서는 상자 모양의 소형 배달 로봇이 인도로 이동합니다. 주민은 스마트폰으로 알림을 받고, 문을 열면 로봇이 봉인된 가방을 매트 위에 미끄러뜨려 줍니다. 교통 체증을 피하고 혼잡 시간대에 접촉을 최소화한다는 이유로 인기가 높습니다. 주로 전용 로봇 충전 스테이션이 설치된 고급 주거 단지에서 운영됩니다.\n\n💡 일부 로봇은 몇 계단을 오를 수 있어 엘리베이터 없이 고층 건물 앞문까지 도달할 수 있습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#DeliveryRobotsOnStreets #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "작은 로봇이 이미 한국 아파트에 피자를 배달하고 있다는 사실, 알고 계셨나요? 강남·성남 같은 고급 동네에서는 상자 모양의 소형 배달 로봇이 인도를 질주합니다. 주문이 들어오면 주민은 스마트폰 알림을 받고, 문을 열면 로봇이 봉인된 가방을 매트 위에 미끄러뜨려 줍니다. 이 서비스는 교통 체증을 피하고 러시아워에 접촉을 최소화해 많은 고층 단지에서 인기를 끌고 있습니다. 전용 충전 스테이션이 있는 단지에서 주로 운영됩니다. 일부 로봇은 몇 계단을 오를 수 있어 엘리베이터 없이도 현관문에 도달합니다. 현재는 특정 아파트 건물에 한정된 시범 운영이며 전역적인 시스템은 아니지만, 자율 기술이 서울 일상을 어떻게 바꾸고 있는지를 보여줍니다.",
-    "ko_issues": [],
-    "ko_src": "153be889c0fa"
+    "ko_issues": null,
+    "ko_src": "153be889c0fa",
+    "reject_reason": "UI에서 제외"
   },
   {
     "label": "Smart Toilets with Music",
@@ -3493,7 +3632,7 @@
     "verify_note": "Seoul public restroom sound masking, Korean smart toilet melody, Korean bathroom music",
     "country": "Smart Toilets with Music",
     "created_at": "2026-10-13T23:28:26.706977+00:00",
-    "status": "scripted",
+    "status": "rejected",
     "narration": "Ever heard a bathroom sing after you finish? In many Seoul subway stations and big malls, public restrooms now have smart toilets with heated seats, bidet sprays, and a sound‑masking system. When you flush, a brief, soothing melody plays automatically, covering any awkward noises. The tune comes from a motion sensor, so you don’t need to press any extra button. The clever part is that the melody can change with the time of day—a calm chime in the morning and a brighter jingle at night. These high‑tech fixtures are common in newer or renovated spaces, though older restrooms still use regular toilets. So the next time you hear a bathroom hum, you’ll know it’s Seoul’s way of keeping things private.",
     "title_line1": "Seoul smart toilets",
     "title_line2": "Music masks flush",
@@ -3524,8 +3663,9 @@
     "ko_title": "Korea: Seoul 스마트 변기 음악 마스크 플러시 #Shorts",
     "ko_description": "🎯 화장실에서 마친 뒤 노래가 나오는 걸 들어본 적 있나요?\n\n서울 지하철역과 대형 쇼핑몰의 많은 공공 화장실에 히터가 달린 좌석, 비데 기능, 그리고 소리 가림 시스템이 장착된 스마트 변기가 설치되어 있습니다. 사용자가 물을 내리면 몇 초 동안 짧고 부드러운 멜로디가 자동으로 재생됩니다. 이 기능은 붐비는 시설에서의 당혹감을 줄이기 위해 추가됐으며, 동작 센서로 작동해 별도의 버튼이 필요 없습니다.\n\n💡 같은 시스템을 시간대에 따라 다른 곡을 재생하도록 설정할 수 있습니다. 예를 들어 아침엔 차분한 종소리, 밤엔 밝은 징글이 흐릅니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절 그리고 놀라운 사실들.\n\n#SmartToiletsWithMusic #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "화장실에서 마친 뒤 노래가 나오는 걸 들어본 적 있나요? 서울 지하철역과 대형 쇼핑몰의 공공 화장실에는 이제 히터가 달린 좌석, 비데 분사, 그리고 소리 가림 시스템이 갖춰진 스마트 변기가 있습니다. 물을 내리면 짧고 부드러운 멜로디가 자동으로 재생돼 어색한 소리를 가려줍니다. 이 멜로디는 동작 센서에서 나오기 때문에 별도의 버튼을 누를 필요가 없습니다. 흥미로운 점은 멜로디가 시간대에 따라 바뀐다는 것으로, 아침엔 차분한 종소리, 밤엔 밝은 징글이 흐릅니다. 이러한 첨단 설비는 새로 짓거나 리모델링한 공간에 흔히 보이지만, 오래된 화장실은 여전히 일반 변기를 사용합니다. 그래서 다음에 화장실에서 울려 퍼지는 소리를 듣게 되면, 그것이 서울만의 사생활 보호 방식이라는 것을 알게 될 것입니다.",
-    "ko_issues": [],
-    "ko_src": "13459a65a0f7"
+    "ko_issues": null,
+    "ko_src": "13459a65a0f7",
+    "reject_reason": "UI에서 제외"
   },
   {
     "label": "Black Day Jajangmyeon",
@@ -3538,43 +3678,100 @@
     "verify_note": "Korean Black Day jajangmyeon, April 14 Black Day Korea, Korean singles holiday",
     "country": "Black Day Jajangmyeon",
     "created_at": "2026-10-13T23:28:26.706977+00:00",
-    "status": "scripted",
-    "narration": "Why do some Koreans eat black noodles on a day called Black Day? Two weeks after Valentine’s Day and White Day, South Korea marks Black Day on April 14th. Uncoupled friends and coworkers wear black clothing and head to restaurants for jajangmyeon, thick noodles topped with dark soy‑bean sauce. The tradition began as a tongue‑in‑cheek response to the couple‑focused holidays, and many eateries roll out special “Black Day” menus and discounts for groups dressed in black. At some cafés, the theme continues with a dessert called black coffee mousse, keeping everything ebony from start to finish. The celebration is most popular among younger adults in cities, and not every Korean observes it. So next time you see a bowl of jet‑black noodles, you’ll know the playful story behind it.",
-    "title_line1": "Singles black noodle",
-    "title_line2": "Why the dark sauce?",
+    "status": "video_done",
+    "narration": "Why do some Koreans eat black noodles on a day called Black Day? Two weeks after Valentine’s Day and White Day, South Korea marks Black Day on April 14th. Uncoupled friends and coworkers dress in black and meet at restaurants to share jajangmyeon, a noodle dish topped with dark soy‑bean sauce. The holiday began as a tongue‑in‑cheek response to the couple‑focused celebrations, and many eateries roll out special “Black Day” menus and discounts for groups in black attire. At some cafés, the theme continues with a dessert called black coffee mousse, keeping everything that night the same shade. The tradition is most popular among younger adults in urban areas, and not every Korean observes it. So next time you see a bowl of jet‑black noodles, you’ll know it’s a playful single‑saver’s feast.",
+    "title_line1": "Singles eat black",
+    "title_line2": "Why the black bowl?",
     "highlights": [
       {
         "s": 1,
-        "text": "Why eat black *noodles*?"
+        "text": "*Black* Day mystery"
       },
       {
         "s": 2,
-        "text": "April 14: *Black Day*"
+        "text": "April 14: *Black* Day"
       },
       {
         "s": 3,
-        "text": "Wear *black*, jajang"
+        "text": "Singles' *black* feast"
       },
       {
-        "s": 5,
-        "text": "Black *coffee mousse* dessert"
+        "s": 4,
+        "text": "*Black* coffee mousse"
       }
     ],
     "image_queries": [
-      "black noodles bowl",
-      "April 14 Korean calendar",
-      "people wearing black jajangmyeon",
-      "Korean black day menu",
-      "black coffee mousse dessert",
-      "young adults city gathering",
+      "calendar",
+      "발렌타인데이",
+      "couple",
+      "짜장면",
+      "하트",
       "jet black noodles"
     ],
     "scene_count": 10,
     "ko_title": "Korea: Singles black noodle Why the dark sauce? #Shorts",
     "ko_description": "🎯 왜 일부 한국인들은 블랙 데이라고 불리는 날에 검은 면을 먹을까요?\n\n밸런타인데이와 화이트 데이로부터 2주 뒤인 4월 14일, 한국은 블랙 데이를 기념합니다. 연인 관계가 아닌 친구와 직장 동료들은 검은 옷을 입고 식당에 모여 검은 콩 소스를 얹은 면 요리인 짜장면을 나눠 먹습니다. 이 전통은 커플 중심의 명절에 대한 장난스러운 반응으로 시작됐으며, 많은 식당에서 검은 복장을 한 단체를 위한 특별 “블랙 데이” 메뉴와 할인 혜택을 제공합니다.\n\n💡 일부 카페에서는 식사 전체의 색감 통일을 위해 “블랙 커피 무스”라는 디저트를 제공하기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상 생활, 음식, 예절 및 놀라운 사실들.\n\n#BlackDayJajangmyeon #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "왜 일부 한국인들은 블랙 데이라고 불리는 날에 검은 면을 먹을까요? 밸런타인데이와 화이트 데이로부터 2주 뒤인 4월 14일, 한국은 블랙 데이를 기념합니다. 연인 관계가 아닌 친구와 직장 동료들은 검은 옷을 입고 짜장면, 검은 콩 소스를 얹은 굵은 면을 먹으러 식당에 갑니다. 이 전통은 커플 중심 명절에 대한 장난스러운 반응으로 시작됐으며, 많은 식당에서 검은 복장을 한 그룹을 위한 특별 “블랙 데이” 메뉴와 할인을 제공하고 있습니다. 일부 카페에서는 블랙 커피 무스라는 디저트를 제공해 색감 테마를 시작부터 끝까지 검게 유지합니다. 이 축제는 주로 도시의 젊은 성인들 사이에서 인기가 많으며, 모든 한국인이 이를 지키는 것은 아닙니다. 다음에 검은 색 국수 한 그릇을 보게 된다면, 그 장난스러운 이야기를 알게 될 것입니다.",
-    "ko_issues": [],
-    "ko_src": "756535a8125d"
+    "ko_issues": null,
+    "ko_src": "756535a8125d",
+    "audio_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0042_Black Day Jajangmyeon_v2.mp3",
+    "timing_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0042_Black Day Jajangmyeon_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "calendar",
+      "발렌타인데이",
+      "couple",
+      "짜장면",
+      "하트",
+      "jet black noodles"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "Ralf1403",
+        "page": "https://pixabay.com/photos/calendar-meeting-planning-10045176/"
+      },
+      {
+        "scene": 2,
+        "source": "commons",
+        "user": "Upload: Chordboard",
+        "license": "Public domain",
+        "title": "Antique Valentine 1909 01.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Antique_Valentine_1909_01.jpg"
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "DoniShala",
+        "page": "https://pixabay.com/photos/valentines-day-background-couple-6548045/"
+      },
+      {
+        "scene": 4,
+        "source": "commons",
+        "user": "Debbie Tingzon",
+        "license": "CC BY 2.0",
+        "title": "Jajangmyeon 1.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Jajangmyeon_1.jpg"
+      },
+      {
+        "scene": 5,
+        "source": "commons",
+        "user": "Surayeproject3",
+        "license": "CC0",
+        "title": "I ♡ Alqosh Sign.png",
+        "page": "https://commons.wikimedia.org/wiki/File:I_%E2%99%A1_Alqosh_Sign.png"
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "sasint",
+        "page": "https://pixabay.com/photos/airplane-buildings-perspective-1807486/"
+      }
+    ],
+    "image_source": "pixabay",
+    "status_v6": "video_done"
   },
   {
     "label": "QR‑Only Street Food",
@@ -3587,7 +3784,7 @@
     "verify_note": "Korean street food QR payment, Seoul QR code vending, KakaoPay street vendors",
     "country": "QR‑Only Street Food",
     "created_at": "2026-10-13T23:28:26.706977+00:00",
-    "status": "scripted",
+    "status": "rejected",
     "narration": "You can buy tteokbokki from a stall without ever pulling out a wallet. In busy food streets like Hongdae and Gwangjang Market, many vendors now put a small QR code on a stand next to their cart. You scan it with KakaoPay or another Korean mobile payment app, pick the menu on your phone, and pay instantly. A tiny thermal printer spits out a receipt with a number, and the vendor calls that number when your dish is ready. The contact‑free system speeds up service and cuts out the need for change. Some stalls even embed a short video of the cooking process in the QR code, so you can watch the sizzle while you wait. The QR‑only setup is common in popular tourist and nightlife areas, but many smaller or older stalls still take cash. Next time you crave street food, remember your phone might be the only thing you need.",
     "title_line1": "Seoul street food QR",
     "title_line2": "Cashless tteokbokki",
@@ -3627,8 +3824,9 @@
     "ko_title": "Korea: Seoul street food QR Cashless tteokbokki #Shorts",
     "ko_description": "🎯 지갑을 꺼내지 않아도 포장마차에서 떡볶이를 살 수 있습니다.\n\n홍대·광장시장 등 붐비는 먹거리 거리에서 많은 가게들이 이제 매대 옆에 작은 QR 코드를 놓고 있습니다. 고객은 카카오페이 등 한국 모바일 결제 앱으로 코드를 스캔하고, 휴대폰으로 메뉴를 선택해 즉시 결제합니다. 작은 열전사 프린터가 번호가 적힌 영수증을 출력하고, 번호가 호출되면 가게 주인이 주문을 건네줍니다. 이 비접촉 시스템은 서비스 속도를 높이고 거스름돈 필요성을 줄여줍니다.\n\n💡 일부 가게는 QR 코드에 요리 과정을 담은 짧은 영상을 삽입해, 손님이 기다리는 동안 빠르게 감상할 수 있게 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#QROnlyStreetFood #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "지갑을 꺼내지 않아도 포장마차에서 떡볶이를 살 수 있습니다. 홍대·광장시장 등 분주한 먹거리 거리에서 많은 가게들이 이제 카트 옆에 작은 QR 코드를 놓고 있습니다. 카카오페이 등 다른 한국 모바일 결제 앱으로 코드를 스캔하고, 휴대폰으로 메뉴를 선택해 즉시 결제합니다. 작은 열전사 프린터가 번호가 적힌 영수증을 뿜어내고, 가게 주인이 그 번호를 호출하면 음식이 준비됩니다. 비접촉 시스템은 서비스 속도를 높이고 거스름돈 필요성을 없앱니다. 일부 포장마차는 QR 코드에 요리 과정을 담은 짧은 영상을 삽입해, 기다리는 동안 불꽃 튀는 모습을 볼 수 있게 합니다. QR 전용 결제는 인기 관광지와 야 nightlife 지역에서 흔하지만, 여전히 작은 규모이거나 오래된 가게는 현금을 받습니다. 다음에 길거리 음식을 먹고 싶을 때, 전화기만 있으면 된다는 점을 기억하세요.",
-    "ko_issues": [],
-    "ko_src": "cc2bc55138d2"
+    "ko_issues": null,
+    "ko_src": "cc2bc55138d2",
+    "reject_reason": "UI에서 제외"
   },
   {
     "label": "Silent Study Cafés",
@@ -3641,7 +3839,7 @@
     "verify_note": "Korean study café culture, 24-hour study cafés Seoul, QR ordering at study cafés, silent study café etiquette, nap pods study café Korea",
     "country": "Silent Study Cafés",
     "created_at": "2026-10-13T23:29:29.048716+00:00",
-    "status": "scripted",
+    "status": "rejected",
     "narration": "Did you know you can pay by the minute to study in a silent café that serves coffee through a QR app? In Seoul and other big cities, many cafés stay open 24 hours and turn into study hubs. You rent a desk or a private booth for an hourly fee, then scan the QR code on the table to order coffee, instant noodles, or a dessert. The rule is simple: keep conversation below a whisper, with gentle reminders on the screens. Some places even add sound‑proof booths and nap pods for short breaks. The twist? You can book a 20‑minute power‑nap pod that wakes you with a soft chime and a fresh cup of tea. This quiet, tech‑savvy setup is popular with students, freelancers, and office workers, though smaller cafés may not enforce the silence or offer QR ordering.",
     "title_line1": "4‑hr silent study",
     "title_line2": "Minute pay QR coffee",
@@ -3677,7 +3875,800 @@
       "20 minute nap pod",
       "students using laptops cafe"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "country": "Why Is Rice Cake So Important in Korea?",
+    "topic": "Why do Koreans celebrate life with rice cakes?",
+    "theme": "manual",
+    "hook": "Why do Koreans celebrate life with rice cakes?",
+    "body": "In Korea, rice cakes are more than just a sweet treat. They can mark some of life’s most important moments. For a baby’s first 100 days, families traditionally serve white rice cake called baekseolgi, symbolizing purity and wishes for a healthy life. Red bean rice cakes, known as pat-sirutteok, have traditionally been associated with warding off bad luck and wishing for good fortune. During Chuseok, Korea’s harvest holiday, families make songpyeon—small, half-moon-shaped rice cakes filled with ingredients like sesame seeds. Rice cakes are also shared with neighbors, given as gifts, and served at celebrations. Offering them can be a way to share happiness and good wishes. From welcoming a new baby to celebrating the harvest, Korean rice cakes carry wishes for health, happiness, and good fortune.",
+    "twist": "Which one would you try first?",
+    "caveat": "",
+    "narration": "Why do Koreans celebrate life with rice cakes? In Korea, rice cakes are more than just a sweet treat. They can mark some of life’s most important moments. For a baby’s first 100 days, families traditionally serve white rice cake called baekseolgi, symbolizing purity and wishes for a healthy life. Red bean rice cakes, known as pat-sirutteok, have traditionally been associated with warding off bad luck and wishing for good fortune. During Chuseok, Korea’s harvest holiday, families make songpyeon—small, half-moon-shaped rice cakes filled with ingredients like sesame seeds. Rice cakes are also shared with neighbors, given as gifts, and served at celebrations. Offering them can be a way to share happiness and good wishes. From welcoming a new baby to celebrating the harvest, Korean rice cakes carry wishes for health, happiness, and good fortune. Which one would you try first?",
+    "status": "video_done",
+    "confidence": "user",
+    "verify_note": "직접 입력한 대본",
+    "fact_verifiability": "user",
+    "fact_risk": "user-pending",
+    "narration_user_edited": true,
+    "created_at": "2026-10-20T11:57:26.139364+00:00",
+    "title_line1": "Rice cakes celebrate",
+    "title_line2": "How they share luck",
+    "highlights": [
+      {
+        "s": 4,
+        "text": "100‑day *baekseolgi*"
+      },
+      {
+        "s": 6,
+        "text": "*songpyeon* harvest"
+      },
+      {
+        "s": 9,
+        "text": "*health* & happiness"
+      }
+    ],
+    "image_queries": [
+      "Korean rice cake",
+      "백설기",
+      "pat-sirutteok red bean rice cake",
+      "songpyeon harvest rice cake",
+      "Korean rice cake gift sharing",
+      "Korean rice cake health happiness"
+    ],
+    "image_queries_done": [
+      "Korean rice cake celebration",
+      "baekseolgi white rice cake",
+      "pat-sirutteok red bean rice cake",
+      "songpyeon harvest rice cake",
+      "Korean rice cake gift sharing",
+      "Korean rice cake health happiness"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "commons",
+        "user": "Startandstar",
+        "license": "CC0",
+        "title": "Korean rice cake Korean tteok.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Korean_rice_cake_Korean_tteok.jpg",
+        "id": "c:145129289"
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "ulleo",
+        "page": "https://pixabay.com/photos/apple-hand-bone-snow-white-poison-3483512/",
+        "id": 3483512,
+        "type": "photo"
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "PaxNguy",
+        "page": "https://pixabay.com/photos/beans-vegetable-raw-spoon-red-bean-6656979/",
+        "id": 6656979
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "consolersafari",
+        "page": "https://pixabay.com/photos/rice-grain-plant-food-harvest-7176354/",
+        "id": 7176354
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "truongvandoan",
+        "page": "https://pixabay.com/photos/kimbab-rice-roll-korean-tray-7862093/",
+        "id": 7862093
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "reh0714",
+        "page": "https://pixabay.com/photos/toppokki-tteok-bokki-korean-5653412/",
+        "id": 5653412
+      }
+    ],
+    "image_source": "pixabay",
+    "audio_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0045_Why Is Rice Cake So Important in Korea__v2.mp3",
+    "timing_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0045_Why Is Rice Cake So Important in Korea__v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "srt_path": "C:\\Users\\seokg\\Downloads\\latest-en\\videos\\0045_Why Is Rice Cake So Important in Korea_.srt",
+    "video_path_v6": "C:\\Users\\seokg\\Downloads\\latest-en\\videos\\0045_Why Is Rice Cake So Important in Korea_.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "Y9yPiRjwjqc",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-20"
+  },
+  {
+    "label": "Gat-Inspired Lamp",
+    "topic": "A minimalist ambient lamp shaped by Korea's traditional gat hat.",
+    "hook": "What if a Korean hat could light up your room?",
+    "body": "Designers have taken the iconic silhouette of the Korean gat hat and turned it into a modern lamp. The piece keeps a minimalist aesthetic while providing soft, ambient lighting. Its form echoes the hat’s wide brim and open weave, blending heritage with contemporary style. Many viewers notice how the lamp subtly references cultural design without being a direct replica.",
+    "twist": "The lamp is a reinterpretation, using the gat’s distinctive shape to create a glowing silhouette rather than copying the hat itself.",
+    "caveat": "This design appears in specific design showcases and may not be widely available, so its exposure is limited to certain markets or exhibitions.",
+    "confidence": "low",
+    "verify_note": "https://mastodon.social/@killbait/117149622062731973",
+    "country": "Gat-Inspired Lamp",
+    "status": "scripted",
+    "created_at": "2026-10-20T12:40:00.435179+00:00",
+    "theme": "keyword",
+    "source_url": "https://mastodon.social/@killbait/117149622062731973",
+    "seed_text": "A Modern Lamp Inspired by Korea's Traditional Gat Hat 📰 Original title: The Traditional Ko A Modern Lamp Inspired by Korea's Traditional Gat Hat 📰 Original title: The Traditional Korean ‘Gat’ Reimagined as a Minimalist Ambient Lamp 🤖 IA: It's not clickbait ✅ 👥 Users: It's not clickbait ✅ View full AI summary https:// en.killbait.com/a-modern-lamp- inspired-by-korea-s-traditional-gat-hat.html?utm_source=mastodon_social&utm_medium=social&utm_campaign=killbait.mastodon_social # culture # traditionaldesign # koreanculture # minimalistlamp",
+    "narration": "What if a Korean hat could light up your room? Designers took the iconic silhouette of the traditional gat—a tall, wide‑brimmed hat worn in the Joseon era—and turned it into a minimalist ambient lamp. The lamp keeps a clean, modern look while casting soft, diffused light. Its shape echoes the gat’s broad brim and open weave, so the heritage feels present without being a literal replica. Many viewers notice the subtle cultural reference, and the piece often appears in design showcases rather than mainstream stores. It’s a reinterpretation, using the hat’s outline to create a glowing silhouette, not a direct copy. Imagine that quiet glow framing your space.",
+    "title_line1": "Gat‑Inspired Lamp",
+    "title_line2": "Hat lights your room",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Hat *lights* your room"
+      },
+      {
+        "s": 2,
+        "text": "Gat silhouette *lamp*"
+      },
+      {
+        "s": 3,
+        "text": "Soft *ambient* glow"
+      },
+      {
+        "s": 4,
+        "text": "Broad brim *echo*"
+      }
+    ],
+    "image_queries": [
+      "hat lamp lighting room",
+      "Korean gat silhouette lamp",
+      "soft ambient lamp brim",
+      "design showcase lamp",
+      "glowing gat outline lamp",
+      "quiet glow lamp interior"
+    ],
+    "image_queries_done": [
+      "hat lamp lighting room",
+      "Korean gat silhouette lamp",
+      "soft ambient lamp brim",
+      "design showcase lamp",
+      "glowing gat outline lamp",
+      "quiet glow lamp interior"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "Andrey_and_Olesya",
+        "page": "https://pixabay.com/illustrations/table-lamp-lamp-light-bright-7871088/",
+        "id": 7871088,
+        "type": "illustration"
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "tttboram",
+        "page": "https://pixabay.com/illustrations/traditional-hat-gat-hat-string-hat-9821338/",
+        "id": 9821338,
+        "type": "illustration"
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "CreativeCanvasDesign",
+        "page": "https://pixabay.com/vectors/ai-generated-astronaut-10273987/",
+        "id": 10273987,
+        "type": "illustration"
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "leonidaltman",
+        "page": "https://pixabay.com/photos/smartphone-smart-object-screen-7334772/",
+        "id": 7334772
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "AliceKeyStudio",
+        "page": "https://pixabay.com/photos/kerosene-lamp-old-lighting-lamp-1202277/",
+        "id": 1202277
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "Ri_Ya",
+        "page": "https://pixabay.com/photos/lamp-lantern-light-yachts-sunset-6281896/",
+        "id": 6281896
+      }
+    ],
+    "image_source": "pixabay"
+  },
+  {
+    "label": "First Snow Soup Picnic",
+    "topic": "Koreans celebrate the first snowfall by eating rice‑cake soup in parks",
+    "hook": "Did you know many Koreans treat the first snow like a holiday, eating tteokguk outdoors?",
+    "body": "When the season’s first snowflakes fall, families and friends often head to nearby parks, spread a blanket, and share tteokguk, the rice‑cake soup usually reserved for Lunar New Year. The warm broth contrasts with the cold air, and the tradition is seen as a way to welcome winter’s arrival. Children add a playful twist by making snow angels while waiting for the soup to cool. The practice has been highlighted in local news as a seasonal community activity.",
+    "twist": "In some neighborhoods, volunteers hand out free disposable bowls so participants don’t have to bring their own.",
+    "caveat": "This custom is most common in urban areas like Seoul and is not observed by every household across the country.",
+    "confidence": "high",
+    "verify_note": "first snowfall tteokguk park tradition South Korea news 2023",
+    "country": "First Snow Soup Picnic",
+    "created_at": "2026-10-20T12:49:53.740143+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "RFID Laundry Rooms",
+    "topic": "Apartment drying rooms use access cards to start dryers and send finish alerts",
+    "hook": "Ever wondered how Korean high‑rises wash clothes without leaving the building?",
+    "body": "Many apartment complexes in cities such as Seoul feature communal drying rooms equipped with dryers that read residents’ RFID access cards. When you place a basket inside and tap your card, the machine starts automatically and records the cycle; a push notification is sent to your phone when the timer ends. The system also tracks usage for billing, so you never need to insert coins. Residents appreciate the convenience, especially during winter when outdoor drying is impractical.",
+    "twist": "Some units even display a small animation of a smiling laundry basket when the cycle finishes.",
+    "caveat": "These RFID‑enabled dryers are typical in newer or renovated complexes and may not exist in older buildings.",
+    "confidence": "high",
+    "verify_note": "Korean apartment RFID dryer communal drying room",
+    "country": "RFID Laundry Rooms",
+    "created_at": "2026-10-20T12:49:53.740143+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Smart EV Parking",
+    "topic": "Seoul’s on‑street parking spots include built‑in chargers and LED feedback",
+    "hook": "Imagine parking your electric car and watching a tiny cartoon celebrate as it charges.",
+    "body": "In several districts of Seoul, designated electric‑vehicle parking spaces are equipped with built‑in charging plugs and a small LED panel on the curb. When a driver plugs in, the panel lights up and shows the current battery percentage; once fully charged, a brief animation—often a hopping cat or a blooming flower—plays. The system is linked to a city app that lets users locate available spots in real time. This integration encourages EV adoption by turning charging into a visible, interactive experience.",
+    "twist": "The same curb also has a QR code that lets drivers report a malfunction instantly.",
+    "caveat": "The smart charging curbs are currently limited to specific neighborhoods and are not yet a city‑wide standard.",
+    "confidence": "high",
+    "verify_note": "Seoul smart EV parking curb LED animation charging spots",
+    "country": "Smart EV Parking",
+    "created_at": "2026-10-20T12:49:53.740143+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Zero‑Waste Lunch Day",
+    "topic": "Middle schools hold weekly meals where students must finish all food and return containers",
+    "hook": "Did you know some Korean schools turn lunch into a zero‑waste competition?",
+    "body": "Several middle schools in South Korea run a ‘Zero‑Waste Lunch Day’ once a week, challenging each class to finish every banchan and return empty trays and containers to the kitchen. Teachers track the waste amount, and the class with the lowest leftover volume receives a small reward, such as a potted plant for the classroom. The initiative has cut food waste by up to 30 % in participating schools and teaches students about responsible consumption. Students often share tips, like using reusable chopsticks, to improve their scores.",
+    "twist": "In one pilot, the school installed a digital scoreboard in the hallway that updates the waste totals after each lunch.",
+    "caveat": "The program is voluntary and currently implemented in a limited number of schools, mostly in the Seoul metropolitan area.",
+    "confidence": "high",
+    "verify_note": "Korean school zero waste lunch program middle school",
+    "country": "Zero‑Waste Lunch Day",
+    "created_at": "2026-10-20T12:49:53.740143+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Rooftop Apartment BBQs",
+    "topic": "Residents reserve rooftop grills via an app and grill dinner with city views",
+    "hook": "Did you know you can book a rooftop barbecue in a Seoul apartment building with just a tap?",
+    "body": "In many high‑rise apartment complexes across Seoul and other big cities, a small rooftop area is fitted with built‑in charcoal grills. Residents log into a shared app or scan a QR code to reserve a 30‑minute slot, then head up with meat, vegetables, and a portable table. While the grill sizzles, neighbors chat, share side dishes, and follow the unwritten rule of cleaning the grill and disposing of ash before leaving. The practice blends the love of Korean BBQ with modern convenience, turning a simple dinner into a mini‑social event with the city skyline as a backdrop.",
+    "twist": "Some newer complexes even install Wi‑Fi and a tiny bookshelf of board games, so the rooftop can quickly turn into a pop‑up lounge after the grill is done.",
+    "caveat": "These shared rooftop grills are typical of newer high‑rise apartments in major urban areas; older neighborhoods or low‑rise housing often lack such facilities.",
+    "confidence": "high",
+    "verify_note": "Korean apartment rooftop BBQ reservation app, communal rooftop grill Korea, shared grilling etiquette Korean apartments",
+    "country": "Rooftop Apartment BBQs",
+    "created_at": "2026-10-20T12:49:57.714147+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Silent Subway Wave",
+    "topic": "Commuters greet each other with a quick hand wave instead of speaking",
+    "hook": "Ever seen strangers wave silently on a packed subway?",
+    "body": "In many Seoul subway lines, especially during rush hour, passengers often exchange a brief, silent hand wave when doors close. The gesture replaces spoken greetings, keeping the carriage quiet for the next stop. It’s become a subtle social cue that signals politeness without adding noise.",
+    "twist": "Some stations even have a small sign that reads 'Please keep conversation to a whisper' to encourage the practice.",
+    "caveat": "The wave is most common on busy lines in central Seoul and may not be used on less crowded routes or in smaller cities.",
+    "confidence": "high",
+    "verify_note": "Seoul subway silent greeting hand wave etiquette sign",
+    "country": "Silent Subway Wave",
+    "created_at": "2026-10-20T12:52:21.698791+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Umbrella Rental Kiosks",
+    "topic": "App‑based reusable umbrellas available at street kiosks in Seoul",
+    "hook": "Caught in a sudden Seoul downpour? You can borrow an umbrella with a QR code.",
+    "body": "At many subway exits and busy streets, compact umbrella stations let you scan a QR code, unlock a lightweight umbrella, and pay a small fee. The umbrella can be returned to any station, and the system tracks usage through a mobile app that even awards points. The service was launched to reduce disposable umbrellas and has spread to districts like Gangnam and Hongdae. Many locals treat the rental as a convenient backup for unexpected rain.",
+    "twist": "Some kiosks are solar‑powered and automatically disinfect the umbrellas between rentals.",
+    "caveat": "The rental network is currently limited to central Seoul and a few other major cities, not nationwide.",
+    "confidence": "high",
+    "verify_note": "Seoul umbrella rental kiosk QR, reusable umbrella stations Korea",
+    "country": "Umbrella Rental Kiosks",
+    "created_at": "2026-10-20T12:52:28.853544+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Office Nap Pods",
+    "topic": "Quiet power‑nap rooms that employees book for short rests during the workday",
+    "hook": "Did you know Korean offices have dedicated nap rooms you can reserve in minutes?",
+    "body": "Several tech companies and large corporations in Seoul have installed sound‑proof pods that employees can book through an internal app for a 20‑minute power nap. The pods often include a reclining chair, soft lighting, and a timer that gently wakes the user. Companies promote them as part of wellness programs to boost afternoon productivity. Employees describe stepping into the pod after a meeting and emerging refreshed for the next task.",
+    "twist": "A few firms even give a modest “nap allowance” that employees can spend on ergonomic cushions or sleep‑mask accessories.",
+    "caveat": "Nap pods are more common in larger firms and startups in Seoul; many smaller workplaces still lack such facilities.",
+    "confidence": "high",
+    "verify_note": "Korean office nap pods, power nap rooms Seoul companies",
+    "country": "Office Nap Pods",
+    "created_at": "2026-10-20T12:52:28.853544+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Eldest‑First Rice",
+    "topic": "Traditional dining etiquette where the senior family member starts the meal",
+    "hook": "In many Korean homes, the whole table waits for the eldest to eat the first grain of rice.",
+    "body": "When a family gathers for a meal, the youngest often says “잘 먹겠습니다” and the server may place a small spoonful of rice in front of the eldest as a sign of respect. The rest of the diners hold off on their own bowls until the elder finishes that first bite, then everyone begins together. This practice stems from Confucian values that prioritize seniority and communal harmony. Many restaurants in traditional districts still observe the custom for special meals.",
+    "twist": "Some upscale Korean restaurants even present a ceremonial rice spoon to the eldest guest before serving the main dishes.",
+    "caveat": "The ritual is most common in family meals and traditional restaurants; casual eateries and younger generations may skip it.",
+    "confidence": "high",
+    "verify_note": "Korean eldest first rice etiquette, senior starts meal tradition",
+    "country": "Eldest‑First Rice",
+    "created_at": "2026-10-20T12:52:28.853544+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "‘밥 먹었어?’ Greeting",
+    "topic": "Asking ‘Did you eat?’ as a casual way to say hello in Korean",
+    "hook": "Ever been asked ‘Did you eat?’ when a Korean just wanted to say hi?",
+    "body": "In everyday conversation, many Koreans greet friends or coworkers with “밥 먹었어?” which literally means “Did you eat rice?” but functions like “How are you?” or “What’s up?” because sharing a meal is a core expression of care. The phrase is especially common in informal settings and among people who know each other well. It reflects a cultural view that a person’s well‑being is linked to having eaten. Younger people may also use the shortened “밥?” to convey the same friendly check‑in.",
+    "twist": "The greeting can be used at any time of day, not just around meals.",
+    "caveat": "It is most prevalent among older generations and close acquaintances; in formal or business contexts, other greetings are preferred.",
+    "confidence": "high",
+    "verify_note": "Korean greeting 밥 먹었어 meaning, Korean informal greeting rice",
+    "country": "‘밥 먹었어?’ Greeting",
+    "created_at": "2026-10-20T12:52:28.853544+00:00",
+    "status": "video_done",
+    "narration": "Ever been asked ‘Did you eat?’ when a Korean just wanted to say hi? In everyday Korean, friends and coworkers often say ‘bap meogeosseoyo?’ which literally means ‘Did you eat rice?’ It works like ‘How are you?’ because sharing a meal is a core sign of care. You’ll hear it most in informal settings among people who know each other well. Younger speakers even shorten it to just ‘bap?’ for the same friendly check‑in. The surprising part? It can pop up at any time of day, not only around meals. In formal or business situations, though, people switch to more polite greetings.",
+    "title_line1": "Korean hello = bap?",
+    "title_line2": "Food check, anytime",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Did you *eat*?"
+      },
+      {
+        "s": 2,
+        "text": "Sharing *rice* = care"
+      },
+      {
+        "s": 4,
+        "text": "Just say *bap*?"
+      },
+      {
+        "s": 6,
+        "text": "*Any* time greeting"
+      }
+    ],
+    "image_queries": [
+      "쌀밥",
+      "hello",
+      "informal Korean conversation",
+      "young people saying bap",
+      "anytime greeting coffee",
+      "business meeting greeting"
+    ],
+    "image_queries_done": [
+      "쌀밥",
+      "hello",
+      "informal Korean conversation",
+      "young people saying bap",
+      "anytime greeting coffee",
+      "business meeting greeting"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "commons",
+        "user": "Ocdp",
+        "license": "CC0",
+        "title": "Meshi 001.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Meshi_001.jpg",
+        "id": "c:56684894"
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "Georg_Wietschorke",
+        "page": "https://pixabay.com/photos/bird-crane-cornfield-gray-crane-7567797/",
+        "id": 7567797
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "Surprising_Media",
+        "page": "https://pixabay.com/photos/couple-lake-friends-casual-7889441/",
+        "id": 7889441
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "Yamu_Jay",
+        "page": "https://pixabay.com/illustrations/friends-selfie-group-selfie-9129598/",
+        "id": 9129598,
+        "type": "illustration"
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "geralt",
+        "page": "https://pixabay.com/photos/cup-coffee-foam-caf%C3%A9-au-lait-4507523/",
+        "id": 4507523
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "089photoshootings",
+        "page": "https://pixabay.com/photos/people-business-meeting-1979261/",
+        "id": 1979261
+      }
+    ],
+    "image_source": "pixabay",
+    "audio_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0056_‘밥 먹었어_’ Greeting_v2.mp3",
+    "timing_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0056_‘밥 먹었어_’ Greeting_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "srt_path": "C:\\Users\\seokg\\Downloads\\latest-en\\videos\\0056_‘밥 먹었어_’ Greeting.srt",
+    "video_path_v6": "C:\\Users\\seokg\\Downloads\\latest-en\\videos\\0056_‘밥 먹었어_’ Greeting.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "K-073YrFtUM",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-20"
+  },
+  {
+    "label": "Temple Free Meals",
+    "topic": "Many Buddhist temples serve complimentary vegetarian meals to visitors",
+    "hook": "Did you know you can eat a full Korean temple dinner for free?",
+    "body": "At several temples that offer a \"temple stay\" program, monks invite guests to join a communal meal called \"temple food\" (채식식). The dishes are all plant‑based, prepared with seasonal ingredients, and served on low tables where diners sit on floor mats. The meal is offered at no charge, though a small donation is appreciated, and it doubles as a cultural lesson about Buddhist hospitality.",
+    "twist": "Some temples even let you help with the cooking, turning the meal into a hands‑on cultural workshop.",
+    "caveat": "Free meals are only available at temples that run a stay program and may require advance reservation; not every temple provides this service.",
+    "confidence": "high",
+    "verify_note": "Korean temple stay program free meal, temple food volunteer dining, Korean Buddhist temple hospitality",
+    "country": "Temple Free Meals",
+    "created_at": "2026-10-20T13:06:52.820614+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Hand Phone",
+    "topic": "Koreans commonly call smartphones \"hand phones\" (핸드폰) in everyday speech",
+    "hook": "Ever heard a Korean say \"hand phone\" for a smartphone?",
+    "body": "The term 핸드폰 originated when mobile phones first entered the market and literally means \"hand phone\" in English. Even though smartphones are now the norm, many people still use the word in casual conversation, and it appears in product manuals and government notices. The habit persists across age groups, though younger speakers increasingly shorten it to \"phone\" or \"smartphone\".",
+    "twist": "Official Korean language guidelines still list \"hand phone\" as an accepted loanword for mobile devices.",
+    "caveat": "The usage is a generational quirk; in some younger circles the term is being replaced by newer slang.",
+    "confidence": "high",
+    "verify_note": "Korean hand phone term usage, 핸드폰 meaning, Korean mobile phone slang",
+    "country": "Hand Phone",
+    "created_at": "2026-10-20T13:06:52.820614+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Jjimjilbang Night",
+    "topic": "Korean public bathhouses let anyone sleep overnight for a modest fee",
+    "hook": "You can spend the night in a Korean sauna for the price of a coffee.",
+    "body": "Jjimjilbangs are large, gender‑segregated bath complexes that stay open 24 hours and charge a flat entry fee (around 10,000 KRW). Inside, visitors can use saunas, hot tubs, snack bars, and designated sleeping rooms where they can rest on mats or in bunk beds. Many travelers and night‑shift workers use them as cheap, safe lodging, and families often book the private family rooms for a night together.",
+    "twist": "Some modern jjimjilbangs even provide free Wi‑Fi, TV channels, and a small library for overnight guests.",
+    "caveat": "Facilities and sleeping arrangements vary by chain; not all jjimjilbangs have private sleeping rooms or family suites.",
+    "confidence": "high",
+    "verify_note": "Jjimjilbang overnight stay price, Korean public bath night lodging, Korean sauna sleeping rooms",
+    "country": "Jjimjilbang Night",
+    "created_at": "2026-10-20T13:06:52.820614+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "PC Bang Density",
+    "topic": "South Korea has an exceptionally high concentration of internet gaming cafés",
+    "hook": "South Korea has more PC gaming cafés per person than almost any other country.",
+    "body": "Across Seoul and other cities, PC bangs line subway exits and school districts, offering high‑speed 1 Gbps internet, ergonomic chairs, and free soft drinks. A typical teenager can spend an entire weekend there, playing the latest online titles. In recent years many PC bangs have added VR zones and quiet \"study rooms\" where students take exams or do homework, blending gaming and study culture.",
+    "twist": "Some PC bangs partner with universities to provide officially recognized exam venues, complete with proctoring staff.",
+    "caveat": "The concentration is especially high in urban areas; rural regions have far fewer PC bangs.",
+    "confidence": "high",
+    "verify_note": "South Korea PC bang per capita, Korean internet gaming cafés density, PC bang VR study rooms",
+    "country": "PC Bang Density",
+    "created_at": "2026-10-20T13:06:52.820614+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Solar Charging Benches",
+    "topic": "Free phone‑charging stations built into park benches in Seoul",
+    "hook": "Did you know you can charge your phone for free while you relax on a Seoul park bench?",
+    "body": "In several major parks along the Han River and in downtown Seoul, benches are equipped with solar panels that feed power into USB ports and wireless chargers. A visitor can sit, plug in a cable or place a phone on the pad, and watch the battery level rise as they enjoy the scenery. The installations were added as part of the city’s green‑tech push to encourage outdoor leisure without worrying about a dead phone. Many of the benches also display real‑time air‑quality data, turning a simple seat into an information hub.",
+    "twist": "Some of these benches even include built‑in Bluetooth speakers and free Wi‑Fi hotspots, so you can stream music while you charge.",
+    "caveat": "The solar charging benches are currently limited to popular riverside parks and a few central locations, so you won’t find them in every neighborhood or smaller community park.",
+    "confidence": "high",
+    "verify_note": "Seoul solar charging bench park, Han River solar charging station, free phone charging bench Seoul",
+    "country": "Solar Charging Benches",
+    "created_at": "2026-10-20T13:07:01.801107+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Midnight Campus Vending",
+    "topic": "Vending machines on university campuses serve hot meals late at night for studying students.",
+    "hook": "Did you know Korean students can buy fresh tteokbokki from a vending machine at 2 a.m.?",
+    "body": "Many Korean universities have vending machines stocked not only with snacks but also with ready‑to‑heat dishes such as tteokbokki, ramen, or instant bibimbap. The machines are placed near dormitories and libraries, and a simple button press dispenses a steaming bowl that can be microwaved in a communal kitchen. This service grew from the high demand for quick, affordable food during all‑night study sessions. Students often line up, sharing the moment as a small campus ritual.",
+    "twist": "Some machines even accept mobile‑payment QR codes and can print a short recipe card with suggested toppings.",
+    "caveat": "These hot‑meal vending machines are common in larger universities in Seoul and Busan, but not all campuses have them.",
+    "confidence": "high",
+    "verify_note": "Korean university vending machine hot meals midnight tteokbokki",
+    "country": "Midnight Campus Vending",
+    "created_at": "2026-10-20T13:09:35.513771+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Subway Shower Stalls",
+    "topic": "Certain Seoul subway stations provide public shower rooms for commuters who bike or jog to work.",
+    "hook": "Imagine stepping off the train, taking a quick shower, then catching your next train—all without leaving the station.",
+    "body": "Stations such as Seoul’s ‘Sangsu’ and ‘Hongik University’ have small shower stalls that can be used for a modest fee or free with a transit card balance. These facilities were added to encourage active commuting, allowing cyclists or early‑morning joggers to freshen up before heading into the office. The showers are gender‑separated, equipped with lockers and a towel‑service, and are cleaned multiple times a day. Signage in both Korean and English guides users on the usage procedure.",
+    "twist": "Some stations integrate a drying cabinet that can warm a folded jacket while you shower.",
+    "caveat": "Shower rooms are available only in a limited number of stations near major bike routes; most subway stations do not have this amenity.",
+    "confidence": "high",
+    "verify_note": "Seoul subway station public shower stalls Sangsu Hongik University bike commuters",
+    "country": "Subway Shower Stalls",
+    "created_at": "2026-10-20T13:09:35.513771+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Escalator Left‑Stand Rule",
+    "topic": "In Seoul subway stations, people stand on the left side of escalators and walk up on the right.",
+    "hook": "Did you know Seoul’s escalators have a hidden traffic rule?",
+    "body": "When you step onto a subway escalator in Seoul, most commuters instinctively stand on the left side, leaving the right side clear for those who want to walk up or down. This habit stems from a city‑wide campaign launched in the 1990s to speed up rush‑hour flow. It’s reinforced by subtle floor markings and occasional signage, so even tourists quickly pick it up. The practice is most visible in busy hubs like Gangnam and Hongdae.",
+    "twist": "In some stations, the left‑hand side is even equipped with a thin line of LED lights that flash when the escalator is crowded, nudging people to keep the right side free.",
+    "caveat": "The left‑stand rule is common in major subway lines and many malls, but not all escalators in Korea follow it, especially in older buildings.",
+    "confidence": "high",
+    "verify_note": "Seoul escalator etiquette left side stand right side walk study 1990s campaign",
+    "country": "Escalator Left‑Stand Rule",
+    "created_at": "2026-10-20T13:09:43.437021+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Goat Café Latte",
+    "topic": "Animal cafés in Seoul let you enjoy coffee while petting goats.",
+    "hook": "Imagine sipping a latte while a goat nudges your hand—welcome to Seoul’s goat cafés!",
+    "body": "In neighborhoods like Hongdae and Itaewon, several cafés blend a coffee shop with a small herd of goats that roam the indoor patio. Customers can order a drink and, after a brief safety briefing, feed or pet the goats that lounge among the tables. The concept grew from South Korea’s broader animal‑café trend, offering a therapeutic break for city dwellers. Staff often provide goat‑friendly snacks and encourage photo‑ops, making it a popular spot on Instagram.",
+    "twist": "Some goat cafés even let patrons write their names on the goats’ ear tags for a small fee, turning the animal into a personalized souvenir.",
+    "caveat": "Goat cafés are mainly found in trendy districts of Seoul and a few other cities; they are not present in every neighborhood.",
+    "confidence": "high",
+    "verify_note": "Seoul goat café Hongdae animal cafe goat latte Instagram trend",
+    "country": "Goat Café Latte",
+    "created_at": "2026-10-20T13:09:43.437021+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Friday Chicken Office",
+    "topic": "Many Korean offices end the week with a group chicken‑and‑beer order placed through a shared app.",
+    "hook": "Every Friday at 5 pm, Korean offices turn into a chicken‑and‑beer party—ordered with a single tap.",
+    "body": "In numerous companies across Seoul, a rotating “order master” uses a mobile app like Baedal Minjok to order a bulk delivery of fried chicken and beer for the whole team. The food arrives just as the workday ends, and coworkers gather around a conference room to share the meal while chatting about the week. The cost is split automatically through the app’s payment feature, so no one has to handle cash. This ritual reinforces team bonding and is especially popular in tech startups and larger corporations alike.",
+    "twist": "Some offices pair the chicken night with a quick round of “rock‑paper‑scissors” to decide who brings the next week’s dessert, turning the tradition into a playful competition.",
+    "caveat": "While many firms in Seoul and other major cities adopt this practice, it is less common in smaller towns or more traditional industries.",
+    "confidence": "high",
+    "verify_note": "Korean office chicken beer Friday Baedal Minjok order tradition team bonding",
+    "country": "Friday Chicken Office",
+    "created_at": "2026-10-20T13:09:43.437021+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Convenience Store Hot Counter",
+    "topic": "Many Korean convenience stores cook fresh meals on‑site, not just heat pre‑made food.",
+    "hook": "Did you know you can watch a chef flip tteokbokki inside a 24‑hour convenience store?",
+    "body": "In major cities, chains like GS25 and CU have tiny kitchen counters where staff stir‑fry rice cakes, steam dumplings, and grill fish cakes right after you order. The food is prepared in minutes, so you get a steaming bowl that’s as fresh as a restaurant’s. This service runs all day and night, catering to commuters who need a hot bite after a late‑night subway ride.",
+    "twist": "Some locations even let you customize the spice level by tapping a button on the ordering screen.",
+    "caveat": "Not all convenience stores have a hot counter; the feature is common in urban outlets but rare in rural branches.",
+    "confidence": "high",
+    "verify_note": "GS25 hot food counter, CU convenience store fresh food, Korean convenience store tteokbokki made on site",
+    "country": "Convenience Store Hot Counter",
+    "created_at": "2026-10-20T13:10:21.155499+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Apartment Smart Lockers",
+    "topic": "Apartment complexes use app‑controlled lockers for food delivery and parcel pick‑up.",
+    "hook": "Imagine getting your lunch delivered to a locker in your building, not to your door.",
+    "body": "Many newer apartment towers install networked lockers in the lobby that couriers place orders into. Residents receive a push notification with a one‑time code, walk to the locker, and retrieve a sealed container of bibimbap or a parcel. The system reduces missed deliveries and lets people collect items at any hour without waiting for a concierge.",
+    "twist": "Some lockers have built‑in warming plates, so a hot meal stays warm until you open it.",
+    "caveat": "These lockers are typical in large complexes in Seoul and Busan; older buildings or suburban apartments may not have them.",
+    "confidence": "high",
+    "verify_note": "Korea apartment smart lockers delivery, Korean apartment complex parcel locker, Korean building locker warm plate",
+    "country": "Apartment Smart Lockers",
+    "created_at": "2026-10-20T13:10:21.155499+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "KTX Quiet Car",
+    "topic": "A whole carriage on high‑speed trains reserved for silence and focused work",
+    "hook": "Did you know Korea’s bullet trains have a ‘silent car’ where you can actually work in peace?",
+    "body": "On many KTX routes, one carriage is marked as a quiet zone. Passengers are asked to keep voices low, turn off phone ringtones, and use headphones. Business travelers often set up a mini‑office with a laptop, while families with infants are gently reminded to speak softly. The car is popular enough that commuters sometimes reserve seats in advance via the rail app.",
+    "twist": "Some quiet‑car seats are equipped with a small power outlet and a personal lamp that automatically dims after 30 minutes to encourage short naps.",
+    "caveat": "The quiet‑car policy applies mainly to major KTX lines and may not be enforced on all regional trains.",
+    "confidence": "high",
+    "verify_note": "KTX quiet car policy, Korean high-speed train silent car, KTX etiquette",
+    "country": "KTX Quiet Car",
+    "created_at": "2026-10-20T13:11:08.421453+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Late‑Night Subway Food Court",
+    "topic": "Underground eateries in Seoul stations stay open till the early morning for night‑shift crowds",
+    "hook": "Ever wondered where a tired nurse can grab hot kimchi stew at 2 am in Seoul?",
+    "body": "Several busy stations such as Hongdae, Gangnam, and Seoul Station host underground food courts that operate until 2–3 am. Vendors serve steaming bowls of noodle soup, tteokbokki, and ready‑made dosirak that arrive fresh from nearby kitchens. The lights stay on and the scent of broth fills the concourse, turning the subway into a late‑night dining hub. Many commuters treat it as a regular stop after their night shift or late study session.",
+    "twist": "Some stalls use a ‘hot‑plate timer’ that automatically turns off the burner after 30 minutes to save energy and prevent fire hazards.",
+    "caveat": "These extended‑hours food courts are found in major downtown stations; smaller suburban stations usually close by midnight.",
+    "confidence": "high",
+    "verify_note": "Seoul subway 24 hour food court, Hongdae station night food, late night subway eateries Korea",
+    "country": "Late‑Night Subway Food Court",
+    "created_at": "2026-10-20T13:11:08.421453+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Daeboreum Sunrise Picnic",
+    "topic": "Koreans greet the first full moon of the lunar year with a hilltop rice feast and ancient rituals",
+    "hook": "Did you know Koreans climb hills at dawn on the first full moon to eat five‑grain rice for good luck?",
+    "body": "On the 15th day of the lunar month, many Koreans head to a nearby hill or park before sunrise. They spread a blanket, share ogokbap – a mixed rice of five grains – and crack nuts together, a ritual called bureong that is believed to chase away bad spirits. The gathering mixes family bonding, a simple outdoor meal, and the hope that the first sunrise of the year will bring health and prosperity. While the practice is most visible in rural villages, city dwellers also join in at popular parks, turning the early morning into a communal celebration.",
+    "twist": "In some regions participants also toss small rice cakes into the air, believing the floating grains will carry their wishes to the heavens.",
+    "caveat": "The tradition is most common in certain neighborhoods and rural areas; many Koreans may not observe it, and the specific foods or rituals can vary by region.",
+    "confidence": "high",
+    "verify_note": "Daeboreum customs, ogokbap tradition, Korean first full moon sunrise, Jeongwol Daeboreum rituals",
+    "country": "Daeboreum Sunrise Picnic",
+    "created_at": "2026-10-20T13:11:44.313485+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Elevator Karaoke",
+    "topic": "Korean high‑rise elevators equipped with karaoke screens let riders sing on the way up",
+    "hook": "Ever taken a ride up a skyscraper and found yourself belting out a pop song?",
+    "body": "In several Seoul apartment complexes and office towers, elevators have built‑in touch screens, microphones and Bluetooth speakers. When the doors close, a short prompt invites passengers to choose a song and sing while the cabin moves. The feature is meant to turn a mundane commute into a social ice‑breaker, and many residents share videos of spontaneous duets on social media.",
+    "twist": "Some elevators even display the current floor as scrolling lyrics, so the ride becomes a moving karaoke stage.",
+    "caveat": "These karaoke elevators are found in a number of newer buildings, but they are not present in most older or low‑rise structures.",
+    "confidence": "high",
+    "verify_note": "Seoul elevator karaoke installation news, Korean architecture magazines, YouTube videos of elevator karaoke",
+    "country": "Elevator Karaoke",
+    "created_at": "2026-10-20T13:14:28.968711+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "T‑money Transfer Perk",
+    "topic": "Seoul’s T‑money card gives a free subway fare when you transfer within 30 minutes",
+    "hook": "Did you know you can ride two subway lines for the price of one in Seoul?",
+    "body": "The T‑money transportation card, used for subways, buses and taxis, automatically applies a transfer discount if a passenger exits one line and boards another within 30 minutes at the same station. The system records the time stamp and deducts only the base fare for the second ride, effectively letting commuters explore the city with half the usual cost. Many tourists rely on this feature to hop between popular sites quickly.",
+    "twist": "During special holidays like Chuseok, the transfer window is extended to 45 minutes in some lines.",
+    "caveat": "The transfer discount applies only to subway lines operated by Seoul Metro and not to all private railways or express trains.",
+    "confidence": "high",
+    "verify_note": "Seoul Metro T‑money transfer policy, official Seoul transportation website, travel guide articles",
+    "country": "T‑money Transfer Perk",
+    "created_at": "2026-10-20T13:14:28.968711+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Charging Bike‑Share",
+    "topic": "Seoul’s public bikes sometimes let you charge your phone while you ride.",
+    "hook": "Did you know you can plug your smartphone into a Seoul bike‑share and charge it on the go?",
+    "body": "Seoul’s Ddareungi bike‑share system introduced a pilot in 2021 that equipped a handful of bicycles with built‑in USB ports. Riders can connect their phone to keep navigation apps and messages alive during the commute. The power comes from a small battery housed in the bike frame, recharged overnight at the docking station. The idea was launched to help commuters who rely heavily on mobile maps and contact apps.",
+    "twist": "A few of those bikes even have a tiny solar panel on the handlebar that helps replenish the battery while you pedal.",
+    "caveat": "This charging feature is available only at select bike‑share stations in Seoul and a few other major cities, not across the entire national system.",
+    "confidence": "high",
+    "verify_note": "Seoul bike share USB charging port 2021 Ddareungi charging bike pilot",
+    "country": "Charging Bike‑Share",
+    "created_at": "2026-10-20T13:14:47.660789+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Lobby Karaoke Booths",
+    "topic": "Apartment complexes let residents book a tiny karaoke room in the building lobby for a quick song break",
+    "hook": "Did you know many Seoul apartments have a karaoke booth right in the lobby you can reserve in seconds?",
+    "body": "In several newer high‑rise apartment complexes in Seoul, a small sound‑proof karaoke room—often called a \"lobby noraebang\"—is installed on the first floor. Residents can book it through an app or a touchscreen panel for as little as 15 minutes, letting families or coworkers sing a song after dinner or before work. The rooms come with a song‑selection screen, a microphone, and even a small mirror, turning a brief break into a social ritual. This convenience reflects Korea’s love of karaoke and the trend of maximizing shared amenities in dense housing.",
+    "twist": "Some buildings let you record your performance and automatically post it to a private building community board where neighbors can like and comment.",
+    "caveat": "These lobby karaoke rooms are most common in newer complexes in Seoul and a few other large cities; older apartments and most suburban housing do not have them.",
+    "confidence": "high",
+    "verify_note": "Korean apartment shared karaoke room, lobby noraebang, apartment complex amenities Seoul",
+    "country": "Lobby Karaoke Booths",
+    "created_at": "2026-10-20T13:15:20.372779+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "App‑Rented River BBQ",
+    "topic": "Reserve a portable grill and picnic spot on the Han River through a smartphone app for a night‑time barbecue.",
+    "hook": "Did you know you can book a grill on Seoul's Han River with just a tap?",
+    "body": "In many Hangang parks, visitors can open the official 'Hangang Park' app, choose a free‑standing table or a grass spot, and add a portable gas grill to the reservation. The park staff delivers a small propane canister and a fold‑up grill to the chosen spot, letting friends or couples fire up samgyeopsal or chicken as the city lights reflect on the water. After the meal, a cleaning crew collects the grill, canister and any trash, so the area stays tidy without the diners having to lug everything home. The service blends Korea's love of outdoor eating with high‑tech convenience, turning a simple park visit into a coordinated mini‑event.",
+    "twist": "Some parks even let you pre‑order a ready‑made BBQ kit with meat, sauces and side dishes, delivered right to your reserved grill.",
+    "caveat": "The reservation system is available only at selected Hangang parks and requires the official app; not all riverside areas or private parks offer this service.",
+    "confidence": "high",
+    "verify_note": "Hangang Park app grill reservation, Seoul river BBQ rental, Han River portable grill service",
+    "country": "App‑Rented River BBQ",
+    "created_at": "2026-10-20T13:15:49.966524+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Rooftop Community Gardens",
+    "topic": "Residents grow vegetables on high‑rise apartment rooftops",
+    "hook": "Did you know many Seoul apartments have their own rooftop farms where neighbors harvest together?",
+    "body": "In several high‑rise complexes, especially in districts like Gangnam and Mapo, the management allocates small plots on the roof for residents to plant herbs, lettuce, and cherry tomatoes. Plots are usually rented for a modest monthly fee, and the harvested produce is often shared at communal meals or sold at a building‑wide market day. The initiative started as a way to add green space and reduce food mileage in dense urban areas. The gardens are tended by residents of all ages, turning the skyline into a patchwork of mini farms.",
+    "twist": "Some rooftops even install hydroponic towers that can grow lettuce year‑round without soil.",
+    "caveat": "These gardens are present in many newer apartment complexes, but not in older buildings or low‑rise neighborhoods.",
+    "confidence": "high",
+    "verify_note": "Seoul rooftop farms apartment community garden hydroponic tower",
+    "country": "Rooftop Community Gardens",
+    "created_at": "2026-10-20T13:17:06.598793+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Dog‑Friendly Café Menus",
+    "topic": "Cafés that serve treats specially made for dogs",
+    "hook": "Ever seen a coffee shop where the dog gets a menu of its own?",
+    "body": "In neighborhoods such as Hongdae and Itaewon, numerous cafés welcome patrons' pets and offer a separate ‘dog menu’ featuring rice‑based biscuits, meat‑flavored pupcakes, and even a tiny bowl of broth. Owners can order a latte while their dog enjoys a treat served on a small plate, and many places provide water bowls and dog‑friendly seating areas. The trend grew from the strong pet‑ownership culture and the desire for owners to socialize with their dogs in public spaces. Staff often photograph the canine customers for social‑media posts, adding to the café’s buzz.",
+    "twist": "A few cafés even host weekly ‘puppy playdates’ where dogs can mingle while owners sip coffee.",
+    "caveat": "Dog‑friendly cafés are common in trendy districts, but many traditional cafés and many public spaces still prohibit pets.",
+    "confidence": "high",
+    "verify_note": "Dog friendly cafés Seoul Hongdae dog menu pupcake",
+    "country": "Dog‑Friendly Café Menus",
+    "created_at": "2026-10-20T13:17:06.598793+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Instant Noodle Vending Machines",
+    "topic": "Hot ramen dispensed from vending machines in stations and malls",
+    "hook": "Imagine buying a steaming bowl of ramen from a vending machine without a kitchen.",
+    "body": "Across Seoul’s subway stations, office buildings, and large malls, you’ll find vending machines that dispense hot instant noodles in a cup, complete with a built‑in heating element that boils water in about three minutes. Users simply insert cash or tap a contactless card, choose the flavor, and watch the machine prepare the meal behind a transparent window. The machines are maintained by companies that restock fresh packets daily, ensuring the noodles are hot and the broth flavorful. They are especially popular among late‑night commuters and students who need a quick, warm bite.",
+    "twist": "Some machines even offer a side of kimchi or a soft‑boiled egg for an extra fee.",
+    "caveat": "These machines are common in high‑traffic urban areas, but you’ll rarely see them in small towns or residential neighborhoods.",
+    "confidence": "high",
+    "verify_note": "Korean instant noodle vending machine Seoul subway hot ramen",
+    "country": "Instant Noodle Vending Machines",
+    "created_at": "2026-10-20T13:17:06.598793+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Floating River Library",
+    "topic": "A free book‑laden boat cruises the Han River offering reading spots for passersby",
+    "hook": "Did you know Seoul has a floating library you can board for free?",
+    "body": "During the warmer months, the Seoul Metropolitan Government operates a boat shaped like a bookshelf that travels along the Han River. Inside, wooden benches and shelves hold dozens of Korean and English titles, and visitors can sit, read, or borrow books on the spot. The boat stops at several riverside parks, letting commuters and families hop on during a stroll or bike ride. The service aims to promote reading culture and make literature accessible without a membership fee.",
+    "twist": "The library even offers a small ‘story time’ corner where a volunteer reads aloud to children while the river flows by.",
+    "caveat": "The floating library operates mainly on weekends and weekdays between April and October, and its route is limited to the central stretch of the Han River.",
+    "confidence": "high",
+    "verify_note": "Seoul floating library Han River, Seoul Metropolitan Government book boat, Hangang floating library schedule",
+    "country": "Floating River Library",
+    "created_at": "2026-10-20T13:17:33.593356+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Seafood Vending Machines",
+    "topic": "Vending machines on Busan streets dispense fresh, ice‑cold fish and shellfish",
+    "hook": "Can you buy live fish from a vending machine in Korea?",
+    "body": "In Busan’s coastal neighborhoods, glass‑front vending machines stocked with chilled trays of mackerel, squid, and even live clams allow shoppers to select seafood with a button press. The machines are restocked early each morning by local fish markets, keeping the catch at near‑freshness, and they accept credit cards or mobile payments. After purchasing, customers often walk a short distance to nearby restaurants that cook the fish on the spot, turning a quick snack into a full meal. This convenience reflects South Korea’s blend of high tech and seafood culture.",
+    "twist": "Some machines even feature a small digital screen showing the fish’s catch location and the time it was harvested, letting buyers track its freshness.",
+    "caveat": "These machines are most common in Busan and a few other port cities; they are less prevalent inland and not all operate year‑round.",
+    "confidence": "high",
+    "verify_note": "Busan seafood vending machine, Korean vending machine fresh fish, live fish vending machine South Korea",
+    "country": "Seafood Vending Machines",
+    "created_at": "2026-10-20T13:17:33.593356+00:00",
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
   },
   {
     "label": "Did You Eat? Greeting",
