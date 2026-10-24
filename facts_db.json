@@ -152,40 +152,60 @@
     "image_credits": [
       {
         "scene": 1,
-        "user": "eliasfalla",
-        "page": "https://pixabay.com/photos/coffee-coffee-grinds-cafe-206142/"
+        "source": "pixabay",
+        "user": "Tho-Ge",
+        "page": "https://pixabay.com/photos/coffee-machine-coffee-espresso-9550534/",
+        "id": 9550534
       },
       {
         "scene": 2,
+        "source": "pixabay",
         "user": "MaximilianHemon",
-        "page": "https://pixabay.com/photos/japan-vending-machine-fireworks-5021733/"
+        "page": "https://pixabay.com/photos/japan-vending-machine-fireworks-5021733/",
+        "id": 5021733
       },
       {
         "scene": 3,
+        "source": "pixabay",
         "user": "kaboompics",
-        "page": "https://pixabay.com/photos/man-reading-touchscreen-blog-791049/"
+        "page": "https://pixabay.com/photos/man-reading-touchscreen-blog-791049/",
+        "id": 791049
       },
       {
         "scene": 4,
+        "source": "pixabay",
         "user": "Republica",
-        "page": "https://pixabay.com/photos/beer-pouring-glass-drink-alcohol-820011/"
+        "page": "https://pixabay.com/photos/beer-pouring-glass-drink-alcohol-820011/",
+        "id": 820011
       },
       {
         "scene": 5,
-        "user": "coyot",
-        "page": "https://pixabay.com/photos/coffee-cup-cup-of-coffee-drink-2235370/"
+        "source": "pixabay",
+        "user": "picturexphotobnb",
+        "page": "https://pixabay.com/photos/barista-coffee-pouring-espresso-5055060/",
+        "id": 5055060
       },
       {
         "scene": 6,
-        "user": "zuzanajobbova0",
-        "page": "https://pixabay.com/photos/gearbox-vending-machine-car-5167294/"
+        "source": "pixabay",
+        "user": "Long_Phung",
+        "page": "https://pixabay.com/photos/beautiful-girl-street-fashion-woman-8267956/",
+        "id": 8267956
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0001_Instant Coffee Vending.mp4",
     "status_v6": "video_done",
     "youtube_id": "q22Bl6WD1us",
     "youtube_privacy": "public",
-    "uploaded_at": "2026-10-11"
+    "uploaded_at": "2026-10-11",
+    "image_queries_done": [
+      "Seoul convenience store coffee machine",
+      "Korean vending machine espresso",
+      "Seoul touchscreen coffee dispenser",
+      "Korea iced cold brew vending",
+      "coffee cup steam closeup",
+      "modern vending machine interior"
+    ]
   },
   {
     "label": "Heated Underground Malls",
@@ -234,40 +254,64 @@
     "image_credits": [
       {
         "scene": 1,
-        "user": "thaoantran0101",
-        "page": "https://pixabay.com/photos/books-library-bookstore-study-7744938/"
+        "source": "pixabay",
+        "user": "zheng2088",
+        "page": "https://pixabay.com/photos/subway-train-korea-3358199/",
+        "id": 3358199
       },
       {
         "scene": 2,
-        "user": "cskkkk",
-        "page": "https://pixabay.com/photos/night-view-dark-seoul-korea-7523474/"
+        "source": "commons",
+        "user": "Jmh65890",
+        "license": "CC0",
+        "title": "강남역 江南驛 Gangnam Station, Seoul.png",
+        "page": "https://commons.wikimedia.org/wiki/File:%EA%B0%95%EB%82%A8%EC%97%AD_%E6%B1%9F%E5%8D%97%E9%A9%9B_Gangnam_Station,_Seoul.png",
+        "id": "c:171941298"
       },
       {
         "scene": 3,
-        "user": "kzw86",
-        "page": "https://pixabay.com/photos/gangnam-banpo-bridge-seoul-city-3764454/"
+        "source": "pixabay",
+        "user": "cskkkk",
+        "page": "https://pixabay.com/photos/city-building-architecture-seoul-7143050/",
+        "id": 7143050
       },
       {
         "scene": 4,
-        "user": "Couleur",
-        "page": "https://pixabay.com/photos/apples-golden-delicious-fruit-3433812/"
+        "source": "pixabay",
+        "user": "Tama66",
+        "page": "https://pixabay.com/photos/market-stand-spices-food-3466906/",
+        "id": 3466906
       },
       {
         "scene": 5,
-        "user": "suju-foto",
-        "page": "https://pixabay.com/photos/aurora-borealis-nature-10491028/"
+        "source": "commons",
+        "user": "Jmh65890",
+        "license": "CC0",
+        "title": "스크린샷 2025-08-08 114750.png",
+        "page": "https://commons.wikimedia.org/wiki/File:%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2025-08-08_114750.png",
+        "id": "c:171942534"
       },
       {
         "scene": 6,
-        "user": "12019",
-        "page": "https://pixabay.com/photos/novgorod-russia-metro-station-84388/"
+        "source": "pixabay",
+        "user": "Tama66",
+        "page": "https://pixabay.com/photos/railway-station-subway-train-station-3714297/",
+        "id": 3714297
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0002_Heated Underground Malls.mp4",
     "status_v6": "video_done",
     "youtube_id": "wf26h9x3CCA",
     "youtube_privacy": "public",
-    "uploaded_at": "2026-10-11"
+    "uploaded_at": "2026-10-11",
+    "image_queries_done": [
+      "Seoul subway mall hallway",
+      "heated floor walkway Korea",
+      "Seoul Gangnam underground arcade",
+      "Korean food stall interior",
+      "nighttime students lounge",
+      "City Hall subway station corridor"
+    ]
   },
   {
     "label": "Company Meal Tickets",
@@ -316,40 +360,64 @@
     "image_credits": [
       {
         "scene": 1,
-        "user": "YOUNGU",
-        "page": "https://pixabay.com/photos/han-river-night-view-seoul-korea-4831871/"
+        "source": "pixabay",
+        "user": "rmsep4",
+        "page": "https://pixabay.com/photos/south-korea-street-seoul-dusk-6918828/",
+        "id": 6918828
       },
       {
         "scene": 2,
-        "user": "igorovsyannykov",
-        "page": "https://pixabay.com/photos/ticket-coupon-admission-carnival-2974645/"
+        "source": "commons",
+        "user": "U.S. Army photo by Spc. Mark Bowman",
+        "license": "Public domain",
+        "title": "251st Army Birthday Meal at Pittman DFAC (9755114).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:251st_Army_Birthday_Meal_at_Pittman_DFAC_(9755114).jpg",
+        "id": "c:194752618"
       },
       {
         "scene": 3,
-        "user": "px_steven_be",
-        "page": "https://pixabay.com/photos/pizza-oven-restaurant-meal-yummy-6478478/"
+        "source": "pixabay",
+        "user": "pascalee95",
+        "page": "https://pixabay.com/photos/lunch-brunch-meal-dining-korea-7807784/",
+        "id": 7807784
       },
       {
         "scene": 4,
-        "user": "ajdcjddl10220",
-        "page": "https://pixabay.com/photos/bibimbap-bob-kochujang-korean-632083/"
+        "source": "pixabay",
+        "user": "nikluv",
+        "page": "https://pixabay.com/photos/bibimbap-korean-food-gochujang-4887417/",
+        "id": 4887417
       },
       {
         "scene": 5,
-        "user": "ah64dka52",
-        "page": "https://pixabay.com/photos/night-view-night-bridge-busan-7943221/"
+        "source": "commons",
+        "user": "U.S. Army 501MIB by Pfc. Hong Jae Chun",
+        "license": "Public domain",
+        "title": "DEFAC Leadership Thanksgiving Meal serving (9416996).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:DEFAC_Leadership_Thanksgiving_Meal_serving_(9416996).jpg",
+        "id": "c:179869355"
       },
       {
         "scene": 6,
-        "user": "viarami",
-        "page": "https://pixabay.com/photos/dish-gimbap-korean-cuisine-seaweed-6990249/"
+        "source": "pixabay",
+        "user": "leecine",
+        "page": "https://pixabay.com/photos/rice-bob-black-rice-food-cooking-517351/",
+        "id": 517351
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0003_Company Meal Tickets.mp4",
     "status_v6": "video_done",
     "youtube_id": "vZkZYk0MwEY",
     "youtube_privacy": "public",
-    "uploaded_at": "2026-10-11"
+    "uploaded_at": "2026-10-11",
+    "image_queries_done": [
+      "Seoul street lunch stalls",
+      "Korean office cafeteria QR ticket",
+      "Seoul food truck lunch",
+      "Korean bibimbap bowl takeout",
+      "Busan office neighborhood eateries",
+      "Korean rice burrito dish"
+    ]
   },
   {
     "label": "Smart Parcel Lockers",
@@ -402,40 +470,60 @@
     "image_credits": [
       {
         "scene": 1,
-        "user": "NoName_13",
-        "page": "https://pixabay.com/photos/locker-metal-cabinet-storage-cabinet-1576098/"
+        "source": "pixabay",
+        "user": "pierre9x6",
+        "page": "https://pixabay.com/photos/apartment-colorful-building-4358755/",
+        "id": 4358755
       },
       {
         "scene": 2,
-        "user": "huongnguyen123",
-        "page": "https://pixabay.com/photos/korea-tree-gyeongbokgung-seoul-7366036/"
+        "source": "pixabay",
+        "user": "manseok_Kim",
+        "page": "https://pixabay.com/photos/building-architecture-city-9761776/",
+        "id": 9761776
       },
       {
         "scene": 3,
+        "source": "pixabay",
         "user": "12019",
-        "page": "https://pixabay.com/photos/lobby-hotel-interior-hallway-398845/"
+        "page": "https://pixabay.com/photos/lobby-hotel-interior-hallway-398845/",
+        "id": 398845
       },
       {
         "scene": 4,
-        "user": "ah64dka52",
-        "page": "https://pixabay.com/photos/night-view-night-bridge-busan-7943221/"
+        "source": "pixabay",
+        "user": "Parkjunbum",
+        "page": "https://pixabay.com/photos/bird-ornithology-seagull-species-7000837/",
+        "id": 7000837
       },
       {
         "scene": 5,
-        "user": "Couleur",
-        "page": "https://pixabay.com/photos/rose-pink-flower-pink-rose-2378156/"
+        "source": "pixabay",
+        "user": "elizabethaferry",
+        "page": "https://pixabay.com/photos/school-lockers-hallway-high-school-417612/",
+        "id": 417612
       },
       {
         "scene": 6,
-        "user": "Herrfilm",
-        "page": "https://pixabay.com/photos/skyscrapers-skyline-city-buildings-450793/"
+        "source": "pixabay",
+        "user": "huuvong",
+        "page": "https://pixabay.com/photos/architecture-windows-modern-city-10506784/",
+        "id": 10506784
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0004_Smart Parcel Lockers.mp4",
     "status_v6": "video_done",
     "youtube_id": "8YTVQxhXjuM",
     "youtube_privacy": "public",
-    "uploaded_at": "2026-10-11"
+    "uploaded_at": "2026-10-11",
+    "image_queries_done": [
+      "Korean apartment lobby locker",
+      "Seoul fingerprint locker",
+      "Korean delivery robot lobby",
+      "Busan apartment package pickup",
+      "Scented locker interior",
+      "High-rise apartment hallway"
+    ]
   },
   {
     "label": "Quiet Subway Cars",
@@ -484,40 +572,60 @@
     "image_credits": [
       {
         "scene": 1,
+        "source": "pixabay",
         "user": "zheng2088",
-        "page": "https://pixabay.com/photos/subway-train-republic-of-korea-3297853/"
+        "page": "https://pixabay.com/photos/subway-train-korea-3358199/",
+        "id": 3358199
       },
       {
         "scene": 2,
-        "user": "NWimagesbySabrinaE",
-        "page": "https://pixabay.com/photos/boy-book-reading-literature-read-5731001/"
+        "source": "pixabay",
+        "user": "libellule789",
+        "page": "https://pixabay.com/photos/girl-english-dictionary-read-2771936/",
+        "id": 2771936
       },
       {
         "scene": 3,
-        "user": "binmassam",
-        "page": "https://pixabay.com/photos/subway-businessman-walk-walking-4807266/"
+        "source": "pixabay",
+        "user": "5116225",
+        "page": "https://pixabay.com/photos/subway-station-train-station-5623053/",
+        "id": 5623053
       },
       {
         "scene": 4,
-        "user": "WizArto",
-        "page": "https://pixabay.com/photos/stairs-subway-station-architecture-6519085/"
+        "source": "pixabay",
+        "user": "igorovsyannykov",
+        "page": "https://pixabay.com/photos/subway-metro-train-interior-empty-2893851/",
+        "id": 2893851
       },
       {
         "scene": 5,
-        "user": "balouriarajesh",
-        "page": "https://pixabay.com/photos/old-couple-reading-newspaper-5051770/"
+        "source": "pixabay",
+        "user": "TheOtherKev",
+        "page": "https://pixabay.com/photos/book-person-reading-railway-train-6606414/",
+        "id": 6606414
       },
       {
         "scene": 6,
-        "user": "KIMDAEJEUNG",
-        "page": "https://pixabay.com/photos/vehicles-building-area-train-korea-3484515/"
+        "source": "pixabay",
+        "user": "스마트랜스",
+        "page": "https://pixabay.com/photos/train-railroad-transportation-5952026/",
+        "id": 5952026
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0005_Quiet Subway Cars.mp4",
     "status_v6": "video_done",
     "youtube_id": "Q-2o06jtpzc",
     "youtube_privacy": "public",
-    "uploaded_at": "2026-10-11"
+    "uploaded_at": "2026-10-11",
+    "image_queries_done": [
+      "Seoul subway quiet car",
+      "Korean student reading train",
+      "Korean commuters studying subway",
+      "Seoul subway interior students",
+      "Korean seniors reading subway",
+      "Seoul subway flashcards tutoring"
+    ]
   },
   {
     "label": "Uniform Rental Service",
@@ -565,41 +673,56 @@
     "image_source": "pixabay",
     "image_credits": [
       {
-        "scene": 1,
-        "user": "CaiHuuThanh",
-        "page": "https://pixabay.com/photos/girl-student-asian-uniform-6210483/"
-      },
-      {
         "scene": 2,
-        "user": "JillWellington",
-        "page": "https://pixabay.com/photos/halloween-trick-or-treat-pumpkin-1773447/"
+        "source": "commons",
+        "user": "고려",
+        "license": "CC BY 4.0",
+        "title": "Students Playing soccer in Burim Middle School under Lunch time.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Students_Playing_soccer_in_Burim_Middle_School_under_Lunch_time.jpg",
+        "id": "c:64502124"
       },
       {
         "scene": 3,
+        "source": "pixabay",
         "user": "CaiHuuThanh",
-        "page": "https://pixabay.com/photos/girl-student-smile-happy-6210463/"
+        "page": "https://pixabay.com/photos/girl-student-uniform-young-woman-6210461/",
+        "id": 6210461
       },
       {
         "scene": 4,
-        "user": "ah64dka52",
-        "page": "https://pixabay.com/photos/night-view-night-bridge-busan-7943221/"
+        "source": "pixabay",
+        "user": "MeganLeeB",
+        "page": "https://pixabay.com/photos/school-bus-transportation-stop-sign-6561460/",
+        "id": 6561460
       },
       {
         "scene": 5,
-        "user": "jarmoluk",
-        "page": "https://pixabay.com/photos/money-card-pocket-concept-idea-256281/"
+        "source": "pixabay",
+        "user": "Derekpics",
+        "page": "https://pixabay.com/photos/surgical-mask-face-mask-covid-19-6723940/",
+        "id": 6723940
       },
       {
         "scene": 6,
-        "user": "RyanMcGuire",
-        "page": "https://pixabay.com/photos/laundry-saloon-laundry-person-567951/"
+        "source": "pixabay",
+        "user": "manfredrichter",
+        "page": "https://pixabay.com/photos/clothespins-clothes-line-laundry-7041902/",
+        "id": 7041902
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0006_Uniform Rental Service.mp4",
     "status_v6": "video_done",
     "youtube_id": "WjUvpZ-l_94",
     "youtube_privacy": "public",
-    "uploaded_at": "2026-10-11"
+    "uploaded_at": "2026-10-11",
+    "image_queries_done": [
+      "Korean school uniform delivery",
+      "Seoul apartment doorstep package",
+      "Korean teenager adjusting uniform size",
+      "Busan school QR code sign",
+      "Uniform pocket disposable mask",
+      "Jeju laundry service van"
+    ]
   },
   {
     "label": "Dol Livestream Tradition",
@@ -652,40 +775,60 @@
     "image_credits": [
       {
         "scene": 1,
-        "user": "mirkostoedter",
-        "page": "https://pixabay.com/photos/tea-ceremony-ceremony-teatime-japan-7807230/"
+        "source": "pixabay",
+        "user": "manseok_Kim",
+        "page": "https://pixabay.com/photos/women-korean-hanbok-tea-time-5781549/",
+        "id": 5781549
       },
       {
         "scene": 2,
-        "user": "DAVM2598",
-        "page": "https://pixabay.com/photos/play-children-summer-freedom-5134828/"
+        "source": "pixabay",
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/birthday-cake-candles-birthday-cake-1835443/",
+        "id": 1835443
       },
       {
         "scene": 3,
-        "user": "김경복",
-        "page": "https://pixabay.com/photos/gyeongbok-palace-woman-autumn-tree-5771324/"
+        "source": "pixabay",
+        "user": "wezone2600",
+        "page": "https://pixabay.com/photos/hanbok-south-korean-6596772/",
+        "id": 6596772
       },
       {
         "scene": 4,
-        "user": "Ri_Lens",
-        "page": "https://pixabay.com/photos/fireworks-night-celebration-festive-10444646/"
+        "source": "pixabay",
+        "user": "Kanenori",
+        "page": "https://pixabay.com/photos/fireworks-fireworks-display-lake-8182800/",
+        "id": 8182800
       },
       {
         "scene": 5,
-        "user": "neelam279",
-        "page": "https://pixabay.com/photos/childs-hand-pick-flowers-finger-8845806/"
+        "source": "pixabay",
+        "user": "JillWellington",
+        "page": "https://pixabay.com/photos/picking-flowers-daisies-child-2432972/",
+        "id": 2432972
       },
       {
         "scene": 6,
-        "user": "kangbch",
-        "page": "https://pixabay.com/photos/barley-field-wheat-agriculture-plow-1684052/"
+        "source": "pixabay",
+        "user": "Docujeju",
+        "page": "https://pixabay.com/photos/cormorant-rock-animal-ornithology-8489010/",
+        "id": 8489010
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0007_Dol Livestream Tradition.mp4",
     "status_v6": "video_done",
     "youtube_id": "TyEpgo7Ly5w",
     "youtube_privacy": "public",
-    "uploaded_at": "2026-10-12"
+    "uploaded_at": "2026-10-12",
+    "image_queries_done": [
+      "Korean dol ceremony livestream",
+      "Seoul family birthday celebration",
+      "Korean traditional hanbok animation",
+      "Korean fireworks display screen",
+      "dol cam tool picking",
+      "Jeju island baby birthday"
+    ]
   },
   {
     "label": "Convenience Store Laundry",
@@ -734,37 +877,59 @@
     "image_credits": [
       {
         "scene": 1,
-        "user": "Pexels",
-        "page": "https://pixabay.com/photos/apparel-boutique-bags-shoes-shop-1850804/"
+        "source": "pixabay",
+        "user": "27707",
+        "page": "https://pixabay.com/photos/supermarket-fridge-produce-food-949912/",
+        "id": 949912
       },
       {
         "scene": 2,
-        "user": "geralt",
-        "page": "https://pixabay.com/photos/qr-code-quick-response-code-to-scan-1903447/"
+        "source": "commons",
+        "user": "Startandstar",
+        "license": "CC0",
+        "title": "Korean convenience store sandwiches.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Korean_convenience_store_sandwiches.jpg",
+        "id": "c:145129279"
       },
       {
         "scene": 3,
-        "user": "Pexels",
-        "page": "https://pixabay.com/photos/bag-leather-messenger-bag-classic-1854148/"
+        "source": "pixabay",
+        "user": "Photowill",
+        "page": "https://pixabay.com/photos/pouch-hand-bag-wallet-white-3037112/",
+        "id": 3037112
       },
       {
         "scene": 4,
-        "user": "Pexels",
-        "page": "https://pixabay.com/photos/cabinet-clothes-garments-wardrobe-1853504/"
+        "source": "pixabay",
+        "user": "nonmisvegliate",
+        "page": "https://pixabay.com/photos/scarves-wool-fabric-folded-6678139/",
+        "id": 6678139
       },
       {
         "scene": 5,
-        "user": "MaximilianHemon",
-        "page": "https://pixabay.com/photos/japan-vending-machine-fireworks-5021733/"
+        "source": "pixabay",
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/cafe-barista-coffee-shop-counter-1869656/",
+        "id": 1869656
       },
       {
         "scene": 6,
+        "source": "pixabay",
         "user": "StockSnap",
-        "page": "https://pixabay.com/photos/building-dark-night-convenience-2583628/"
+        "page": "https://pixabay.com/photos/building-dark-night-convenience-2583628/",
+        "id": 2583628
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0008_Convenience Store Laundry.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "image_queries_done": [
+      "Korean convenience store interior",
+      "QR code locker Seoul",
+      "laundry bag counter Korean",
+      "folded clothes locker Seoul",
+      "coffee latte vending machine",
+      "Seoul street convenience store"
+    ]
   },
   {
     "label": "Jjimjilbang Lunch Naps",
@@ -809,37 +974,57 @@
     "image_credits": [
       {
         "scene": 1,
-        "user": "thaoantran0101",
-        "page": "https://pixabay.com/photos/books-library-bookstore-study-7744938/"
+        "source": "pixabay",
+        "user": "pc500k",
+        "page": "https://pixabay.com/photos/seoul-cafe-coffee-shop-7106196/",
+        "id": 7106196
       },
       {
         "scene": 2,
-        "user": "jeviniya",
-        "page": "https://pixabay.com/photos/yoga-legs-young-woman-sports-1146277/"
+        "source": "pixabay",
+        "user": "Hans",
+        "page": "https://pixabay.com/photos/floor-mat-shoe-scraper-doormat-123170/",
+        "id": 123170
       },
       {
         "scene": 3,
-        "user": "Firmbee",
-        "page": "https://pixabay.com/photos/office-business-accountant-620822/"
+        "source": "pixabay",
+        "user": "kieutruongphoto",
+        "page": "https://pixabay.com/photos/laptop-mobile-phone-table-phone-5987093/",
+        "id": 5987093
       },
       {
         "scene": 4,
-        "user": "daha3131053",
-        "page": "https://pixabay.com/photos/man-adult-young-break-corporate-7116367/"
+        "source": "pixabay",
+        "user": "MabelAmber",
+        "page": "https://pixabay.com/photos/men-people-walking-path-park-suit-4139026/",
+        "id": 4139026
       },
       {
         "scene": 5,
-        "user": "YOUNGU",
-        "page": "https://pixabay.com/photos/han-river-night-view-seoul-korea-4831871/"
+        "source": "pixabay",
+        "user": "rmsep4",
+        "page": "https://pixabay.com/photos/south-korea-street-seoul-dusk-6918828/",
+        "id": 6918828
       },
       {
         "scene": 6,
-        "user": "jennyfriedrichs",
-        "page": "https://pixabay.com/photos/wood-house-tree-garden-sauna-3336957/"
+        "source": "pixabay",
+        "user": "HeungSoon",
+        "page": "https://pixabay.com/photos/don-money-call-finance-cash-3565700/",
+        "id": 3565700
       }
     ],
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0009_Jjimjilbang Lunch Naps.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "image_queries_done": [
+      "Seoul public sauna interior",
+      "Korean jjimjilbang heated floor mat",
+      "Office worker nap phone alarm",
+      "Korea corporate employee lunch break",
+      "Seoul street near jjimjilbang",
+      "Korean sauna payment kiosk"
+    ]
   },
   {
     "label": "KakaoTalk Coffee Meetups",
