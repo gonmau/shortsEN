@@ -3666,17 +3666,17 @@
     "country": "Winter Shaved Ice",
     "created_at": "2026-10-13T23:28:03.975031+00:00",
     "status": "scripted",
-    "narration": "Yes, you can eat ice cream in Seoul’s December chill—called bingsu. In busy spots like Myeongdong and Hongdae, street stalls set up insulated carts that serve bingsu all year. The shaved ice comes with warm red bean paste, toasted rice cakes, and hot syrups, so the cold base meets comforting heat. Vendors hand it in small disposable bowls, perfect for strolling through markets. The treat began as a summer snack, but the hot toppings keep you warm enough to keep it going in winter. Some stalls even pour hot chocolate or ginger tea over the ice, turning the dessert into a hand‑warmer. You’ll mostly find it in these tourist districts, not in quieter neighborhoods.",
-    "title_line1": "Winter bingsu Seoul",
-    "title_line2": "Cold ice, warm bean",
+    "narration": "Yes, you can eat ice cream in Seoul’s December chill—called bingsu. In busy spots like Myeongdong and Hongdae, street vendors set up insulated carts that serve shaved‑ice dessert year‑round. The ice is piled high, then drizzled with warm red bean paste, toasted rice cakes, and hot syrups, so the cold base meets comforting heat. Vendors hand it in small disposable bowls, ideal for strolling through a night market. The tradition began as a summer treat, but the hot toppings keep customers warm in winter. Some stalls even pour hot chocolate or ginger tea over the ice, turning the snack into an instant hand‑warmer. Winter bingsu appears mainly in these bustling districts, not in quieter neighborhoods.",
+    "title_line1": "Seoul winter bingsu",
+    "title_line2": "Heat on icy bingsu",
     "highlights": [
       {
         "s": 1,
-        "text": "*Ice* cream chill"
+        "text": "Bingsu in *December*"
       },
       {
         "s": 2,
-        "text": "All‑year *bingsu* carts"
+        "text": "Carts serve *always*"
       },
       {
         "s": 3,
@@ -3684,24 +3684,27 @@
       },
       {
         "s": 5,
-        "text": "Ice + *hot chocolate*"
+        "text": "Turned *winter* treat"
+      },
+      {
+        "s": 6,
+        "text": "Chocolate *over* ice"
       }
     ],
     "image_queries": [
-      "bingsu ice cream winter",
-      "year-round bingsu street cart",
+      "bingsu December Seoul",
+      "shaved ice cart Seoul",
       "bingsu with hot toppings",
-      "bingsu disposable bowl",
-      "bingsu with hot chocolate",
-      "bingsu ginger tea topping",
-      "bingsu tourist district stall"
+      "winter bingsu street vendor",
+      "bingsu with chocolate",
+      "Seoul night market"
     ],
     "scene_count": 10,
-    "ko_title": "한국: 겨울 빙수 서울 차가운 얼음, 따뜻한 팥",
-    "ko_description": "🎯 네, 서울의 12월 추위 속에서도 눈처럼 가는 아이스크림, 빙수를 먹을 수 있습니다.\n\n명동, 홍대와 같은 인기 관광지에서는 거리 노점이 단열 카트를 설치해 연중 빙수를 제공합니다. 갈아 만든 얼음 위에 따뜻한 팥소, 구운 떡, 뜨거운 시럽을 얹어 차가운 베이스와 포근한 열기가 대비를 이룹니다. 판매자는 보통 작은 일회용 그릇에 담아 밤거리 시장을 걸으며 쉽게 즐길 수 있게 합니다. 이 문화는 원래 여름 간식으로 시작했지만 뜨거운 토핑 덕분에 겨울에도 계속됩니다.\n\n💡 일부 노점은 얼음 위에 뜨거운 초코나 생강차를 부어 즉석 손난로 같은 디저트로 만들기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n사진: Pixabay (pixabay.com)\n\n#WinterShavedIce #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
-    "ko_narration": "네, 서울의 12월 추위 속에서도 빙수라는 아이스크림을 먹을 수 있습니다. 명동, 홍대와 같은 번화가에서는 거리 노점이 단열 카트를 설치해 연중 빙수를 제공합니다. 갈아 만든 얼음 위에 따뜻한 팥소, 구운 떡, 뜨거운 시럽을 얹어 차가운 베이스와 포근한 열기가 만나죠. 판매자는 보통 작은 일회용 그릇에 담아 시장을 거닐며 먹기에 딱 좋게 합니다. 이 간식은 원래 여름에 시작됐지만 뜨거운 토핑이 몸을 따뜻하게 해 겨울에도 계속됩니다. 일부 노점은 얼음 위에 뜨거운 초코나 생강차를 부어 디저트를 손난로로 바꾸기도 합니다. 주로 이런 관광지에서 찾을 수 있고, 조용한 동네에서는 드뭅니다.",
-    "ko_issues": [],
-    "ko_src": "f41acc0b2b55",
+    "ko_title": "Korea: Winter bingsu Seoul Cold ice, warm bean #Shorts",
+    "ko_description": "🎯 네, 서울의 12월 추위 속에서도 눈처럼 부드러운 빙수를 먹을 수 있어요—빙수라고 합니다.\n\n명동, 홍대 같은 인기 관광지에서는 거리 노점들이 단열된 카트를 설치해 연중 빙수를 제공합니다. 갈아 만든 얼음 위에 따뜻한 팥소, 구운 떡, 뜨거운 시럽을 올려 차가운 베이스와 따뜻함이 대비됩니다. 판매자들은 보통 작은 일회용 그릇에 담아 밤시장 거리를 걸으며 쉽게 즐길 수 있게 합니다. 이 음식은 원래 여름 간식으로 시작했지만 뜨거운 토핑 덕분에 겨울에도 계속됩니다.\n\n💡 일부 노점은 얼음 위에 뜨거운 초콜릿이나 생강차를 부어 즉석 손난로 같은 디저트로 만들기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절 그리고 놀라운 사실들.\n\n#WinterShavedIce #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "네, 서울의 12월 추위 속에서도 빙수를 먹을 수 있어요—빙수라고 합니다. 명동, 홍대 같은 번화가에서는 거리 노점들이 단열된 카트를 설치해 연중 빙수를 제공합니다. 갈아 만든 얼음 위에 따뜻한 팥소, 구운 떡, 뜨거운 시럽이 올려져 차가운 베이스와 따뜻함이 만납니다. 판매자들은 작은 일회용 그릇에 담아 시장을 거닐기에 딱 맞게 제공합니다. 이 간식은 원래 여름 간식으로 시작했지만 뜨거운 토핑 덕분에 겨울에도 충분히 따뜻하게 즐길 수 있습니다. 일부 노점은 얼음 위에 뜨거운 초콜릿이나 생강차를 부어 디저트를 손난로로 바꾸기도 합니다. 주로 이런 관광지에서 찾을 수 있고, 조용한 동네에서는 드물어요.",
+    "ko_issues": null,
+    "ko_src": "a17c1e026024",
     "image_queries_done": [
       "bingsu December Seoul",
       "shaved ice cart Seoul",
@@ -3752,7 +3755,11 @@
     "narration_original": "Yes, you can eat ice cream in Seoul’s December chill—called bingsu. In busy spots like Myeongdong and Hongdae, street vendors set up insulated carts that serve shaved‑ice dessert year‑round. The ice is piled high, then drizzled with warm red bean paste, toasted rice cakes, and hot syrups, so the cold base meets comforting heat. Vendors hand it in small disposable bowls, ideal for strolling through a night market. The tradition began as a summer treat, but the hot toppings keep customers warm in winter. Some stalls even pour hot chocolate or ginger tea over the ice, turning the snack into an instant hand‑warmer. Winter bingsu appears mainly in these bustling districts, not in quieter neighborhoods.",
     "fact_verifiability": "user",
     "fact_risk": "user-reviewed",
-    "fact_applied": true
+    "fact_applied": true,
+    "audio_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0039_Winter Shaved Ice_v2.mp3",
+    "timing_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0039_Winter Shaved Ice_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done"
   },
   {
     "label": "Delivery Robots on Streets",
@@ -3861,34 +3868,33 @@
     "country": "Black Day Jajangmyeon",
     "created_at": "2026-10-13T23:28:26.706977+00:00",
     "status": "video_done",
-    "narration": "Why do some Koreans eat black noodles on a day called Black Day? Two weeks after Valentine’s Day and White Day, South Korea marks Black Day on April 14th. Uncoupled friends and coworkers wear black clothing and head to restaurants for jajangmyeon, thick noodles topped with dark soy‑bean sauce. The tradition began as a tongue‑in‑cheek response to the couple‑focused holidays, and many eateries roll out special “Black Day” menus and discounts for groups dressed in black. At some cafés, the theme continues with a dessert called black coffee mousse, keeping everything ebony from start to finish. The celebration is most popular among younger adults in cities, and not every Korean observes it. So next time you see a bowl of jet‑black noodles, you’ll know the playful story behind it.",
-    "title_line1": "Singles black noodle",
-    "title_line2": "Why the dark sauce?",
+    "narration": "Why do some Koreans eat black noodles on a day called Black Day? Two weeks after Valentine’s Day and White Day, South Korea marks Black Day on April 14th. Uncoupled friends and coworkers dress in black and meet at restaurants to share jajangmyeon, a noodle dish topped with dark soy‑bean sauce. The holiday began as a tongue‑in‑cheek response to the couple‑focused celebrations, and many eateries roll out special “Black Day” menus and discounts for groups in black attire. At some cafés, the theme continues with a dessert called black coffee mousse, keeping everything that night the same shade. The tradition is most popular among younger adults in urban areas, and not every Korean observes it. So next time you see a bowl of jet‑black noodles, you’ll know it’s a playful single‑saver’s feast.",
+    "title_line1": "Singles eat black",
+    "title_line2": "Why the black bowl?",
     "highlights": [
       {
         "s": 1,
-        "text": "Why eat black *noodles*?"
+        "text": "*Black* Day mystery"
       },
       {
         "s": 2,
-        "text": "April 14: *Black Day*"
+        "text": "April 14: *Black* Day"
       },
       {
         "s": 3,
-        "text": "Wear *black*, jajang"
+        "text": "Singles' *black* feast"
       },
       {
-        "s": 5,
-        "text": "Black *coffee mousse* dessert"
+        "s": 4,
+        "text": "*Black* coffee mousse"
       }
     ],
     "image_queries": [
-      "black noodles bowl",
-      "April 14 Korean calendar",
-      "people wearing black jajangmyeon",
-      "Korean black day menu",
-      "black coffee mousse dessert",
-      "young adults city gathering",
+      "calendar",
+      "발렌타인데이",
+      "couple",
+      "짜장면",
+      "하트",
       "jet black noodles"
     ],
     "scene_count": 10,
@@ -3954,7 +3960,11 @@
     "narration_original": "Why do some Koreans eat black noodles on a day called Black Day? Two weeks after Valentine’s Day and White Day, South Korea marks Black Day on April 14th. Uncoupled friends and coworkers dress in black and meet at restaurants to share jajangmyeon, a noodle dish topped with dark soy‑bean sauce. The holiday began as a tongue‑in‑cheek response to the couple‑focused celebrations, and many eateries roll out special “Black Day” menus and discounts for groups in black attire. At some cafés, the theme continues with a dessert called black coffee mousse, keeping everything that night the same shade. The tradition is most popular among younger adults in urban areas, and not every Korean observes it. So next time you see a bowl of jet‑black noodles, you’ll know it’s a playful single‑saver’s feast.",
     "fact_verifiability": "user",
     "fact_risk": "user-reviewed",
-    "fact_applied": true
+    "fact_applied": true,
+    "audio_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0042_Black Day Jajangmyeon_v2.mp3",
+    "timing_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0042_Black Day Jajangmyeon_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done"
   },
   {
     "label": "QR‑Only Street Food",
@@ -4271,7 +4281,7 @@
     "ko_title": "한국: 갓에서 영감받은 램프 모자, 방을 밝혀요",
     "ko_description": "🎯 한국의 전통 갓이 방을 밝힌다면?\n\n디자이너들은 한국 전통 갓 모자의 아이코닉한 실루엣을 현대적인 램프로 재탄생시켰습니다. 이 작품은 미니멀한 미학을 유지하면서 부드러운 분위기 조명을 제공합니다. 형태는 갓의 넓은 챙과 열린 직조를 떠올리게 하며, 전통과 현대 스타일을 융합합니다. 많은 시청자들이 이 램프가 직접적인 복제는 아니지만 문화적 디자인을 은근히 참조한다는 점을 눈여겨봅니다.\n\n💡 이 램프는 갓의 독특한 형태를 활용해 빛나는 실루엣을 만들었을 뿐, 갓 자체를 복제한 것이 아니라 재해석한 작품입니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\nPhotos: Pixabay (pixabay.com)\n\n#GatInspiredLamp #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "한국의 전통 갓이 방을 밝힌다면? 디자이너들은 조선 시대에 착용하던 높고 넓은 챙의 전통 갓 실루엣을 가져와 미니멀한 분위기 램프로 바꾸었습니다. 이 램프는 깔끔하고 현대적인 모습을 유지하면서 부드럽고 확산된 빛을 발합니다. 형태는 갓의 넓은 챙과 열린 직조를 연상시켜, 전통이 직접적인 복제 없이도 존재감을 느끼게 합니다. 많은 시청자들이 미묘한 문화적 참조를 눈여겨보며, 이 작품은 주류 매장보다는 디자인 전시회에 자주 등장합니다. 이는 갓의 윤곽선을 활용해 빛나는 실루엣을 만든 재해석이며, 직접적인 복제는 아닙니다. 그 조용한 빛이 당신의 공간을 감싸는 모습을 상상해 보세요.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "8965633e3d66"
   },
   {
