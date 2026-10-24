@@ -3666,17 +3666,17 @@
     "country": "Winter Shaved Ice",
     "created_at": "2026-10-13T23:28:03.975031+00:00",
     "status": "scripted",
-    "narration": "Yes, you can eat ice cream in Seoul’s December chill—called bingsu. In busy spots like Myeongdong and Hongdae, street vendors set up insulated carts that serve shaved‑ice dessert year‑round. The ice is piled high, then drizzled with warm red bean paste, toasted rice cakes, and hot syrups, so the cold base meets comforting heat. Vendors hand it in small disposable bowls, ideal for strolling through a night market. The tradition began as a summer treat, but the hot toppings keep customers warm in winter. Some stalls even pour hot chocolate or ginger tea over the ice, turning the snack into an instant hand‑warmer. Winter bingsu appears mainly in these bustling districts, not in quieter neighborhoods.",
-    "title_line1": "Seoul winter bingsu",
-    "title_line2": "Heat on icy bingsu",
+    "narration": "Yes, you can eat ice cream in Seoul’s December chill—called bingsu. In busy spots like Myeongdong and Hongdae, street stalls set up insulated carts that serve bingsu all year. The shaved ice comes with warm red bean paste, toasted rice cakes, and hot syrups, so the cold base meets comforting heat. Vendors hand it in small disposable bowls, perfect for strolling through markets. The treat began as a summer snack, but the hot toppings keep you warm enough to keep it going in winter. Some stalls even pour hot chocolate or ginger tea over the ice, turning the dessert into a hand‑warmer. You’ll mostly find it in these tourist districts, not in quieter neighborhoods.",
+    "title_line1": "Winter bingsu Seoul",
+    "title_line2": "Cold ice, warm bean",
     "highlights": [
       {
         "s": 1,
-        "text": "Bingsu in *December*"
+        "text": "*Ice* cream chill"
       },
       {
         "s": 2,
-        "text": "Carts serve *always*"
+        "text": "All‑year *bingsu* carts"
       },
       {
         "s": 3,
@@ -3684,31 +3684,24 @@
       },
       {
         "s": 5,
-        "text": "Turned *winter* treat"
-      },
-      {
-        "s": 6,
-        "text": "Chocolate *over* ice"
+        "text": "Ice + *hot chocolate*"
       }
     ],
     "image_queries": [
-      "bingsu December Seoul",
-      "shaved ice cart Seoul",
+      "bingsu ice cream winter",
+      "year-round bingsu street cart",
       "bingsu with hot toppings",
-      "winter bingsu street vendor",
-      "bingsu with chocolate",
-      "Seoul night market"
+      "bingsu disposable bowl",
+      "bingsu with hot chocolate",
+      "bingsu ginger tea topping",
+      "bingsu tourist district stall"
     ],
     "scene_count": 10,
-    "ko_title": "Korea: Winter bingsu Seoul Cold ice, warm bean #Shorts",
-    "ko_description": "🎯 네, 서울의 12월 추위 속에서도 눈처럼 부드러운 빙수를 먹을 수 있어요—빙수라고 합니다.\n\n명동, 홍대 같은 인기 관광지에서는 거리 노점들이 단열된 카트를 설치해 연중 빙수를 제공합니다. 갈아 만든 얼음 위에 따뜻한 팥소, 구운 떡, 뜨거운 시럽을 올려 차가운 베이스와 따뜻함이 대비됩니다. 판매자들은 보통 작은 일회용 그릇에 담아 밤시장 거리를 걸으며 쉽게 즐길 수 있게 합니다. 이 음식은 원래 여름 간식으로 시작했지만 뜨거운 토핑 덕분에 겨울에도 계속됩니다.\n\n💡 일부 노점은 얼음 위에 뜨거운 초콜릿이나 생강차를 부어 즉석 손난로 같은 디저트로 만들기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절 그리고 놀라운 사실들.\n\n#WinterShavedIce #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
-    "ko_narration": "네, 서울의 12월 추위 속에서도 빙수를 먹을 수 있어요—빙수라고 합니다. 명동, 홍대 같은 번화가에서는 거리 노점들이 단열된 카트를 설치해 연중 빙수를 제공합니다. 갈아 만든 얼음 위에 따뜻한 팥소, 구운 떡, 뜨거운 시럽이 올려져 차가운 베이스와 따뜻함이 만납니다. 판매자들은 작은 일회용 그릇에 담아 시장을 거닐기에 딱 맞게 제공합니다. 이 간식은 원래 여름 간식으로 시작했지만 뜨거운 토핑 덕분에 겨울에도 충분히 따뜻하게 즐길 수 있습니다. 일부 노점은 얼음 위에 뜨거운 초콜릿이나 생강차를 부어 디저트를 손난로로 바꾸기도 합니다. 주로 이런 관광지에서 찾을 수 있고, 조용한 동네에서는 드물어요.",
-    "ko_issues": null,
-    "ko_src": "a17c1e026024",
-    "audio_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0039_Winter Shaved Ice_v2.mp3",
-    "timing_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0039_Winter Shaved Ice_v2_timing.json",
-    "tts_voice_v2": "en-US-AndrewNeural",
-    "status_tts_v2": "done",
+    "ko_title": "한국: 겨울 빙수 서울 차가운 얼음, 따뜻한 팥",
+    "ko_description": "🎯 네, 서울의 12월 추위 속에서도 눈처럼 가는 아이스크림, 빙수를 먹을 수 있습니다.\n\n명동, 홍대와 같은 인기 관광지에서는 거리 노점이 단열 카트를 설치해 연중 빙수를 제공합니다. 갈아 만든 얼음 위에 따뜻한 팥소, 구운 떡, 뜨거운 시럽을 얹어 차가운 베이스와 포근한 열기가 대비를 이룹니다. 판매자는 보통 작은 일회용 그릇에 담아 밤거리 시장을 걸으며 쉽게 즐길 수 있게 합니다. 이 문화는 원래 여름 간식으로 시작했지만 뜨거운 토핑 덕분에 겨울에도 계속됩니다.\n\n💡 일부 노점은 얼음 위에 뜨거운 초코나 생강차를 부어 즉석 손난로 같은 디저트로 만들기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n사진: Pixabay (pixabay.com)\n\n#WinterShavedIce #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "네, 서울의 12월 추위 속에서도 빙수라는 아이스크림을 먹을 수 있습니다. 명동, 홍대와 같은 번화가에서는 거리 노점이 단열 카트를 설치해 연중 빙수를 제공합니다. 갈아 만든 얼음 위에 따뜻한 팥소, 구운 떡, 뜨거운 시럽을 얹어 차가운 베이스와 포근한 열기가 만나죠. 판매자는 보통 작은 일회용 그릇에 담아 시장을 거닐며 먹기에 딱 좋게 합니다. 이 간식은 원래 여름에 시작됐지만 뜨거운 토핑이 몸을 따뜻하게 해 겨울에도 계속됩니다. 일부 노점은 얼음 위에 뜨거운 초코나 생강차를 부어 디저트를 손난로로 바꾸기도 합니다. 주로 이런 관광지에서 찾을 수 있고, 조용한 동네에서는 드뭅니다.",
+    "ko_issues": [],
+    "ko_src": "f41acc0b2b55",
     "image_queries_done": [
       "bingsu December Seoul",
       "shaved ice cart Seoul",
@@ -3755,7 +3748,11 @@
         "page": "https://pixabay.com/photos/women-market-hall-cook-market-sale-5475275/"
       }
     ],
-    "image_source": "pixabay"
+    "image_source": "pixabay",
+    "narration_original": "Yes, you can eat ice cream in Seoul’s December chill—called bingsu. In busy spots like Myeongdong and Hongdae, street vendors set up insulated carts that serve shaved‑ice dessert year‑round. The ice is piled high, then drizzled with warm red bean paste, toasted rice cakes, and hot syrups, so the cold base meets comforting heat. Vendors hand it in small disposable bowls, ideal for strolling through a night market. The tradition began as a summer treat, but the hot toppings keep customers warm in winter. Some stalls even pour hot chocolate or ginger tea over the ice, turning the snack into an instant hand‑warmer. Winter bingsu appears mainly in these bustling districts, not in quieter neighborhoods.",
+    "fact_verifiability": "user",
+    "fact_risk": "user-reviewed",
+    "fact_applied": true
   },
   {
     "label": "Delivery Robots on Streets",
@@ -3864,33 +3861,34 @@
     "country": "Black Day Jajangmyeon",
     "created_at": "2026-10-13T23:28:26.706977+00:00",
     "status": "video_done",
-    "narration": "Why do some Koreans eat black noodles on a day called Black Day? Two weeks after Valentine’s Day and White Day, South Korea marks Black Day on April 14th. Uncoupled friends and coworkers dress in black and meet at restaurants to share jajangmyeon, a noodle dish topped with dark soy‑bean sauce. The holiday began as a tongue‑in‑cheek response to the couple‑focused celebrations, and many eateries roll out special “Black Day” menus and discounts for groups in black attire. At some cafés, the theme continues with a dessert called black coffee mousse, keeping everything that night the same shade. The tradition is most popular among younger adults in urban areas, and not every Korean observes it. So next time you see a bowl of jet‑black noodles, you’ll know it’s a playful single‑saver’s feast.",
-    "title_line1": "Singles eat black",
-    "title_line2": "Why the black bowl?",
+    "narration": "Why do some Koreans eat black noodles on a day called Black Day? Two weeks after Valentine’s Day and White Day, South Korea marks Black Day on April 14th. Uncoupled friends and coworkers wear black clothing and head to restaurants for jajangmyeon, thick noodles topped with dark soy‑bean sauce. The tradition began as a tongue‑in‑cheek response to the couple‑focused holidays, and many eateries roll out special “Black Day” menus and discounts for groups dressed in black. At some cafés, the theme continues with a dessert called black coffee mousse, keeping everything ebony from start to finish. The celebration is most popular among younger adults in cities, and not every Korean observes it. So next time you see a bowl of jet‑black noodles, you’ll know the playful story behind it.",
+    "title_line1": "Singles black noodle",
+    "title_line2": "Why the dark sauce?",
     "highlights": [
       {
         "s": 1,
-        "text": "*Black* Day mystery"
+        "text": "Why eat black *noodles*?"
       },
       {
         "s": 2,
-        "text": "April 14: *Black* Day"
+        "text": "April 14: *Black Day*"
       },
       {
         "s": 3,
-        "text": "Singles' *black* feast"
+        "text": "Wear *black*, jajang"
       },
       {
-        "s": 4,
-        "text": "*Black* coffee mousse"
+        "s": 5,
+        "text": "Black *coffee mousse* dessert"
       }
     ],
     "image_queries": [
-      "calendar",
-      "발렌타인데이",
-      "couple",
-      "짜장면",
-      "하트",
+      "black noodles bowl",
+      "April 14 Korean calendar",
+      "people wearing black jajangmyeon",
+      "Korean black day menu",
+      "black coffee mousse dessert",
+      "young adults city gathering",
       "jet black noodles"
     ],
     "scene_count": 10,
@@ -3899,10 +3897,6 @@
     "ko_narration": "왜 일부 한국인들은 블랙 데이라고 불리는 날에 검은 면을 먹을까요? 밸런타인데이와 화이트 데이로부터 2주 뒤인 4월 14일, 한국은 블랙 데이를 기념합니다. 연인 관계가 아닌 친구와 직장 동료들은 검은 옷을 입고 짜장면, 검은 콩 소스를 얹은 굵은 면을 먹으러 식당에 갑니다. 이 전통은 커플 중심 명절에 대한 장난스러운 반응으로 시작됐으며, 많은 식당에서 검은 복장을 한 그룹을 위한 특별 “블랙 데이” 메뉴와 할인을 제공하고 있습니다. 일부 카페에서는 블랙 커피 무스라는 디저트를 제공해 색감 테마를 시작부터 끝까지 검게 유지합니다. 이 축제는 주로 도시의 젊은 성인들 사이에서 인기가 많으며, 모든 한국인이 이를 지키는 것은 아닙니다. 다음에 검은 색 국수 한 그릇을 보게 된다면, 그 장난스러운 이야기를 알게 될 것입니다.",
     "ko_issues": null,
     "ko_src": "756535a8125d",
-    "audio_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0042_Black Day Jajangmyeon_v2.mp3",
-    "timing_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0042_Black Day Jajangmyeon_v2_timing.json",
-    "tts_voice_v2": "en-US-AndrewNeural",
-    "status_tts_v2": "done",
     "image_queries_done": [
       "calendar",
       "발렌타인데이",
@@ -3956,7 +3950,11 @@
       }
     ],
     "image_source": "pixabay",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "narration_original": "Why do some Koreans eat black noodles on a day called Black Day? Two weeks after Valentine’s Day and White Day, South Korea marks Black Day on April 14th. Uncoupled friends and coworkers dress in black and meet at restaurants to share jajangmyeon, a noodle dish topped with dark soy‑bean sauce. The holiday began as a tongue‑in‑cheek response to the couple‑focused celebrations, and many eateries roll out special “Black Day” menus and discounts for groups in black attire. At some cafés, the theme continues with a dessert called black coffee mousse, keeping everything that night the same shade. The tradition is most popular among younger adults in urban areas, and not every Korean observes it. So next time you see a bowl of jet‑black noodles, you’ll know it’s a playful single‑saver’s feast.",
+    "fact_verifiability": "user",
+    "fact_risk": "user-reviewed",
+    "fact_applied": true
   },
   {
     "label": "QR‑Only Street Food",
@@ -4269,7 +4267,12 @@
         "id": 6281896
       }
     ],
-    "image_source": "pixabay"
+    "image_source": "pixabay",
+    "ko_title": "한국: 갓에서 영감받은 램프 모자, 방을 밝혀요",
+    "ko_description": "🎯 한국의 전통 갓이 방을 밝힌다면?\n\n디자이너들은 한국 전통 갓 모자의 아이코닉한 실루엣을 현대적인 램프로 재탄생시켰습니다. 이 작품은 미니멀한 미학을 유지하면서 부드러운 분위기 조명을 제공합니다. 형태는 갓의 넓은 챙과 열린 직조를 떠올리게 하며, 전통과 현대 스타일을 융합합니다. 많은 시청자들이 이 램프가 직접적인 복제는 아니지만 문화적 디자인을 은근히 참조한다는 점을 눈여겨봅니다.\n\n💡 이 램프는 갓의 독특한 형태를 활용해 빛나는 실루엣을 만들었을 뿐, 갓 자체를 복제한 것이 아니라 재해석한 작품입니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\nPhotos: Pixabay (pixabay.com)\n\n#GatInspiredLamp #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "한국의 전통 갓이 방을 밝힌다면? 디자이너들은 조선 시대에 착용하던 높고 넓은 챙의 전통 갓 실루엣을 가져와 미니멀한 분위기 램프로 바꾸었습니다. 이 램프는 깔끔하고 현대적인 모습을 유지하면서 부드럽고 확산된 빛을 발합니다. 형태는 갓의 넓은 챙과 열린 직조를 연상시켜, 전통이 직접적인 복제 없이도 존재감을 느끼게 합니다. 많은 시청자들이 미묘한 문화적 참조를 눈여겨보며, 이 작품은 주류 매장보다는 디자인 전시회에 자주 등장합니다. 이는 갓의 윤곽선을 활용해 빛나는 실루엣을 만든 재해석이며, 직접적인 복제는 아닙니다. 그 조용한 빛이 당신의 공간을 감싸는 모습을 상상해 보세요.",
+    "ko_issues": [],
+    "ko_src": "8965633e3d66"
   },
   {
     "label": "First Snow Soup Picnic",
@@ -5196,5 +5199,161 @@
     "created_at": "2026-10-21T08:21:32.134696+00:00",
     "status": "rejected",
     "reject_reason": "ㄱ냥"
+  },
+  {
+    "label": "Phone Pouch Silence",
+    "topic": "Study cafés give phones a transparent bag to keep them silent",
+    "hook": "Ever seen a phone disappear into a clear bag before studying?",
+    "body": "Many Korean study cafés and university libraries provide small transparent pouches where patrons place their smartphones at the start of a session. The pouch stays on the table, visually reminding everyone the device is muted, which helps maintain a quiet environment. The practice grew from the high density of students who use phones for both study and distraction, turning a simple bag into a social cue for silence.",
+    "twist": "Some cafés even lock the pouch with a tiny padlock that only opens when you leave, preventing you from taking the phone back mid‑session.",
+    "caveat": "The practice is common in many urban study cafés and university libraries, but it is not universal across all Korean eateries or homes.",
+    "confidence": "high",
+    "verify_note": "Korean study cafe phone pouch, phone bag silent study Korea, library phone bag etiquette",
+    "country": "Phone Pouch Silence",
+    "created_at": "2026-10-24T03:52:42.127903+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Bike‑Rental Helmet Kiosk",
+    "topic": "Bike‑share stations in Seoul also dispense helmets from a small vending machine.",
+    "hook": "Did you know you can rent a bike and get a helmet from a vending machine in Seoul?",
+    "body": "In many districts of Seoul, public bike‑share stations are paired with compact kiosks that store helmets. When you scan the bike’s QR code, the kiosk releases a clean helmet that fits the bike’s lock. The helmet is returned to the same kiosk when you finish your ride, and the system tracks usage automatically. This setup encourages safe cycling without the need to carry your own helmet.",
+    "twist": "Some kiosks even sanitize the helmet with UV light between uses.",
+    "caveat": "Helmet vending is available at many, but not all, bike‑share stations, primarily in central Seoul and certain pilot neighborhoods.",
+    "confidence": "high",
+    "verify_note": "Seoul bike share helmet vending, Seoul bike rental helmet kiosk, public bike helmet dispenser",
+    "country": "Bike‑Rental Helmet Kiosk",
+    "created_at": "2026-10-24T03:52:49.280201+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Women‑Only Subway Cars",
+    "topic": "Designated women‑only subway cars operate during rush hour on several Seoul lines.",
+    "hook": "Ever seen a subway car reserved just for women in Seoul?",
+    "body": "During the morning and evening peak hours, Seoul Metro marks one car on lines such as Line 2 and Line 4 as women‑only. The doors open with a pink sign and a brief announcement, and the car is kept separate from the mixed‑gender cars. Many commuters appreciate the extra sense of security, especially during crowded trips. The policy has been in place since 2012 and is enforced by station staff.",
+    "twist": "During special holidays, the women‑only car sometimes carries a small free gift, like a hand‑sanitizer packet.",
+    "caveat": "The women‑only cars operate only on select lines during specific peak periods; not all trains or stations have them.",
+    "confidence": "high",
+    "verify_note": "Seoul women only subway car policy, Seoul Metro women only cars, women-only train cars South Korea",
+    "country": "Women‑Only Subway Cars",
+    "created_at": "2026-10-24T03:52:49.280201+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "QR Code Street Food",
+    "topic": "Scan, pay, and eat street food without cash",
+    "hook": "Did you know you can order tteokbokki by scanning a QR code on the stall?",
+    "body": "In busy districts such as Hongdae and Myeongdong, many street‑food stalls display a small QR‑code sign beside their grill. Customers open a Korean mobile‑payment app, scan the code, choose the dish, and pay instantly; the vendor then hands over the hot plate. The system grew after the pandemic as a way to reduce cash handling and speed up service, and it works with popular apps like KakaoPay and Naver Pay. As a result, queues often move faster than at nearby cash‑only stalls.",
+    "twist": "Some vendors also let you add a tip for the chef through the same QR‑code interface.",
+    "caveat": "This practice is common in urban street‑food areas that have partnered with payment platforms, but many traditional markets and rural stalls still rely on cash only.",
+    "confidence": "high",
+    "verify_note": "Korean street food QR code ordering, Hongdae tteokbokki QR, mobile payments KakaoPay street stalls",
+    "country": "QR Code Street Food",
+    "created_at": "2026-10-24T03:53:13.029520+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Seoul Subway Quiet Car",
+    "topic": "Designated silent cars for commuters who want to study or rest",
+    "hook": "Ever seen a whole subway car whispering in Seoul?",
+    "body": "On lines such as Line 9 and a few others, one carriage is marked as a “quiet car” with signs that ask passengers to keep phones on silent and refrain from loud conversations. During the morning and evening rush, students pull out laptops, office workers spread notebooks, and commuters read e‑books, turning the car into a moving study hall. The policy was introduced to give densely packed riders a space for focused work and to reduce overall cabin noise. Announcements remind riders that the quiet car is not for phone calls or music playback.",
+    "twist": "During peak hours, the quiet car often fills up faster than the regular cars because many commuters reserve a seat for work or rest.",
+    "caveat": "Quiet cars are available only on certain subway lines and primarily during weekday peak periods; not all trains or stations have them.",
+    "confidence": "high",
+    "verify_note": "Seoul subway quiet car, Line 9 silent car, Korean subway quiet car policy",
+    "country": "Seoul Subway Quiet Car",
+    "created_at": "2026-10-24T03:53:13.029520+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Heated Toilet Seats",
+    "topic": "Public restrooms in many Korean cities have heated toilet seats that turn on automatically in winter.",
+    "hook": "Did you know many Korean toilets warm up your seat before you even sit down?",
+    "body": "Many public restrooms, especially in Seoul's department stores, subway stations, and hospitals, are equipped with sensor‑activated heated seats that start warming as soon as someone approaches. The seats are connected to the building's central heating system and are meant to improve comfort during the cold months. This feature is part of a broader Korean emphasis on hygiene and user convenience in public facilities. The heating typically turns off after a short period of inactivity to save energy.",
+    "twist": "Some of these seats also include a built‑in bidet nozzle that adjusts water pressure with a single button.",
+    "caveat": "Heated seats are common in newer urban public facilities, but older or rural restrooms may not have them.",
+    "confidence": "high",
+    "verify_note": "Seoul public restroom heated seats, Korean toilet seat heating, Korean public facilities heated toilet",
+    "country": "Heated Toilet Seats",
+    "created_at": "2026-10-24T03:53:38.915461+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Zero‑Waste Bulk Aisles",
+    "topic": "Supermarkets and some convenience stores set aside bulk sections where shoppers bring their own containers to fill grains, nuts, and spices.",
+    "hook": "In Korea, you can shop the bulk aisle without buying a single plastic bag.",
+    "body": "Major Korean grocery chains such as Emart, Homeplus, and Lotte Mart have introduced “zero‑waste” aisles where customers bring reusable jars or bags to fill items like rice, beans, tea, and nuts. Staff weigh the containers before and after filling to charge the correct amount, and the practice grew out of a government‑backed campaign to cut plastic waste that began in the 2010s. Younger shoppers in city neighborhoods often favor these sections for both environmental and cost reasons. The system works much like bulk shopping in Europe, but with a Korean focus on precise weighing and labeling.",
+    "twist": "Some stores even offer a small discount for using your own container, encouraging repeat visits.",
+    "caveat": "Zero‑waste bulk sections are available in many large supermarkets and some convenience stores in major cities, but not in smaller neighborhood shops.",
+    "confidence": "high",
+    "verify_note": "Korea zero waste bulk aisles, Korean supermarkets reusable containers, Emart zero waste",
+    "country": "Zero‑Waste Bulk Aisles",
+    "created_at": "2026-10-24T03:53:38.915461+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Automated Bike Parking",
+    "topic": "Multi‑story bike‑parking towers in Seoul automatically lift and store bicycles, freeing ground space.",
+    "hook": "Ever seen a skyscraper for bikes that lifts your ride up like an elevator?",
+    "body": "In districts such as Gangnam, Songpa, and near several subway stations, public bike‑parking towers use a conveyor‑belt system that lifts a bike into a stacked compartment after the rider scans a QR code. The towers can store dozens of bicycles in the footprint of a single parking spot, and users retrieve their bike by scanning the same code, which lowers the platform back to ground level. This solution helps the city promote cycling while managing limited sidewalk space. Many of the towers also include charging ports for electric‑bike users.",
+    "twist": "The towers are equipped with charging ports, so electric bike users can top up while their bike is stored.",
+    "caveat": "These automated towers are installed at selected subway stations and public parks, not at every bike‑share dock across the city.",
+    "confidence": "high",
+    "verify_note": "Seoul bike parking tower, automated bike storage Korea, bike elevator Seoul",
+    "country": "Automated Bike Parking",
+    "created_at": "2026-10-24T03:53:38.915461+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "App‑Controlled Floor Heating",
+    "topic": "Many new Korean apartments let residents pre‑heat the ondol floor with a smartphone app",
+    "hook": "Ever turned on your floor heating while still on the subway?",
+    "body": "In several high‑rise apartments built after 2015, the under‑floor heating (ondol) is linked to a building‑wide IoT system. Residents can open an app, set the temperature, and schedule the heating to start before they arrive home. The system often shows real‑time energy use, encouraging people to warm the rooms only when needed. This convenience grew from the dense commuter lifestyle, where coming home to a cold floor is common.",
+    "twist": "Some complexes even let you sync the heating schedule with the city’s public‑transport arrival data, so the floor warms automatically when your train is a few minutes away.",
+    "caveat": "The feature is mainly available in newer apartments in major cities like Seoul and Busan; older buildings and many suburban units still use manual thermostats.",
+    "confidence": "high",
+    "verify_note": "Korean smart home ondol app, apartment IoT heating, Seoul smart apartments 2020",
+    "country": "App‑Controlled Floor Heating",
+    "created_at": "2026-10-24T03:54:23.989156+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Phone‑Free Bathhouse Rooms",
+    "topic": "Traditional Korean jjimjilbang often have sleeping rooms where phones must be left at lockers",
+    "hook": "What if you had to leave your phone at the door before a night at the spa?",
+    "body": "Many large jjimjilbang, especially those operated by chains like Dragon Hill or Siloam, provide designated sleeping areas where guests are asked to store phones in lockers before entering. The rule is meant to preserve a restful atmosphere and prevent disturbances from ringing devices. Staff usually provide a small key or digital code, and the lockers are located just outside the sleeping rooms. Visitors often find the forced digital detox surprisingly refreshing after a day of constant connectivity.",
+    "twist": "Some facilities even install ambient sound machines that play nature sounds, making the phone‑free zones feel like a mini‑retreat inside the spa.",
+    "caveat": "The phone‑free policy is typical in larger public jjimjilbang; smaller neighborhood spas may not enforce it, and guests can still bring phones into other areas of the facility.",
+    "confidence": "high",
+    "verify_note": "jjimjilbang phone locker policy, Korean spa sleeping room rules, Dragon Hill spa phone free",
+    "country": "Phone‑Free Bathhouse Rooms",
+    "created_at": "2026-10-24T03:54:23.989156+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "KakaoTalk Gifticon Culture",
+    "topic": "South Koreans frequently send digital coupons called ‘gifticons’ via KakaoTalk, redeemable instantly at stores",
+    "hook": "Can you buy a coffee for a friend without ever leaving your chat?",
+    "body": "KakaoTalk, the dominant messaging app, introduced ‘gifticons’—scannable digital coupons for coffee, meals, or cosmetics—that users can purchase and send directly in a chat. The recipient receives a QR code that can be shown on their phone and redeemed at the merchant’s counter within seconds. Because the process is integrated with payment and loyalty systems, many cafés and retailers report a surge in impulse purchases triggered by a friend’s message. The practice has become a common way to celebrate birthdays, thank coworkers, or simply treat a friend on the spot.",
+    "twist": "During major sales events, some brands release limited‑edition gifticons that are only available for a few hours, turning the chat into a fast‑paced flash sale arena.",
+    "caveat": "Gifticon usage is most prevalent among KakaoTalk users in urban areas and among younger demographics; older generations or those who prefer other messengers may use traditional paper coupons.",
+    "confidence": "high",
+    "verify_note": "KakaoTalk gifticon usage, Korean digital coupons, KakaoPay gifticon 2022",
+    "country": "KakaoTalk Gifticon Culture",
+    "created_at": "2026-10-24T03:54:23.989156+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Toilet Sound Mask",
+    "topic": "Public restrooms often have bidet toilets that play a short tune to hide bathroom noises",
+    "hook": "Did you know many Korean toilets can play a song to cover up bathroom sounds?",
+    "body": "When a traveler steps into a Seoul subway station restroom, they may notice a small button on the bidet control panel. Pressing it triggers a brief melody that plays while the toilet flushes, helping to mask any sounds and protect privacy. This feature is built into many modern public toilets across the city, reflecting Korea's emphasis on personal comfort and discretion in shared spaces. The sound usually stops automatically after a few seconds, letting users focus on their business without embarrassment.",
+    "twist": "Some models even let users choose between different sounds, such as a classical tune or a nature chirp, by tapping a selector on the panel.",
+    "caveat": "The sound‑masking function is common in newer public restrooms in major cities and newer buildings, but many older facilities or rural locations still lack it.",
+    "confidence": "high",
+    "verify_note": "Korean public restroom bidet sound masking, Korean toilet music privacy, Seoul subway restroom bidet features",
+    "country": "Toilet Sound Mask",
+    "created_at": "2026-10-24T03:54:55.411107+00:00",
+    "status": "unverified"
   }
 ]

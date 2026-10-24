@@ -13,7 +13,8 @@
 
 === [39] Winter Shaved Ice ===
 (사실 확인용 검색어) Winter bingsu Seoul, bingsu in December, Korean street food winter shaved ice
-(한글 제목) Korea: Winter bingsu Seoul Cold ice, warm bean #Shorts
+(사실 검수 위험도) user-reviewed
+(한글 제목) 한국: 겨울 빙수 서울 차가운 얼음, 따뜻한 팥
 후크: Yes, you can eat snow‑like ice cream in Seoul’s December chill—called bingsu.
 본문: In popular tourist spots like Myeongdong and Hongdae, street stalls set up insulated carts that serve bingsu year‑round. The shaved ice is topped with warm red bean paste, toasted rice cakes, and hot syrups, creating a contrast between the cold base and the comforting heat. Vendors often serve it in small disposable bowls, making it easy to enjoy while strolling through the night market. The practice started as a summer treat but persisted because the hot toppings keep customers warm.
 반전: Some stalls even add a splash of hot chocolate or ginger tea over the ice, turning the dessert into an instant hand‑warmer.
@@ -38,120 +39,32 @@
 대본[5]: The treat began as a summer snack, but the hot toppings keep you warm enough to keep it going in winter.
 대본[6]: Some stalls even pour hot chocolate or ginger tea over the ice, turning the dessert into a hand‑warmer.
 대본[7]: You’ll mostly find it in these tourist districts, not in quieter neighborhoods.
-(한글 대본) 네, 서울의 12월 추위 속에서도 빙수를 먹을 수 있어요—빙수라고 합니다. 명동, 홍대 같은 번화가에서는 거리 노점들이 단열된 카트를 설치해 연중 빙수를 제공합니다. 갈아 만든 얼음 위에 따뜻한 팥소, 구운 떡, 뜨거운 시럽이 올려져 차가운 베이스와 따뜻함이 만납니다. 판매자들은 작은 일회용 그릇에 담아 시장을 거닐기에 딱 맞게 제공합니다. 이 간식은 원래 여름 간식으로 시작했지만 뜨거운 토핑 덕분에 겨울에도 충분히 따뜻하게 즐길 수 있습니다. 일부 노점은 얼음 위에 뜨거운 초콜릿이나 생강차를 부어 디저트를 손난로로 바꾸기도 합니다. 주로 이런 관광지에서 찾을 수 있고, 조용한 동네에서는 드물어요.
+(한글 대본) 네, 서울의 12월 추위 속에서도 빙수라는 아이스크림을 먹을 수 있습니다. 명동, 홍대와 같은 번화가에서는 거리 노점이 단열 카트를 설치해 연중 빙수를 제공합니다. 갈아 만든 얼음 위에 따뜻한 팥소, 구운 떡, 뜨거운 시럽을 얹어 차가운 베이스와 포근한 열기가 만나죠. 판매자는 보통 작은 일회용 그릇에 담아 시장을 거닐며 먹기에 딱 좋게 합니다. 이 간식은 원래 여름에 시작됐지만 뜨거운 토핑이 몸을 따뜻하게 해 겨울에도 계속됩니다. 일부 노점은 얼음 위에 뜨거운 초코나 생강차를 부어 디저트를 손난로로 바꾸기도 합니다. 주로 이런 관광지에서 찾을 수 있고, 조용한 동네에서는 드뭅니다.
 
-=== [40] Delivery Robots on Streets ===
-(사실 확인용 검색어) Seoul delivery robot pilot, Starship delivery robot, Korean autonomous sidewalk robot
-(한글 제목) Korea: Food bots zip Seoul Pizza at your door #Shorts
-후크: Did you know tiny robots are already delivering pizza to Korean apartments?
-본문: In districts like Gangnam and Seongnam, companies operate small, box‑shaped delivery robots that travel on sidewalks. Residents receive a notification on their phone, open a door, and the robot slides a sealed bag onto a mat. The service is popular because it avoids traffic and contact during busy hours. It works mainly in upscale residential complexes that have a dedicated robot charging station.
-반전: Some robots can climb a few steps, so they can reach the front door of a high‑rise building without an elevator.
+=== [46] Gat-Inspired Lamp ===
+(사실 확인용 검색어) https://mastodon.social/@killbait/117149622062731973
+(한글 제목) 한국: 갓에서 영감받은 램프 모자, 방을 밝혀요
+후크: What if a Korean hat could light up your room?
+본문: Designers have taken the iconic silhouette of the Korean gat hat and turned it into a modern lamp. The piece keeps a minimalist aesthetic while providing soft, ambient lighting. Its form echoes the hat’s wide brim and open weave, blending heritage with contemporary style. Many viewers notice how the lamp subtly references cultural design without being a direct replica.
+반전: The lamp is a reinterpretation, using the gat’s distinctive shape to create a glowing silhouette rather than copying the hat itself.
 제외:
-제목1: Food bots zip Seoul
-제목2: Pizza at your door
-핵심[1]: Tiny robots *deliver* pizza
-핵심[2]: Bots zip *sidewalks*
-핵심[4]: *Contactless* delivery
-핵심[5]: Robots *climb* steps
-이미지[1]: delivery robot pizza
-이미지[2]: delivery robot sidewalk
-이미지[3]: robot delivering bag door
-이미지[4]: contactless delivery robot
-이미지[5]: delivery robot climbing steps
-이미지[6]: Seoul delivery robot pilot
-대본[1]: Did you know tiny robots are already delivering pizza to Korean apartments?
-대본[2]: In upscale neighborhoods like Gangnam and Seongnam, small box‑shaped delivery robots zip along the sidewalks.
-대본[3]: When an order arrives, residents get a phone notification, open their door, and the robot slides a sealed bag onto a mat.
-대본[4]: The service skips traffic and limits contact during rush hour, making it popular in many high‑rise complexes that have a dedicated charging station.
-대본[5]: Some of these robots can even climb a few steps, reaching the front door without needing an elevator.
-대본[6]: Right now it’s a pilot limited to certain apartment buildings, not a city‑wide system, but it shows how autonomous tech is reshaping everyday life in Seoul.
-(한글 대본) 작은 로봇이 이미 한국 아파트에 피자를 배달하고 있다는 사실, 알고 계셨나요? 강남·성남 같은 고급 동네에서는 상자 모양의 소형 배달 로봇이 인도를 질주합니다. 주문이 들어오면 주민은 스마트폰 알림을 받고, 문을 열면 로봇이 봉인된 가방을 매트 위에 미끄러뜨려 줍니다. 이 서비스는 교통 체증을 피하고 러시아워에 접촉을 최소화해 많은 고층 단지에서 인기를 끌고 있습니다. 전용 충전 스테이션이 있는 단지에서 주로 운영됩니다. 일부 로봇은 몇 계단을 오를 수 있어 엘리베이터 없이도 현관문에 도달합니다. 현재는 특정 아파트 건물에 한정된 시범 운영이며 전역적인 시스템은 아니지만, 자율 기술이 서울 일상을 어떻게 바꾸고 있는지를 보여줍니다.
-
-=== [41] Smart Toilets with Music ===
-(사실 확인용 검색어) Seoul public restroom sound masking, Korean smart toilet melody, Korean bathroom music
-(한글 제목) Korea: Seoul 스마트 변기 음악 마스크 플러시 #Shorts
-후크: Ever heard a bathroom sing after you finish?
-본문: Many public restrooms in Seoul’s subway stations and large malls are equipped with smart toilets that have heated seats, bidet functions, and a sound‑masking system. When a user flushes, a brief, soothing melody automatically plays for a few seconds. The feature was added to reduce embarrassment in crowded facilities and is controlled by motion sensors, so no extra button is needed.
-반전: The same system can be set to play a different tune depending on the time of day, like a calm chime in the morning and a brighter jingle at night.
-제외:
-제목1: Seoul smart toilets
-제목2: Music masks flush
-핵심[1]: Bathroom *sing*?
-핵심[3]: *Melody* on flush
-핵심[5]: Time‑of‑day *tunes*
-이미지[1]: Toilet with music
-이미지[2]: Seoul subway public restroom
-이미지[3]: Toilet flush melody
-이미지[4]: Toilet motion sensor
-이미지[5]: Morning and night toilet music
-이미지[6]: Modern Korean public restroom
-이미지[7]: Seoul bathroom sound masking
-대본[1]: Ever heard a bathroom sing after you finish?
-대본[2]: In many Seoul subway stations and big malls, public restrooms now have smart toilets with heated seats, bidet sprays, and a sound‑masking system.
-대본[3]: When you flush, a brief, soothing melody plays automatically, covering any awkward noises.
-대본[4]: The tune comes from a motion sensor, so you don’t need to press any extra button.
-대본[5]: The clever part is that the melody can change with the time of day—a calm chime in the morning and a brighter jingle at night.
-대본[6]: These high‑tech fixtures are common in newer or renovated spaces, though older restrooms still use regular toilets.
-대본[7]: So the next time you hear a bathroom hum, you’ll know it’s Seoul’s way of keeping things private.
-(한글 대본) 화장실에서 마친 뒤 노래가 나오는 걸 들어본 적 있나요? 서울 지하철역과 대형 쇼핑몰의 공공 화장실에는 이제 히터가 달린 좌석, 비데 분사, 그리고 소리 가림 시스템이 갖춰진 스마트 변기가 있습니다. 물을 내리면 짧고 부드러운 멜로디가 자동으로 재생돼 어색한 소리를 가려줍니다. 이 멜로디는 동작 센서에서 나오기 때문에 별도의 버튼을 누를 필요가 없습니다. 흥미로운 점은 멜로디가 시간대에 따라 바뀐다는 것으로, 아침엔 차분한 종소리, 밤엔 밝은 징글이 흐릅니다. 이러한 첨단 설비는 새로 짓거나 리모델링한 공간에 흔히 보이지만, 오래된 화장실은 여전히 일반 변기를 사용합니다. 그래서 다음에 화장실에서 울려 퍼지는 소리를 듣게 되면, 그것이 서울만의 사생활 보호 방식이라는 것을 알게 될 것입니다.
-
-=== [42] Black Day Jajangmyeon ===
-(사실 확인용 검색어) Korean Black Day jajangmyeon, April 14 Black Day Korea, Korean singles holiday
-(한글 제목) Korea: Singles black noodle Why the dark sauce? #Shorts
-후크: Why do some Koreans eat black noodles on a day called Black Day?
-본문: Two weeks after Valentine’s Day and White Day, South Korea observes Black Day on April 14th. Uncoupled friends and coworkers wear black clothing and meet at restaurants to share jajangmyeon, a noodle dish topped with dark soy‑bean sauce. The tradition started as a tongue‑in‑cheek response to the couple‑focused holidays, and many eateries offer special “Black Day” menus and discounts for groups in black attire.
-반전: Some cafés even serve a dessert called “black coffee mousse” to keep the color theme consistent throughout the meal.
-제외:
-제목1: Singles black noodle
-제목2: Why the dark sauce?
-핵심[1]: Why eat black *noodles*?
-핵심[2]: April 14: *Black Day*
-핵심[3]: Wear *black*, jajang
-핵심[5]: Black *coffee mousse* dessert
-이미지[1]: black noodles bowl
-이미지[2]: April 14 Korean calendar
-이미지[3]: people wearing black jajangmyeon
-이미지[4]: Korean black day menu
-이미지[5]: black coffee mousse dessert
-이미지[6]: young adults city gathering
-이미지[7]: jet black noodles
-대본[1]: Why do some Koreans eat black noodles on a day called Black Day?
-대본[2]: Two weeks after Valentine’s Day and White Day, South Korea marks Black Day on April 14th.
-대본[3]: Uncoupled friends and coworkers wear black clothing and head to restaurants for jajangmyeon, thick noodles topped with dark soy‑bean sauce.
-대본[4]: The tradition began as a tongue‑in‑cheek response to the couple‑focused holidays, and many eateries roll out special “Black Day” menus and discounts for groups dressed in black.
-대본[5]: At some cafés, the theme continues with a dessert called black coffee mousse, keeping everything ebony from start to finish.
-대본[6]: The celebration is most popular among younger adults in cities, and not every Korean observes it.
-대본[7]: So next time you see a bowl of jet‑black noodles, you’ll know the playful story behind it.
-(한글 대본) 왜 일부 한국인들은 블랙 데이라고 불리는 날에 검은 면을 먹을까요? 밸런타인데이와 화이트 데이로부터 2주 뒤인 4월 14일, 한국은 블랙 데이를 기념합니다. 연인 관계가 아닌 친구와 직장 동료들은 검은 옷을 입고 짜장면, 검은 콩 소스를 얹은 굵은 면을 먹으러 식당에 갑니다. 이 전통은 커플 중심 명절에 대한 장난스러운 반응으로 시작됐으며, 많은 식당에서 검은 복장을 한 그룹을 위한 특별 “블랙 데이” 메뉴와 할인을 제공하고 있습니다. 일부 카페에서는 블랙 커피 무스라는 디저트를 제공해 색감 테마를 시작부터 끝까지 검게 유지합니다. 이 축제는 주로 도시의 젊은 성인들 사이에서 인기가 많으며, 모든 한국인이 이를 지키는 것은 아닙니다. 다음에 검은 색 국수 한 그릇을 보게 된다면, 그 장난스러운 이야기를 알게 될 것입니다.
-
-=== [43] QR‑Only Street Food ===
-(사실 확인용 검색어) Korean street food QR payment, Seoul QR code vending, KakaoPay street vendors
-(한글 제목) Korea: Seoul street food QR Cashless tteokbokki #Shorts
-후크: You can buy tteokbokki from a stall without ever pulling out a wallet.
-본문: In bustling food streets such as Hongdae and Gwangjang Market, many vendors now display a small QR code on a stand beside their stall. Customers scan the code with KakaoPay or other Korean mobile payment apps, select the menu on their phone, and pay instantly. A tiny thermal printer then issues a receipt with a number, and the vendor hands over the order when the number is called. This contact‑free system speeds up service and reduces the need for change.
-반전: Some vendors also embed a short video of the dish’s preparation into the QR code, so diners can watch a quick clip while they wait.
-제외:
-제목1: Seoul street food QR
-제목2: Cashless tteokbokki
-핵심[1]: Tteokbokki *cashless*
-핵심[3]: Scan & *pay* instantly
-핵심[5]: Contact‑free *speed*
-핵심[6]: QR *sizzle* video
-핵심[8]: Phone is all you *need*
-이미지[1]: cashless tteokbokki stall
-이미지[2]: Seoul street food QR code
-이미지[3]: scan and pay instantly mobile
-이미지[4]: thermal receipt printer stall
-이미지[5]: contact-free speed street vendor
-이미지[6]: QR sizzle video cooking
-이미지[7]: tourist area QR street vendors
-이미지[8]: phone only street food
-대본[1]: You can buy tteokbokki from a stall without ever pulling out a wallet.
-대본[2]: In busy food streets like Hongdae and Gwangjang Market, many vendors now put a small QR code on a stand next to their cart.
-대본[3]: You scan it with KakaoPay or another Korean mobile payment app, pick the menu on your phone, and pay instantly.
-대본[4]: A tiny thermal printer spits out a receipt with a number, and the vendor calls that number when your dish is ready.
-대본[5]: The contact‑free system speeds up service and cuts out the need for change.
-대본[6]: Some stalls even embed a short video of the cooking process in the QR code, so you can watch the sizzle while you wait.
-대본[7]: The QR‑only setup is common in popular tourist and nightlife areas, but many smaller or older stalls still take cash.
-대본[8]: Next time you crave street food, remember your phone might be the only thing you need.
-(한글 대본) 지갑을 꺼내지 않아도 포장마차에서 떡볶이를 살 수 있습니다. 홍대·광장시장 등 분주한 먹거리 거리에서 많은 가게들이 이제 카트 옆에 작은 QR 코드를 놓고 있습니다. 카카오페이 등 다른 한국 모바일 결제 앱으로 코드를 스캔하고, 휴대폰으로 메뉴를 선택해 즉시 결제합니다. 작은 열전사 프린터가 번호가 적힌 영수증을 뿜어내고, 가게 주인이 그 번호를 호출하면 음식이 준비됩니다. 비접촉 시스템은 서비스 속도를 높이고 거스름돈 필요성을 없앱니다. 일부 포장마차는 QR 코드에 요리 과정을 담은 짧은 영상을 삽입해, 기다리는 동안 불꽃 튀는 모습을 볼 수 있게 합니다. QR 전용 결제는 인기 관광지와 야 nightlife 지역에서 흔하지만, 여전히 작은 규모이거나 오래된 가게는 현금을 받습니다. 다음에 길거리 음식을 먹고 싶을 때, 전화기만 있으면 된다는 점을 기억하세요.
+제목1: Gat‑Inspired Lamp
+제목2: Hat lights your room
+핵심[1]: Hat *lights* your room
+핵심[2]: Gat silhouette *lamp*
+핵심[3]: Soft *ambient* glow
+핵심[4]: Broad brim *echo*
+이미지[1]: hat lamp lighting room
+이미지[2]: Korean gat silhouette lamp
+이미지[3]: soft ambient lamp brim
+이미지[4]: design showcase lamp
+이미지[5]: glowing gat outline lamp
+이미지[6]: quiet glow lamp interior
+대본[1]: What if a Korean hat could light up your room?
+대본[2]: Designers took the iconic silhouette of the traditional gat—a tall, wide‑brimmed hat worn in the Joseon era—and turned it into a minimalist ambient lamp.
+대본[3]: The lamp keeps a clean, modern look while casting soft, diffused light.
+대본[4]: Its shape echoes the gat’s broad brim and open weave, so the heritage feels present without being a literal replica.
+대본[5]: Many viewers notice the subtle cultural reference, and the piece often appears in design showcases rather than mainstream stores.
+대본[6]: It’s a reinterpretation, using the hat’s outline to create a glowing silhouette, not a direct copy.
+대본[7]: Imagine that quiet glow framing your space.
+(한글 대본) 한국의 전통 갓이 방을 밝힌다면? 디자이너들은 조선 시대에 착용하던 높고 넓은 챙의 전통 갓 실루엣을 가져와 미니멀한 분위기 램프로 바꾸었습니다. 이 램프는 깔끔하고 현대적인 모습을 유지하면서 부드럽고 확산된 빛을 발합니다. 형태는 갓의 넓은 챙과 열린 직조를 연상시켜, 전통이 직접적인 복제 없이도 존재감을 느끼게 합니다. 많은 시청자들이 미묘한 문화적 참조를 눈여겨보며, 이 작품은 주류 매장보다는 디자인 전시회에 자주 등장합니다. 이는 갓의 윤곽선을 활용해 빛나는 실루엣을 만든 재해석이며, 직접적인 복제는 아닙니다. 그 조용한 빛이 당신의 공간을 감싸는 모습을 상상해 보세요.
