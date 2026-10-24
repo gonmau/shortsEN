@@ -3665,7 +3665,7 @@
     "verify_note": "Winter bingsu Seoul, bingsu in December, Korean street food winter shaved ice",
     "country": "Winter Shaved Ice",
     "created_at": "2026-10-13T23:28:03.975031+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Yes, you can eat ice cream in Seoul’s December chill—called bingsu. In busy spots like Myeongdong and Hongdae, street vendors set up insulated carts that serve shaved‑ice dessert year‑round. The ice is piled high, then drizzled with warm red bean paste, toasted rice cakes, and hot syrups, so the cold base meets comforting heat. Vendors hand it in small disposable bowls, ideal for strolling through a night market. The tradition began as a summer treat, but the hot toppings keep customers warm in winter. Some stalls even pour hot chocolate or ginger tea over the ice, turning the snack into an instant hand‑warmer. Winter bingsu appears mainly in these bustling districts, not in quieter neighborhoods.",
     "title_line1": "Seoul winter bingsu",
     "title_line2": "Heat on icy bingsu",
@@ -3759,7 +3759,10 @@
     "audio_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0039_Winter Shaved Ice_v2.mp3",
     "timing_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0039_Winter Shaved Ice_v2_timing.json",
     "tts_voice_v2": "en-US-AndrewNeural",
-    "status_tts_v2": "done"
+    "status_tts_v2": "done",
+    "srt_path": "C:\\Users\\seokg\\Downloads\\latest-en\\videos\\0039_Winter Shaved Ice.srt",
+    "video_path_v6": "C:\\Users\\seokg\\Downloads\\latest-en\\videos\\0039_Winter Shaved Ice.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Delivery Robots on Streets",
@@ -4188,7 +4191,7 @@
     "confidence": "low",
     "verify_note": "https://mastodon.social/@killbait/117149622062731973",
     "country": "Gat-Inspired Lamp",
-    "status": "scripted",
+    "status": "video_done",
     "created_at": "2026-10-20T12:40:00.435179+00:00",
     "theme": "keyword",
     "source_url": "https://mastodon.social/@killbait/117149622062731973",
@@ -4282,7 +4285,14 @@
     "ko_description": "🎯 한국의 전통 갓이 방을 밝힌다면?\n\n디자이너들은 한국 전통 갓 모자의 아이코닉한 실루엣을 현대적인 램프로 재탄생시켰습니다. 이 작품은 미니멀한 미학을 유지하면서 부드러운 분위기 조명을 제공합니다. 형태는 갓의 넓은 챙과 열린 직조를 떠올리게 하며, 전통과 현대 스타일을 융합합니다. 많은 시청자들이 이 램프가 직접적인 복제는 아니지만 문화적 디자인을 은근히 참조한다는 점을 눈여겨봅니다.\n\n💡 이 램프는 갓의 독특한 형태를 활용해 빛나는 실루엣을 만들었을 뿐, 갓 자체를 복제한 것이 아니라 재해석한 작품입니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\nPhotos: Pixabay (pixabay.com)\n\n#GatInspiredLamp #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "한국의 전통 갓이 방을 밝힌다면? 디자이너들은 조선 시대에 착용하던 높고 넓은 챙의 전통 갓 실루엣을 가져와 미니멀한 분위기 램프로 바꾸었습니다. 이 램프는 깔끔하고 현대적인 모습을 유지하면서 부드럽고 확산된 빛을 발합니다. 형태는 갓의 넓은 챙과 열린 직조를 연상시켜, 전통이 직접적인 복제 없이도 존재감을 느끼게 합니다. 많은 시청자들이 미묘한 문화적 참조를 눈여겨보며, 이 작품은 주류 매장보다는 디자인 전시회에 자주 등장합니다. 이는 갓의 윤곽선을 활용해 빛나는 실루엣을 만든 재해석이며, 직접적인 복제는 아닙니다. 그 조용한 빛이 당신의 공간을 감싸는 모습을 상상해 보세요.",
     "ko_issues": null,
-    "ko_src": "8965633e3d66"
+    "ko_src": "8965633e3d66",
+    "audio_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0046_Gat-Inspired Lamp_v2.mp3",
+    "timing_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0046_Gat-Inspired Lamp_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "srt_path": "C:\\Users\\seokg\\Downloads\\latest-en\\videos\\0046_Gat-Inspired Lamp.srt",
+    "video_path_v6": "C:\\Users\\seokg\\Downloads\\latest-en\\videos\\0046_Gat-Inspired Lamp.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "First Snow Soup Picnic",
@@ -4879,7 +4889,7 @@
     "verify_note": "Korean greeting 밥 먹었어요? cultural etiquette",
     "country": "Did You Eat? Greeting",
     "created_at": "2026-10-21T08:21:13.904881+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Ever been asked “Did you eat?” right after saying hello? In Korea, that simple question—bap meogeosseoyo?—is a common greeting. You’ll hear it on the subway, in a coffee shop, or at a street‑food stall. It’s less about the meal and more about checking on someone’s wellbeing, much like “How are you?” Even if the person just finished a bite, the phrase turns a quick hello into a warm check‑in. Sometimes it doubles as a subtle invitation to share a snack nearby. The habit is most common among friends, family, and older generations, while younger folks in formal settings may choose other expressions. So the next time someone asks, you might just be getting a friendly hello—plus a possible snack offer.",
     "title_line1": "He asks Did you eat",
     "title_line2": "Just a friendly hi",
@@ -4906,7 +4916,168 @@
       "Older friends chatting",
       "Friendly Korean hello"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "image_queries_done": [
+      "Did you eat greeting",
+      "Hello in Korea",
+      "Korean subway interior",
+      "Check-in greeting",
+      "Sharing snack together",
+      "Older friends chatting",
+      "Friendly Korean hello"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "Ri_Ya",
+        "page": "https://pixabay.com/photos/thank-you-thank-you-card-greeting-6727181/",
+        "id": 6727181,
+        "type": "photo"
+      },
+      {
+        "scene": 2,
+        "source": "commons",
+        "user": "와사비콘텐츠",
+        "license": "CC BY 2.0 kr",
+        "title": "헬로비너스 (HELLOVENUS) 생명사랑을 위한 희망 콘서트.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:%ED%97%AC%EB%A1%9C%EB%B9%84%EB%84%88%EC%8A%A4_(HELLOVENUS)_%EC%83%9D%EB%AA%85%EC%82%AC%EB%9E%91%EC%9D%84_%EC%9C%84%ED%95%9C_%ED%9D%AC%EB%A7%9D_%EC%BD%98%EC%84%9C%ED%8A%B8.jpg",
+        "id": "c:31137882"
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "igorovsyannykov",
+        "page": "https://pixabay.com/photos/subway-metro-train-interior-empty-2893851/",
+        "id": 2893851
+      },
+      {
+        "scene": 4,
+        "source": "commons",
+        "user": "OregonDOT",
+        "license": "CC BY 2.0",
+        "title": "Greeting a customer at the check-in window.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Greeting_a_customer_at_the_check-in_window.jpg",
+        "id": "c:104364859"
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "aamiraimer",
+        "page": "https://pixabay.com/photos/kids-sharing-love-together-2612541/",
+        "id": 2612541
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "zhuwei06191973",
+        "page": "https://pixabay.com/photos/men-friends-chatting-afternoon-8364267/",
+        "id": 8364267
+      },
+      {
+        "scene": 7,
+        "source": "pixabay",
+        "user": "viarami",
+        "page": "https://pixabay.com/photos/business-bar-restaurant-shield-5475283/",
+        "id": 5475283,
+        "type": "photo"
+      }
+    ],
+    "image_source": "pixabay",
+    "image_check": [
+      {
+        "verdict": "bad",
+        "clip": 0.2168,
+        "ollama": null,
+        "seen": "",
+        "tools": "clip",
+        "sig": "c1828e3a1c38",
+        "at": "2026-10-24 16:47",
+        "scene": 1,
+        "rejected_ids": [
+          5423346,
+          6727181,
+          673300
+        ]
+      },
+      {
+        "verdict": "ok",
+        "clip": 0.2743,
+        "ollama": null,
+        "seen": "",
+        "tools": "clip",
+        "sig": "b35481c5c05e",
+        "at": "2026-10-24 16:47",
+        "scene": 2,
+        "rejected_ids": []
+      },
+      {
+        "verdict": "ok",
+        "clip": 0.2789,
+        "ollama": null,
+        "seen": "",
+        "tools": "clip",
+        "sig": "7da48e34f0b9",
+        "at": "2026-10-24 16:47",
+        "scene": 3,
+        "rejected_ids": []
+      },
+      {
+        "verdict": "ok",
+        "clip": 0.2503,
+        "ollama": null,
+        "seen": "",
+        "tools": "clip",
+        "sig": "b8dba01d0a79",
+        "at": "2026-10-24 16:47",
+        "scene": 4,
+        "rejected_ids": []
+      },
+      {
+        "verdict": "ok",
+        "clip": 0.2494,
+        "ollama": null,
+        "seen": "",
+        "tools": "clip",
+        "sig": "3d767ec5ce21",
+        "at": "2026-10-24 16:47",
+        "scene": 5,
+        "rejected_ids": []
+      },
+      {
+        "verdict": "ok",
+        "clip": 0.2883,
+        "ollama": null,
+        "seen": "",
+        "tools": "clip",
+        "sig": "578e112d3a26",
+        "at": "2026-10-24 16:47",
+        "scene": 6,
+        "rejected_ids": []
+      },
+      {
+        "verdict": "ok",
+        "clip": 0.2672,
+        "ollama": null,
+        "seen": "",
+        "tools": "clip",
+        "sig": "6aa935e76443",
+        "at": "2026-10-24 16:48",
+        "scene": 7,
+        "rejected_ids": [
+          4815892,
+          5100216,
+          5475283
+        ]
+      }
+    ],
+    "audio_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0082_Did You Eat_ Greeting_v2.mp3",
+    "timing_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0082_Did You Eat_ Greeting_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "srt_path": "C:\\Users\\seokg\\Downloads\\latest-en\\videos\\0082_Did You Eat_ Greeting.srt",
+    "video_path_v6": "C:\\Users\\seokg\\Downloads\\latest-en\\videos\\0082_Did You Eat_ Greeting.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Reusable Cup Lockers",
@@ -4950,7 +5121,11 @@
       "Eco fee donation",
       "Boutique cafe lockers"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "audio_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0083_Reusable Cup Lockers_v2.mp3",
+    "timing_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0083_Reusable Cup Lockers_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done"
   },
   {
     "label": "Morning Milk Bike Delivery",
@@ -5221,7 +5396,35 @@
     "verify_note": "Korean study cafe phone pouch, phone bag silent study Korea, library phone bag etiquette",
     "country": "Phone Pouch Silence",
     "created_at": "2026-10-24T03:52:42.127903+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Ever seen a phone disappear into a clear bag before studying? In study cafés and university libraries, you put your smartphone in a pouch on the table. It stays muted, reminding everyone to stay quiet. Some cafés lock the pouch with a padlock that opens when you leave.",
+    "title_line1": "Café phones silent",
+    "title_line2": "Bag hides your phone",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Phone in *clear* bag"
+      },
+      {
+        "s": 2,
+        "text": "Place phone in *pouch*"
+      },
+      {
+        "s": 3,
+        "text": "Keeps it *muted*"
+      },
+      {
+        "s": 4,
+        "text": "Locked *pouch*"
+      }
+    ],
+    "image_queries": [
+      "phone in clear bag",
+      "phone placed in pouch",
+      "silent phone pouch",
+      "locked phone pouch"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Bike‑Rental Helmet Kiosk",
@@ -5234,7 +5437,30 @@
     "verify_note": "Seoul bike share helmet vending, Seoul bike rental helmet kiosk, public bike helmet dispenser",
     "country": "Bike‑Rental Helmet Kiosk",
     "created_at": "2026-10-24T03:52:49.280201+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Did you know you can rent a bike and get helmet from a vending machine in Seoul? Districts pair bike stations with kiosks that release helmet when you scan the QR code. You return it to kiosk, and sanitize it with light, though not all stations have this.",
+    "title_line1": "Seoul bike‑share",
+    "title_line2": "Helmets from a kiosk",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Rent a bike & *helmet*"
+      },
+      {
+        "s": 2,
+        "text": "Scan QR for *helmet*"
+      },
+      {
+        "s": 3,
+        "text": "*Sanitize* with light"
+      }
+    ],
+    "image_queries": [
+      "Seoul bike and helmet rental",
+      "Seoul bike helmet QR scan",
+      "helmet UV sanitizing"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Women‑Only Subway Cars",
@@ -5247,7 +5473,30 @@
     "verify_note": "Seoul women only subway car policy, Seoul Metro women only cars, women-only train cars South Korea",
     "country": "Women‑Only Subway Cars",
     "created_at": "2026-10-24T03:52:49.280201+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Ever seen a subway car reserved just for women in Seoul? During morning and evening rush hour, one car on lines like Line 2 and Line 4 displays a pink sign and announcement, keeping it women‑only. Staff enforce it, and on holidays they sometimes hand out a free sanitizer packet.",
+    "title_line1": "Women‑Only subway",
+    "title_line2": "Rush‑hour pink car?",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*Women*‑only subway car"
+      },
+      {
+        "s": 2,
+        "text": "*Pink* sign, rush‑hour only"
+      },
+      {
+        "s": 3,
+        "text": "*Free* sanitizer"
+      }
+    ],
+    "image_queries": [
+      "Seoul women-only subway car",
+      "Seoul subway pink sign",
+      "Seoul subway sanitizer packet"
+    ],
+    "scene_count": 10
   },
   {
     "label": "QR Code Street Food",
