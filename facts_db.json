@@ -5718,7 +5718,7 @@
       "Seoul subway quiet car",
       "9호선",
       "subway silent sign",
-      "Seoul subway study car",
+      "지하철",
       "subway focused work zone",
       "subway announcement speaker",
       "quiet subway car crowded",
@@ -5742,7 +5742,7 @@
       "Seoul subway quiet car",
       "9호선",
       "subway silent sign",
-      "Seoul subway study car",
+      "지하철",
       "subway focused work zone",
       "subway announcement speaker",
       "quiet subway car crowded",
@@ -5775,11 +5775,12 @@
       },
       {
         "scene": 4,
-        "source": "pixabay",
-        "user": "스마트랜스",
-        "page": "https://pixabay.com/photos/train-railroad-transportation-5952026/",
-        "id": 5952026,
-        "type": "photo"
+        "source": "commons",
+        "user": "Phornlert.gp",
+        "license": "CC BY 4.0",
+        "title": "MRT Blue Line.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:MRT_Blue_Line.jpg",
+        "id": "c:157086912"
       },
       {
         "scene": 5,
@@ -5861,17 +5862,22 @@
         ]
       },
       {
-        "verdict": "ok",
-        "clip": 0.3271,
+        "verdict": "bad",
+        "clip": 0.2189,
         "ollama": null,
         "seen": "",
         "tools": "clip",
-        "sig": "b66037b71a56",
-        "at": "2026-10-25 21:46",
+        "sig": "a04166de9f24",
+        "at": "2026-10-25 21:51",
         "scene": 4,
         "rejected_ids": [
+          1845046,
+          4427609,
           5952026,
-          7744938
+          7744938,
+          "c:156103723",
+          "c:157086912",
+          "c:2963464"
         ]
       },
       {
