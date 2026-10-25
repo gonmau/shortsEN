@@ -6019,7 +6019,39 @@
     "verify_note": "Korea zero waste bulk aisles, Korean supermarkets reusable containers, Emart zero waste",
     "country": "Zero‑Waste Bulk Aisles",
     "created_at": "2026-10-24T03:53:38.915461+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "In Korea, you can shop the bulk aisle without buying a single plastic bag. Major chains like Emart, Homeplus, and Lotte Mart have set up “zero‑waste” sections where you bring a reusable jar or bag and fill it with rice, beans, tea, nuts, or spices. Staff weigh your container before and after filling, then charge you for the exact amount. This system grew from a government‑backed campaign in the 2010s to cut plastic waste, and younger shoppers in city neighborhoods often choose it for both environmental and cost reasons. The process works much like European bulk shopping, but Korean stores add precise weighing and clear labeling. Some locations even give a small discount if you use your own container, encouraging repeat visits. These aisles are common in large supermarkets and a few convenience stores in major cities, though smaller neighborhood shops usually don’t offer them. Next time you visit, bring a jar and see how easy zero‑waste shopping can be.",
+    "title_line1": "Korea zero waste",
+    "title_line2": "No plastic bags needed",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*Plastic*-free bulk"
+      },
+      {
+        "s": 2,
+        "text": "Bring your own *jar*"
+      },
+      {
+        "s": 3,
+        "text": "Exact *weight* price"
+      },
+      {
+        "s": 6,
+        "text": "*Discount* for reuse"
+      }
+    ],
+    "image_queries": [
+      "plastic-free bulk aisle Korea",
+      "bring your own jar bulk",
+      "exact weight price scale",
+      "Korean supermarket zero waste section",
+      "European style bulk shelves Korea",
+      "discount for reuse container",
+      "large Korean supermarket bulk aisle",
+      "jar shopping zero waste Korea"
+    ],
+    "scene_count": 14
   },
   {
     "label": "Automated Bike Parking",
