@@ -1,5 +1,137 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-25 10:55:45 (KST) · 기록 0건 · 소재 106개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-25 11:10:10 (KST) · 기록 73건 · 소재 106개 (소재별 상태는 history_items.csv)
+
+## 종류별 요약
+
+| 종류 | 성공 | 실패 | 누적 시간 |
+|---|---|---|---|
+| .github/workflows/te | 0 | 4 | 0초 |
+| DB커밋 | 36 | 0 | 0초 |
+| 롱폼 | 1 | 0 | 1분 1초 |
+| 쇼츠 | 29 | 3 | 4시간 14분 |
 
 ## 날짜별 작업 (최근 30일)
+
+### 2026-10-24
+
+| 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
+|---|---|---|---|---|---|---|
+| 17:14 | PC(과거) | DB커밋 | longform_db.json: update longform_db.json from local UI | ✅ |  | https://github.com/gonmau/shortsEN/commit/072212f609e6e86fd91d0e9ad046e9c179ce1adc |
+| 17:14 | PC(과거) | DB커밋 | facts_db.json: chore: sync facts_db.json from PC [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/fc7bd04128cdd2112058566504c2aa996bee7c52 |
+| 13:04 | PC(과거) | DB커밋 | facts_db.json: chore: sync facts_db.json from PC [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/89fe555a3847a48d2473fda5d81fa9fa49b97a4a |
+| 12:55 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/4f7baeb616ec610f7557f686dd545049cb100b81 |
+| 12:23 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #32 (workflow_dispatch) | ✅ | 32분 8초 | https://github.com/gonmau/shortsEN/actions/runs/40058092732 |
+| 12:22 | PC(과거) | DB커밋 | facts_db.json: chore: sync facts_db.json from PC [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/220cface98247c4837167f02f2e4353b8735ead3 |
+
+### 2026-10-23
+
+| 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
+|---|---|---|---|---|---|---|
+| 14:58 | PC(과거) | DB커밋 | facts_db.json: chore: sync facts_db.json from PC [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/c6592a5d03920008117569eedb880010ea6ec4b3 |
+
+### 2026-10-22
+
+| 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
+|---|---|---|---|---|---|---|
+| 20:34 | PC(과거) | DB커밋 | facts_db.json: web: 1개 소재 → rejected [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/4b4af1a69a1c4f8ff3040e5c38bdbbeda54c3156 |
+| 20:34 | PC(과거) | DB커밋 | facts_db.json: web: 5개 소재 → rejected [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/1505a1d2ca33b934a8c3a52a93e76b88fd451c44 |
+
+### 2026-10-21
+
+| 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
+|---|---|---|---|---|---|---|
+| 17:59 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/5efdf3568fec71590a0bf9595b4a09881dc0ab0d |
+| 17:56 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #31 (workflow_dispatch) | ✅ | 3분 5초 | https://github.com/gonmau/shortsEN/actions/runs/39573094595 |
+| 17:55 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/037f806761ea87ec5c0239df0dcfa45bcc17ebac |
+| 17:51 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #30 (workflow_dispatch) | ✅ | 3분 52초 | https://github.com/gonmau/shortsEN/actions/runs/39572465579 |
+| 17:48 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/252fbca196696bf45ecfe7a8327fbfc976610a15 |
+| 17:47 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #29 (workflow_dispatch) | ✅ | 2분 9초 | https://github.com/gonmau/shortsEN/actions/runs/39571883224 |
+| 17:38 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/adb15efb85ab89d822330efd79aeea415c489b82 |
+| 17:20 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #28 (workflow_dispatch) | ✅ | 17분 54초 | https://github.com/gonmau/shortsEN/actions/runs/39568505098 |
+| 16:29 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/55cccd229ec306c49d77614bbf6dc602afbec6fd |
+| 16:08 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #27 (workflow_dispatch) | ✅ | 20분 46초 | https://github.com/gonmau/shortsEN/actions/runs/39559960729 |
+| 16:07 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #26 (workflow_dispatch) | ✅ | 58초 | https://github.com/gonmau/shortsEN/actions/runs/39559820276 |
+| 15:29 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/f9a28faf0c65b2294de1e1447d51144eb5eed341 |
+| 15:19 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #25 (workflow_dispatch) | ✅ | 9분 42초 | https://github.com/gonmau/shortsEN/actions/runs/39554714783 |
+| 15:00 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/6acebc19a01a270ec2f48a14726e025ab1d205f9 |
+| 14:44 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #24 (workflow_dispatch) | ✅ | 16분 32초 | https://github.com/gonmau/shortsEN/actions/runs/39551231659 |
+| 14:42 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/8b53db5c26f7f32525910ce5c85bf073ce4ecaa4 |
+| 14:36 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #23 (workflow_dispatch) | ✅ | 6분 45초 | https://github.com/gonmau/shortsEN/actions/runs/39550494705 |
+
+### 2026-10-16
+
+| 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
+|---|---|---|---|---|---|---|
+| 10:26 | Actions(과거) | 롱폼 | korea-longform #1 (workflow_dispatch) | ✅ | 1분 1초 | https://github.com/gonmau/shortsEN/actions/runs/38835132835 |
+
+### 2026-10-15
+
+| 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
+|---|---|---|---|---|---|---|
+| 17:27 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #22 (workflow_dispatch) | ❌ failure | 1분 54초 | https://github.com/gonmau/shortsEN/actions/runs/38705775315 |
+| 17:23 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #21 (workflow_dispatch) | ❌ failure | 1분 31초 | https://github.com/gonmau/shortsEN/actions/runs/38705340343 |
+| 17:19 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #20 (workflow_dispatch) | ❌ failure | 2분 3초 | https://github.com/gonmau/shortsEN/actions/runs/38704873921 |
+
+### 2026-10-14
+
+| 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
+|---|---|---|---|---|---|---|
+| 21:29 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/411ebbbd451a2bccf7b0b2985702ea3ea3d0c8ae |
+| 21:16 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #19 (workflow_dispatch) | ✅ | 13분 20초 | https://github.com/gonmau/shortsEN/actions/runs/38562622719 |
+| 08:40 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/c1eebac75d4e347dc1fc98b1cf310f83de997ac7 |
+| 08:26 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #18 (workflow_dispatch) | ✅ | 13분 43초 | https://github.com/gonmau/shortsEN/actions/runs/38484279410 |
+
+### 2026-10-13
+
+| 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
+|---|---|---|---|---|---|---|
+| 15:23 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/3dbf6dd4878449a32b1966e33011713451953d40 |
+| 15:10 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #17 (workflow_dispatch) | ✅ | 13분 44초 | https://github.com/gonmau/shortsEN/actions/runs/38355223076 |
+| 13:41 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/51368962bb0e1f7f92a752f2562e865f1f9320b5 |
+| 13:38 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #16 (workflow_dispatch) | ✅ | 2분 45초 | https://github.com/gonmau/shortsEN/actions/runs/38347443669 |
+| 13:30 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #15 (workflow_dispatch) | ✅ | 58초 | https://github.com/gonmau/shortsEN/actions/runs/38346810697 |
+| 11:14 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/ec04dfae4d77649141a727033707a16071f1be66 |
+| 11:09 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #14 (workflow_dispatch) | ✅ | 5분 17초 | https://github.com/gonmau/shortsEN/actions/runs/38335512512 |
+| 11:07 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/bac4b68b1a0354ddc2c19808cb4082dfba16c880 |
+| 11:03 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #13 (workflow_dispatch) | ✅ | 3분 41초 | https://github.com/gonmau/shortsEN/actions/runs/38335079824 |
+| 11:03 | PC(과거) | DB커밋 | facts_db.json: Update facts_db.json | ✅ |  | https://github.com/gonmau/shortsEN/commit/69813fd56c5e0e31ab78f98e555a945988915552 |
+| 10:37 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/4d0163d482f841f7c352fc98e6bfb49fa64218d5 |
+| 10:36 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #12 (workflow_dispatch) | ✅ | 1분 1초 | https://github.com/gonmau/shortsEN/actions/runs/38332952428 |
+| 10:31 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/265d50e6b9e68f2765783cbbcd66a73ed55ac587 |
+| 10:26 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #11 (workflow_dispatch) | ✅ | 4분 55초 | https://github.com/gonmau/shortsEN/actions/runs/38332122305 |
+| 10:17 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/3e0ace220765fd775a1fe92f238be07a068ccad9 |
+| 10:16 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #10 (workflow_dispatch) | ✅ | 1분 10초 | https://github.com/gonmau/shortsEN/actions/runs/38331325433 |
+
+### 2026-10-12
+
+| 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
+|---|---|---|---|---|---|---|
+| 22:41 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/57de6b4ece3ea9526e691ab8841dd3eafe63995f |
+| 22:35 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #9 (workflow_dispatch) | ✅ | 6분 5초 | https://github.com/gonmau/shortsEN/actions/runs/38256750240 |
+| 22:15 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/de4e829515fe45b0f96baf394030a4600fb4e59b |
+| 22:06 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #8 (workflow_dispatch) | ✅ | 9분 4초 | https://github.com/gonmau/shortsEN/actions/runs/38253426401 |
+| 19:20 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/8cfa8ec8d34dba1729920dc3cc0119f5cfedff47 |
+| 19:09 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #7 (workflow_dispatch) | ✅ | 11분 18초 | https://github.com/gonmau/shortsEN/actions/runs/38234497253 |
+| 18:54 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/cef24c30ca2efbd255ee7d216377c8ad02efb35b |
+| 18:48 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #6 (workflow_dispatch) | ✅ | 6분 14초 | https://github.com/gonmau/shortsEN/actions/runs/38232305534 |
+| 07:55 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/c01dad2386220eb17afa2d1c56a1194d128f6a6a |
+| 07:45 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #5 (workflow_dispatch) | ✅ | 10분 12초 | https://github.com/gonmau/shortsEN/actions/runs/38181700514 |
+
+### 2026-10-11
+
+| 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
+|---|---|---|---|---|---|---|
+| 23:50 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/0cc36eecdb17e33f4ae95c92a885e5a7888a2828 |
+| 23:31 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #4 (workflow_dispatch) | ✅ | 19분 43초 | https://github.com/gonmau/shortsEN/actions/runs/38147530158 |
+| 23:06 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/b79fe7f1ce6f4e00318ff92ef6292e6c88c872ea |
+| 22:58 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #3 (workflow_dispatch) | ✅ | 8분 31초 | https://github.com/gonmau/shortsEN/actions/runs/38145297662 |
+| 22:57 | Actions(과거) | .github/workflows/te | .github/workflows/test.yml #4 (push) | ❌ failure | 0초 | https://github.com/gonmau/shortsEN/actions/runs/38145235968 |
+| 22:53 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/29d7b37d1f9598ec5ec572735a503bb91d7d5d90 |
+| 22:51 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #2 (workflow_dispatch) | ✅ | 1분 59초 | https://github.com/gonmau/shortsEN/actions/runs/38144854801 |
+| 22:47 | Actions(과거) | DB커밋 | facts_db.json: chore: update facts_db.json [skip ci] | ✅ |  | https://github.com/gonmau/shortsEN/commit/d115895218f450cccefedb4b4daac1de4d2de83a |
+| 22:45 | Actions(과거) | 쇼츠 | korea-shorts-pipeline #1 (workflow_dispatch) | ✅ | 1분 24초 | https://github.com/gonmau/shortsEN/actions/runs/38144465852 |
+| 22:40 | Actions(과거) | .github/workflows/te | .github/workflows/test.yml #3 (push) | ❌ failure | 0초 | https://github.com/gonmau/shortsEN/actions/runs/38144082864 |
+| 22:28 | Actions(과거) | .github/workflows/te | .github/workflows/test.yml #2 (push) | ❌ failure | 0초 | https://github.com/gonmau/shortsEN/actions/runs/38143335035 |
+| 22:28 | Actions(과거) | .github/workflows/te | .github/workflows/test.yml #1 (push) | ❌ failure | 0초 | https://github.com/gonmau/shortsEN/actions/runs/38143317190 |
+| 22:27 | PC(과거) | DB커밋 | facts_db.json: Add files via upload | ✅ |  | https://github.com/gonmau/shortsEN/commit/c7915410e6b08e101fce1da6c5f917f0b12037bf |
