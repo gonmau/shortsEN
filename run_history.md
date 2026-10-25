@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-25 22:35:46 (KST) · 기록 117건 · 소재 118개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-25 22:38:20 (KST) · 기록 118건 · 소재 118개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -12,7 +12,7 @@
 | apply_review | 5 | 0 | 0초 |
 | approve | 1 | 0 | 0초 |
 | build_video | 1 | 0 | 6분 43초 |
-| edit_points | 0 | 4 | 1분 39초 |
+| edit_points | 0 | 5 | 1분 59초 |
 | export_review | 1 | 0 | 0초 |
 | fetch_images | 2 | 0 | 1분 8초 |
 | generate_script | 4 | 0 | 1분 28초 |
@@ -30,6 +30,7 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 22:38 | PC | edit_points | edit_points.py parse --index 98 --text 총 14장의 이미지를 대본의 해당 음성 구간에 맞춰 사용하세요. 첫 문장에서는 서울 지하철 객차 내부를 보여주세요. “Line 9”에서는 9호선 열차와 노선도를 순서대로 보여주세요. “quiet ca | ❌ failed | 20초 | 해석 실패: Expecting value: line 1 column 1 (char 0) |
 | 22:35 | PC | edit_points | edit_points.py parse --index 98 --text 1. 첫 문장 “Ever seen a whole subway car whispering in Seoul?”에서는 서울 지하철 내부의 차분한 분위기를 보여준다.
 2. “On lines such as L | ❌ failed | 21초 | 해석 실패: Expecting value: line 1 column 1 (char 0) |
 | 22:30 | PC | edit_points | edit_points.py parse --index 98 --text 총 14장의 이미지를 사용해 대본의 해당 음성 구간에 맞춰 편집한다. 이미지는 한 번에 한 장씩 표시하고, 두 장을 동시에 보여주거나 두 장만 반복해서 번갈아 표시하지 않는다. 여러 이미지가 필요한  | ❌ failed | 21초 | 해석 실패: Expecting ',' delimiter: line 41 column 49 (char 1146) |
