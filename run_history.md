@@ -1,12 +1,12 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-25 22:39:55 (KST) · 기록 119건 · 소재 118개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-25 22:48:00 (KST) · 기록 120건 · 소재 118개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
 | 종류 | 성공 | 실패 | 누적 시간 |
 |---|---|---|---|
-| -c | 10 | 0 | 3분 45초 |
+| -c | 11 | 0 | 3분 46초 |
 | .github/workflows/te | 0 | 4 | 0초 |
 | DB커밋 | 36 | 0 | 0초 |
 | apply_review | 5 | 0 | 0초 |
@@ -30,6 +30,7 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 22:47 | PC | -c | -c import os,requests;import fetch_images as F;from common import load_db,save_db;db=load_db();F.fetch_item(requests.Session(),os.environ['PIXABAY_API | ✅ | 0초 |  |
 | 22:39 | PC | edit_points | edit_points.py parse --index 98 --text 총 14장의 이미지를 대본의 해당 음성 구간에 맞춰 사용하세요. 첫 문장에서는 서울 지하철 객차 내부를 보여주세요. “Line 9”에서는 9호선 열차와 노선도를 순서대로 보여주세요. “quiet ca | ❌ failed | 21초 | 해석 실패: Expecting value: line 1 column 1 (char 0) |
 | 22:38 | PC | edit_points | edit_points.py parse --index 98 --text 총 14장의 이미지를 대본의 해당 음성 구간에 맞춰 사용하세요. 첫 문장에서는 서울 지하철 객차 내부를 보여주세요. “Line 9”에서는 9호선 열차와 노선도를 순서대로 보여주세요. “quiet ca | ❌ failed | 20초 | 해석 실패: Expecting value: line 1 column 1 (char 0) |
 | 22:35 | PC | edit_points | edit_points.py parse --index 98 --text 1. 첫 문장 “Ever seen a whole subway car whispering in Seoul?”에서는 서울 지하철 내부의 차분한 분위기를 보여준다.
