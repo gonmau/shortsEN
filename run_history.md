@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-25 22:48:00 (KST) · 기록 120건 · 소재 118개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-25 22:52:42 (KST) · 기록 122건 · 소재 118개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -14,8 +14,8 @@
 | build_video | 1 | 0 | 6분 43초 |
 | edit_points | 0 | 6 | 2분 21초 |
 | export_review | 1 | 0 | 0초 |
-| fetch_images | 2 | 0 | 1분 8초 |
-| generate_script | 4 | 0 | 1분 28초 |
+| fetch_images | 3 | 0 | 2분 17초 |
+| generate_script | 5 | 0 | 1분 32초 |
 | generate_tts | 2 | 0 | 21초 |
 | make_thumbnail | 1 | 0 | 0초 |
 | promote_ready | 5 | 0 | 0초 |
@@ -30,6 +30,8 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 22:52 | PC | fetch_images | fetch_images.py --index 98 --force | ✅ | 1분 9초 |  |
+| 22:51 | PC | generate_script | generate_script.py --extras-only --index 98 --regen-queries | ✅ | 3초 |  |
 | 22:47 | PC | -c | -c import os,requests;import fetch_images as F;from common import load_db,save_db;db=load_db();F.fetch_item(requests.Session(),os.environ['PIXABAY_API | ✅ | 0초 |  |
 | 22:39 | PC | edit_points | edit_points.py parse --index 98 --text 총 14장의 이미지를 대본의 해당 음성 구간에 맞춰 사용하세요. 첫 문장에서는 서울 지하철 객차 내부를 보여주세요. “Line 9”에서는 9호선 열차와 노선도를 순서대로 보여주세요. “quiet ca | ❌ failed | 21초 | 해석 실패: Expecting value: line 1 column 1 (char 0) |
 | 22:38 | PC | edit_points | edit_points.py parse --index 98 --text 총 14장의 이미지를 대본의 해당 음성 구간에 맞춰 사용하세요. 첫 문장에서는 서울 지하철 객차 내부를 보여주세요. “Line 9”에서는 9호선 열차와 노선도를 순서대로 보여주세요. “quiet ca | ❌ failed | 20초 | 해석 실패: Expecting value: line 1 column 1 (char 0) |
