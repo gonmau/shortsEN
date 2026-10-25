@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-25 21:53:54 (KST) · 기록 97건 · 소재 118개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-25 21:54:46 (KST) · 기록 101건 · 소재 118개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -9,13 +9,14 @@
 | -c | 10 | 0 | 3분 45초 |
 | .github/workflows/te | 0 | 4 | 0초 |
 | DB커밋 | 36 | 0 | 0초 |
-| apply_review | 2 | 0 | 0초 |
+| apply_review | 3 | 0 | 0초 |
 | approve | 1 | 0 | 0초 |
 | export_review | 1 | 0 | 0초 |
 | fetch_images | 1 | 0 | 1분 8초 |
 | generate_script | 2 | 0 | 1분 24초 |
-| promote_ready | 2 | 0 | 0초 |
-| redo_videos | 2 | 0 | 0초 |
+| generate_tts | 1 | 0 | 19초 |
+| promote_ready | 3 | 0 | 0초 |
+| redo_videos | 3 | 0 | 0초 |
 | 롱폼 | 1 | 0 | 1분 1초 |
 | 쇼츠 | 30 | 3 | 4시간 14분 |
 | 코드업데이트 | 2 | 0 | 0초 |
@@ -26,6 +27,10 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 21:54 | PC | generate_tts | generate_tts.py --index 98 | ✅ | 19초 |  |
+| 21:54 | PC | promote_ready | promote_ready.py --start 98 | ✅ | 0초 |  |
+| 21:54 | PC | apply_review | apply_review.py | ✅ | 0초 |  |
+| 21:54 | PC | redo_videos | redo_videos.py --script --indexes 98! | ✅ | 0초 |  |
 | 21:53 | PC | -c | -c import os,requests;import fetch_images as F;from common import load_db,save_db;db=load_db();F.fetch_item(requests.Session(),os.environ['PIXABAY_API | ✅ | 26초 |  |
 | 21:53 | PC | -c | -c import os,requests;import fetch_images as F;from common import load_db,save_db;db=load_db();F.fetch_item(requests.Session(),os.environ['PIXABAY_API | ✅ | 22초 |  |
 | 21:52 | PC | -c | -c import os,requests;import fetch_images as F;from common import load_db,save_db;db=load_db();F.fetch_item(requests.Session(),os.environ['PIXABAY_API | ✅ | 26초 |  |
