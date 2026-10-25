@@ -5685,33 +5685,33 @@
     "label": "Seoul Subway Quiet Car",
     "topic": "Designated silent cars for commuters who want to study or rest",
     "hook": "Ever seen a whole subway car whispering in Seoul?",
-    "body": "On lines such as Line 9 and a few others, one carriage is marked as a “quiet car” with signs that ask passengers to keep phones on silent and refrain from loud conversations. During the morning and evening rush, students pull out laptops, office workers spread notebooks, and commuters read e‑books, turning the car into a moving study hall. The policy was introduced to give densely packed riders a space for focused work and to reduce overall cabin noise. Announcements remind riders that the quiet car is not for phone calls or music playback.",
-    "twist": "During peak hours, the quiet car often fills up faster than the regular cars because many commuters reserve a seat for work or rest.",
+    "body": "On lines such as Line 9 and a few others, one carriage is marked as a “quiet car” with signs that ask passengers to keep phones on silent and refrain from loud conversations. During the morning and evening rush, some passengers may open laptops, carry notebooks, or read e‑books, creating a study‑like environment. The policy was introduced to give densely packed riders a space for focused work and to reduce overall cabin noise. Announcements remind riders that the quiet car is not for phone calls or music playback.",
+    "twist": "During peak hours, the quiet car can become crowded, and some commuters may seek a seat for work or rest.",
     "caveat": "Quiet cars are available only on certain subway lines and primarily during weekday peak periods; not all trains or stations have them.",
     "confidence": "high",
     "verify_note": "Seoul subway quiet car, Line 9 silent car, Korean subway quiet car policy",
     "country": "Seoul Subway Quiet Car",
     "created_at": "2026-10-24T03:53:13.029520+00:00",
     "status": "scripted",
-    "narration": "Ever seen a whole subway car whispering in Seoul? On lines like Line 9, one carriage is marked as a quiet car. Signs ask riders to keep phones on silent and avoid loud talk. During the morning and evening rush, students open laptops, office workers spread notebooks, and commuters read e‑books, turning the car into a moving study hall. The policy was created to give densely packed riders a space for focused work and to cut overall cabin noise. Announcements remind everyone that phone calls and music playback aren’t allowed. Surprisingly, during peak hours the quiet car often fills up faster than the regular cars because many commuters reserve a seat for work or rest. Remember, quiet cars exist only on certain lines and mainly on weekday rush trains.",
+    "narration": "Ever seen a whole subway car whispering in Seoul? On lines such as Line 9 and a few others, one carriage is marked as a “quiet car” with signs that ask passengers to keep phones on silent and refrain from loud conversations. During the morning and evening rush, some passengers may open laptops, carry notebooks, or read e‑books, creating a study‑like environment. The policy was introduced to give densely packed riders a space for focused work and to reduce overall cabin noise. Announcements remind riders that the quiet car is not for phone calls or music playback. During peak hours, the quiet car can become crowded, and some commuters may seek a seat for work or rest.",
     "title_line1": "Seoul subway quiet",
     "title_line2": "A whole car whispers",
     "highlights": [
       {
         "s": 1,
-        "text": "Subway car *whisper*"
+        "text": "*Whispering* subway"
       },
       {
         "s": 2,
-        "text": "Line 9 *quiet* car"
+        "text": "*Quiet* car on Line 9"
       },
       {
         "s": 4,
-        "text": "Moving *study* hall"
+        "text": "*Study* on wheels"
       },
       {
-        "s": 5,
-        "text": "*Focused* work zone"
+        "s": 7,
+        "text": "Fills up *fast*"
       }
     ],
     "image_queries": [
@@ -5724,20 +5724,76 @@
       "quiet subway car crowded",
       "Seoul subway platform line"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "fact_verifiability": "user",
+    "fact_risk": "user-pending",
+    "cross_checked": true,
+    "cross_sources": 0,
+    "cross_model": "openai/gpt-oss-120b",
+    "narration_original": "Ever seen a whole subway car whispering in Seoul? On lines like Line 9, one carriage is marked as a quiet car. Signs ask riders to keep phones on silent and avoid loud talk. During the morning and evening rush, students open laptops, office workers spread notebooks, and commuters read e‑books, turning the car into a moving study hall. The policy was created to give densely packed riders a space for focused work and to cut overall cabin noise. Announcements remind everyone that phone calls and music playback aren’t allowed. Surprisingly, during peak hours the quiet car often fills up faster than the regular cars because many commuters reserve a seat for work or rest. Remember, quiet cars exist only on certain lines and mainly on weekday rush trains.",
+    "cross_verdict": "partial",
+    "cross_notes": [
+      "[수정됨] [unsupported] 4번 문장: Anecdotal description of rider behavior not verifiable.",
+      "[수정됨] [unsupported] 7번 문장: No evidence that quiet car fills faster than regular cars.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 3번 문장: Behavior of passengers using laptops/notebooks not documented.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: Crowding of quiet cars during peak hours not specifically verified."
+    ]
   },
   {
     "label": "Heated Toilet Seats",
     "topic": "Public restrooms in many Korean cities have heated toilet seats that turn on automatically in winter.",
-    "hook": "Did you know many Korean toilets warm up your seat before you even sit down?",
-    "body": "Many public restrooms, especially in Seoul's department stores, subway stations, and hospitals, are equipped with sensor‑activated heated seats that start warming as soon as someone approaches. The seats are connected to the building's central heating system and are meant to improve comfort during the cold months. This feature is part of a broader Korean emphasis on hygiene and user convenience in public facilities. The heating typically turns off after a short period of inactivity to save energy.",
-    "twist": "Some of these seats also include a built‑in bidet nozzle that adjusts water pressure with a single button.",
+    "hook": "Did you know that some Korean public toilets have seats that can warm up before you sit?",
+    "body": "In some Seoul department stores, subway stations, and hospitals, public restrooms have sensor‑activated heated seats that may start warming when someone approaches. The seats are powered electrically, often drawing electricity from the building’s supply, so they stay warm during the cold winter months. When you move away, the heating often shuts off after a short period of inactivity to save energy. This convenience reflects Korea’s focus on hygiene and user comfort in public spaces.",
+    "twist": "Many of those modern seats also hide a bidet nozzle, letting you adjust water pressure with a single button for a quick clean.",
     "caveat": "Heated seats are common in newer urban public facilities, but older or rural restrooms may not have them.",
     "confidence": "high",
     "verify_note": "Seoul public restroom heated seats, Korean toilet seat heating, Korean public facilities heated toilet",
     "country": "Heated Toilet Seats",
     "created_at": "2026-10-24T03:53:38.915461+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Did you know that some Korean public toilets have seats that can warm up before you sit? In some Seoul department stores, subway stations, and hospitals, public restrooms have sensor‑activated heated seats that may start warming when someone approaches. The seats are powered electrically, often drawing electricity from the building’s supply, so they stay warm during the cold winter months. When you move away, the heating often shuts off after a short period of inactivity to save energy. This convenience reflects Korea’s focus on hygiene and user comfort in public spaces. Many of those modern seats also hide a bidet nozzle, letting you adjust water pressure with a single button for a quick clean. Keep in mind, older or rural restrooms may still have plain, unheated seats. So next time you step into a Korean restroom, you might feel the warmth before you even think to sit.",
+    "cross_checked": true,
+    "cross_sources": 2,
+    "cross_model": "openai/gpt-oss-120b",
+    "narration_original": "Did you know many Korean toilets warm up your seat before you even sit down? In Seoul’s department stores, subway stations and hospitals, public restrooms often have sensor‑activated heated seats that start warming as soon as someone approaches. The seats draw power from the building’s central heating system, so they stay cozy during the cold winter months. When you move away, the heating shuts off after a short period of inactivity to save energy. This convenience reflects Korea’s focus on hygiene and user comfort in public spaces. Many of those modern seats also hide a bidet nozzle, letting you adjust water pressure with a single button for a quick clean. Keep in mind, older or rural restrooms may still have plain, unheated seats. So next time you step into a Korean restroom, you might feel the warmth before you even think to sit.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Seat *warm* ahead"
+      },
+      {
+        "s": 2,
+        "text": "Sensor *heat* near you"
+      },
+      {
+        "s": 4,
+        "text": "Auto *off* saves power"
+      },
+      {
+        "s": 6,
+        "text": "One‑tap *bidet*"
+      }
+    ],
+    "cross_verdict": "fixed",
+    "cross_notes": [
+      "[수정됨] [unsupported] 1번 문장: No specific evidence confirming widespread pre‑seat warming sensors",
+      "[수정됨] [unsupported] 2번 문장: Lacks verifiable sources for sensor‑activated heated seats in those specific venues",
+      "[수정됨] [contradicted] 3번 문장: Heated seats are typically electric, not powered by a building’s central heating system",
+      "[수정됨] [unsupported] 4번 문장: No documented proof of automatic shut‑off timing in public Korean toilets"
+    ],
+    "title_line1": "Heated seats Korea",
+    "title_line2": "Warm before sitting",
+    "image_queries": [
+      "warm seat bathroom",
+      "sensor heat toilet seat",
+      "heated toilet seat Seoul",
+      "auto off toilet seat",
+      "Korean public restroom",
+      "one tap bidet",
+      "rural Korean restroom",
+      "Korean restroom interior"
+    ],
+    "scene_count": 12
   },
   {
     "label": "Zero‑Waste Bulk Aisles",
