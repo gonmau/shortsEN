@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-25 23:09:18 (KST) · 기록 141건 · 소재 118개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-25 23:12:04 (KST) · 기록 146건 · 소재 118개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -9,16 +9,16 @@
 | -c | 11 | 0 | 3분 46초 |
 | .github/workflows/te | 0 | 4 | 0초 |
 | DB커밋 | 36 | 0 | 0초 |
-| apply_review | 9 | 0 | 0초 |
-| approve | 2 | 0 | 0초 |
+| apply_review | 10 | 0 | 1초 |
+| approve | 3 | 0 | 0초 |
 | build_video | 1 | 0 | 6분 43초 |
 | edit_points | 0 | 6 | 2분 21초 |
-| export_review | 2 | 0 | 0초 |
+| export_review | 3 | 0 | 0초 |
 | fetch_images | 5 | 0 | 3분 43초 |
-| generate_script | 8 | 0 | 1분 42초 |
+| generate_script | 9 | 0 | 1분 51초 |
 | generate_tts | 2 | 0 | 21초 |
 | make_thumbnail | 1 | 0 | 0초 |
-| promote_ready | 9 | 0 | 1초 |
+| promote_ready | 10 | 0 | 1초 |
 | redo_videos | 9 | 0 | 1초 |
 | 롱폼 | 1 | 0 | 1분 1초 |
 | 쇼츠 | 30 | 3 | 4시간 14분 |
@@ -30,6 +30,11 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 23:12 | PC | generate_script | generate_script.py --limit 1 --start 98 | ✅ | 9초 |  |
+| 23:12 | PC | export_review | export_review.py --limit 1 --start 98 | ✅ | 0초 |  |
+| 23:11 | PC | promote_ready | promote_ready.py --start 98 | ✅ | 0초 |  |
+| 23:11 | PC | apply_review | apply_review.py | ✅ | 0초 |  |
+| 23:11 | PC | approve | approve.py --limit 1 --start 98 | ✅ | 0초 |  |
 | 23:09 | PC | generate_script | generate_script.py --extras-only --limit 1 --start 98 | ✅ | 1초 |  |
 | 23:09 | PC | fetch_images | fetch_images.py --limit 1 --start 98 --any | ✅ | 0초 |  |
 | 23:09 | PC | promote_ready | promote_ready.py --start 98 | ✅ | 0초 |  |
