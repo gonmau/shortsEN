@@ -5716,7 +5716,7 @@
     ],
     "image_queries": [
       "Seoul subway quiet car",
-      "9호선 지하철",
+      "지하철 9호선",
       "subway silent sign",
       "Seoul subway study car",
       "subway focused work zone",
@@ -5740,7 +5740,7 @@
     ],
     "image_queries_done": [
       "Seoul subway quiet car",
-      "9호선 지하철",
+      "지하철 9호선",
       "subway silent sign",
       "Seoul subway study car",
       "subway focused work zone",
@@ -5759,10 +5759,9 @@
       {
         "scene": 2,
         "source": "pixabay",
-        "user": "Photos_by_Paul",
-        "page": "https://pixabay.com/photos/subway-metro-tunnel-lights-urban-7381618/",
-        "id": 7381618,
-        "type": "photo"
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/tunnel-concrete-road-highway-1845046/",
+        "id": 1845046
       },
       {
         "scene": 3,
@@ -5826,19 +5825,21 @@
       },
       {
         "verdict": "bad",
-        "clip": 0.186,
+        "clip": 0.1439,
         "ollama": null,
         "seen": "",
         "tools": "clip",
-        "sig": "6009a5a3776b",
-        "at": "2026-10-25 21:49",
+        "sig": "6d364160aab2",
+        "at": "2026-10-25 21:50",
         "scene": 2,
         "rejected_ids": [
           1845046,
           2893851,
           4427609,
           5969381,
+          6519085,
           7381618,
+          769790,
           7995891,
           9151034
         ]
