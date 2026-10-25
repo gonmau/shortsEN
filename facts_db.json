@@ -5693,36 +5693,36 @@
     "country": "Seoul Subway Quiet Car",
     "created_at": "2026-10-24T03:53:13.029520+00:00",
     "status": "video_done",
-    "narration": "Ever seen a whole subway car whispering in Seoul? On lines such as Line 9 and a few others, one carriage is marked as a “quiet car” with signs that ask passengers to keep phones on silent and refrain from loud conversations. During the morning and evening rush, some passengers may open laptops, carry notebooks, or read e‑books, creating a study‑like environment. The policy was introduced to give densely packed riders a space for focused work and to reduce overall cabin noise. Announcements remind riders that the quiet car is not for phone calls or music playback. During peak hours, the quiet car can become crowded, and some commuters may seek a seat for work or rest.",
+    "narration": "Ever seen a whole subway car whispering in Seoul? On lines like Line 9, one carriage is marked as a quiet car, with signs asking riders to silence phones and avoid loud talk. During the morning and evening rush, you’ll often find commuters opening laptops, pulling out notebooks, or scrolling e‑books, turning the car into a moving study hall. The policy was added to give densely packed passengers a space for focused work and to cut down overall cabin noise. Announcements remind everyone that the quiet car isn’t for phone calls or music playback. Because it’s only on certain lines and mainly during weekday peak periods, not every train or station has one. Interestingly, during those busy hours the quiet car can fill up, so many commuters still scramble for a seat to work or simply rest. It’s a small slice of Seoul’s effort to balance speed with quiet.",
     "title_line1": "Seoul subway quiet",
-    "title_line2": "A whole car whispers",
+    "title_line2": "A moving study hall",
     "highlights": [
       {
         "s": 1,
-        "text": "*Whispering* subway"
+        "text": "Subway car *whisper*"
       },
       {
         "s": 2,
-        "text": "*Quiet* car on Line 9"
+        "text": "Quiet car *no phones*"
       },
       {
         "s": 4,
-        "text": "*Study* on wheels"
+        "text": "*Focused* work zone"
       },
       {
-        "s": 7,
-        "text": "Fills up *fast*"
+        "s": 5,
+        "text": "No calls, no *music*"
       }
     ],
     "image_queries": [
-      "Seoul subway quiet car",
-      "9호선",
-      "subway silent sign",
-      "지하철",
-      "subway focused work zone",
-      "스피커 방송",
-      "quiet subway car crowded",
-      "Seoul subway platform line"
+      "Seoul subway car whisper",
+      "Quiet car no phones sign",
+      "Commuter laptop study",
+      "Focused work zone train",
+      "No calls no music reminder",
+      "Weekday peak quiet car",
+      "Busy quiet car seats",
+      "Seoul quiet car effort"
     ],
     "scene_count": 14,
     "fact_verifiability": "user",
@@ -5739,14 +5739,14 @@
       "[수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: Crowding of quiet cars during peak hours not specifically verified."
     ],
     "image_queries_done": [
-      "Seoul subway quiet car",
-      "9호선",
-      "subway silent sign",
-      "지하철",
-      "subway focused work zone",
-      "스피커 방송",
-      "quiet subway car crowded",
-      "Seoul subway platform line"
+      "Seoul subway car whisper",
+      "Quiet car no phones sign",
+      "Commuter laptop study",
+      "Focused work zone train",
+      "No calls no music reminder",
+      "Weekday peak quiet car",
+      "Busy quiet car seats",
+      "Seoul quiet car effort"
     ],
     "image_credits": [
       {
@@ -5758,57 +5758,52 @@
       },
       {
         "scene": 2,
-        "source": "commons",
-        "user": "Striker9498",
-        "license": "CC0",
-        "title": "20240901 9호선 902편성 내부.jpg",
-        "page": "https://commons.wikimedia.org/wiki/File:20240901_9%ED%98%B8%EC%84%A0_902%ED%8E%B8%EC%84%B1_%EB%82%B4%EB%B6%80.jpg",
-        "id": "c:152062689"
+        "source": "pixabay",
+        "user": "pixelRaw",
+        "page": "https://pixabay.com/photos/morocco-desert-way-asphalt-4934047/",
+        "id": 4934047
       },
       {
         "scene": 3,
         "source": "pixabay",
-        "user": "PublicDomainPictures",
-        "page": "https://pixabay.com/photos/signage-subway-station-underground-2653/",
-        "id": 2653
+        "user": "JESHOOTS-com",
+        "page": "https://pixabay.com/photos/laptop-woman-education-study-young-3087585/",
+        "id": 3087585
       },
       {
         "scene": 4,
         "source": "pixabay",
-        "user": "Photos_by_Paul",
-        "page": "https://pixabay.com/photos/subway-metro-tunnel-lights-urban-7381618/",
-        "id": 7381618,
-        "type": "photo"
+        "user": "rieracanler",
+        "page": "https://pixabay.com/photos/urban-landscape-train-rails-sunset-8079886/",
+        "id": 8079886
       },
       {
         "scene": 5,
         "source": "pixabay",
-        "user": "Activedia",
-        "page": "https://pixabay.com/photos/escalator-stairs-metro-subway-769790/",
-        "id": 769790,
-        "type": "photo"
+        "user": "fernandozhiminaicela",
+        "page": "https://pixabay.com/photos/christmas-candles-decor-calls-3751408/",
+        "id": 3751408
       },
       {
         "scene": 6,
         "source": "pixabay",
-        "user": "AlexAntropov86",
-        "page": "https://pixabay.com/photos/radio-speaker-vintage-audio-retro-6311508/",
-        "id": 6311508,
-        "type": "photo"
+        "user": "nuno_lopes",
+        "page": "https://pixabay.com/photos/sugarloaf-mountain-cable-car-1679285/",
+        "id": 1679285
       },
       {
         "scene": 7,
         "source": "pixabay",
-        "user": "binmassam",
-        "page": "https://pixabay.com/photos/people-train-commuter-passenger-4807330/",
-        "id": 4807330
+        "user": "JohMoreno95BR",
+        "page": "https://pixabay.com/photos/car-mustang-vintage-classic-retro-7955720/",
+        "id": 7955720
       },
       {
         "scene": 8,
         "source": "pixabay",
-        "user": "john_Ioannidis",
-        "page": "https://pixabay.com/photos/train-metro-station-stockholm-4734116/",
-        "id": 4734116
+        "user": "wal_172619",
+        "page": "https://pixabay.com/photos/man-pigeons-quiet-wall-park-relax-7995891/",
+        "id": 7995891
       }
     ],
     "image_source": "pixabay",
