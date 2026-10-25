@@ -157,3 +157,7 @@
 {"id": "1792937694339-3cfdcd", "time": "2026-10-25 23:14:54", "channel": "EN", "source": "PC", "kind": "approve", "title": "approve.py --limit 1 --start 98", "status": "success", "secs": 0.2, "detail": ""}
 {"id": "1792937705444-6528fc", "time": "2026-10-25 23:15:05", "channel": "EN", "source": "PC", "kind": "generate_script", "title": "generate_script.py --limit 1 --start 98", "status": "success", "secs": 11.1, "detail": ""}
 {"id": "1792937705573-a03ec0", "time": "2026-10-25 23:15:05", "channel": "EN", "source": "PC", "kind": "export_review", "title": "export_review.py --limit 1 --start 98", "status": "success", "secs": 0.1, "detail": ""}
+{"id": "1792937729284-23394b", "time": "2026-10-25 23:15:29", "channel": "EN", "source": "PC", "kind": "promote_ready", "title": "promote_ready.py --start 98", "status": "success", "secs": 0.1, "detail": ""}
+{"id": "1792937729402-4992a9", "time": "2026-10-25 23:15:29", "channel": "EN", "source": "PC", "kind": "apply_review", "title": "apply_review.py", "status": "success", "secs": 0.1, "detail": ""}
+{"id": "1792937731097-f00e19", "time": "2026-10-25 23:15:31", "channel": "EN", "source": "PC", "kind": "generate_script", "title": "generate_script.py --extras-only --limit 1 --start 98", "status": "success", "secs": 1.7, "detail": ""}
+{"id": "1792937731491-09b428", "time": "2026-10-25 23:15:31", "channel": "EN", "source": "PC", "kind": "fetch_images", "title": "fetch_images.py --limit 1 --start 98 --any", "status": "success", "secs": 0.4, "detail": ""}
