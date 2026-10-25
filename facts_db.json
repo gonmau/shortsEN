@@ -5720,7 +5720,7 @@
       "subway silent sign",
       "지하철",
       "subway focused work zone",
-      "subway announcement speaker",
+      "스피커 방송",
       "quiet subway car crowded",
       "Seoul subway platform line"
     ],
@@ -5744,7 +5744,7 @@
       "subway silent sign",
       "지하철",
       "subway focused work zone",
-      "subway announcement speaker",
+      "스피커 방송",
       "quiet subway car crowded",
       "Seoul subway platform line"
     ],
@@ -5793,10 +5793,9 @@
       {
         "scene": 6,
         "source": "pixabay",
-        "user": "terimakasih0",
-        "page": "https://pixabay.com/photos/megaphone-loud-speaker-speaker-1480342/",
-        "id": 1480342,
-        "type": "photo"
+        "user": "Studio_Iris",
+        "page": "https://pixabay.com/photos/podcast-microphone-music-audio-7876792/",
+        "id": 7876792
       },
       {
         "scene": 7,
@@ -5897,17 +5896,23 @@
       },
       {
         "verdict": "bad",
-        "clip": 0.2185,
+        "clip": 0.1897,
         "ollama": null,
         "seen": "",
         "tools": "clip",
-        "sig": "0c1e92985082",
-        "at": "2026-10-25 21:46",
+        "sig": "f5b99181de87",
+        "at": "2026-10-25 21:53",
         "scene": 6,
         "rejected_ids": [
           1480342,
+          1845046,
+          1928668,
           3036181,
-          4813917
+          4427609,
+          4813917,
+          6311551,
+          7876792,
+          8724442
         ]
       },
       {
