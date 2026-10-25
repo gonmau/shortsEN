@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-25 22:28:28 (KST) · 기록 115건 · 소재 118개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-25 22:30:41 (KST) · 기록 116건 · 소재 118개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -12,7 +12,7 @@
 | apply_review | 5 | 0 | 0초 |
 | approve | 1 | 0 | 0초 |
 | build_video | 1 | 0 | 6분 43초 |
-| edit_points | 0 | 2 | 56초 |
+| edit_points | 0 | 3 | 1분 17초 |
 | export_review | 1 | 0 | 0초 |
 | fetch_images | 2 | 0 | 1분 8초 |
 | generate_script | 4 | 0 | 1분 28초 |
@@ -30,6 +30,7 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 22:30 | PC | edit_points | edit_points.py parse --index 98 --text 총 14장의 이미지를 사용해 대본의 해당 음성 구간에 맞춰 편집한다. 이미지는 한 번에 한 장씩 표시하고, 두 장을 동시에 보여주거나 두 장만 반복해서 번갈아 표시하지 않는다. 여러 이미지가 필요한  | ❌ failed | 21초 | 해석 실패: Expecting ',' delimiter: line 41 column 49 (char 1146) |
 | 22:28 | PC | generate_script | generate_script.py --extras-only --limit 1 --start 98 | ✅ | 2초 |  |
 | 22:28 | PC | fetch_images | fetch_images.py --limit 1 --start 98 --any | ✅ | 0초 |  |
 | 22:28 | PC | apply_review | apply_review.py | ✅ | 0초 |  |
