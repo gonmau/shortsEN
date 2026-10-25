@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-25 21:54:46 (KST) · 기록 101건 · 소재 118개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-25 22:03:29 (KST) · 기록 102건 · 소재 118개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -11,6 +11,7 @@
 | DB커밋 | 36 | 0 | 0초 |
 | apply_review | 3 | 0 | 0초 |
 | approve | 1 | 0 | 0초 |
+| edit_points | 0 | 1 | 24초 |
 | export_review | 1 | 0 | 0초 |
 | fetch_images | 1 | 0 | 1분 8초 |
 | generate_script | 2 | 0 | 1분 24초 |
@@ -27,6 +28,13 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 22:03 | PC | edit_points | edit_points.py parse --index 98 --text 오프닝 — Ever seen a whole subway car whispering in Seoul?
+
+이미지[1]을 사용한다.
+
+첫 음성 시작과 동시에 화면을 표시한다.
+
+이미지에 느린 줌인을 적용해 | ❌ failed | 24초 | 해석 실패: Expecting value: line 1 column 1 (char 0) |
 | 21:54 | PC | generate_tts | generate_tts.py --index 98 | ✅ | 19초 |  |
 | 21:54 | PC | promote_ready | promote_ready.py --start 98 | ✅ | 0초 |  |
 | 21:54 | PC | apply_review | apply_review.py | ✅ | 0초 |  |
