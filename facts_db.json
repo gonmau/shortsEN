@@ -5739,81 +5739,99 @@
       "[수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: Crowding of quiet cars during peak hours not specifically verified."
     ],
     "image_queries_done": [
-      "Whispering subway car",
-      "Quiet car on Line 9",
-      "Passenger reading laptop subway",
-      "Study on wheels",
-      "Subway quiet car announcement",
-      "Crowded quiet car Seoul"
+      "Seoul subway quiet car",
+      "9호선",
+      "subway silent sign",
+      "지하철",
+      "subway focused work zone",
+      "스피커 방송",
+      "quiet subway car crowded",
+      "Seoul subway platform line"
     ],
     "image_credits": [
       {
         "scene": 1,
         "source": "pixabay",
-        "user": "igorovsyannykov",
-        "page": "https://pixabay.com/photos/subway-metro-train-interior-empty-2893851/",
-        "id": 2893851
+        "user": "스마트랜스",
+        "page": "https://pixabay.com/photos/train-railroad-transportation-5952026/",
+        "id": 5952026
       },
       {
         "scene": 2,
-        "source": "pixabay",
-        "user": "pixelRaw",
-        "page": "https://pixabay.com/photos/morocco-desert-way-asphalt-4934047/",
-        "id": 4934047
+        "source": "commons",
+        "user": "Striker9498",
+        "license": "CC0",
+        "title": "20240901 9호선 902편성 내부.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:20240901_9%ED%98%B8%EC%84%A0_902%ED%8E%B8%EC%84%B1_%EB%82%B4%EB%B6%80.jpg",
+        "id": "c:152062689"
       },
       {
         "scene": 3,
         "source": "pixabay",
-        "user": "17672941",
-        "page": "https://pixabay.com/photos/train-passenger-subway-station-5922321/",
-        "id": 5922321
+        "user": "PublicDomainPictures",
+        "page": "https://pixabay.com/photos/signage-subway-station-underground-2653/",
+        "id": 2653
       },
       {
         "scene": 4,
         "source": "pixabay",
-        "user": "Sunriseforever",
-        "page": "https://pixabay.com/photos/student-girl-books-pen-backpack-5609005/",
-        "id": 5609005,
+        "user": "Photos_by_Paul",
+        "page": "https://pixabay.com/photos/subway-metro-tunnel-lights-urban-7381618/",
+        "id": 7381618,
         "type": "photo"
       },
       {
         "scene": 5,
         "source": "pixabay",
-        "user": "igorovsyannykov",
-        "page": "https://pixabay.com/photos/subway-metro-train-interior-empty-2893851/",
-        "id": 2893851,
+        "user": "Activedia",
+        "page": "https://pixabay.com/photos/escalator-stairs-metro-subway-769790/",
+        "id": 769790,
         "type": "photo"
       },
       {
         "scene": 6,
         "source": "pixabay",
-        "user": "rmsep4",
-        "page": "https://pixabay.com/photos/south-korea-street-seoul-dusk-6918828/",
-        "id": 6918828,
+        "user": "AlexAntropov86",
+        "page": "https://pixabay.com/photos/radio-speaker-vintage-audio-retro-6311508/",
+        "id": 6311508,
         "type": "photo"
+      },
+      {
+        "scene": 7,
+        "source": "pixabay",
+        "user": "binmassam",
+        "page": "https://pixabay.com/photos/people-train-commuter-passenger-4807330/",
+        "id": 4807330
+      },
+      {
+        "scene": 8,
+        "source": "pixabay",
+        "user": "john_Ioannidis",
+        "page": "https://pixabay.com/photos/train-metro-station-stockholm-4734116/",
+        "id": 4734116
       }
     ],
     "image_source": "pixabay",
     "image_check": [
       {
         "verdict": "ok",
-        "clip": 0.332,
+        "clip": 0.3006,
         "ollama": null,
         "seen": "",
         "tools": "clip",
-        "sig": "ce2fda98af74",
-        "at": "2026-10-25 22:52",
+        "sig": "133698a6ad10",
+        "at": "2026-10-25 23:06",
         "scene": 1,
         "rejected_ids": []
       },
       {
         "verdict": "ok",
-        "clip": 0.2335,
+        "clip": 0.2349,
         "ollama": null,
         "seen": "",
         "tools": "clip",
-        "sig": "5a31200386ba",
-        "at": "2026-10-25 22:52",
+        "sig": "0d8f29f219a6",
+        "at": "2026-10-25 23:06",
         "scene": 2,
         "rejected_ids": [
           1845046,
@@ -5828,27 +5846,29 @@
         ]
       },
       {
-        "verdict": "ok",
-        "clip": 0.2436,
+        "verdict": "bad",
+        "clip": 0.2145,
         "ollama": null,
         "seen": "",
         "tools": "clip",
-        "sig": "31517bcc0327",
-        "at": "2026-10-25 22:52",
+        "sig": "2ec0aef4ee8b",
+        "at": "2026-10-25 23:06",
         "scene": 3,
         "rejected_ids": [
           2653,
+          4922120,
+          5083988,
           5091557
         ]
       },
       {
         "verdict": "bad",
-        "clip": 0.1893,
+        "clip": 0.1849,
         "ollama": null,
         "seen": "",
         "tools": "clip",
-        "sig": "58a0e46ee7e7",
-        "at": "2026-10-25 22:52",
+        "sig": "57585147c5f4",
+        "at": "2026-10-25 23:06",
         "scene": 4,
         "rejected_ids": [
           1845046,
@@ -5856,7 +5876,9 @@
           4646129,
           5609005,
           5952026,
+          7381618,
           7744938,
+          9151034,
           "c:156103723",
           "c:156954876",
           "c:157086912",
@@ -5864,38 +5886,42 @@
         ]
       },
       {
-        "verdict": "ok",
-        "clip": 0.3182,
+        "verdict": "bad",
+        "clip": 0.1612,
         "ollama": null,
         "seen": "",
         "tools": "clip",
-        "sig": "bfba02879d26",
-        "at": "2026-10-25 22:52",
+        "sig": "6a5673a9125d",
+        "at": "2026-10-25 23:07",
         "scene": 5,
         "rejected_ids": [
           2452805,
           2561018,
           2893851,
+          3189628,
           4060860,
+          769790,
           788747
         ]
       },
       {
-        "verdict": "ok",
-        "clip": 0.2771,
+        "verdict": "bad",
+        "clip": 0.1939,
         "ollama": null,
         "seen": "",
         "tools": "clip",
-        "sig": "463cd3bebed1",
-        "at": "2026-10-25 22:52",
+        "sig": "8d9c10684556",
+        "at": "2026-10-25 23:07",
         "scene": 6,
         "rejected_ids": [
           1480342,
+          1682531,
           1845046,
           1928668,
           3036181,
           4427609,
           4813917,
+          6311508,
           6311551,
           6918828,
           7876792,
@@ -5909,8 +5935,8 @@
         "ollama": null,
         "seen": "",
         "tools": "clip",
-        "sig": "e8ffa5eb0133",
-        "at": "2026-10-25 21:45",
+        "sig": "3aa8dc13e79e",
+        "at": "2026-10-25 23:06",
         "scene": 7,
         "rejected_ids": []
       },
@@ -5920,8 +5946,8 @@
         "ollama": null,
         "seen": "",
         "tools": "clip",
-        "sig": "7576cdfcfa89",
-        "at": "2026-10-25 21:45",
+        "sig": "d0b87501418a",
+        "at": "2026-10-25 23:06",
         "scene": 8,
         "rejected_ids": []
       }
