@@ -3666,17 +3666,17 @@
     "country": "Winter Shaved Ice",
     "created_at": "2026-10-13T23:28:03.975031+00:00",
     "status": "video_done",
-    "narration": "Yes, you can eat ice cream in Seoul’s December chill—called bingsu. In busy spots like Myeongdong and Hongdae, street vendors set up insulated carts that serve shaved‑ice dessert year‑round. The ice is piled high, then drizzled with warm red bean paste, toasted rice cakes, and hot syrups, so the cold base meets comforting heat. Vendors hand it in small disposable bowls, ideal for strolling through a night market. The tradition began as a summer treat, but the hot toppings keep customers warm in winter. Some stalls even pour hot chocolate or ginger tea over the ice, turning the snack into an instant hand‑warmer. Winter bingsu appears mainly in these bustling districts, not in quieter neighborhoods.",
-    "title_line1": "Seoul winter bingsu",
-    "title_line2": "Heat on icy bingsu",
+    "narration": "Yes, you can eat ice cream in Seoul’s December chill—called bingsu. In busy spots like Myeongdong and Hongdae, street stalls set up insulated carts that serve bingsu all year. The shaved ice comes with warm red bean paste, toasted rice cakes, and hot syrups, so the cold base meets comforting heat. Vendors hand it in small disposable bowls, perfect for strolling through markets. The treat began as a summer snack, but the hot toppings keep you warm enough to keep it going in winter. Some stalls even pour hot chocolate or ginger tea over the ice, turning the dessert into a hand‑warmer. You’ll mostly find it in these tourist districts, not in quieter neighborhoods.",
+    "title_line1": "Winter bingsu Seoul",
+    "title_line2": "Cold ice, warm bean",
     "highlights": [
       {
         "s": 1,
-        "text": "Bingsu in *December*"
+        "text": "*Ice* cream chill"
       },
       {
         "s": 2,
-        "text": "Carts serve *always*"
+        "text": "All‑year *bingsu* carts"
       },
       {
         "s": 3,
@@ -3684,20 +3684,17 @@
       },
       {
         "s": 5,
-        "text": "Turned *winter* treat"
-      },
-      {
-        "s": 6,
-        "text": "Chocolate *over* ice"
+        "text": "Ice + *hot chocolate*"
       }
     ],
     "image_queries": [
-      "bingsu December Seoul",
-      "shaved ice cart Seoul",
+      "bingsu ice cream winter",
+      "year-round bingsu street cart",
       "bingsu with hot toppings",
-      "winter bingsu street vendor",
-      "bingsu with chocolate",
-      "Seoul night market"
+      "bingsu disposable bowl",
+      "bingsu with hot chocolate",
+      "bingsu ginger tea topping",
+      "bingsu tourist district stall"
     ],
     "scene_count": 10,
     "ko_title": "Korea: Winter bingsu Seoul Cold ice, warm bean #Shorts",
@@ -3756,10 +3753,6 @@
     "fact_verifiability": "user",
     "fact_risk": "user-reviewed",
     "fact_applied": true,
-    "audio_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0039_Winter Shaved Ice_v2.mp3",
-    "timing_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0039_Winter Shaved Ice_v2_timing.json",
-    "tts_voice_v2": "en-US-AndrewNeural",
-    "status_tts_v2": "done",
     "srt_path": "C:\\Users\\seokg\\Downloads\\latest-en\\videos\\0039_Winter Shaved Ice.srt",
     "video_path_v6": "C:\\Users\\seokg\\Downloads\\latest-en\\videos\\0039_Winter Shaved Ice.mp4",
     "status_v6": "video_done"
@@ -5090,7 +5083,7 @@
     "verify_note": "Seoul café reusable cup lockers zero waste",
     "country": "Reusable Cup Lockers",
     "created_at": "2026-10-21T08:21:13.904881+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Imagine borrowing a coffee cup, locking it, and never losing it again. In Seoul, some eco‑focused cafés in neighborhoods like Hongdae and Seongsu have small locker banks right by the counter. You bring your own reusable cup, scan a QR code, and a locker pops open. The system logs the locker number on your phone, so you can drop the cup in and walk away. When you return, the same code opens the locker and you retrieve your cup—no keys needed. A few cafés even add a tiny fee that goes to local environmental NGOs. These lockers are offered mainly by boutique or sustainability‑focused cafés, not by most coffee shops in the city.",
     "title_line1": "Seoul cafés lock cups",
     "title_line2": "Grab yours anytime",
@@ -5122,10 +5115,79 @@
       "Boutique cafe lockers"
     ],
     "scene_count": 10,
-    "audio_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0083_Reusable Cup Lockers_v2.mp3",
-    "timing_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0083_Reusable Cup Lockers_v2_timing.json",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0083_Reusable Cup Lockers_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0083_Reusable Cup Lockers_v2_timing.json",
     "tts_voice_v2": "en-US-AndrewNeural",
-    "status_tts_v2": "done"
+    "status_tts_v2": "done",
+    "ko_title": "한국: 서울 카페, 컵을 잠그다 언제든지 가져가세요",
+    "ko_description": "🎯 커피 컵을 빌려 잠그고 다시는 잃어버리지 않는다고 상상해 보세요.\n\n홍대·성수 등 동네의 친환경 카페들은 카운터 옆에 작은 사물함 뱅크를 설치했습니다. 자신의 컵을 가져오면 QR 코드를 스캔해 사물함을 열고 컵을 보관하면, 시스템이 사물함 번호를 휴대폰에 기록합니다. 돌아올 때는 키 없이 사물함을 열어 컵을 꺼낼 수 있어, 컵을 잃어버리지 않으면서 제로‑웨이스트 습관을 장려합니다.\n\n💡 이 사물함 중 일부는 소액의 수수료를 받아 지역 환경 NGO에 기부합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#ReusableCupLockers #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "커피 컵을 빌려 잠그고 다시는 잃어버리지 않는다고 상상해 보세요. 서울에서는 홍대·성수 등 동네의 친환경 카페들이 카운터 바로 옆에 작은 사물함 뱅크를 두고 있습니다. 직접 가져온 텀블러를 QR 코드를 스캔하면 사물함이 열리고, 시스템이 사물함 번호를 휴대폰에 기록해 줍니다. 그래서 컵을 넣고 바로 떠날 수 있죠. 돌아올 때는 같은 코드를 스캔해 사물함을 열고 컵을 꺼내면 되니 열쇠가 필요 없습니다. 몇몇 카페는 소액의 수수료를 받아 지역 환경 NGO에 기부하기도 합니다. 이러한 사물함은 주로 부티크나 지속가능성에 초점을 맞춘 카페에서 제공되며, 도시의 대부분 커피숍에서는 찾아볼 수 없습니다.",
+    "ko_issues": [],
+    "ko_src": "e93805d91f82",
+    "image_queries_done": [
+      "Reusable cup lock",
+      "Seoul cafe lockers",
+      "QR code lock",
+      "Phone locker log",
+      "Code opens cup",
+      "Eco fee donation",
+      "Boutique cafe lockers"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "mahirdesaindigital",
+        "page": "https://pixabay.com/photos/holding-paper-cup-coffee-cup-10211911/",
+        "id": 10211911
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "pc500k",
+        "page": "https://pixabay.com/photos/seoul-cafe-coffee-shop-7106196/",
+        "id": 7106196
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "lin2015",
+        "page": "https://pixabay.com/photos/ofo-the-little-yellow-car-2677000/",
+        "id": 2677000
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "JESHOOTS-com",
+        "page": "https://pixabay.com/photos/iphone-smartphone-apps-apple-inc-410324/",
+        "id": 410324
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "JanBaby",
+        "page": "https://pixabay.com/photos/code-geek-talk-code-to-me-coffee-cup-2680204/",
+        "id": 2680204
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "Der_Thiemo",
+        "page": "https://pixabay.com/photos/mountain-nature-hiking-alps-9724688/",
+        "id": 9724688
+      },
+      {
+        "scene": 7,
+        "source": "pixabay",
+        "user": "gorkhe1980",
+        "page": "https://pixabay.com/photos/coffee-art-cup-drink-latte-4404690/",
+        "id": 4404690
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0083_Reusable Cup Lockers.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0083_Reusable Cup Lockers.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Morning Milk Bike Delivery",
@@ -5138,7 +5200,7 @@
     "verify_note": "Korean milk delivery by bike residential neighborhoods",
     "country": "Morning Milk Bike Delivery",
     "created_at": "2026-10-21T08:21:13.904881+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Did you know you can get farm‑fresh milk delivered to your doorstep before school starts? In neighborhoods like Gangbuk and parts of Busan, local dairy vendors hop on electric bikes just after sunrise. They zip through the quiet streets, stop at each apartment entrance, and hand out chilled milk cartons. Residents often greet the rider by name, and the delivery times are posted on a community board, turning it into a small daily ritual. Many riders even add a tiny free sample of seasonal fruit jam as a thank‑you for regular customers. The service isn’t everywhere—larger high‑rise towers usually rely on grocery deliveries—but it keeps a personal, fresh connection alive.",
     "title_line1": "Bike milk drops dawn",
     "title_line2": "Milk before school",
@@ -5168,7 +5230,72 @@
       "free fruit jam sample",
       "high rise apartment exterior"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 자전거 우유 배달, 학교 가기 전 아침에 우유",
+    "ko_description": "🎯 학교 가기 전, 농장에서 바로 짜낸 신선한 우유를 집 앞까지 배달받을 수 있다는 사실, 알고 계셨나요?\n\n강북 및 부산 일부 지역 등 주거지에서 현지 유제품 판매업자들이 전동 자전거를 타고 이른 아침 거리를 누비며 아파트 입구에 들러 차가운 우유팩을 건네줍니다. 주민들은 종종 배달원의 이름을 부르며 인사하고, 배달 일정은 커뮤니티 게시판에 게시돼 슈퍼마켓이 있음에도 불구하고 지속되는 일종의 의식이 됩니다. 이 서비스는 신선함과 배달원과 지역 사회 사이에 형성되는 개인적인 연결 고리 때문에 가치를 인정받고 있습니다.\n\n💡 일부 배달원은 정기 고객에게 감사의 의미로 계절 과일 잼 소량을 무료 샘플로 제공하기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#MorningMilkBikeDelivery #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
+    "ko_narration": "학교가 시작되기 전, 농장에서 바로 짜낸 신선한 우유를 집 앞까지 배달받을 수 있다는 사실, 알고 계셨나요? 강북과 부산 일부 지역처럼 주거지가 있는 곳에서는 현지 유제품 판매업자들이 해가 뜨자마자 전동 자전거에 올라탑니다. 그들은 조용한 거리를 빠르게 지나가며 각 아파트 입구에 멈춰 차가운 우유팩을 건네줍니다. 주민들은 종종 배달원의 이름을 부르며 인사하고, 배달 시간은 커뮤니티 게시판에 게시돼 작은 일일 의식이 됩니다. 많은 배달원들이 정기 고객에게 감사의 의미로 계절 과일 잼을 소량 무료 샘플로 제공하기도 합니다. 이 서비스가 모든 곳에 있는 것은 아니며, 고층 아파트는 주로 식료품 배달에 의존하지만, 개인적이고 신선한 연결 고리는 계속 살아 있습니다.",
+    "ko_issues": [],
+    "ko_src": "a64cc3463827",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0084_Morning Milk Bike Delivery_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0084_Morning Milk Bike Delivery_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Korean farm fresh milk",
+      "Korean electric bike sunrise",
+      "Korean chilled milk carton",
+      "Korean apartment hallway",
+      "free fruit jam sample",
+      "high rise apartment exterior"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "Couleur",
+        "page": "https://pixabay.com/photos/milk-glass-pitcher-fresh-2474993/",
+        "id": 2474993
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "MAILAI",
+        "page": "https://pixabay.com/photos/woman-face-street-bike-electric-8655209/",
+        "id": 8655209
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "ThaneKeller",
+        "page": "https://pixabay.com/photos/toy-village-milk-carton-craft-craft-960908/",
+        "id": 960908
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "PIRO4D",
+        "page": "https://pixabay.com/photos/hallway-corridor-entrance-2228277/",
+        "id": 2228277
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "jarmoluk",
+        "page": "https://pixabay.com/photos/jam-fruit-jars-fruit-jams-428094/",
+        "id": 428094
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "huuvong",
+        "page": "https://pixabay.com/photos/architecture-windows-modern-city-10506784/",
+        "id": 10506784
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0084_Morning Milk Bike Delivery.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0084_Morning Milk Bike Delivery.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Smart Elevator Queue",
@@ -5509,7 +5636,43 @@
     "verify_note": "Korean street food QR code ordering, Hongdae tteokbokki QR, mobile payments KakaoPay street stalls",
     "country": "QR Code Street Food",
     "created_at": "2026-10-24T03:53:13.029520+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Did you know you can order tteokbokki by scanning a QR code on the stall? In busy Seoul neighborhoods like Hongdae and Myeongdong, many street‑food vendors now display a small QR‑code sign next to their grill. You just open a Korean mobile‑payment app such as KakaoPay or Naver Pay, scan, pick your dish, and pay instantly. The chef hands you the hot plate right away, so lines move faster than at cash‑only stalls. The system grew after the pandemic to cut down cash handling and speed service. Some vendors even let you add a tip for the chef through the same screen. Keep in mind, this is common in urban street‑food areas, but many traditional markets and rural stalls still take cash only. So next time you’re craving spicy rice cakes, just scan and savor.",
+    "title_line1": "QR code street food",
+    "title_line2": "Scan, pay, eat tteok",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*QR* for tteokbokki"
+      },
+      {
+        "s": 3,
+        "text": "*Pay* instantly via app"
+      },
+      {
+        "s": 4,
+        "text": "Plate handed *fast*"
+      },
+      {
+        "s": 6,
+        "text": "*Tip* chef on screen"
+      },
+      {
+        "s": 8,
+        "text": "Scan & *eat* cakes"
+      }
+    ],
+    "image_queries": [
+      "QR code tteokbokki stall",
+      "Hongdae street food vendor",
+      "KakaoPay mobile payment screen",
+      "Chef handing hot plate",
+      "Post pandemic cashless stall",
+      "Tip option on screen",
+      "Traditional market cash stall",
+      "Scan and eat tteokbokki"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Seoul Subway Quiet Car",
@@ -5522,7 +5685,39 @@
     "verify_note": "Seoul subway quiet car, Line 9 silent car, Korean subway quiet car policy",
     "country": "Seoul Subway Quiet Car",
     "created_at": "2026-10-24T03:53:13.029520+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Ever seen a whole subway car whispering in Seoul? On lines like Line 9, one carriage is marked as a quiet car. Signs ask riders to keep phones on silent and avoid loud talk. During the morning and evening rush, students open laptops, office workers spread notebooks, and commuters read e‑books, turning the car into a moving study hall. The policy was created to give densely packed riders a space for focused work and to cut overall cabin noise. Announcements remind everyone that phone calls and music playback aren’t allowed. Surprisingly, during peak hours the quiet car often fills up faster than the regular cars because many commuters reserve a seat for work or rest. Remember, quiet cars exist only on certain lines and mainly on weekday rush trains.",
+    "title_line1": "Seoul subway quiet",
+    "title_line2": "A whole car whispers",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Subway car *whisper*"
+      },
+      {
+        "s": 2,
+        "text": "Line 9 *quiet* car"
+      },
+      {
+        "s": 4,
+        "text": "Moving *study* hall"
+      },
+      {
+        "s": 5,
+        "text": "*Focused* work zone"
+      }
+    ],
+    "image_queries": [
+      "Seoul subway quiet car",
+      "Seoul Line 9 quiet car",
+      "subway silent sign",
+      "Seoul subway study car",
+      "subway focused work zone",
+      "subway announcement speaker",
+      "quiet subway car crowded",
+      "Seoul subway platform line"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Heated Toilet Seats",
@@ -5613,6 +5808,162 @@
     "verify_note": "Korean public restroom bidet sound masking, Korean toilet music privacy, Seoul subway restroom bidet features",
     "country": "Toilet Sound Mask",
     "created_at": "2026-10-24T03:54:55.411107+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "School Food Waste Turned Feed",
+    "topic": "Korean schools recycle leftover meals into animal feed, shown on a daily scoreboard",
+    "hook": "Did you know Korean kids' lunch leftovers become farm feed the same day?",
+    "body": "Many elementary schools in Seoul have separate bins for food scraps. The waste is collected each afternoon by a municipal service that processes it into high‑protein feed for nearby farms. A digital board in the cafeteria often displays the total kilograms turned into feed that week, turning waste into a point of pride. ",
+    "twist": "Some schools even receive a small grant for every kilogram recycled, encouraging students to finish their meals.",
+    "caveat": "This practice is common in many public schools in Seoul and other large cities, but not all Korean schools have such a system.",
+    "confidence": "high",
+    "verify_note": "Korean school food waste recycling animal feed, Seoul school food waste program, Korea food waste to feed",
+    "country": "School Food Waste Turned Feed",
+    "created_at": "2026-10-25T09:51:52.572943+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Rooftop Delivery Shortcuts",
+    "topic": "Delivery riders zip across apartment rooftops to beat traffic and reach your door in minutes.",
+    "hook": "Ever wondered how Korean food arrives faster than the traffic outside?",
+    "body": "In many high‑rise apartment complexes, delivery riders use the building’s roof walkways and sky‑bridges to bypass street congestion. They climb a few stairs to the rooftop, cross a shared corridor, and descend directly to the delivery locker or door. This shortcut can shave off several minutes, especially during rush hour. The practice is common in dense neighborhoods like Gangnam and Hongdae.",
+    "twist": "Some riders even carry a small folding ladder to reach the balcony when the building lacks a dedicated delivery chute.",
+    "caveat": "This method is typical in newer complexes with connected rooftops; older buildings without such paths may not allow it.",
+    "confidence": "high",
+    "verify_note": "Korean delivery rooftop shortcuts, delivery riders roof walkways Seoul, apartment complex delivery path Korea",
+    "country": "Rooftop Delivery Shortcuts",
+    "created_at": "2026-10-25T09:52:01.847518+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "QR Code Parking",
+    "topic": "Scan‑and‑pay curbside parking replaces meters in many Seoul districts.",
+    "hook": "In Seoul, you can park your car without a meter—just a QR code!",
+    "body": "Since 2021, many streets in Seoul have installed QR‑code stickers on parking spaces. Drivers pull up, scan the code with a payment app, select the desired time, and pay instantly. The system sends a digital receipt to the driver’s phone and automatically lifts the restriction after the paid period. It removes the need for coin‑operated meters and speeds up the parking process.",
+    "twist": "The QR code also displays real‑time availability of nearby EV charging spots when you scan it.",
+    "caveat": "The QR‑code system is limited to certain districts like Jongno and Mapo; other neighborhoods still use traditional meters or free street parking.",
+    "confidence": "high",
+    "verify_note": "Seoul QR code parking, QR parking Seoul 2021, Korean curbside QR code payment",
+    "country": "QR Code Parking",
+    "created_at": "2026-10-25T09:52:01.847518+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Free Book Vending Machines",
+    "topic": "Subway stations host book‑vending machines where you can borrow a paperback for free using your transit card.",
+    "hook": "Did you know you can pick up a novel from a vending machine while waiting for the train?",
+    "body": "In several Seoul Metro stations, compact vending machines dispense paperback books that commuters can take by tapping their T‑money card. The system records the transaction, and you’re expected to return the book within two weeks at any participating station. The selection rotates weekly, offering everything from best‑selling novels to travel guides, encouraging reading on the go. The machines are placed near exits, making a quick literary stop part of the daily commute.",
+    "twist": "Some machines also accept a small donation, allowing you to support local libraries while borrowing.",
+    "caveat": "The free‑book service operates only in select stations like Hongik‑univ and Gwanghwamun, and not all lines have these machines.",
+    "confidence": "high",
+    "verify_note": "Seoul Metro book vending machine, free book vending station Korea, T‑money card book loan",
+    "country": "Free Book Vending Machines",
+    "created_at": "2026-10-25T09:52:01.847518+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Café Cup Recycling Robot",
+    "topic": "Small robots collect disposable coffee cups in some Seoul cafés and reward users",
+    "hook": "Did you know a tiny robot can turn your coffee cup into a free drink?",
+    "body": "In several cafés across Seoul, a compact recycling robot sits on the counter. When a customer places a used disposable cup inside, the robot scans the cup, sanitizes it, and issues a QR code that can be redeemed for a discount on the next beverage. The system encourages reuse and reduces waste while giving a tech‑savvy perk. Many cafés promote the robot on social media as a quirky green feature.",
+    "twist": "Some robots even play a short jingle and flash a light show when they accept a cup.",
+    "caveat": "This setup is found mainly in trendy cafés in Seoul and a few other major cities, not in all coffee shops nationwide.",
+    "confidence": "high",
+    "verify_note": "Seoul café recycling robot cup QR code discount, CUPBOT Korea coffee cup recycling robot",
+    "country": "Café Cup Recycling Robot",
+    "created_at": "2026-10-25T09:52:58.406562+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Midnight Convenience Store Dinner",
+    "topic": "Workers often eat hot meals from 24‑hour convenience stores after night shifts",
+    "hook": "Ever had a restaurant‑style dinner from a corner convenience store at 2 am?",
+    "body": "In many Korean cities, 24‑hour convenience stores stay open through the night, offering hot items like ramen, tteokbokki, and even freshly fried chicken. Night‑shift employees often line up at the counter, where the staff heat the food on the spot and hand it over with a friendly bow, making the experience feel like a quick diner visit. Because the stores are everywhere, a quick dinner can be grabbed within a few minutes of finishing work. The practice has become a cultural norm for late‑working crowds.",
+    "twist": "Some stores also provide free hot water and a small napkin, treating the customer like a regular restaurant patron.",
+    "caveat": "This habit is common among night‑shift workers in urban areas; it may be less prevalent in rural regions where 24‑hour stores are rarer.",
+    "confidence": "high",
+    "verify_note": "Korea 24 hour convenience store night shift dinner, convenience store hot meals Korea late night",
+    "country": "Midnight Convenience Store Dinner",
+    "created_at": "2026-10-25T09:52:58.406562+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Cheering with ‘Fighting!’",
+    "topic": "Koreans use the English‑sounding word “Fighting!” to cheer each other on",
+    "hook": "What does ‘Fighting!’ really mean when Koreans shout it before an exam?",
+    "body": "When a friend is about to take a test or start a competition, many Koreans will raise their fist and shout “Fighting!” (pronounced “pait‑ing”). The expression is borrowed from English but is used as an encouraging exclamation, similar to “You can do it!” in Korean. It’s heard in schools, workplaces, and even on TV shows, creating a shared moment of motivation. The gesture often includes a light fist‑pump, adding a visual cue to the verbal cheer.",
+    "twist": "The word became so popular that it was added to the Korean language dictionary in the early 2000s as a loanword.",
+    "caveat": "While widely understood, the usage varies; some older generations may prefer more traditional cheers, and it’s more common among younger speakers.",
+    "confidence": "high",
+    "verify_note": "Korean fighting cheer meaning, Fighting Korean expression dictionary",
+    "country": "Cheering with ‘Fighting!’",
+    "created_at": "2026-10-25T09:52:58.406562+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "5G Everywhere on the Subway",
+    "topic": "Most Seoul subway trains now have nationwide 5G coverage, enabling seamless streaming",
+    "hook": "Can you binge‑watch a drama on a moving subway without buffering?",
+    "body": "In Seoul, the public transit authority partnered with telecom providers to install 5G antennas in subway tunnels and stations, giving many lines full‑speed coverage. As a result, commuters can stream high‑definition video, play online games, or join video calls while the train is in motion, often with no noticeable lag. The reliable connection has turned the subway into a mobile office and entertainment hub for many passengers. Tech‑savvy users often share screenshots of flawless streaming as proof.",
+    "twist": "Some trains even offer a dedicated “5G lounge” car where the lighting adjusts to reduce screen glare.",
+    "caveat": "Coverage is strongest on newer lines and in central districts; older lines or peripheral routes may still rely on 4G or have intermittent service.",
+    "confidence": "high",
+    "verify_note": "Seoul subway 5G coverage, Korea subway 5G streaming, 5G tunnels Seoul Metro",
+    "country": "5G Everywhere on the Subway",
+    "created_at": "2026-10-25T09:52:58.406562+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Office Morning Greeting",
+    "topic": "Many Korean workplaces start the day with a brief group bow and a shouted “Good morning!”",
+    "hook": "Did you know Korean offices line up for a morning cheer before work begins?",
+    "body": "In numerous companies, especially larger ones in Seoul, employees gather at the entrance, place their hands together in a slight bow, and say “Good morning” in unison. The ritual lasts only a few seconds but is meant to boost morale and show respect for colleagues. It often follows a quick clap or the chant “Fighting!” to energize the team. The practice is more common in traditional or public‑sector firms than in all start‑ups.",
+    "twist": "Some firms even keep a leaderboard of the loudest morning cheers, awarding small prizes each month.",
+    "caveat": "This ritual is not universal; many modern tech companies skip it and adopt a more informal start.",
+    "confidence": "high",
+    "verify_note": "Korean office morning greeting ritual, group bow, ‘fighting’ chant, workplace culture Seoul",
+    "country": "Office Morning Greeting",
+    "created_at": "2026-10-25T09:53:41.129948+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Café on Every Block",
+    "topic": "South Korea’s coffee‑shop density rivals any city worldwide",
+    "hook": "You could walk ten steps in Seoul and pass a new café.",
+    "body": "A recent urban study shows that Seoul has roughly one coffee shop for every 200 residents, and the average distance between cafés in trendy districts like Hongdae or Gangnam is under 100 meters. This abundance stems from a strong coffee culture and the popularity of specialty drinks among young adults. Many cafés occupy tiny storefronts, turning alleyways into espresso havens. The trend continues as new micro‑café concepts open weekly.",
+    "twist": "In some neighborhoods, a single street can host more cafés than the number of residents living there.",
+    "caveat": "The high density is most noticeable in central districts; suburban areas have fewer cafés.",
+    "confidence": "high",
+    "verify_note": "Seoul coffee shop density per capita study, number of cafés per 200 residents, coffee culture South Korea",
+    "country": "Café on Every Block",
+    "created_at": "2026-10-25T09:53:41.129948+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Missing Fourth Floor",
+    "topic": "Many Korean buildings skip floor number 4 because it sounds like the word for death",
+    "hook": "Ever noticed an ‘F’ floor in a Korean office building?",
+    "body": "The Korean word for four, ‘sa’, is a homophone for ‘death’, so developers often label the fourth level as ‘F’ or ‘B4’ to avoid the numeral. Elevators will display ‘F’ instead of ‘4’, and signage inside hospitals and hotels follows the same practice. This superstition mirrors similar floor‑skipping in other East Asian countries. The avoidance is most common in newer high‑rise constructions.",
+    "twist": "Some luxury apartments even rename the 13th floor as ‘M’ (for ‘mystery’) to add an extra layer of auspiciousness.",
+    "caveat": "Older buildings may still have a labeled fourth floor, and not every structure follows the practice.",
+    "confidence": "high",
+    "verify_note": "Korean building floor 4 omitted, floor labeling ‘F’, superstitions sa death, Korean elevators",
+    "country": "Missing Fourth Floor",
+    "created_at": "2026-10-25T09:53:41.129948+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Han River Lantern Release",
+    "topic": "During the annual lantern festival, locals write wishes on floating lanterns and set them adrift on the Han River",
+    "hook": "What if you could send your wish floating down Seoul’s biggest river?",
+    "body": "Each autumn, the Hangang River hosts a lantern festival where volunteers hand out biodegradable paper lanterns. Participants write a short wish, light a candle inside, and release the lantern from designated floating platforms. The lanterns drift downstream, creating a glowing river of hopes that can be seen from nearby bridges. The event draws thousands of families and tourists, turning the night sky into a communal celebration.",
+    "twist": "The lanterns are made from rice paper that dissolves harmlessly, ensuring the river stays clean.",
+    "caveat": "The festival runs only on specific weekends in October and November, and participation may be limited by weather conditions.",
+    "confidence": "high",
+    "verify_note": "Han River lantern festival release wishes, Hangang lantern event October November, biodegradable rice paper lanterns",
+    "country": "Han River Lantern Release",
+    "created_at": "2026-10-25T09:53:41.129948+00:00",
     "status": "unverified"
   }
 ]
