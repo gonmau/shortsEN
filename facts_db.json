@@ -6033,7 +6033,76 @@
       "rural Korean restroom",
       "Korean restroom interior"
     ],
-    "scene_count": 12
+    "scene_count": 12,
+    "image_queries_done": [
+      "warm seat bathroom",
+      "sensor heat toilet seat",
+      "heated toilet seat Seoul",
+      "auto off toilet seat",
+      "Korean public restroom",
+      "one tap bidet",
+      "rural Korean restroom",
+      "Korean restroom interior"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "FREEDOM_Ai_Studio",
+        "page": "https://pixabay.com/photos/bathtub-candle-eucalyptus-spa-10456999/",
+        "id": 10456999
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "lyperzyt",
+        "page": "https://pixabay.com/photos/toilet-paper-toilet-paper-loo-4974461/",
+        "id": 4974461
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "VariousPhotography",
+        "page": "https://pixabay.com/photos/mercedes-car-interior-design-1733260/",
+        "id": 1733260
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "sggk",
+        "page": "https://pixabay.com/photos/woman-model-car-auto-drive-8085148/",
+        "id": 8085148
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "regantheiler",
+        "page": "https://pixabay.com/photos/bathroom-restroom-toilet-wc-5944194/",
+        "id": 5944194
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "kaboompics",
+        "page": "https://pixabay.com/photos/tap-black-faucet-kitchen-sink-791172/",
+        "id": 791172
+      },
+      {
+        "scene": 7,
+        "source": "pixabay",
+        "user": "viarami",
+        "page": "https://pixabay.com/photos/business-bar-restaurant-shield-5475283/",
+        "id": 5475283
+      },
+      {
+        "scene": 8,
+        "source": "pixabay",
+        "user": "jeanvdmeulen",
+        "page": "https://pixabay.com/photos/modern-minimalist-bathroom-interior-3150293/",
+        "id": 3150293
+      }
+    ],
+    "image_source": "pixabay"
   },
   {
     "label": "Zero‑Waste Bulk Aisles",
