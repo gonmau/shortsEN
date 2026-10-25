@@ -6205,7 +6205,39 @@
     "verify_note": "Korean smart home ondol app, apartment IoT heating, Seoul smart apartments 2020",
     "country": "App‑Controlled Floor Heating",
     "created_at": "2026-10-24T03:54:23.989156+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Ever turned on your floor heating while still on the subway? In many high‑rise apartments built after 2015 in Seoul and Busan, the traditional ondol system is now part of a building‑wide IoT network. You open a smartphone app, set the desired temperature, and schedule the heat to start before you walk through the door. The app often shows real‑time energy use, so you can warm only the rooms you need. This convenience grew from Korea’s dense commuter lifestyle, where coming home to a cold floor is common. Some complexes even sync the heating schedule with public‑transport arrival data, automatically turning the floor on a few minutes before your train pulls into the station. The feature is mostly limited to newer apartments in major cities; older buildings and many suburban units still rely on manual thermostats. Imagine stepping onto warm tiles the moment you exit the subway—no more chilly welcomes.",
+    "title_line1": "Heat ondol via subway",
+    "title_line2": "Arrive to toasty tiles",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Heat on *subway*"
+      },
+      {
+        "s": 3,
+        "text": "Pre‑heat before *door*"
+      },
+      {
+        "s": 6,
+        "text": "Heat syncs with *train*"
+      },
+      {
+        "s": 8,
+        "text": "Warm tiles at *exit*"
+      }
+    ],
+    "image_queries": [
+      "subway platform heating",
+      "Seoul high-rise apartment interior",
+      "smartphone app preheat floor",
+      "Korean heating app energy display",
+      "cold floor apartment hallway",
+      "train arrival heating sync",
+      "old Korean apartment thermostat",
+      "warm floor tiles subway exit"
+    ],
+    "scene_count": 14
   },
   {
     "label": "Phone‑Free Bathhouse Rooms",
