@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-25 22:04:18 (KST) · 기록 103건 · 소재 118개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-25 22:16:04 (KST) · 기록 110건 · 소재 118개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -9,15 +9,17 @@
 | -c | 10 | 0 | 3분 45초 |
 | .github/workflows/te | 0 | 4 | 0초 |
 | DB커밋 | 36 | 0 | 0초 |
-| apply_review | 3 | 0 | 0초 |
+| apply_review | 4 | 0 | 0초 |
 | approve | 1 | 0 | 0초 |
+| build_video | 1 | 0 | 6분 43초 |
 | edit_points | 0 | 2 | 56초 |
 | export_review | 1 | 0 | 0초 |
 | fetch_images | 1 | 0 | 1분 8초 |
-| generate_script | 2 | 0 | 1분 24초 |
-| generate_tts | 1 | 0 | 19초 |
-| promote_ready | 3 | 0 | 0초 |
-| redo_videos | 3 | 0 | 0초 |
+| generate_script | 3 | 0 | 1분 26초 |
+| generate_tts | 2 | 0 | 21초 |
+| make_thumbnail | 1 | 0 | 0초 |
+| promote_ready | 4 | 0 | 0초 |
+| redo_videos | 4 | 0 | 0초 |
 | 롱폼 | 1 | 0 | 1분 1초 |
 | 쇼츠 | 30 | 3 | 4시간 14분 |
 | 코드업데이트 | 2 | 0 | 0초 |
@@ -28,6 +30,13 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 22:16 | PC | make_thumbnail | make_thumbnail.py --channel KoreaAtoZ --handle @KoreaA2Z --only 98 | ✅ | 0초 |  |
+| 22:15 | PC | build_video | build_video.py --index 98 --channel KoreaAtoZ --handle @KoreaA2Z | ✅ | 6분 43초 |  |
+| 22:09 | PC | generate_tts | generate_tts.py --index 98 | ✅ | 2초 |  |
+| 22:09 | PC | generate_script | generate_script.py --extras-only --index 98 | ✅ | 1초 |  |
+| 22:09 | PC | promote_ready | promote_ready.py --start 98 | ✅ | 0초 |  |
+| 22:09 | PC | apply_review | apply_review.py | ✅ | 0초 |  |
+| 22:09 | PC | redo_videos | redo_videos.py --script --indexes 98! | ✅ | 0초 |  |
 | 22:04 | PC | edit_points | edit_points.py parse --index 98 --text 오프닝 — Ever seen a whole subway car whispering in Seoul?
 
 이미지[1]을 사용한다.
