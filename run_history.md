@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-25 23:16:11 (KST) · 기록 168건 · 소재 118개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-25 23:30:08 (KST) · 기록 179건 · 소재 118개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -9,17 +9,17 @@
 | -c | 11 | 0 | 3분 46초 |
 | .github/workflows/te | 0 | 4 | 0초 |
 | DB커밋 | 36 | 0 | 0초 |
-| apply_review | 15 | 0 | 1초 |
-| approve | 4 | 0 | 0초 |
-| build_video | 1 | 0 | 6분 43초 |
+| apply_review | 16 | 0 | 1초 |
+| approve | 5 | 0 | 0초 |
+| build_video | 2 | 0 | 14분 37초 |
 | edit_points | 0 | 6 | 2분 21초 |
-| export_review | 5 | 0 | 0초 |
-| fetch_images | 8 | 0 | 4분 17초 |
-| generate_script | 14 | 0 | 2분 9초 |
-| generate_tts | 2 | 0 | 21초 |
-| make_thumbnail | 1 | 0 | 0초 |
-| promote_ready | 15 | 0 | 1초 |
-| redo_videos | 10 | 0 | 1초 |
+| export_review | 6 | 0 | 0초 |
+| fetch_images | 9 | 0 | 4분 40초 |
+| generate_script | 16 | 0 | 4분 14초 |
+| generate_tts | 3 | 0 | 48초 |
+| make_thumbnail | 2 | 0 | 1초 |
+| promote_ready | 16 | 0 | 1초 |
+| redo_videos | 11 | 0 | 1초 |
 | 롱폼 | 1 | 0 | 1분 1초 |
 | 쇼츠 | 30 | 3 | 4시간 14분 |
 | 코드업데이트 | 2 | 0 | 0초 |
@@ -30,6 +30,17 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 23:30 | PC | make_thumbnail | make_thumbnail.py --channel KoreaAtoZ --handle @KoreaA2Z --start 98 | ✅ | 0초 |  |
+| 23:30 | PC | build_video | build_video.py --limit 1 --start 98 --channel KoreaAtoZ --handle @KoreaA2Z | ✅ | 7분 54초 |  |
+| 23:22 | PC | generate_tts | generate_tts.py --limit 1 --start 98 | ✅ | 27초 |  |
+| 23:21 | PC | fetch_images | fetch_images.py --limit 1 --start 98 --any | ✅ | 23초 |  |
+| 23:21 | PC | generate_script | generate_script.py --extras-only --limit 1 --start 98 | ✅ | 1초 |  |
+| 23:21 | PC | export_review | export_review.py --limit 1 --start 98 | ✅ | 0초 |  |
+| 23:21 | PC | generate_script | generate_script.py --limit 1 --start 98 | ✅ | 2분 3초 |  |
+| 23:19 | PC | promote_ready | promote_ready.py --start 98 | ✅ | 0초 |  |
+| 23:19 | PC | apply_review | apply_review.py | ✅ | 0초 |  |
+| 23:19 | PC | redo_videos | redo_videos.py --indexes 98 | ✅ | 0초 |  |
+| 23:19 | PC | approve | approve.py --limit 1 --start 98 | ✅ | 0초 |  |
 | 23:16 | PC | fetch_images | fetch_images.py --limit 1 --start 98 --any | ✅ | 0초 |  |
 | 23:16 | PC | generate_script | generate_script.py --extras-only --limit 1 --start 98 | ✅ | 1초 |  |
 | 23:16 | PC | promote_ready | promote_ready.py --start 98 | ✅ | 0초 |  |
