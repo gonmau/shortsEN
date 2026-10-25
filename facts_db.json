@@ -5715,12 +5715,14 @@
       }
     ],
     "image_queries": [
-      "Whispering subway car",
-      "Quiet car on Line 9",
-      "Passenger reading laptop subway",
-      "Study on wheels",
-      "Subway quiet car announcement",
-      "Crowded quiet car Seoul"
+      "Seoul subway quiet car",
+      "9호선",
+      "subway silent sign",
+      "지하철",
+      "subway focused work zone",
+      "스피커 방송",
+      "quiet subway car crowded",
+      "Seoul subway platform line"
     ],
     "scene_count": 14,
     "fact_verifiability": "user",
