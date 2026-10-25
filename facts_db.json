@@ -3666,17 +3666,17 @@
     "country": "Winter Shaved Ice",
     "created_at": "2026-10-13T23:28:03.975031+00:00",
     "status": "video_done",
-    "narration": "Yes, you can eat ice cream in Seoul’s December chill—called bingsu. In busy spots like Myeongdong and Hongdae, street stalls set up insulated carts that serve bingsu all year. The shaved ice comes with warm red bean paste, toasted rice cakes, and hot syrups, so the cold base meets comforting heat. Vendors hand it in small disposable bowls, perfect for strolling through markets. The treat began as a summer snack, but the hot toppings keep you warm enough to keep it going in winter. Some stalls even pour hot chocolate or ginger tea over the ice, turning the dessert into a hand‑warmer. You’ll mostly find it in these tourist districts, not in quieter neighborhoods.",
-    "title_line1": "Winter bingsu Seoul",
-    "title_line2": "Cold ice, warm bean",
+    "narration": "Yes, you can eat ice cream in Seoul’s December chill—called bingsu. In busy spots like Myeongdong and Hongdae, street vendors set up insulated carts that serve shaved‑ice dessert year‑round. The ice is piled high, then drizzled with warm red bean paste, toasted rice cakes, and hot syrups, so the cold base meets comforting heat. Vendors hand it in small disposable bowls, ideal for strolling through a night market. The tradition began as a summer treat, but the hot toppings keep customers warm in winter. Some stalls even pour hot chocolate or ginger tea over the ice, turning the snack into an instant hand‑warmer. Winter bingsu appears mainly in these bustling districts, not in quieter neighborhoods.",
+    "title_line1": "Seoul winter bingsu",
+    "title_line2": "Heat on icy bingsu",
     "highlights": [
       {
         "s": 1,
-        "text": "*Ice* cream chill"
+        "text": "Bingsu in *December*"
       },
       {
         "s": 2,
-        "text": "All‑year *bingsu* carts"
+        "text": "Carts serve *always*"
       },
       {
         "s": 3,
@@ -3684,17 +3684,20 @@
       },
       {
         "s": 5,
-        "text": "Ice + *hot chocolate*"
+        "text": "Turned *winter* treat"
+      },
+      {
+        "s": 6,
+        "text": "Chocolate *over* ice"
       }
     ],
     "image_queries": [
-      "bingsu ice cream winter",
-      "year-round bingsu street cart",
+      "bingsu December Seoul",
+      "shaved ice cart Seoul",
       "bingsu with hot toppings",
-      "bingsu disposable bowl",
-      "bingsu with hot chocolate",
-      "bingsu ginger tea topping",
-      "bingsu tourist district stall"
+      "winter bingsu street vendor",
+      "bingsu with chocolate",
+      "Seoul night market"
     ],
     "scene_count": 10,
     "ko_title": "Korea: Winter bingsu Seoul Cold ice, warm bean #Shorts",
@@ -3755,7 +3758,11 @@
     "fact_applied": true,
     "srt_path": "C:\\Users\\seokg\\Downloads\\latest-en\\videos\\0039_Winter Shaved Ice.srt",
     "video_path_v6": "C:\\Users\\seokg\\Downloads\\latest-en\\videos\\0039_Winter Shaved Ice.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "audio_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0039_Winter Shaved Ice_v2.mp3",
+    "timing_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0039_Winter Shaved Ice_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done"
   },
   {
     "label": "Delivery Robots on Streets",
@@ -5122,7 +5129,7 @@
     "ko_title": "한국: 서울 카페, 컵을 잠그다 언제든지 가져가세요",
     "ko_description": "🎯 커피 컵을 빌려 잠그고 다시는 잃어버리지 않는다고 상상해 보세요.\n\n홍대·성수 등 동네의 친환경 카페들은 카운터 옆에 작은 사물함 뱅크를 설치했습니다. 자신의 컵을 가져오면 QR 코드를 스캔해 사물함을 열고 컵을 보관하면, 시스템이 사물함 번호를 휴대폰에 기록합니다. 돌아올 때는 키 없이 사물함을 열어 컵을 꺼낼 수 있어, 컵을 잃어버리지 않으면서 제로‑웨이스트 습관을 장려합니다.\n\n💡 이 사물함 중 일부는 소액의 수수료를 받아 지역 환경 NGO에 기부합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#ReusableCupLockers #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "커피 컵을 빌려 잠그고 다시는 잃어버리지 않는다고 상상해 보세요. 서울에서는 홍대·성수 등 동네의 친환경 카페들이 카운터 바로 옆에 작은 사물함 뱅크를 두고 있습니다. 직접 가져온 텀블러를 QR 코드를 스캔하면 사물함이 열리고, 시스템이 사물함 번호를 휴대폰에 기록해 줍니다. 그래서 컵을 넣고 바로 떠날 수 있죠. 돌아올 때는 같은 코드를 스캔해 사물함을 열고 컵을 꺼내면 되니 열쇠가 필요 없습니다. 몇몇 카페는 소액의 수수료를 받아 지역 환경 NGO에 기부하기도 합니다. 이러한 사물함은 주로 부티크나 지속가능성에 초점을 맞춘 카페에서 제공되며, 도시의 대부분 커피숍에서는 찾아볼 수 없습니다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "e93805d91f82",
     "image_queries_done": [
       "Reusable cup lock",
@@ -5234,7 +5241,7 @@
     "ko_title": "한국: 자전거 우유 배달, 학교 가기 전 아침에 우유",
     "ko_description": "🎯 학교 가기 전, 농장에서 바로 짜낸 신선한 우유를 집 앞까지 배달받을 수 있다는 사실, 알고 계셨나요?\n\n강북 및 부산 일부 지역 등 주거지에서 현지 유제품 판매업자들이 전동 자전거를 타고 이른 아침 거리를 누비며 아파트 입구에 들러 차가운 우유팩을 건네줍니다. 주민들은 종종 배달원의 이름을 부르며 인사하고, 배달 일정은 커뮤니티 게시판에 게시돼 슈퍼마켓이 있음에도 불구하고 지속되는 일종의 의식이 됩니다. 이 서비스는 신선함과 배달원과 지역 사회 사이에 형성되는 개인적인 연결 고리 때문에 가치를 인정받고 있습니다.\n\n💡 일부 배달원은 정기 고객에게 감사의 의미로 계절 과일 잼 소량을 무료 샘플로 제공하기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#MorningMilkBikeDelivery #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "학교가 시작되기 전, 농장에서 바로 짜낸 신선한 우유를 집 앞까지 배달받을 수 있다는 사실, 알고 계셨나요? 강북과 부산 일부 지역처럼 주거지가 있는 곳에서는 현지 유제품 판매업자들이 해가 뜨자마자 전동 자전거에 올라탑니다. 그들은 조용한 거리를 빠르게 지나가며 각 아파트 입구에 멈춰 차가운 우유팩을 건네줍니다. 주민들은 종종 배달원의 이름을 부르며 인사하고, 배달 시간은 커뮤니티 게시판에 게시돼 작은 일일 의식이 됩니다. 많은 배달원들이 정기 고객에게 감사의 의미로 계절 과일 잼을 소량 무료 샘플로 제공하기도 합니다. 이 서비스가 모든 곳에 있는 것은 아니며, 고층 아파트는 주로 식료품 배달에 의존하지만, 개인적이고 신선한 연결 고리는 계속 살아 있습니다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "a64cc3463827",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0084_Morning Milk Bike Delivery_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0084_Morning Milk Bike Delivery_v2_timing.json",
