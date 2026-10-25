@@ -5726,7 +5726,7 @@
     ],
     "scene_count": 14,
     "fact_verifiability": "user",
-    "fact_risk": "user-pending",
+    "fact_risk": "user-reviewed",
     "cross_checked": true,
     "cross_sources": 0,
     "cross_model": "openai/gpt-oss-120b",
@@ -5976,7 +5976,8 @@
     "edit_points": [],
     "srt_path": "C:\\Users\\seokg\\Downloads\\latest-en\\videos\\0098_Seoul Subway Quiet Car.srt",
     "video_path_v6": "C:\\Users\\seokg\\Downloads\\latest-en\\videos\\0098_Seoul Subway Quiet Car.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "fact_applied": true
   },
   {
     "label": "Heated Toilet Seats",
@@ -6090,7 +6091,39 @@
     "verify_note": "Seoul bike parking tower, automated bike storage Korea, bike elevator Seoul",
     "country": "Automated Bike Parking",
     "created_at": "2026-10-24T03:53:38.915461+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Ever seen a skyscraper for bikes that lifts your ride up like an elevator? In Seoul, districts like Gangnam and Songpa have public bike‑parking towers next to subway stations and parks. When you arrive, you scan a QR code and a conveyor belt lifts your bike into a stacked compartment, using the space of a single parking spot. The system can hold dozens of bicycles in one footprint. To get your bike back, you scan the same code and the platform lowers to ground level. These towers help the city encourage cycling while freeing limited sidewalk space. Many of them also include charging ports, so electric‑bike riders can top up while their bike is stored. The towers aren’t everywhere, only at selected stations and public parks, but they show how Seoul tackles crowded streets with smart design.",
+    "title_line1": "Bike towers in Seoul",
+    "title_line2": "Bike lifts by code",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Bike *tower* lifts you"
+      },
+      {
+        "s": 3,
+        "text": "Scan QR, bike *rises*"
+      },
+      {
+        "s": 5,
+        "text": "Get bike back, *lower*"
+      },
+      {
+        "s": 6,
+        "text": "*Smart* towers free"
+      }
+    ],
+    "image_queries": [
+      "bike tower elevator",
+      "Seoul bike parking tower",
+      "QR code bike elevator",
+      "multiple bikes stacked tower",
+      "bike retrieval platform",
+      "Seoul smart bike tower",
+      "electric bike charging station",
+      "bike tower at park"
+    ],
+    "scene_count": 14
   },
   {
     "label": "App‑Controlled Floor Heating",
