@@ -178,6 +178,11 @@ def is_bad_narration(text):
 # ============================================================
 
 def build_prompt(fact):
+    import style_profile as _sp
+    return _sp.apply(_build_prompt_base(fact), "script")
+
+
+def _build_prompt_base(fact):
     label = fact.get("label") or fact.get("country", "")
     topic = fact.get("topic", "")
     hook = fact.get("hook", "")

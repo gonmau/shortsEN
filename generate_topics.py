@@ -65,7 +65,12 @@ def used_summary(db: list[dict], limit: int = 80) -> str:
     return "\n".join(f"- {item.get('label', '')}: {item['topic']}" for item in recent)
 
 
-def build_prompt(count: int, used: str) -> str:
+def build_prompt(count: int, used: str):
+    import style_profile as _sp
+    return _sp.apply(_build_prompt_base(count, used), "topic")
+
+
+def _build_prompt_base(count: int, used: str) -> str:
     return f"""Generate {count} fascinating topics about Korea (South Korea) for English YouTube Shorts aimed at international viewers who have never been to Korea.
 
 Requirements:
