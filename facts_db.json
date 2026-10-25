@@ -5716,7 +5716,7 @@
     ],
     "image_queries": [
       "Seoul subway quiet car",
-      "9호선",
+      "9호선 지하철",
       "subway silent sign",
       "Seoul subway study car",
       "subway focused work zone",
@@ -5740,7 +5740,7 @@
     ],
     "image_queries_done": [
       "Seoul subway quiet car",
-      "9호선",
+      "9호선 지하철",
       "subway silent sign",
       "Seoul subway study car",
       "subway focused work zone",
@@ -5758,12 +5758,11 @@
       },
       {
         "scene": 2,
-        "source": "commons",
-        "user": "Striker9498",
-        "license": "CC0",
-        "title": "20240901 9호선 902편성 내부.jpg",
-        "page": "https://commons.wikimedia.org/wiki/File:20240901_9%ED%98%B8%EC%84%A0_902%ED%8E%B8%EC%84%B1_%EB%82%B4%EB%B6%80.jpg",
-        "id": "c:152062689"
+        "source": "pixabay",
+        "user": "Photos_by_Paul",
+        "page": "https://pixabay.com/photos/subway-metro-tunnel-lights-urban-7381618/",
+        "id": 7381618,
+        "type": "photo"
       },
       {
         "scene": 3,
@@ -5826,18 +5825,20 @@
         "rejected_ids": []
       },
       {
-        "verdict": "ok",
-        "clip": 0.2349,
+        "verdict": "bad",
+        "clip": 0.186,
         "ollama": null,
         "seen": "",
         "tools": "clip",
-        "sig": "2fc8d3f61da2",
+        "sig": "6009a5a3776b",
         "at": "2026-10-25 21:49",
         "scene": 2,
         "rejected_ids": [
           1845046,
+          2893851,
           4427609,
           5969381,
+          7381618,
           7995891,
           9151034
         ]
