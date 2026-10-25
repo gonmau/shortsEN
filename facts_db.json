@@ -5716,7 +5716,7 @@
     ],
     "image_queries": [
       "Seoul subway quiet car",
-      "Seoul subway Line 9",
+      "지하철 9호선",
       "subway silent sign",
       "Seoul subway study car",
       "subway focused work zone",
@@ -5740,7 +5740,7 @@
     ],
     "image_queries_done": [
       "Seoul subway quiet car",
-      "Seoul subway Line 9",
+      "지하철 9호선",
       "subway silent sign",
       "Seoul subway study car",
       "subway focused work zone",
@@ -5759,9 +5759,9 @@
       {
         "scene": 2,
         "source": "pixabay",
-        "user": "스마트랜스",
-        "page": "https://pixabay.com/photos/train-railroad-transportation-5952026/",
-        "id": 5952026
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/tunnel-concrete-road-highway-1845046/",
+        "id": 1845046
       },
       {
         "scene": 3,
@@ -5824,17 +5824,20 @@
         "rejected_ids": []
       },
       {
-        "verdict": "ok",
-        "clip": 0.3099,
+        "verdict": "bad",
+        "clip": 0.1439,
         "ollama": null,
         "seen": "",
         "tools": "clip",
-        "sig": "592228854cc5",
-        "at": "2026-10-25 21:47",
+        "sig": "62f342a91320",
+        "at": "2026-10-25 21:48",
         "scene": 2,
         "rejected_ids": [
+          1845046,
+          4427609,
           5969381,
-          7995891
+          7995891,
+          9151034
         ]
       },
       {
