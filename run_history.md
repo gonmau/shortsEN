@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-25 21:42:23 (KST) · 기록 76건 · 소재 118개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-25 21:44:01 (KST) · 기록 82건 · 소재 118개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -8,6 +8,12 @@
 |---|---|---|---|
 | .github/workflows/te | 0 | 4 | 0초 |
 | DB커밋 | 36 | 0 | 0초 |
+| apply_review | 1 | 0 | 0초 |
+| approve | 1 | 0 | 0초 |
+| export_review | 1 | 0 | 0초 |
+| generate_script | 1 | 0 | 1분 23초 |
+| promote_ready | 1 | 0 | 0초 |
+| redo_videos | 1 | 0 | 0초 |
 | 롱폼 | 1 | 0 | 1분 1초 |
 | 쇼츠 | 30 | 3 | 4시간 14분 |
 | 코드업데이트 | 2 | 0 | 0초 |
@@ -18,6 +24,12 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 21:43 | PC | export_review | export_review.py --limit 1 --start 98 | ✅ | 0초 |  |
+| 21:43 | PC | generate_script | generate_script.py --limit 1 --start 98 | ✅ | 1분 23초 |  |
+| 21:42 | PC | apply_review | apply_review.py | ✅ | 0초 |  |
+| 21:42 | PC | redo_videos | redo_videos.py --script --indexes 98! | ✅ | 0초 |  |
+| 21:42 | PC | approve | approve.py --limit 1 --start 98 | ✅ | 0초 |  |
+| 21:42 | PC | promote_ready | promote_ready.py --start 98 | ✅ | 0초 |  |
 | 21:35 | PC | 코드업데이트 | gonmau/shortsEN: 10개 (build_longform.py, build_video.py, layout.py, local_ui.py, longform_render.py, make_thumbnail.py) | ✅ |  |  |
 | 21:17 | PC | 코드업데이트 | gonmau/shortsEN: 7개 (build_longform.py, generate_script.py, generate_topics.py, local_ui.py, longform_render.py, longform_script.py) | ✅ |  |  |
 | 19:04 | Actions | 쇼츠 | korea-shorts-pipeline #33 | ✅ |  | https://github.com/gonmau/shortsEN/actions/runs/40182346123 |
