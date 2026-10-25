@@ -97,7 +97,7 @@
 95,Bike‑Rental Helmet Kiosk,Bike‑share stations in Seoul also dispense helmets from a small vending machine.,scripted,2026-10-24T03:52:49,,,,,
 96,Women‑Only Subway Cars,Designated women‑only subway cars operate during rush hour on several Seoul lines.,scripted,2026-10-24T03:52:49,,,,,
 97,QR Code Street Food,"Scan, pay, and eat street food without cash",scripted,2026-10-24T03:53:13,,,,,
-98,Seoul Subway Quiet Car,Designated silent cars for commuters who want to study or rest,scripted,2026-10-24T03:53:13,partial,"[{'verdict': 'ok', '",,,
+98,Seoul Subway Quiet Car,Designated silent cars for commuters who want to study or rest,video_done,2026-10-24T03:53:13,,"[{'verdict': 'ok', '",O,,
 99,Heated Toilet Seats,Public restrooms in many Korean cities have heated toilet seats that turn on automatically in winter.,scripted,2026-10-24T03:53:38,fixed,,,,
 100,Zero‑Waste Bulk Aisles,"Supermarkets and some convenience stores set aside bulk sections where shoppers bring their own containers to fill grains, nuts, and spices.",scripted,2026-10-24T03:53:38,,,,,
 101,Automated Bike Parking,"Multi‑story bike‑parking towers in Seoul automatically lift and store bicycles, freeing ground space.",scripted,2026-10-24T03:53:38,,,,,
