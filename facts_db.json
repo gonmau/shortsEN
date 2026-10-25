@@ -5716,7 +5716,7 @@
     ],
     "image_queries": [
       "Seoul subway quiet car",
-      "Seoul Line 9 quiet car",
+      "Seoul subway Line 9",
       "subway silent sign",
       "Seoul subway study car",
       "subway focused work zone",
@@ -5740,7 +5740,7 @@
     ],
     "image_queries_done": [
       "Seoul subway quiet car",
-      "Seoul Line 9 quiet car",
+      "Seoul subway Line 9",
       "subway silent sign",
       "Seoul subway study car",
       "subway focused work zone",
@@ -5760,9 +5760,8 @@
         "scene": 2,
         "source": "pixabay",
         "user": "스마트랜스",
-        "page": "https://pixabay.com/photos/train-subway-railway-transport-5969381/",
-        "id": 5969381,
-        "type": "photo"
+        "page": "https://pixabay.com/photos/train-railroad-transportation-5952026/",
+        "id": 5952026
       },
       {
         "scene": 3,
@@ -5826,12 +5825,12 @@
       },
       {
         "verdict": "ok",
-        "clip": 0.3308,
+        "clip": 0.3099,
         "ollama": null,
         "seen": "",
         "tools": "clip",
-        "sig": "8854cf1c5156",
-        "at": "2026-10-25 21:46",
+        "sig": "592228854cc5",
+        "at": "2026-10-25 21:47",
         "scene": 2,
         "rejected_ids": [
           5969381,
