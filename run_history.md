@@ -1,12 +1,12 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-25 21:52:48 (KST) · 기록 95건 · 소재 118개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-25 21:53:18 (KST) · 기록 96건 · 소재 118개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
 | 종류 | 성공 | 실패 | 누적 시간 |
 |---|---|---|---|
-| -c | 8 | 0 | 2분 57초 |
+| -c | 9 | 0 | 3분 19초 |
 | .github/workflows/te | 0 | 4 | 0초 |
 | DB커밋 | 36 | 0 | 0초 |
 | apply_review | 2 | 0 | 0초 |
@@ -26,6 +26,7 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 21:53 | PC | -c | -c import os,requests;import fetch_images as F;from common import load_db,save_db;db=load_db();F.fetch_item(requests.Session(),os.environ['PIXABAY_API | ✅ | 22초 |  |
 | 21:52 | PC | -c | -c import os,requests;import fetch_images as F;from common import load_db,save_db;db=load_db();F.fetch_item(requests.Session(),os.environ['PIXABAY_API | ✅ | 26초 |  |
 | 21:51 | PC | -c | -c import os,requests;import fetch_images as F;from common import load_db,save_db;db=load_db();F.fetch_item(requests.Session(),os.environ['PIXABAY_API | ✅ | 25초 |  |
 | 21:51 | PC | -c | -c import os,requests;import fetch_images as F;from common import load_db,save_db;db=load_db();F.fetch_item(requests.Session(),os.environ['PIXABAY_API | ✅ | 14초 |  |
