@@ -5937,7 +5937,11 @@
         "scene": 8,
         "rejected_ids": []
       }
-    ]
+    ],
+    "audio_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0098_Seoul Subway Quiet Car_v2.mp3",
+    "timing_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0098_Seoul Subway Quiet Car_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done"
   },
   {
     "label": "Heated Toilet Seats",
