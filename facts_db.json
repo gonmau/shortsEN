@@ -5941,7 +5941,23 @@
     "audio_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0098_Seoul Subway Quiet Car_v2.mp3",
     "timing_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0098_Seoul Subway Quiet Car_v2_timing.json",
     "tts_voice_v2": "en-US-AndrewNeural",
-    "status_tts_v2": "done"
+    "status_tts_v2": "done",
+    "overlays": [
+      {
+        "text": "Be..Qui..et..!",
+        "start": 0,
+        "dur": 2.0,
+        "pos": "직접",
+        "x": 50.0,
+        "y": 50.0,
+        "size": 80,
+        "color": "#FFE200",
+        "stroke": "#000000",
+        "bold": true,
+        "effect": "타자기",
+        "bg": ""
+      }
+    ]
   },
   {
     "label": "Heated Toilet Seats",
