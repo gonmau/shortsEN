@@ -27,7 +27,7 @@ BASE_DIR = Path(__file__).resolve().parent
 API_URL = "https://pixabay.com/api/"
 SCENE_COUNT = 6
 IMAGE_TYPE = "photo"  # Pixabay image_type: photo / illustration / vector (--scene 단독 실행에서만 바뀜)
-HEADERS = {"User-Agent": "korea-shorts-bot/1.0"}
+HEADERS = {"User-Agent": "culture-shorts-bot/1.0"}
 
 
 def search(session, key, query, min_size):
@@ -102,6 +102,11 @@ def fetch_item(session, key, idx, item, force):
         country = str(item.get("country", "")).strip()
         queries = [f"{country} travel"] * n_slots
 
+    try:    # 내가 올리거나 고른 사진(my_images/<번호>_<컷>.jpg)은 자동 검색보다 먼저 쓴다
+        import cuts as _cuts
+        _cuts.apply_my_images({idx: item}, idx)
+    except Exception as e:
+        print(f"    내 사진 적용 건너뜀 ({type(e).__name__}: {e})")
     # 검색어가 바뀐 장면만(대본 수정 등) 예전 이미지를 지우고 새로 받는다. 안 바뀐 장면은 그대로 둔다
     done = item.get("image_queries_done")
     changed_scenes = set()
