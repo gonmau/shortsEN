@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-27 07:39:44 (KST) · 기록 183건 · 소재 118개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-27 07:42:31 (KST) · 기록 184건 · 소재 118개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -22,7 +22,7 @@
 | redo_videos | 11 | 0 | 1초 |
 | 롱폼 | 3 | 0 | 1분 1초 |
 | 쇼츠 | 30 | 3 | 4시간 14분 |
-| 코드업데이트 | 4 | 0 | 0초 |
+| 코드업데이트 | 5 | 0 | 0초 |
 
 ## 날짜별 작업 (최근 30일)
 
@@ -30,6 +30,7 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 07:40 | PC | 코드업데이트 | gonmau/shortsEN: 3개 (ext_script.py, local_ui.py, longform_script.py) | ✅ |  |  |
 | 07:09 | PC | 코드업데이트 | gonmau/shortsEN: 4개 (crosscheck.py, export_review.py, notify_cuts.py, notify_discord.py) | ✅ |  |  |
 
 ### 2026-10-26
