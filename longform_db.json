@@ -21,5 +21,31 @@
     "video": "longform_001.mp4",
     "status": "video_done",
     "created_at": "2026-10-23T06:51:18.697662+00:00"
+  },
+  {
+    "id": 2,
+    "mode": "auto",
+    "theme": "",
+    "members": [
+      10,
+      11,
+      12,
+      13,
+      18,
+      19,
+      21,
+      22,
+      23,
+      24
+    ],
+    "title": "10 Korean Culture Facts That Surprise Foreigners",
+    "style": "rich",
+    "expanded": true,
+    "clips": false,
+    "description": "00:00 Intro\n00:15 1. KakaoTalk Coffee Meetups - Coffee via KakaoTalk Instant coffee buddy\n01:25 2. Han River Light Bike - Han River night bike LED tunnel pulses\n03:17 3. Midnight Fresh Food Runs - am snack runs Fresh salad at 2am?\n04:34 4. Elevator Karaoke Surprise - Elevator karaoke Hit a button, sing\n06:06 5. The ‘‑ssi’ Slip - When you text ssi Is it too formal?\n07:40 6. South Korea - Korean delivery One dish, many sides\n09:00 7. Café Study Pods - Seoul café study culture Coffee, Wi‑Fi, focus\n10:27 8. Respectful Drink Pour - Two‑handed drink pour A sign of respect\n12:00 9. 1000‑Day Celebration - Korean 100‑Day A family milestone\n14:04 10. Vending Machine City - Seoul vending lanes Banana from machine\n16:11 Recap\n\nPhotos: Pixabay (pixabay.com)\nPhotos from Wikimedia Commons (cropped/zoomed):\n- \"Pacific Victors Innovation (8877564).jpg\" by U.S. Army EIGHTHARMY by Sgt. Steven Sheldon, Public domain - https://commons.wikimedia.org/wiki/File:Pacific_Victors_Innovation_(8877564).jpg\n- \"Han River Bridge in Vietnam Night View.jpg\" by kizamaya, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) - https://commons.wikimedia.org/wiki/File:Han_River_Bridge_in_Vietnam_Night_View.jpg\n- \"Rental copy Romance of Three Kingdoms-Vol 1-1906-cover binding & 1st page.jpg\" by adaptation of story by Luo Guanzhong, Public domain - https://commons.wikimedia.org/wiki/File:Rental_copy_Romance_of_Three_Kingdoms-Vol_1-1906-cover_binding_%26_1st_page.jpg\n- \"Korean convenience store sandwiches (2).jpg\" by Startandstar, CC0 (https://creativecommons.org/publicdomain/zero/1.0/) - https://commons.wikimedia.org/wiki/File:Korean_convenience_store_sandwiches_(2).jpg\n- \"Jeon Bong-jun under arrest (27 February 1895).jpg\" by Murakami Tenshin (村上天眞), Public domain - https://commons.wikimedia.org/wiki/File:Jeon_Bong-jun_under_arrest_(27_February_1895).jpg\n- \"Korean table manner while drinking-01.jpg\" by Kai Hendry, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) - https://commons.wikimedia.org/wiki/File:Korean_table_manner_while_drinking-01.jpg\n\n🇰🇷 Real Korea in under a minute: everyday life, food, etiquette and surprising facts.\n\n#KakaoTalkCoffeeMeetups #Korea #HanRiverLightBike #MidnightFreshFoodRuns #ElevatorKaraokeSurprise #TheSsiSlip #BanchanDeliveryBonanza #CafStudyPods #RespectfulDrinkPour #1000DayCelebration #Korea #SouthKorea #KoreanCulture",
+    "duration_sec": 1041.5,
+    "video": "longform_002.mp4",
+    "status": "video_done",
+    "created_at": "2026-10-26T00:27:44.427688+00:00"
   }
 ]
