@@ -21,6 +21,8 @@
 name: korea-shorts-pipeline
 
 on:
+  schedule:
+    - cron: "30 9 * * *"   # UTC 기준 (한국 시간 = UTC+9)
   workflow_dispatch:
     inputs:
       redo:
@@ -75,12 +77,13 @@ permissions:
 
 jobs:
   build:
+    if: ${{ github.event_name != 'schedule' || vars.AUTO_RUN != 'off' }}   # 저장소 변수 AUTO_RUN=off 로 자동 실행 일시 중지
     runs-on: ubuntu-latest
     timeout-minutes: 90
     env:
       STAGE: ${{ github.event.inputs.stage || 'all' }}
       PICK: ${{ github.event.inputs.pick || '' }}
-      CROSS_CHECK: ${{ github.event.inputs.cross_check == 'true' && '1' || '0' }}
+      CROSS_CHECK: ${{ (github.event_name == 'schedule' || github.event.inputs.cross_check == 'true') && '1' || '0' }}
       PYTHONUNBUFFERED: "1"  # 로그가 실시간으로 보이게 함
       REDO: ${{ github.event.inputs.redo || '' }}
       REDO_SCRIPT: ${{ github.event.inputs.redo_script || '' }}
@@ -142,7 +145,7 @@ jobs:
           if [ "$PENDING" -lt 10 ]; then python generate_topics.py --count 12 || echo "소재 보충 실패 - 이번 실행은 계속 진행합니다"; fi
 
       - name: 자동 승인 (선택)
-        if: ${{ env.STAGE != 'render' && github.event.inputs.auto_verify == 'true' }}
+        if: ${{ env.STAGE != 'render' && (github.event_name == 'schedule' || github.event.inputs.auto_verify == 'true') }}
         run: |
           python - <<'PY'
           import json, os
