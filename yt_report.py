@@ -124,7 +124,14 @@ def attach(videos, db, lf):
         f = by_id.get(v["id"])
         v["kind"] = "short" if (v.get("sec") or 0) <= 180 else "long"
         if f:
-            v.update({"own": True, "country": ko_country(f.get("country", "")), "theme": f.get("theme", ""), "topic": f.get("topic", ""),
+            th = f.get("theme", "")
+            if IS_EN and th in NOT_THEME:
+                try:
+                    from theme_tag import classify
+                    th = classify(f.get("label") or f.get("country"), f.get("topic"))
+                except Exception:
+                    pass
+            v.update({"own": True, "country": ko_country(f.get("country", "")), "theme": th, "topic": f.get("topic", ""),
                       "idx": db.index(f), "chars": len(str(f.get("narration", "")))})
         elif v["kind"] == "long":
             r = lf_titles.get(re.sub(r"\s+", "", str(v.get("title", "")).split("|")[0]))

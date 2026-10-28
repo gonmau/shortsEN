@@ -42,6 +42,14 @@ def guess_country(text):
     return best
 
 
+def _theme(label, topic):
+    try:
+        from theme_tag import classify
+        return classify(label, topic)
+    except Exception:
+        return "manual"
+
+
 def add_manual(a):
     text = a.narration or ""
     if a.narration_file:
@@ -55,7 +63,7 @@ def add_manual(a):
         raise SystemExit("나라(또는 영어 채널은 짧은 제목)를 입력하세요. 대본에서 자동으로 찾지 못했습니다.")
     topic = (a.topic or sents[0])[:60].strip()
     item = {
-        "country": country, "topic": topic, "theme": "직접 입력" if not EN else "manual",
+        "country": country, "topic": topic, "theme": "직접 입력" if not EN else _theme(country, topic),
         "hook": sents[0], "body": " ".join(sents[1:-1]) if len(sents) > 2 else "", "twist": sents[-1] if len(sents) > 1 else "",
         "caveat": "", "narration": text, "status": "scripted", "confidence": "user", "verify_note": "직접 입력한 대본",
         "fact_verifiability": "user", "fact_risk": "user-pending", "narration_user_edited": True, "created_at": now(),

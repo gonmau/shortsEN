@@ -93,6 +93,7 @@ Respond with a pure JSON array only, no markdown and no other text:
 [
   {{
     "label": "Short title of the subject, 2-5 words in English (example: Korean Delivery Culture)",
+    "theme": "Exactly one of: Food & Dining | Etiquette & Manners | Language & Names | Holidays & Traditions | Tech & Innovation | School & Work | Daily Life | Travel & Places",
     "topic": "One-line summary in English (example: Food delivered to a park bench in minutes)",
     "hook": "Opening line for the first 3 seconds, a question or surprising claim in English (example: In Korea, you can order fried chicken to a bench by the river.)",
     "body": "Explanation in English, 3 to 4 sentences including why it is like this",
@@ -211,6 +212,8 @@ def generate_facts(
 
         now = datetime.now(timezone.utc).isoformat()
         for fact in batch:
+            from theme_tag import normalize
+            fact["theme"] = normalize(fact.get("theme"), fact.get("label"), fact.get("topic"))
             fact["country"] = str(fact.get("label", "")).strip()  # 폴더/파일명/썸네일 등 기존 코드와의 호환용
             fact["created_at"] = now
             fact["status"] = "unverified"
