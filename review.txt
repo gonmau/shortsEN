@@ -11,58 +11,65 @@
 #   제외한 소재는 폐기(rejected)로 바뀌어 render에서 건너뛰고, 나중에 'redo_script=번호!'로 되살릴 수 있습니다.
 # - '('로 시작하는 줄은 참고용이라 무시됩니다. '=== [번호] ===' 줄은 바꾸지 마세요.
 
-=== [83] Reusable Cup Lockers ===
-(사실 확인용 검색어) Seoul café reusable cup lockers zero waste
-(한글 제목) 한국: 서울 카페, 컵을 잠그다 언제든지 가져가세요
-후크: Imagine borrowing a coffee cup, locking it, and never losing it again.
-본문: Eco‑focused cafés in neighborhoods like Hongdae and Seongsu have installed small locker banks next to the counter. After you bring your own cup, you scan a QR code, the locker opens, and you store the cup; the system logs the locker number on your phone. When you return, you retrieve it without any exchange of keys, encouraging a zero‑waste habit while keeping your cup safe from being misplaced.
-반전: A few of these lockers even charge a tiny fee that donates to local environmental NGOs.
+=== [85] Smart Elevator Queue ===
+(교차검증) partial
+(교차검증 메모 1) [수정됨] [unsupported] 2번 문장: Specific app usage in Lotte World Tower not verified.
+(교차검증 메모 2) [수정됨] [unsupported] 3번 문장: Details of grouping riders and countdown lack evidence.
+(교차검증 메모 3) [수정됨] [unsupported] 4번 문장: Rerouting to stairwell with moving walkway not documented.
+(교차검증 메모 4) [수정됨] [unsupported] 5번 문장: Broad claim about impact lacks verifiable support.
+(교차검증 메모 5) [수정 시도 후에도 근거 없음 남음] [unsupported] 4번 문장: Specific claim that the app advises waiting for the next elevator instead of using stairs lacks documented evidence.
+(직접 확인할 문장 4번) During busy periods, the app might advise waiting for the next elevator instead of suggesting a stairwell.
+(사실 확인용 검색어) Korea smart elevator app high rise buildings
+(한글 제목) 한국: 스마트 엘리베이터 대기열, 앱으로 엘리베이터 예약
+후크: What if you could reserve an elevator slot from your phone before you even reach the lobby?
+본문: In some new high‑rise apartments, residents can use a smartphone app to choose their floor and receive a digital ticket that appears on a lobby screen. The system may group riders going to nearby floors, which can help reduce wait times and may display an estimated arrival countdown. During busy periods, the app might advise waiting for the next elevator instead of suggesting a stairwell.
+반전: Older buildings often rely on traditional button calls, while some newer towers are adopting smart elevator features.
 제외:
-제목1: Seoul cafés lock cups
-제목2: Grab yours anytime
-핵심[1]: Lock it, *never lose*
-핵심[3]: Scan QR, locker *opens*
-핵심[5]: Code opens, *get* cup
-핵심[7]: *Boutique* cafés only
-이미지[1]: Reusable cup lock
-이미지[2]: Seoul cafe lockers
-이미지[3]: QR code lock
-이미지[4]: Phone locker log
-이미지[5]: Code opens cup
-이미지[6]: Eco fee donation
-이미지[7]: Boutique cafe lockers
-대본[1]: Imagine borrowing a coffee cup, locking it, and never losing it again.
-대본[2]: In Seoul, some eco‑focused cafés in neighborhoods like Hongdae and Seongsu have small locker banks right by the counter.
-대본[3]: You bring your own reusable cup, scan a QR code, and a locker pops open.
-대본[4]: The system logs the locker number on your phone, so you can drop the cup in and walk away.
-대본[5]: When you return, the same code opens the locker and you retrieve your cup—no keys needed.
-대본[6]: A few cafés even add a tiny fee that goes to local environmental NGOs.
-대본[7]: These lockers are offered mainly by boutique or sustainability‑focused cafés, not by most coffee shops in the city.
-(한글 대본) 커피 컵을 빌려 잠그고 다시는 잃어버리지 않는다고 상상해 보세요. 서울에서는 홍대·성수 등 동네의 친환경 카페들이 카운터 바로 옆에 작은 사물함 뱅크를 두고 있습니다. 직접 가져온 텀블러를 QR 코드를 스캔하면 사물함이 열리고, 시스템이 사물함 번호를 휴대폰에 기록해 줍니다. 그래서 컵을 넣고 바로 떠날 수 있죠. 돌아올 때는 같은 코드를 스캔해 사물함을 열고 컵을 꺼내면 되니 열쇠가 필요 없습니다. 몇몇 카페는 소액의 수수료를 받아 지역 환경 NGO에 기부하기도 합니다. 이러한 사물함은 주로 부티크나 지속가능성에 초점을 맞춘 카페에서 제공되며, 도시의 대부분 커피숍에서는 찾아볼 수 없습니다.
+제목1: Smart Elevator Queue
+제목2: Book lift via app
+핵심[1]: Reserve *elevator* now
+핵심[2]: Digital *ticket* shows
+핵심[3]: Ride groups, *timer*
+이미지[1]: Smart elevator slot reservation
+이미지[2]: Elevator ticket on screen
+이미지[3]: Grouped elevator rides
+이미지[4]: Elevator app reroute
+이미지[5]: Korean high-rise elevator lobby
+대본[1]: What if you could reserve an elevator slot from your phone before you even reach the lobby?
+대본[2]: In some new high‑rise apartments, residents can use a smartphone app to choose their floor and receive a digital ticket that appears on a lobby screen.
+대본[3]: The system may group riders going to nearby floors, which can help reduce wait times and may display an estimated arrival countdown.
+대본[4]: During busy periods, the app might advise waiting for the next elevator instead of suggesting a stairwell.
+대본[5]: Older buildings often rely on traditional button calls, while some newer towers are adopting smart elevator features.
+(한글 대본) 로비에 도착하기 전에도 휴대폰으로 엘리베이터 슬롯을 예약할 수 있다면? 일부 최신 고층 아파트에서는 주민들이 스마트폰 앱을 이용해 원하는 층을 선택하고 로비 화면에 표시되는 디지털 티켓을 받을 수 있습니다. 시스템은 인근 층으로 가는 승객들을 묶어 대기 시간을 줄이고, 도착 예상 시간을 카운트다운으로 보여줄 수도 있습니다. 혼잡한 시간에는 계단을 권유하는 대신 다음 엘리베이터를 기다리라고 앱이 안내할 수 있습니다. 오래된 건물은 여전히 전통적인 버튼 호출에 의존하는 반면, 일부 최신 타워는 스마트 엘리베이터 기능을 도입하고 있습니다.
 
-=== [84] Morning Milk Bike Delivery ===
-(사실 확인용 검색어) Korean milk delivery by bike residential neighborhoods
-(한글 제목) 한국: 자전거 우유 배달, 학교 가기 전 아침에 우유
-후크: Did you know you can get farm‑fresh milk delivered to your doorstep before school starts?
-본문: In residential districts such as Gangbuk and parts of Busan, local dairy vendors ride electric bikes through the early‑morning streets, stopping at apartment entrances to hand out chilled milk cartons. Residents often greet the rider by name, and the delivery schedule is posted on a community board, making it a ritual that has persisted despite supermarkets. The service is valued for its freshness and the personal connection it creates between the rider and the community.
-반전: Some riders also hand out a small free sample of seasonal fruit jam as a thank‑you for regular customers.
+=== [86] Underground Parcel Lockers ===
+(교차검증) ok
+(사실 확인용 검색어) Korean apartment parcel lockers, underground delivery lockers, QR code parcel pickup South Korea
+(한글 제목) 한국: 지하 사물함 QR로 사물함 열기
+후크: Ever wonder how a Korean apartment gets a package without anyone at the door?
+본문: In many newer apartment complexes, couriers drop parcels into a secure underground locker that has dozens of individual compartments. The resident’s phone receives a push notification with a QR code, which they scan at the locker’s panel to open the specific box. This system lets the delivery happen 24 hours a day, even when the building is closed, and it reduces missed deliveries. Residents often watch the locker doors open on a small screen as they retrieve their items.
+반전: Some of these lockers are climate‑controlled, keeping groceries like fresh milk or salads at the right temperature until the owner picks them up.
 제외:
-제목1: Bike milk drops dawn
-제목2: Milk before school
-핵심[1]: *Farm‑fresh* milk
-핵심[2]: *Electric* bike sunrise
-핵심[3]: *Chilled* milk
-핵심[5]: *Free* fruit jam
-이미지[1]: Korean farm fresh milk
-이미지[2]: Korean electric bike sunrise
-이미지[3]: Korean chilled milk carton
-이미지[4]: Korean apartment hallway
-이미지[5]: free fruit jam sample
-이미지[6]: high rise apartment exterior
-대본[1]: Did you know you can get farm‑fresh milk delivered to your doorstep before school starts?
-대본[2]: In neighborhoods like Gangbuk and parts of Busan, local dairy vendors hop on electric bikes just after sunrise.
-대본[3]: They zip through the quiet streets, stop at each apartment entrance, and hand out chilled milk cartons.
-대본[4]: Residents often greet the rider by name, and the delivery times are posted on a community board, turning it into a small daily ritual.
-대본[5]: Many riders even add a tiny free sample of seasonal fruit jam as a thank‑you for regular customers.
-대본[6]: The service isn’t everywhere—larger high‑rise towers usually rely on grocery deliveries—but it keeps a personal, fresh connection alive.
-(한글 대본) 학교가 시작되기 전, 농장에서 바로 짜낸 신선한 우유를 집 앞까지 배달받을 수 있다는 사실, 알고 계셨나요? 강북과 부산 일부 지역처럼 주거지가 있는 곳에서는 현지 유제품 판매업자들이 해가 뜨자마자 전동 자전거에 올라탑니다. 그들은 조용한 거리를 빠르게 지나가며 각 아파트 입구에 멈춰 차가운 우유팩을 건네줍니다. 주민들은 종종 배달원의 이름을 부르며 인사하고, 배달 시간은 커뮤니티 게시판에 게시돼 작은 일일 의식이 됩니다. 많은 배달원들이 정기 고객에게 감사의 의미로 계절 과일 잼을 소량 무료 샘플로 제공하기도 합니다. 이 서비스가 모든 곳에 있는 것은 아니며, 고층 아파트는 주로 식료품 배달에 의존하지만, 개인적이고 신선한 연결 고리는 계속 살아 있습니다.
+제목1: Underground lockers
+제목2: QR opens your locker
+핵심[1]: Package *magic*
+핵심[3]: Phone *buzz* QR code
+핵심[4]: Scan *code* opens box
+핵심[5]: 24h *service* nonstop
+이미지[1]: package magic locker
+이미지[2]: underground parcel lockers high rise
+이미지[3]: phone buzz QR code
+이미지[4]: scan code opens box locker
+이미지[5]: 24h service nonstop locker
+이미지[6]: locker screen showing doors
+이미지[7]: climate controlled locker interior
+이미지[8]: Seoul apartment delivery locker exterior
+대본[1]: Ever wonder how a Korean apartment gets a package without anyone at the door?
+대본[2]: In many newer high‑rise buildings, couriers drop parcels into a secure underground locker with dozens of compartments.
+대본[3]: Your phone buzzes with a push notification and a QR code.
+대본[4]: Scan the code on the locker panel and the exact box pops open.
+대본[5]: The system works 24 hours, when the building is closed, so missed deliveries are rare.
+대본[6]: A small screen often shows the doors opening as you retrieve your item.
+대본[7]: Some lockers are climate‑controlled, keeping milk or salads fresh until you pick them up.
+대본[8]: This setup is common in Seoul’s tall apartments, but older complexes and rural areas rely on door‑to‑door delivery.
+(한글 대본) 한국 아파트에서 누가 문 앞에 있지 않아도 택배를 받는 방법이 궁금하신가요? 많은 최신 고층 건물에서는 택배 기사가 수십 개의 구획이 있는 안전한 지하 사물함에 택배를 넣습니다. 휴대폰이 푸시 알림과 QR 코드를 울립니다. 사물함 패널에 코드를 스캔하면 정확한 칸이 열립니다. 건물이 닫혀 있어도 24시간 작동하므로 미배달이 드뭅니다. 물건을 꺼낼 때 작은 화면에 문이 열리는 모습이 종종 표시됩니다. 일부 사물함은 온도 조절이 되어 있어, 우유나 샐러드 같은 식품을 주인이 찾을 때까지 신선하게 보관합니다. 이 시스템은 서울의 높은 아파트에서 흔하지만, 오래된 단지와 농촌 지역은 여전히 문 앞 배달에 의존합니다.
