@@ -220,7 +220,7 @@ Write a 35-50 second voice-over using ONLY the verified material below.
 
 Rules:
 1. Write in natural, conversational American English, as if talking to a friend.
-2. Open with a strong first sentence built from the [Hook]. No greetings, no "Hey guys". If the hook reads like a flat statement, sharpen it with the number, stake or reversal already in the material (never add new facts).
+2. Write for viewers outside Korea who have never been there: explain any Korean word or custom in a few plain words. Open with a strong first sentence built from the [Hook]. No greetings, no "Hey guys". If the hook reads like a flat statement, sharpen it with the number, stake or reversal already in the material (never add new facts).
 3. Explain the key facts, then work in the twist. Viewers drop off around the first third, so put one second turn or new detail there ("But here's the catch...").
 4. Do not invent facts, numbers, dates, or prices that are not in the material.
    ACCURACY OVER DRAMA: stay calm and factual, never exaggerate. No absolutes ("everyone", "always", "never", "all Koreans", "illegal", "the only country", "the most/biggest").

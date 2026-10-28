@@ -122,7 +122,7 @@ def credit_label(item):
     return ("Photos: " + " · ".join(names)) if names else ""
 
 
-FIXED_TAGS = ["Korea", "SouthKorea", "KoreanCulture", "KoreaTravel", "CultureShock"]
+FIXED_TAGS = ["Korea", "SouthKorea", "KoreanCulture", "KoreaTravel", "TravelKorea", "CultureShock", "LifeInKorea", "KCulture"]
 CHANNEL_BLURB = "🇰🇷 Real Korea in under a minute: everyday life, food, etiquette and surprising facts."
 
 
@@ -140,7 +140,7 @@ def youtube_tags(item):
         if t and t.lower() not in seen and len(t) <= 30:
             seen.add(t.lower())
             out.append(t)
-    return out[:8]
+    return out[:10]
 
 
 def youtube_meta(item):
