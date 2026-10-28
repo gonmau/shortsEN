@@ -12,6 +12,7 @@ Groq(무료 API)로 배치 생성해 facts_db.json에 누적 저장합니다.
 """
 
 import json
+from sensitive import is_sensitive
 import time
 import os
 import argparse
@@ -80,6 +81,7 @@ Requirements:
 - The audience is English speakers outside Korea: K-culture fans (K-drama, K-pop, food) and people planning a trip to Korea. Favor things a visitor would actually see or run into, and never assume the viewer already knows Korean customs or words.
 - The hook decides the first 3 seconds: build it on a concrete number, price, ban, fine or reversal, not a flat "In Korea, X is Y." statement (good: "Rice cakes celebrate how they share", "KTX seats have power - call while it charges")
 - Only well-documented, widely verifiable facts. If you are not sure it is true, leave it out. Do not repeat myths or stereotypes (for example "fan death", or claims about dog meat being common). Prefer present-day Korea over old history.
+- Family-friendly only: skip anything about sex, nudity, prostitution, love motels, contraception or abortion, drugs, suicide or self-harm, abuse, violence, torture, executions, terrorism, or LGBT/race conflicts. If a topic would make a viewer uncomfortable watching with family, leave it out.
 - Exclude politics, North Korea, territorial or historical disputes, religion debates, and private lives of celebrities. K-pop and K-drama are fine only as culture and industry facts, never gossip, and never quote lyrics.
 - ACCURACY FIRST. Surprising must never mean exaggerated. Use calm, qualified wording and state the scope (who, where, when).
   * Do not use absolutes: "everyone", "all Koreans", "always", "never", "illegal", "banned", "the only country", "the first/biggest/most" unless it is firmly documented.
@@ -203,6 +205,10 @@ def generate_facts(
             k = (str(f.get("label", "")).strip().lower(), str(f.get("topic", "")).strip().lower())
             if k in seen:
                 print(f"  중복 제외: {f.get('label')} / {f.get('topic')}")
+                continue
+            _w = is_sensitive(f)
+            if _w:
+                print(f"  성/민감 소재라 제외({_w}): {f.get('label')} / {str(f.get('topic'))[:40]}")
                 continue
             seen.add(k)
             uniq.append(f)
