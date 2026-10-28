@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-28 12:34:29 (KST) · 기록 185건 · 소재 118개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-28 14:36:41 (KST) · 기록 186건 · 소재 118개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -20,7 +20,7 @@
 | make_thumbnail | 2 | 0 | 1초 |
 | promote_ready | 16 | 0 | 1초 |
 | redo_videos | 11 | 0 | 1초 |
-| 롱폼 | 3 | 0 | 1분 1초 |
+| 롱폼 | 4 | 0 | 1분 1초 |
 | 쇼츠 | 31 | 3 | 4시간 14분 |
 | 코드업데이트 | 5 | 0 | 0초 |
 
@@ -30,6 +30,7 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 14:36 | Actions | 롱폼 | korea-longform #4 | ✅ |  | https://github.com/gonmau/shortsEN/actions/runs/40634852015 |
 | 12:34 | Actions | 쇼츠 | korea-shorts-pipeline #34 | ✅ |  | https://github.com/gonmau/shortsEN/actions/runs/40626158961 |
 
 ### 2026-10-27
