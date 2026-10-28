@@ -5308,29 +5308,33 @@
     "label": "Smart Elevator Queue",
     "topic": "New high‑rise apartments use smartphone apps to assign virtual elevator tickets, cutting wait times.",
     "hook": "What if you could reserve an elevator slot from your phone before you even reach the lobby?",
-    "body": "In some new high‑rise apartments, residents can use a smartphone app to choose their floor and receive a digital ticket that appears on a lobby screen. The system may group riders going to nearby floors, which can help reduce wait times and may display an estimated arrival countdown. During busy periods, the app might advise waiting for the next elevator instead of suggesting a stairwell.",
-    "twist": "Older buildings often rely on traditional button calls, while some newer towers are adopting smart elevator features.",
+    "body": "Buildings like the Lotte World Tower and newer complexes in Songpa have installed “smart elevator” systems. Residents tap a button on a dedicated app, select their floor, and receive a digital ticket that shows up on the lobby screen. The elevators group passengers heading to similar floors, so the lobby line shortens dramatically. The system also alerts you when the elevator is arriving, letting you time your coffee break perfectly.",
+    "twist": "During peak hours, the app can reroute you to a nearby stairwell that has a moving walkway, offering a faster alternative.",
     "caveat": "These systems are limited to recently built high‑rise apartments and office towers; older buildings still rely on traditional button calls.",
     "confidence": "high",
     "verify_note": "Korea smart elevator app high rise buildings",
     "country": "Smart Elevator Queue",
     "created_at": "2026-10-21T08:21:13.904881+00:00",
     "status": "video_done",
-    "narration": "What if you could reserve an elevator slot from your phone before you even reach the lobby? In some new high‑rise apartments, residents can use a smartphone app to choose their floor and receive a digital ticket that appears on a lobby screen. The system may group riders going to nearby floors, which can help reduce wait times and may display an estimated arrival countdown. During busy periods, the app might advise waiting for the next elevator instead of suggesting a stairwell. Older buildings often rely on traditional button calls, while some newer towers are adopting smart elevator features.",
+    "narration": "What if you could reserve an elevator slot from your phone before you even reach the lobby? In Seoul’s newest high‑rise apartments, like the Lotte World Tower and modern complexes in Songpa, residents tap a button on a dedicated app, pick their floor, and get a digital ticket that appears on the lobby screen. The system groups riders heading to similar floors, so the line shrinks and you see a countdown for the arriving car, letting you time a coffee break perfectly. During rush hour, the app may even reroute you to a nearby stairwell with a moving walkway for a quicker climb. Older buildings still use traditional button calls, but the smart elevator is changing daily life in many new towers.",
     "title_line1": "Smart Elevator Queue",
     "title_line2": "Book lift via app",
     "highlights": [
       {
         "s": 1,
-        "text": "Reserve *elevator* now"
+        "text": "Reserve *elevator* slot"
       },
       {
         "s": 2,
-        "text": "Digital *ticket* shows"
+        "text": "Get *ticket* on screen"
       },
       {
         "s": 3,
-        "text": "Ride groups, *timer*"
+        "text": "Grouped rides, *short*"
+      },
+      {
+        "s": 4,
+        "text": "App can *reroute* you"
       }
     ],
     "image_queries": [
@@ -5362,7 +5366,7 @@
     "ko_title": "한국: 스마트 엘리베이터 대기열, 앱으로 엘리베이터 예약",
     "ko_description": "🎯 로비에 도착하기 전에도 휴대폰으로 엘리베이터 슬롯을 예약할 수 있다면?\n\n일부 최신 고층 아파트에서는 주민들이 스마트폰 앱을 이용해 원하는 층을 선택하고 로비 화면에 표시되는 디지털 티켓을 받을 수 있습니다. 시스템은 인근 층으로 가는 승객들을 묶어 대기 시간을 줄이고, 도착 예상 시간을 카운트다운으로 보여줄 수도 있습니다. 혼잡한 시간에는 계단을 권유하는 대신 다음 엘리베이터를 기다리라고 앱이 안내할 수 있습니다.\n\n💡 오래된 건물은 여전히 전통적인 버튼 호출에 의존하는 반면, 일부 최신 타워는 스마트 엘리베이터 기능을 도입하고 있습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절 그리고 놀라운 사실들.\n\n#SmartElevatorQueue #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "로비에 도착하기 전에도 휴대폰으로 엘리베이터 슬롯을 예약할 수 있다면? 일부 최신 고층 아파트에서는 주민들이 스마트폰 앱을 이용해 원하는 층을 선택하고 로비 화면에 표시되는 디지털 티켓을 받을 수 있습니다. 시스템은 인근 층으로 가는 승객들을 묶어 대기 시간을 줄이고, 도착 예상 시간을 카운트다운으로 보여줄 수도 있습니다. 혼잡한 시간에는 계단을 권유하는 대신 다음 엘리베이터를 기다리라고 앱이 안내할 수 있습니다. 오래된 건물은 여전히 전통적인 버튼 호출에 의존하는 반면, 일부 최신 타워는 스마트 엘리베이터 기능을 도입하고 있습니다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "b2cc7a749d80",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0085_Smart Elevator Queue_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0085_Smart Elevator Queue_v2_timing.json",
@@ -5468,13 +5472,13 @@
     "cross_checked": true,
     "cross_sources": 0,
     "cross_model": "openai/gpt-oss-120b",
-    "cross_flags": [],
+    "cross_flags": null,
     "cross_verdict": "ok",
-    "cross_notes": [],
+    "cross_notes": null,
     "ko_title": "한국: 지하 사물함 QR로 사물함 열기",
     "ko_description": "🎯 한국 아파트에서 누가 문 앞에 있지 않아도 택배를 받는 방법이 궁금하신가요?\n\n많은 최신 아파트 단지에서는 택배 기사가 수십 개의 개별 구획이 있는 안전한 지하 사물함에 택배를 넣습니다. 거주자의 휴대폰에 QR 코드가 포함된 푸시 알림이 오고, 이를 사물함 패널에 스캔하면 해당 칸이 열립니다. 이 시스템 덕분에 건물이 닫혀 있어도 24시간 내내 배송이 가능하고, 미배달이 줄어듭니다. 주민들은 물건을 꺼낼 때 작은 화면에 사물함 문이 열리는 모습을 볼 수 있습니다.\n\n💡 일부 사물함은 온도 조절이 되어 있어, 신선한 우유나 샐러드 같은 식품을 주인이 찾을 때까지 적정 온도로 보관합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#UndergroundParcelLockers #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "한국 아파트에서 누가 문 앞에 있지 않아도 택배를 받는 방법이 궁금하신가요? 많은 최신 고층 건물에서는 택배 기사가 수십 개의 구획이 있는 안전한 지하 사물함에 택배를 넣습니다. 휴대폰이 푸시 알림과 QR 코드를 울립니다. 사물함 패널에 코드를 스캔하면 정확한 칸이 열립니다. 건물이 닫혀 있어도 24시간 작동하므로 미배달이 드뭅니다. 물건을 꺼낼 때 작은 화면에 문이 열리는 모습이 종종 표시됩니다. 일부 사물함은 온도 조절이 되어 있어, 우유나 샐러드 같은 식품을 주인이 찾을 때까지 신선하게 보관합니다. 이 시스템은 서울의 높은 아파트에서 흔하지만, 오래된 단지와 농촌 지역은 여전히 문 앞 배달에 의존합니다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "7f7b4ab081f1",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0086_Underground Parcel Lockers_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0086_Underground Parcel Lockers_v2_timing.json",
