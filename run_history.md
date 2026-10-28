@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-28 17:29:53 (KST) · 기록 187건 · 소재 118개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-28 17:30:45 (KST) · 기록 188건 · 소재 118개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -22,7 +22,7 @@
 | redo_videos | 11 | 0 | 1초 |
 | 롱폼 | 4 | 0 | 1분 1초 |
 | 쇼츠 | 31 | 3 | 4시간 14분 |
-| 코드업데이트 | 6 | 0 | 0초 |
+| 코드업데이트 | 7 | 0 | 0초 |
 
 ## 날짜별 작업 (최근 30일)
 
@@ -30,6 +30,7 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 17:30 | PC | 코드업데이트 | gonmau/shortsEN: 1개 (yt_report.py) | ✅ |  |  |
 | 17:01 | PC | 코드업데이트 | gonmau/shortsEN: 16개 (build_longform.py, common.py, commons.py, cuts.py, deep.py, ext_script.py) | ✅ |  |  |
 | 14:36 | Actions | 롱폼 | korea-longform #4 | ✅ |  | https://github.com/gonmau/shortsEN/actions/runs/40634852015 |
 | 12:34 | Actions | 쇼츠 | korea-shorts-pipeline #34 | ✅ |  | https://github.com/gonmau/shortsEN/actions/runs/40626158961 |
