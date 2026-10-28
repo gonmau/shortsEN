@@ -68,7 +68,36 @@
   "created": "2026-10-25 23:56",
   "audio": "/home/runner/work/shortsEN/shortsEN/audio/lf_0010_KakaoTalk_Coffee_Meetups.mp3",
   "timing": "/home/runner/work/shortsEN/shortsEN/audio/lf_0010_KakaoTalk_Coffee_Meetups_timing.json",
-  "tts_hash": "bf4f6915d662"
+  "tts_hash": "d9961d2fa12d",
+  "clips": [
+   {
+    "query": "seoul café interior",
+    "path": "/home/runner/work/shortsEN/shortsEN/clips/0010_KakaoTalk Coffee Meetups/clip_01.mp4",
+    "source": "pixabay",
+    "user": "RafterJr72",
+    "page": "https://pixabay.com/videos/id-21115/",
+    "id": "pixabay21115",
+    "check": "unknown"
+   },
+   {
+    "query": "kakaotalk phone screen",
+    "path": "/home/runner/work/shortsEN/shortsEN/clips/0010_KakaoTalk Coffee Meetups/clip_02.mp4",
+    "source": "pixabay",
+    "user": "Natures_Embrace",
+    "page": "https://pixabay.com/videos/id-202987/",
+    "id": "pixabay202987",
+    "check": "unknown"
+   },
+   {
+    "query": "people chatting over coffee",
+    "path": "/home/runner/work/shortsEN/shortsEN/clips/0010_KakaoTalk Coffee Meetups/clip_03.mp4",
+    "source": "pixabay",
+    "user": "Life-Of-Vids",
+    "page": "https://pixabay.com/videos/id-1623/",
+    "id": "pixabay1623",
+    "check": "unknown"
+   }
+  ]
  },
  "11": {
   "narration": "Did you know Seoul’s river can turn into a glowing highway every summer? Each July, cyclists gather at Yeouido to start the Han River Light Bike parade. The event is organized by the Seoul Bike Festival, a group that promotes eco‑friendly recreation and showcases the city’s nightscape. Riders attach flexible LED strips to their bikes, and the lights pulse in sync with a DJ’s beat. As the group rolls out, the riverbank becomes a moving ribbon of color that reflects off the water and the skyscrapers beyond. The parade follows the Han River’s winding path, stretching for many kilometres, and it feels like a river of light flowing through the city. In 2022, participants claimed a Guinness World Record for the longest continuous night bike parade, a testament to the event’s scale. The atmosphere is a mix of music, cheers, and the soft hum of wheels on the paved trail. Locals treat it as a summer ritual, often meeting friends after work to join the ride. Visitors are surprised by how organized the traffic is; police and volunteers guide the cyclists, keeping the flow safe and smooth. The LED strips are battery‑powered, so the ride stays green and quiet, fitting Seoul’s push for sustainable urban life. Nighttime cyclists also get a unique view of Seoul’s skyline, with landmarks like the 63 Building shimmering on the river’s surface. The parade ends near the Banpo Bridge, where the famous Moonlight Rainbow Fountain adds another layer of light. After the ride, many riders linger at riverside cafés, sharing stories over iced coffee. This luminous tradition highlights how modern technology and community spirit can reshape a city’s public spaces. Next, we’ll see how students satisfy late‑night cravings at 24‑hour convenience stores.",
@@ -143,7 +172,36 @@
   "created": "2026-10-25 23:56",
   "audio": "/home/runner/work/shortsEN/shortsEN/audio/lf_0011_Han_River_Light_Bike.mp3",
   "timing": "/home/runner/work/shortsEN/shortsEN/audio/lf_0011_Han_River_Light_Bike_timing.json",
-  "tts_hash": "d12cf33a2062"
+  "tts_hash": "7f0375a27b60",
+  "clips": [
+   {
+    "query": "Han River night bike parade",
+    "path": "/home/runner/work/shortsEN/shortsEN/clips/0011_Han River Light Bike/clip_01.mp4",
+    "source": "pixabay",
+    "user": "stchois",
+    "page": "https://pixabay.com/videos/id-222365/",
+    "id": "pixabay222365",
+    "check": "unknown"
+   },
+   {
+    "query": "Seoul skyline reflections",
+    "path": "/home/runner/work/shortsEN/shortsEN/clips/0011_Han River Light Bike/clip_02.mp4",
+    "source": "pixabay",
+    "user": "YounStudios",
+    "page": "https://pixabay.com/videos/id-336755/",
+    "id": "pixabay336755",
+    "check": "unknown"
+   },
+   {
+    "query": "crowd with LED bike lights",
+    "path": "/home/runner/work/shortsEN/shortsEN/clips/0011_Han River Light Bike/clip_03.mp4",
+    "source": "pixabay",
+    "user": "Vimeo-Free-Videos",
+    "page": "https://pixabay.com/videos/id-1275/",
+    "id": "pixabay1275",
+    "check": "unknown"
+   }
+  ]
  },
  "12": {
   "narration": "Ever wondered why you can buy a fresh salad at 2 am in Seoul? In Korea, most convenience stores stay open 24 hours, so they become the go‑to spot for late‑night cravings. These shops receive fresh deliveries several times a day, keeping lettuce crisp and sushi moist even after midnight. A university student finishing a night class can walk into a store, pick up a chilled salmon kimbap, and be back on campus within minutes. The stores use refrigerated display cases and sometimes automated shelving that rotates stock to maintain temperature. Because Korean students often study late, the market grew to meet demand for quick, healthy snacks after hours. You’ll also find fruit bowls and pre‑made salads that look like they were just prepared at noon. The convenience of grabbing a nutritious bite at any hour is rare in many other countries. In some places, you must rely on fast‑food chains that close early, making Korea’s 24‑hour fresh food option stand out. This habit reflects the country’s high‑density urban life and the cultural norm of staying up late to study or work. Foreign visitors are often surprised to see sushi rolls next to instant noodles on the same shelf at 3 am.",
@@ -218,7 +276,36 @@
   "created": "2026-10-25 23:57",
   "audio": "/home/runner/work/shortsEN/shortsEN/audio/lf_0012_Midnight_Fresh_Food_Runs.mp3",
   "timing": "/home/runner/work/shortsEN/shortsEN/audio/lf_0012_Midnight_Fresh_Food_Runs_timing.json",
-  "tts_hash": "ea35721a83c7"
+  "tts_hash": "8b6070c08dbb",
+  "clips": [
+   {
+    "query": "seoul convenience store night",
+    "path": "/home/runner/work/shortsEN/shortsEN/clips/0012_Midnight Fresh Food Runs/clip_01.mp4",
+    "source": "pixabay",
+    "user": "RafterJr72",
+    "page": "https://pixabay.com/videos/id-21116/",
+    "id": "pixabay21116",
+    "check": "unknown"
+   },
+   {
+    "query": "student walking campus late",
+    "path": "/home/runner/work/shortsEN/shortsEN/clips/0012_Midnight Fresh Food Runs/clip_02.mp4",
+    "source": "pixabay",
+    "user": "Media_Hopper_Studio",
+    "page": "https://pixabay.com/videos/id-378586/",
+    "id": "pixabay378586",
+    "check": "unknown"
+   },
+   {
+    "query": "refrigerated food display",
+    "path": "/home/runner/work/shortsEN/shortsEN/clips/0012_Midnight Fresh Food Runs/clip_03.mp4",
+    "source": "pixabay",
+    "user": "PIRO4D",
+    "page": "https://pixabay.com/videos/id-7549/",
+    "id": "pixabay7549",
+    "check": "unknown"
+   }
+  ]
  },
  "13": {
   "narration": "Did you know an elevator in Seoul can become a karaoke booth the moment the doors close? In several high‑rise office towers, a hidden button activates a compact karaoke system inside the lift. When the button is pressed, a small screen lights up, a microphone drops from the ceiling, and a short instrumental track begins. The music is volume‑controlled and the cabin is sound‑insulated, so the singing stays inside the elevator and does not disturb other floors. Workers often use the brief ride to belt out a chorus of a popular K‑pop hit, turning a routine trip into a quick ice‑breaker before a meeting. Sometimes strangers on the same floor join in, creating a spontaneous mini‑concert that lasts only a few seconds before the lift reaches its destination. The idea started as a fun way to boost morale and encourage informal networking in busy office environments. It also reflects Korea’s love of singing and the cultural habit of sharing music in public spaces. Visitors are often surprised to hear colleagues laughing and harmonizing while the doors open on the 10th floor. The system is simple: a single button, a pre‑loaded playlist of well‑known choruses, and a timer that stops the music as soon as the doors open. This playful feature shows how Korean workplaces blend work and leisure in unexpected ways. Next, we’ll see how the Korean honorific “‑ssi” works like “Mr./Ms.” but can feel overly formal in casual texts.",
@@ -290,30 +377,55 @@
   "created": "2026-10-25 23:57",
   "audio": "/home/runner/work/shortsEN/shortsEN/audio/lf_0013_Elevator_Karaoke_Surprise.mp3",
   "timing": "/home/runner/work/shortsEN/shortsEN/audio/lf_0013_Elevator_Karaoke_Surprise_timing.json",
-  "tts_hash": "8eae4f85fd94"
+  "tts_hash": "03d1f884927f",
+  "clips": [
+   {
+    "query": "modern office elevator interior",
+    "path": "/home/runner/work/shortsEN/shortsEN/clips/0013_Elevator Karaoke Surprise/clip_01.mp4",
+    "source": "pixabay",
+    "user": "Coverr-Free-Footage",
+    "page": "https://pixabay.com/videos/id-3611/",
+    "id": "pixabay3611",
+    "check": "unknown"
+   },
+   {
+    "query": "people singing in elevator",
+    "path": "/home/runner/work/shortsEN/shortsEN/clips/0013_Elevator Karaoke Surprise/clip_02.mp4",
+    "source": "pixabay",
+    "user": "NickyPe",
+    "page": "https://pixabay.com/videos/id-188778/",
+    "id": "pixabay188778",
+    "check": "unknown"
+   },
+   {
+    "query": "Seoul skyscraper lobby",
+    "path": "/home/runner/work/shortsEN/shortsEN/clips/0013_Elevator Karaoke Surprise/clip_03.mp4",
+    "source": "pixabay",
+    "user": "YounStudios",
+    "page": "https://pixabay.com/videos/id-337470/",
+    "id": "pixabay337470",
+    "check": "unknown"
+   }
+  ]
  },
  "18": {
-  "narration": "Did you know that a simple “‑ssi” can change the tone of a Korean text? In Korean, ‑ssi is a polite suffix attached to a person’s given name or full name, much like “Mr.” or “Ms.” in English. You will hear Jimin‑ssi, Min‑ho‑ssi, or even Hana‑ssi when speaking with classmates, coworkers, or acquaintances of similar age. Using ‑ssi with only a family name, such as Kim‑ssi, sounds stiff and can feel rude because it ignores the personal name that conveys closeness. In casual chats with close friends, Koreans often drop the suffix entirely, saying just Jimin or Min‑ho for a softer, more intimate feel. When you need extra respect—like addressing a boss, teacher, or someone much older—Koreans prefer a title plus ‑nim, for example Manager Kim‑nim or Professor Lee‑nim. The shift from ‑ssi to ‑nim signals a higher level of deference and avoids the risk of sounding overly familiar. Many foreigners are surprised that the same suffix used in a business email feels out of place in a group chat with friends. The rule also applies in written messages; a text to a senior colleague should keep ‑ssi, while a meme shared among peers drops it. Understanding when to use ‑ssi helps you navigate Korean hierarchy without sounding distant or disrespectful. So remember: Jimin‑ssi with a peer, Manager Kim‑nim with a superior, and just Jimin when you’re close. Next, we’ll see why Korean food delivery often includes complimentary side dishes alongside the main order.",
+  "narration": "Did you know that adding ‑ssi to a Korean name can feel as formal as a business suit? In Korean, ‑ssi is a polite suffix that attaches to a given name or full name, much like “Mr.” or “Ms.” in English. You’ll hear it most often between coworkers, classmates, or acquaintances who share a similar rank. Using only a family name, such as “Kim‑ssi,” is generally avoided because it sounds detached and can even be rude. In a casual chat with a close friend, people usually drop the suffix and just say the first name for a softer tone. When you need extra respect—like for a boss, teacher, or someone much older—Koreans add the honorific ‑nim after a title, for example “Manager Kim‑nim.” This hierarchy helps keep conversations clear about who holds authority. In everyday life, a teenager might text “Jimin‑ssi” to a peer, but switch to “Jimin‑oppa” or just “Jimin” with a best friend. The same pattern appears in public announcements, where staff call passengers by name‑ssi to stay polite yet neutral. Foreigners often surprise themselves by hearing ‑ssi in a text and wondering if they sounded stiff; the key is to match the level of closeness you share. Remember, using the right suffix shows you respect Korean social etiquette and keeps your conversation comfortable.",
   "keywords": [
    {
     "sentence": 1,
-    "text": "‑ssi changes tone"
+    "text": "‑ssi feels formal"
    },
    {
-    "sentence": 2,
-    "text": "polite suffix"
-   },
-   {
-    "sentence": 3,
-    "text": "same rank"
+    "sentence": 4,
+    "text": "avoid surname‑ssi"
    },
    {
     "sentence": 6,
-    "text": "‑nim for respect"
+    "text": "‑nim for higher respect"
    },
    {
     "sentence": 9,
-    "text": "avoid rudeness"
+    "text": "peer vs friend suffix"
    }
   ],
   "compare": {
@@ -322,46 +434,73 @@
    "right": "United States",
    "rows": [
     {
-     "label": "Use of honorifics",
+     "label": "Honorific use",
      "left": "common in daily speech",
-     "right": "rare, mostly formal"
+     "right": "rare, only titles"
     },
     {
-     "label": "Suffix after name",
-     "left": "‑ssi widely used",
-     "right": "no equivalent suffix"
+     "label": "Surname alone",
+     "left": "considered rude",
+     "right": "acceptable"
     },
     {
-     "label": "Formality shift",
-     "left": "‑nim for higher respect",
-     "right": "titles like Mr./Ms. only"
+     "label": "Formal suffix",
+     "left": "‑ssi, ‑nim",
+     "right": "Mr./Ms. only"
     }
    ]
   },
-  "recap": "‑ssi shows polite distance; drop it with friends, use ‑nim for higher ",
+  "recap": "Use ‑ssi with peers, switch to ‑nim for higher respect, and drop it wi",
   "broll": [
-   "Korean texting on smartphone",
+   "Korean smartphone texting",
    "office meeting in Seoul",
-   "friends chatting in a café"
+   "friends chatting at a café"
   ],
   "verify": {
    "status": "fixed",
    "removed_sentences": 1,
    "removed_rows": 0,
-   "unsupported": 2,
+   "unsupported": 0,
    "notes": [
-    "[contradicted] 3번 문장: Origin is not from “sang‑ssi”; that etymology is inaccurate",
-    "[unsupported] 5번 문장: Claim that using ‑ssi with a family name is rude is not reliably documented",
-    "[unsupported] 10번 문장: No clear rule that texts to seniors must keep ‑ssi while memes drop it"
+    "[contradicted] 3번 문장: Origin is from Chinese \"氏\" (ssi), not \"sang‑si\""
    ],
    "model": "openai/gpt-oss-120b"
   },
-  "sig": "3dc3f02e8173",
+  "sig": "40f5f27ab49c",
   "model": "openai/gpt-oss-120b",
-  "created": "2026-10-25 23:58",
+  "created": "2026-10-28 05:00",
   "audio": "/home/runner/work/shortsEN/shortsEN/audio/lf_0018_The_ssi_Slip.mp3",
   "timing": "/home/runner/work/shortsEN/shortsEN/audio/lf_0018_The_ssi_Slip_timing.json",
-  "tts_hash": "bba28a7ecb98"
+  "tts_hash": "a62c7e1d9716",
+  "clips": [
+   {
+    "query": "Korean smartphone texting",
+    "path": "/home/runner/work/shortsEN/shortsEN/clips/0018_The ‘‐ssi’ Slip/clip_01.mp4",
+    "source": "pixabay",
+    "user": "Natures_Embrace",
+    "page": "https://pixabay.com/videos/id-202987/",
+    "id": "pixabay202987",
+    "check": "unknown"
+   },
+   {
+    "query": "office meeting in Seoul",
+    "path": "/home/runner/work/shortsEN/shortsEN/clips/0018_The ‘‐ssi’ Slip/clip_02.mp4",
+    "source": "pixabay",
+    "user": "Life-Of-Vids",
+    "page": "https://pixabay.com/videos/id-2340/",
+    "id": "pixabay2340",
+    "check": "unknown"
+   },
+   {
+    "query": "friends chatting at a café",
+    "path": "/home/runner/work/shortsEN/shortsEN/clips/0018_The ‘‐ssi’ Slip/clip_03.mp4",
+    "source": "pixabay",
+    "user": "Alanchevereau",
+    "page": "https://pixabay.com/videos/id-22728/",
+    "id": "pixabay22728",
+    "check": "unknown"
+   }
+  ]
  },
  "19": {
   "narration": "Did you know a single Korean delivery can bring a whole table of side dishes? In South Korea, most restaurants still follow the traditional meal structure even when you order online. When you tap Baedal Minjok or Coupang Eats, the kitchen often adds banchan—small plates of kimchi, pickled radish, seasoned spinach, and more. This habit comes from the Korean habit of sharing many side dishes at every home meal. It lets a busy office worker enjoy a balanced, flavorful lunch without cooking. Some places even pack a full set: a bowl of rice, a hot soup, a main protein, and three to five banchan items. The practice also reflects the cultural value of hospitality; serving extra dishes shows care for the guest. Delivery drivers usually receive a sealed container, so the banchan stay fresh until they arrive at your door. However, not every order includes them; Western‑style menus like pizza or fried chicken often skip the extras. Compared with the United States, where side dishes are usually ordered separately, Korean delivery feels like a mini banquet. Foreign visitors often laugh when they find a tiny jar of kimchi beside their ramen. Next, we’ll explore the quiet zones in Korean cafés where phones go silent and work gets done.",
