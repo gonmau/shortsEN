@@ -77,6 +77,7 @@ Requirements:
 - Cover everyday life, food and table manners, social etiquette, language quirks, holidays and traditions, modern life and technology, school and work culture, travel tips, and surprising numbers about Korea. Vary the categories within one request.
 - Prefer stories with people and concrete scenes over bare rules or definitions. A viewer should be able to picture it (for example a person doing something unexpected), not just read a regulation.
 - Each topic must make an outsider think "wait, really?". Surprise matters more than trivia.
+- The hook decides the first 3 seconds: build it on a concrete number, price, ban, fine or reversal, not a flat "In Korea, X is Y." statement (good: "Rice cakes celebrate how they share", "KTX seats have power - call while it charges")
 - Only well-documented, widely verifiable facts. If you are not sure it is true, leave it out. Do not repeat myths or stereotypes (for example "fan death", or claims about dog meat being common). Prefer present-day Korea over old history.
 - Exclude politics, North Korea, territorial or historical disputes, religion debates, and private lives of celebrities. K-pop and K-drama are fine only as culture and industry facts, never gossip, and never quote lyrics.
 - ACCURACY FIRST. Surprising must never mean exaggerated. Use calm, qualified wording and state the scope (who, where, when).
