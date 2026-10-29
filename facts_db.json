@@ -5867,7 +5867,7 @@
     "verify_note": "Seoul bike share helmet vending, Seoul bike rental helmet kiosk, public bike helmet dispenser",
     "country": "Bike‑Rental Helmet Kiosk",
     "created_at": "2026-10-24T03:52:49.280201+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Did you know you can rent a bike and get helmet from a vending machine in Seoul? Districts pair bike stations with kiosks that release helmet when you scan the QR code. You return it to kiosk, and sanitize it with light, though not all stations have this.",
     "title_line1": "Seoul bike‑share",
     "title_line2": "Helmets from a kiosk",
@@ -5890,7 +5890,52 @@
       "Seoul bike helmet QR scan",
       "helmet UV sanitizing"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 서울 자전거 공유 헬멧 키오스크에서",
+    "ko_description": "🎯 서울에서 자전거를 대여하고 헬멧을 자동 판매기에서 받을 수 있다는 사실, 알고 계셨나요?\n\n서울의 많은 구역에서는 공공 자전거 공유 스테이션과 헬멧을 보관하는 소형 키오스크가 함께 배치되어 있습니다. 자전거 QR 코드를 스캔하면, 키오스크가 자전거 잠금 장치에 맞는 깨끗한 헬멧을 내놓습니다. 라이딩을 마치면 같은 키오스크에 헬멧을 반납하고, 시스템이 자동으로 이용 현황을 추적합니다. 이 시스템은 개인 헬멧을 휴대할 필요 없이 안전한 자전거 이용을 장려합니다.\n\n💡 일부 키오스크는 사용 사이에 UV 빛으로 헬멧을 살균하기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#BikeRentalHelmetKiosk #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "서울에서 자전거를 대여하고 헬멧을 자동 판매기에서 받을 수 있다는 사실, 알고 계셨나요? 각 구역은 QR 코드를 스캔하면 헬멧을 내놓는 키오스크와 자전거 스테이션을 연결합니다. 라이딩이 끝나면 키오스크에 반납하고, 빛으로 헬멧을 살균하지만 모든 스테이션에 이 기능이 있는 것은 아닙니다.",
+    "ko_issues": [],
+    "ko_src": "7b2e4d7f63a5",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0095_Bike‐Rental Helmet Kiosk_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0095_Bike‐Rental Helmet Kiosk_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Seoul bike and helmet rental",
+      "Seoul bike helmet QR scan",
+      "helmet UV sanitizing"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "Chikilino",
+        "page": "https://pixabay.com/photos/motocross-race-sport-speed-extreme-4948269/",
+        "id": 4948269
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "ArminEP",
+        "page": "https://pixabay.com/photos/cycling-road-bike-women-sports-8215968/",
+        "id": 8215968
+      },
+      {
+        "scene": 3,
+        "source": "commons",
+        "user": "*Youngjin",
+        "license": "CC BY-SA 3.0",
+        "title": "Seoul Bike 22907.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Seoul_Bike_22907.jpg",
+        "id": "c:79707186"
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0095_Bike‐Rental Helmet Kiosk.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0095_Bike‐Rental Helmet Kiosk.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "RcB40NZBDtE",
+    "uploaded_at": "2026-10-30T01:32:22.519225+09:00"
   },
   {
     "label": "Women‑Only Subway Cars",
@@ -5903,7 +5948,7 @@
     "verify_note": "Seoul women only subway car policy, Seoul Metro women only cars, women-only train cars South Korea",
     "country": "Women‑Only Subway Cars",
     "created_at": "2026-10-24T03:52:49.280201+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Ever seen a subway car reserved just for women in Seoul? During morning and evening rush hour, one car on lines like Line 2 and Line 4 displays a pink sign and announcement, keeping it women‑only. Staff enforce it, and on holidays they sometimes hand out a free sanitizer packet.",
     "title_line1": "Women‑Only subway",
     "title_line2": "Rush‑hour pink car?",
@@ -5926,7 +5971,50 @@
       "Seoul subway pink sign",
       "Seoul subway sanitizer packet"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 여성 전용 지하철 러시아워 핑크 차량?",
+    "ko_description": "🎯 서울에서 여성 전용 지하철 차량을 본 적 있나요?\n\n출퇴근 러시아워에 서울 지하철은 2호선·4호선 등 일부 노선에서 한 칸을 여성 전용으로 지정합니다. 문이 열릴 때 핑크 색 표지판과 짧은 안내 방송이 나오며, 해당 차량은 남녀가 섞인 차량과 구분됩니다. 많은 승객이 특히 혼잡한 시간대에 보안감이 높아진다는 점을 만족합니다. 이 정책은 2012년부터 시행돼 역 직원이 단속합니다.\n\n💡 특별 공휴일에는 여성 전용 차량에 손소독제 한 팩 등 작은 무료 선물을 제공하기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#WomenOnlySubwayCars #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "서울에서 여성 전용 지하철 차량을 본 적 있나요? 출퇴근 러시아워에 2호선·4호선 등에서 한 칸이 핑크 표지판과 안내 방송으로 여성 전용임을 표시합니다. 직원이 단속하고, 공휴일에는 무료 손소독제 팩을 나눠 주기도 합니다.",
+    "ko_issues": [],
+    "ko_src": "0a35c81589c8",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0096_Women‐Only Subway Cars_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0096_Women‐Only Subway Cars_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Seoul women-only subway car",
+      "Seoul subway pink sign",
+      "Seoul subway sanitizer packet"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "스마트랜스",
+        "page": "https://pixabay.com/photos/train-railroad-transportation-5952026/",
+        "id": 5952026
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "PublicDomainPictures",
+        "page": "https://pixabay.com/photos/signage-subway-station-underground-2653/",
+        "id": 2653
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "스마트랜스",
+        "page": "https://pixabay.com/photos/train-subway-railway-transport-5969381/",
+        "id": 5969381
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0096_Women‐Only Subway Cars.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0096_Women‐Only Subway Cars.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "Pa95pfME2XE",
+    "uploaded_at": "2026-10-30T01:32:24.740662+09:00"
   },
   {
     "label": "QR Code Street Food",
@@ -5939,7 +6027,7 @@
     "verify_note": "Korean street food QR code ordering, Hongdae tteokbokki QR, mobile payments KakaoPay street stalls",
     "country": "QR Code Street Food",
     "created_at": "2026-10-24T03:53:13.029520+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "You can often order tteokbokki by scanning a QR code on the stall. In busy Seoul neighborhoods such as Hongdae and Myeongdong, many street‑food vendors often display a small QR‑code sign next to their grill. You usually open a Korean mobile‑payment app like KakaoPay or Naver Pay, scan, pick your dish, and pay instantly. The chef often hands you the hot plate right away, so lines move faster than at cash‑only stalls. The system grew after the pandemic to cut down cash handling and speed service. Some vendors even let you add a tip for the chef through the same screen.",
     "title_line1": "QR code street food",
     "title_line2": "Scan, pay, eat tteok",
@@ -5987,7 +6075,98 @@
       "[수정됨] [unsupported] 6번 문장: no evidence provided",
       "[수정됨] [unsupported] 7번 문장: no evidence provided",
       "[수정됨] [unsupported] 8번 문장: no evidence provided"
-    ]
+    ],
+    "ko_title": "한국: QR코드 길거리 음식 스캔, 결제, 떡 먹기",
+    "ko_description": "🎯 노점에서 QR코드를 스캔하면 떡볶이를 주문할 수 있어요.\n\n홍대·명동 같은 번화한 서울 동네에서는 많은 길거리 음식 판매자가 그릴 옆에 작은 QR코드 표지판을 놓고 있어요. 보통 카카오페이나 네이버페이 같은 한국 모바일 결제 앱을 열고, 스캔하고, 메뉴를 고른 뒤 바로 결제합니다. 셰프가 바로 뜨거운 접시를 건네주는 경우가 많아 현금만 받는 노점보다 줄 서는 속도가 빠릅니다. 팬데믹 이후 현금 취급을 줄이고 서비스 속도를 높이기 위해 이 시스템이 확대됐어요.\n\n💡 일부 판매자는 같은 화면에서 셰프에게 팁을 추가할 수 있게 해줍니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 매너, 놀라운 사실들.\n\n#QRCodeStreetFood #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "노점에서 QR코드를 스캔하면 떡볶이를 주문할 수 있어요. 홍대·명동 같은 번화한 서울 동네에서는 많은 길거리 음식 판매자가 그릴 옆에 작은 QR코드 표지판을 놓고 있어요. 보통 카카오페이나 네이버페이 같은 한국 모바일 결제 앱을 열고, 스캔하고, 메뉴를 고른 뒤 바로 결제합니다. 셰프가 바로 뜨거운 접시를 건네주는 경우가 많아 현금만 받는 노점보다 줄 서는 속도가 빠릅니다. 팬데믹 이후 현금 취급을 줄이고 서비스 속도를 높이기 위해 이 시스템이 확대됐어요. 일부 판매자는 같은 화면에서 셰프에게 팁을 추가할 수 있게 해줍니다.",
+    "ko_issues": [],
+    "ko_src": "6ddaf11a492c",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0097_QR Code Street Food_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0097_QR Code Street Food_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "QR code tteokbokki stall",
+      "Hongdae street food vendor",
+      "KakaoPay mobile payment screen",
+      "Chef handing hot plate",
+      "Post pandemic cashless stall",
+      "Tip option on screen",
+      "Traditional market cash stall",
+      "Scan and eat tteokbokki"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "commons",
+        "user": "Fatimald",
+        "license": "CC BY 4.0",
+        "title": "Street food in Myeondong, South Korea.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Street_food_in_Myeondong,_South_Korea.jpg",
+        "id": "c:164322904"
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "mxwegele",
+        "page": "https://pixabay.com/photos/man-cart-street-food-culture-rain-5524488/",
+        "id": 5524488
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/hands-phone-smartphone-electronics-1851218/",
+        "id": 1851218
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/restaurant-cooking-chef-kitchen-1284351/",
+        "id": 1284351
+      },
+      {
+        "scene": 5,
+        "source": "commons",
+        "user": "Syced",
+        "license": "CC0",
+        "title": "Korean food in Tokyo.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Korean_food_in_Tokyo.jpg",
+        "id": "c:106927717"
+      },
+      {
+        "scene": 6,
+        "source": "commons",
+        "user": "Ian Armstrong",
+        "license": "CC BY-SA 2.0",
+        "title": "Korean street food-02.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Korean_street_food-02.jpg",
+        "id": "c:4298798"
+      },
+      {
+        "scene": 7,
+        "source": "pixabay",
+        "user": "katetrysh",
+        "page": "https://pixabay.com/photos/spice-market-dubai-souq-9060102/",
+        "id": 9060102
+      },
+      {
+        "scene": 8,
+        "source": "commons",
+        "user": "Ian Armstrong",
+        "license": "CC BY-SA 2.0",
+        "title": "Korean street food-01.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Korean_street_food-01.jpg",
+        "id": "c:4298795"
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0097_QR Code Street Food.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0097_QR Code Street Food.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "7TIWlueDsZk",
+    "uploaded_at": "2026-10-30T01:32:26.628443+09:00"
   },
   {
     "label": "Seoul Subway Quiet Car",
@@ -6450,7 +6629,50 @@
       "large Korean supermarket bulk aisle",
       "jar shopping zero waste Korea"
     ],
-    "scene_count": 14
+    "scene_count": 14,
+    "cross_checked": true,
+    "cross_sources": 1,
+    "cross_model": "openai/gpt-oss-20b",
+    "cross_flags": [
+      {
+        "n": 1,
+        "text": "In Korea, you can shop the bulk aisle without buying a single plastic bag."
+      },
+      {
+        "n": 2,
+        "text": "Major chains like Emart, Homeplus, and Lotte Mart have set up “zero‑waste” sections where you bring a reusable jar or bag and fill it with rice, beans, tea, nuts, or spices."
+      },
+      {
+        "n": 3,
+        "text": "Staff weigh your container before and after filling, then charge you for the exact amount."
+      },
+      {
+        "n": 4,
+        "text": "This system grew from a government‑backed campaign in the 2010s to cut plastic waste, and younger shoppers in city neighborhoods often choose it for both environmental and cost reasons."
+      },
+      {
+        "n": 5,
+        "text": "The process works much like European bulk shopping, but Korean stores add precise weighing and clear labeling."
+      },
+      {
+        "n": 6,
+        "text": "Some locations even give a small discount if you use your own container, encouraging repeat visits."
+      },
+      {
+        "n": 7,
+        "text": "These aisles are common in large supermarkets and a few convenience stores in major cities, though smaller neighborhood shops usually don’t offer them."
+      }
+    ],
+    "cross_notes": [
+      "[unsupported] 1번 문장: No evidence provided about Korean bulk aisles",
+      "[unsupported] 2번 문장: No evidence about Emart, Homeplus, Lotte Mart zero‑waste sections",
+      "[unsupported] 3번 문장: No evidence about weighing procedure",
+      "[unsupported] 4번 문장: No evidence about government campaign",
+      "[unsupported] 5번 문장: No evidence about comparison to European bulk shopping",
+      "[unsupported] 6번 문장: No evidence about discounts for own containers",
+      "[unsupported] 7번 문장: No evidence about prevalence in supermarkets and convenience stores"
+    ],
+    "cross_verdict": "unsupported"
   },
   {
     "label": "Automated Bike Parking",
@@ -6690,41 +6912,192 @@
   {
     "label": "Toilet Sound Mask",
     "topic": "Public restrooms often have bidet toilets that play a short tune to hide bathroom noises",
-    "hook": "Did you know many Korean toilets can play a song to cover up bathroom sounds?",
-    "body": "When a traveler steps into a Seoul subway station restroom, they may notice a small button on the bidet control panel. Pressing it triggers a brief melody that plays while the toilet flushes, helping to mask any sounds and protect privacy. This feature is built into many modern public toilets across the city, reflecting Korea's emphasis on personal comfort and discretion in shared spaces. The sound usually stops automatically after a few seconds, letting users focus on their business without embarrassment.",
-    "twist": "Some models even let users choose between different sounds, such as a classical tune or a nature chirp, by tapping a selector on the panel.",
+    "hook": "Did you know many Korean toilets can play a short flushing sound to cover up bathroom noises?",
+    "body": "When you walk into a Seoul subway station restroom, you’ll see a small button on the bidet control panel. Press it and a flushing sound starts while the toilet flushes, masking any noise and protecting privacy. This feature is built into many modern public toilets across the city, reflecting Korea’s focus on comfort in shared spaces. The tune stops automatically after a few seconds, so you can finish without embarrassment. Some models let users pick a simple tone by tapping a selector, while many provide only a single preset sound.",
+    "twist": "Older or rural restrooms often lack this, but newer facilities in cities have it.",
     "caveat": "The sound‑masking function is common in newer public restrooms in major cities and newer buildings, but many older facilities or rural locations still lack it.",
     "confidence": "high",
     "verify_note": "Korean public restroom bidet sound masking, Korean toilet music privacy, Seoul subway restroom bidet features",
     "country": "Toilet Sound Mask",
     "created_at": "2026-10-24T03:54:55.411107+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Did you know many Korean toilets can play a short flushing sound to cover up bathroom noises? When you walk into a Seoul subway station restroom, you’ll see a small button on the bidet control panel. Press it and a flushing sound starts while the toilet flushes, masking any noise and protecting privacy. This feature is built into many modern public toilets across the city, reflecting Korea’s focus on comfort in shared spaces. The tune stops automatically after a few seconds, so you can finish without embarrassment. Some models let users pick a simple tone by tapping a selector, while many provide only a single preset sound. Older or rural restrooms often lack this, but newer facilities in cities have it.",
+    "cross_checked": true,
+    "cross_sources": 0,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [
+      {
+        "n": 6,
+        "text": "Some models let users pick a simple tone by tapping a selector, while many provide only a single preset sound."
+      }
+    ],
+    "narration_original": "Did you know many Korean toilets can play a song to cover up bathroom sounds? When you walk into a Seoul subway station restroom, you’ll see a small button on the bidet control panel. Press it and a melody starts while the toilet flushes, masking any noise and protecting privacy. This feature is built into many modern public toilets across the city, reflecting Korea’s focus on comfort in shared spaces. The tune stops automatically after a few seconds, so you can finish without embarrassment. Some models even let you choose a classical tune or a nature chirp by tapping a selector. Older or rural restrooms often lack this, but newer facilities in cities have it.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Toilets play a *song*"
+      },
+      {
+        "s": 2,
+        "text": "Press the *button*"
+      },
+      {
+        "s": 3,
+        "text": "Melody masks *noise*"
+      },
+      {
+        "s": 5,
+        "text": "*Embarrassment* gone"
+      },
+      {
+        "s": 6,
+        "text": "Choose *tune* options"
+      }
+    ],
+    "cross_verdict": "partial",
+    "cross_notes": [
+      "[수정됨] [unsupported] 6번 문장: While some high‑end models may offer selectable sounds, there is no reliable evidence that public‑use models commonly let users choose classical tunes or nature chirps.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: Limited evidence that models allow tone selection"
+    ],
+    "title_line1": "Seoul subway toilets",
+    "title_line2": "Melody masks sounds",
+    "image_queries": [
+      "Korean toilet speaker",
+      "Seoul subway restroom button",
+      "Bidet melody masking",
+      "Modern Korean public restroom",
+      "Toilet privacy music",
+      "Bidet tune selector",
+      "Rural Korean restroom"
+    ],
+    "scene_count": 10
   },
   {
     "label": "School Food Waste Turned Feed",
     "topic": "Korean schools recycle leftover meals into animal feed, shown on a daily scoreboard",
-    "hook": "Did you know Korean kids' lunch leftovers become farm feed the same day?",
-    "body": "Many elementary schools in Seoul have separate bins for food scraps. The waste is collected each afternoon by a municipal service that processes it into high‑protein feed for nearby farms. A digital board in the cafeteria often displays the total kilograms turned into feed that week, turning waste into a point of pride. ",
-    "twist": "Some schools even receive a small grant for every kilogram recycled, encouraging students to finish their meals.",
+    "hook": "Some Korean schools turn lunch leftovers into animal feed, often within a short time after meals.",
+    "body": "In many Seoul elementary schools, separate bins collect food scraps right after lunch. A municipal service picks up the waste each afternoon and turns it into high‑protein animal feed for nearby farms. In several cafeterias, digital boards display weekly totals of recycled food waste, helping raise awareness of the effort. A few schools receive modest funding for the amount they recycle, which can support programs that encourage students to finish their meals.",
+    "twist": "This system is common in public schools across Seoul and other big cities, though not every Korean school uses it.",
     "caveat": "This practice is common in many public schools in Seoul and other large cities, but not all Korean schools have such a system.",
     "confidence": "high",
     "verify_note": "Korean school food waste recycling animal feed, Seoul school food waste program, Korea food waste to feed",
     "country": "School Food Waste Turned Feed",
     "created_at": "2026-10-25T09:51:52.572943+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Some Korean schools turn lunch leftovers into animal feed, often within a short time after meals. In many Seoul elementary schools, separate bins collect food scraps right after lunch. A municipal service picks up the waste each afternoon and turns it into high‑protein animal feed for nearby farms. In several cafeterias, digital boards display weekly totals of recycled food waste, helping raise awareness of the effort. A few schools receive modest funding for the amount they recycle, which can support programs that encourage students to finish their meals. This system is common in public schools across Seoul and other big cities, though not every Korean school uses it.",
+    "cross_checked": true,
+    "cross_sources": 0,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [
+      {
+        "n": 4,
+        "text": "In several cafeterias, digital boards display weekly totals of recycled food waste, helping raise awareness of the effort."
+      },
+      {
+        "n": 5,
+        "text": "A few schools receive modest funding for the amount they recycle, which can support programs that encourage students to finish their meals."
+      }
+    ],
+    "narration_original": "Did you know Korean kids' lunch leftovers become farm feed the same day? In many Seoul elementary schools, separate bins collect food scraps right after lunch. A municipal service picks up the waste each afternoon and turns it into high‑protein animal feed for nearby farms. In the cafeteria, a digital board shows the total kilograms recycled that week, turning the numbers into a point of pride. But here's the catch: schools actually receive a small grant for every kilogram they recycle, so students are encouraged to finish their meals. This system is common in public schools across Seoul and other big cities, though not every Korean school uses it.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*Feed* from leftovers"
+      },
+      {
+        "s": 2,
+        "text": "Bins grab *scraps*"
+      },
+      {
+        "s": 3,
+        "text": "*Protein* feed"
+      },
+      {
+        "s": 4,
+        "text": "Weekly *kg* on board"
+      },
+      {
+        "s": 5,
+        "text": "*Grant* per kg"
+      }
+    ],
+    "cross_verdict": "partial",
+    "cross_notes": [
+      "[수정됨] [unsupported] 4번 문장: Specific claim about a digital board displaying weekly kilograms lacks verifiable evidence",
+      "[수정됨] [unsupported] 5번 문장: No reliable source confirming schools receive a grant per kilogram recycled",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 4번 문장: No reliable evidence of digital boards showing weekly totals.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: Funding incentives for recycling amounts are not documented."
+    ],
+    "title_line1": "Korean school waste",
+    "title_line2": "Feeds farms that day",
+    "image_queries": [
+      "leftover food feed",
+      "school food scrap bins",
+      "high protein animal feed",
+      "school recycling scoreboard",
+      "school waste grant",
+      "Seoul elementary school cafeteria"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Rooftop Delivery Shortcuts",
     "topic": "Delivery riders zip across apartment rooftops to beat traffic and reach your door in minutes.",
     "hook": "Ever wondered how Korean food arrives faster than the traffic outside?",
-    "body": "In many high‑rise apartment complexes, delivery riders use the building’s roof walkways and sky‑bridges to bypass street congestion. They climb a few stairs to the rooftop, cross a shared corridor, and descend directly to the delivery locker or door. This shortcut can shave off several minutes, especially during rush hour. The practice is common in dense neighborhoods like Gangnam and Hongdae.",
-    "twist": "Some riders even carry a small folding ladder to reach the balcony when the building lacks a dedicated delivery chute.",
+    "body": "In Seoul’s high‑rise apartments, many delivery riders skip the jam by climbing a few stairs to the rooftop. In some cases they move along walkways or sky‑bridges that connect buildings, and then descend to a delivery locker or a door. The route can sometimes shave a few minutes off the trip, especially during rush hour in dense neighborhoods. If a building has no chute, a rider may use a small folding ladder to access a balcony, though practices vary.",
+    "twist": "The trick works mainly in newer complexes with connected rooftops; older towers often don’t have these paths.",
     "caveat": "This method is typical in newer complexes with connected rooftops; older buildings without such paths may not allow it.",
     "confidence": "high",
     "verify_note": "Korean delivery rooftop shortcuts, delivery riders roof walkways Seoul, apartment complex delivery path Korea",
     "country": "Rooftop Delivery Shortcuts",
     "created_at": "2026-10-25T09:52:01.847518+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration": "Ever wondered how Korean food arrives faster than the traffic outside? In Seoul’s high‑rise apartments, many delivery riders skip the jam by climbing a few stairs to the rooftop. In some cases they move along walkways or sky‑bridges that connect buildings, and then descend to a delivery locker or a door. The route can sometimes shave a few minutes off the trip, especially during rush hour in dense neighborhoods. If a building has no chute, a rider may use a small folding ladder to access a balcony, though practices vary. The trick works mainly in newer complexes with connected rooftops; older towers often don’t have these paths.",
+    "cross_checked": true,
+    "cross_sources": 0,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [
+      {
+        "n": 5,
+        "text": "If a building has no chute, a rider may use a small folding ladder to access a balcony, though practices vary."
+      }
+    ],
+    "narration_original": "Ever wondered how Korean food arrives faster than the traffic outside? In Seoul’s high‑rise apartments, many delivery riders skip the jam by climbing a few stairs to the rooftop. They run along shared walkways or sky‑bridges that link buildings, then drop straight onto a delivery locker or your door. This shortcut shaves several minutes, especially during rush hour in dense neighborhoods like Gangnam and Hongdae. But here's the catch: when a building lacks a dedicated chute, some riders carry a small folding ladder to reach the balcony. The trick works mainly in newer complexes with connected rooftops; older towers often don’t have these paths.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Food arrives *faster*"
+      },
+      {
+        "s": 2,
+        "text": "Skip the *jam*"
+      },
+      {
+        "s": 3,
+        "text": "Ride the *sky‑bridge*"
+      },
+      {
+        "s": 5,
+        "text": "Foldable *ladder* hack"
+      }
+    ],
+    "cross_verdict": "partial",
+    "cross_notes": [
+      "[수정됨] [unsupported] 4번 문장: Specific time savings ('several minutes') lacks verifiable data.",
+      "[수정됨] [unsupported] 5번 문장: No reliable evidence that riders commonly carry folding ladders for this purpose.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: Use of folding ladders to access balconies is not reliably documented."
+    ],
+    "title_line1": "Rooftop food hacks",
+    "title_line2": "How they skip jams",
+    "image_queries": [
+      "food delivery rooftop",
+      "delivery rider skipping jam",
+      "rider on sky bridge",
+      "Seoul apartment rooftop walkway",
+      "foldable ladder delivery",
+      "new Seoul rooftop complex"
+    ],
+    "scene_count": 10
   },
   {
     "label": "QR Code Parking",

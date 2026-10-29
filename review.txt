@@ -11,57 +11,80 @@
 #   제외한 소재는 폐기(rejected)로 바뀌어 render에서 건너뛰고, 나중에 'redo_script=번호!'로 되살릴 수 있습니다.
 # - '('로 시작하는 줄은 참고용이라 무시됩니다. '=== [번호] ===' 줄은 바꾸지 마세요.
 
-=== [87] School Banchan Buffet ===
-(교차검증) fixed
-(교차검증 메모 1) [수정됨] [unsupported] 5번 문장: no reliable evidence of tablet voting in schools
-(교차검증 메모 2) [수정됨] [unsupported] 6번 문장: no reliable evidence of zero‑waste rule limiting take‑away
-(사실 확인용 검색어) Korean school cafeteria banchan self serve, school lunch side dishes South Korea, student menu voting
-(한글 제목) 한국 학교 점심, 아이들이 자신이 원하는 반찬을 고르다
-후크: Did you know Korean kids pick their own side dishes at lunch, just like a buffet?
-본문: In many elementary and middle schools, the cafeteria rolls out a rotating tray of banchan—small dishes like kimchi, seasoned spinach, and rolled omelet. Students line up, grab a plate, and choose the banchan they want. Portions are controlled and staff refill the tray every few minutes. Some schools let students suggest next week’s banchan menu, often using a tablet, giving them a voice. Some districts encourage students to take only what they can finish, aiming to reduce waste.
-반전: This self‑serve style is common in schools in cities, though private schools may serve meals pre‑plated.
+=== [95] Bike‑Rental Helmet Kiosk ===
+(사실 확인용 검색어) Seoul bike share helmet vending, Seoul bike rental helmet kiosk, public bike helmet dispenser
+(한글 제목) 한국: 서울 자전거 공유 헬멧 키오스크에서
+후크: Did you know you can rent a bike and get a helmet from a vending machine in Seoul?
+본문: In many districts of Seoul, public bike‑share stations are paired with compact kiosks that store helmets. When you scan the bike’s QR code, the kiosk releases a clean helmet that fits the bike’s lock. The helmet is returned to the same kiosk when you finish your ride, and the system tracks usage automatically. This setup encourages safe cycling without the need to carry your own helmet.
+반전: Some kiosks even sanitize the helmet with UV light between uses.
 제외:
-제목1: Korean school lunch
-제목2: Kids pick their side
-핵심[1]: Kids pick *banchan*
-핵심[2]: Tray of *kimchi*
-핵심[3]: Grab a plate, *pick*
-핵심[6]: Zero‑waste: *finish*
-이미지[1]: Korean school buffet lunch
-이미지[2]: Rotating banchan tray
-이미지[3]: Students picking side dishes
-이미지[4]: Cafeteria staff refilling trays
-이미지[5]: Tablet voting menu school
-이미지[6]: Zero waste cafeteria rule
-이미지[7]: Korean school lunch line
-대본[1]: Did you know Korean kids pick their own side dishes at lunch, just like a buffet?
-대본[2]: In many elementary and middle schools, the cafeteria rolls out a rotating tray of banchan—small dishes like kimchi, seasoned spinach, and rolled omelet.
-대본[3]: Students line up, grab a plate, and choose the banchan they want.
-대본[4]: Portions are controlled and staff refill the tray every few minutes.
-대본[5]: Some schools let students suggest next week’s banchan menu, often using a tablet, giving them a voice.
-대본[6]: Some districts encourage students to take only what they can finish, aiming to reduce waste.
-대본[7]: This self‑serve style is common in schools in cities, though private schools may serve meals pre‑plated.
-(한글 대본) 한국 아이들이 점심에 버거처럼 자신이 원하는 반찬을 고른다는 사실, 알고 계셨나요? 많은 초·중학교 식당에서는 김치, 시금치나물, 계란말이 같은 작은 반찬이 담긴 회전식 그릇을 제공합니다. 학생들은 줄을 서서 접시를 집고 원하는 반찬을 고릅니다. 분량은 조절되며 직원이 몇 분마다 그릇을 다시 채워줍니다. 일부 학교는 학생들이 다음 주 반찬 메뉴를 태블릿으로 제안하도록 허용해 목소리를 내게 합니다. 일부 교육구는 학생들이 마무리할 수 있는 양만 가져가도록 권장해 낭비를 줄이려 합니다. 이 자가서비스 방식은 도시 학교에서 흔하지만, 사립학교는 미리 담아 놓은 식사를 제공할 수 있습니다.
+제목1: Seoul bike‑share
+제목2: Helmets from a kiosk
+핵심[1]: Rent a bike & *helmet*
+핵심[2]: Scan QR for *helmet*
+핵심[3]: *Sanitize* with light
+이미지[1]: Seoul bike and helmet rental
+이미지[2]: Seoul bike helmet QR scan
+이미지[3]: helmet UV sanitizing
+대본[1]: Did you know you can rent a bike and get helmet from a vending machine in Seoul?
+대본[2]: Districts pair bike stations with kiosks that release helmet when you scan the QR code.
+대본[3]: You return it to kiosk, and sanitize it with light, though not all stations have this.
+(한글 대본) 서울에서 자전거를 대여하고 헬멧을 자동 판매기에서 받을 수 있다는 사실, 알고 계셨나요? 각 구역은 QR 코드를 스캔하면 헬멧을 내놓는 키오스크와 자전거 스테이션을 연결합니다. 라이딩이 끝나면 키오스크에 반납하고, 빛으로 헬멧을 살균하지만 모든 스테이션에 이 기능이 있는 것은 아닙니다.
 
-=== [94] Phone Pouch Silence ===
-(사실 확인용 검색어) Korean study cafe phone pouch, phone bag silent study Korea, library phone bag etiquette
-(한글 제목) 한국: 카페 전화 무음 가방에 전화 숨기기
-후크: Ever seen a phone disappear into a clear bag before studying?
-본문: Many Korean study cafés and university libraries provide small transparent pouches where patrons place their smartphones at the start of a session. The pouch stays on the table, visually reminding everyone the device is muted, which helps maintain a quiet environment. The practice grew from the high density of students who use phones for both study and distraction, turning a simple bag into a social cue for silence.
-반전: Some cafés even lock the pouch with a tiny padlock that only opens when you leave, preventing you from taking the phone back mid‑session.
+=== [96] Women‑Only Subway Cars ===
+(사실 확인용 검색어) Seoul women only subway car policy, Seoul Metro women only cars, women-only train cars South Korea
+(한글 제목) 한국: 여성 전용 지하철 러시아워 핑크 차량?
+후크: Ever seen a subway car reserved just for women in Seoul?
+본문: During the morning and evening peak hours, Seoul Metro marks one car on lines such as Line 2 and Line 4 as women‑only. The doors open with a pink sign and a brief announcement, and the car is kept separate from the mixed‑gender cars. Many commuters appreciate the extra sense of security, especially during crowded trips. The policy has been in place since 2012 and is enforced by station staff.
+반전: During special holidays, the women‑only car sometimes carries a small free gift, like a hand‑sanitizer packet.
 제외:
-제목1: Café phones silent
-제목2: Bag hides your phone
-핵심[1]: Phone in *clear* bag
-핵심[2]: Place phone in *pouch*
-핵심[3]: Keeps it *muted*
-핵심[4]: Locked *pouch*
-이미지[1]: phone in clear bag
-이미지[2]: phone placed in pouch
-이미지[3]: silent phone pouch
-이미지[4]: locked phone pouch
-대본[1]: Ever seen a phone disappear into a clear bag before studying?
-대본[2]: In study cafés and university libraries, you put your smartphone in a pouch on the table.
-대본[3]: It stays muted, reminding everyone to stay quiet.
-대본[4]: Some cafés lock the pouch with a padlock that opens when you leave.
-(한글 대본) 공부하기 전에 투명 가방에 전화가 사라지는 걸 본 적 있나요? 스터디 카페와 대학 도서관에서는 스마트폰을 테이블 위의 파우치에 넣습니다. 파우치가 무음 상태를 유지해 모두가 조용히 해야 함을 상기시켜 줍니다. 일부 카페는 떠날 때만 열리는 자물쇠로 파우치를 잠급니다.
+제목1: Women‑Only subway
+제목2: Rush‑hour pink car?
+핵심[1]: *Women*‑only subway car
+핵심[2]: *Pink* sign, rush‑hour only
+핵심[3]: *Free* sanitizer
+이미지[1]: Seoul women-only subway car
+이미지[2]: Seoul subway pink sign
+이미지[3]: Seoul subway sanitizer packet
+대본[1]: Ever seen a subway car reserved just for women in Seoul?
+대본[2]: During morning and evening rush hour, one car on lines like Line 2 and Line 4 displays a pink sign and announcement, keeping it women‑only.
+대본[3]: Staff enforce it, and on holidays they sometimes hand out a free sanitizer packet.
+(한글 대본) 서울에서 여성 전용 지하철 차량을 본 적 있나요? 출퇴근 러시아워에 2호선·4호선 등에서 한 칸이 핑크 표지판과 안내 방송으로 여성 전용임을 표시합니다. 직원이 단속하고, 공휴일에는 무료 손소독제 팩을 나눠 주기도 합니다.
+
+=== [97] QR Code Street Food ===
+(교차검증) fixed
+(교차검증 메모 1) [수정됨] [unsupported] 1번 문장: no evidence provided
+(교차검증 메모 2) [수정됨] [unsupported] 2번 문장: no evidence provided
+(교차검증 메모 3) [수정됨] [unsupported] 3번 문장: no evidence provided
+(교차검증 메모 4) [수정됨] [unsupported] 4번 문장: no evidence provided
+(교차검증 메모 5) [수정됨] [unsupported] 5번 문장: no evidence provided
+(교차검증 메모 6) [수정됨] [unsupported] 6번 문장: no evidence provided
+(교차검증 메모 7) [수정됨] [unsupported] 7번 문장: no evidence provided
+(교차검증 메모 8) [수정됨] [unsupported] 8번 문장: no evidence provided
+(사실 확인용 검색어) Korean street food QR code ordering, Hongdae tteokbokki QR, mobile payments KakaoPay street stalls
+(한글 제목) 한국: QR코드 길거리 음식 스캔, 결제, 떡 먹기
+후크: You can often order tteokbokki by scanning a QR code on the stall.
+본문: In busy Seoul neighborhoods such as Hongdae and Myeongdong, many street‑food vendors often display a small QR‑code sign next to their grill. You usually open a Korean mobile‑payment app like KakaoPay or Naver Pay, scan, pick your dish, and pay instantly. The chef often hands you the hot plate right away, so lines move faster than at cash‑only stalls. The system grew after the pandemic to cut down cash handling and speed service.
+반전: Some vendors even let you add a tip for the chef through the same screen.
+제외:
+제목1: QR code street food
+제목2: Scan, pay, eat tteok
+핵심[1]: Scan for tteokbokki
+핵심[2]: QR codes in Seoul stalls
+핵심[3]: Instant *pay* KakaoPay
+핵심[5]: Post‑pandemic *speed* boost
+이미지[1]: QR code tteokbokki stall
+이미지[2]: Hongdae street food vendor
+이미지[3]: KakaoPay mobile payment screen
+이미지[4]: Chef handing hot plate
+이미지[5]: Post pandemic cashless stall
+이미지[6]: Tip option on screen
+이미지[7]: Traditional market cash stall
+이미지[8]: Scan and eat tteokbokki
+대본[1]: You can often order tteokbokki by scanning a QR code on the stall.
+대본[2]: In busy Seoul neighborhoods such as Hongdae and Myeongdong, many street‑food vendors often display a small QR‑code sign next to their grill.
+대본[3]: You usually open a Korean mobile‑payment app like KakaoPay or Naver Pay, scan, pick your dish, and pay instantly.
+대본[4]: The chef often hands you the hot plate right away, so lines move faster than at cash‑only stalls.
+대본[5]: The system grew after the pandemic to cut down cash handling and speed service.
+대본[6]: Some vendors even let you add a tip for the chef through the same screen.
+(한글 대본) 노점에서 QR코드를 스캔하면 떡볶이를 주문할 수 있어요. 홍대·명동 같은 번화한 서울 동네에서는 많은 길거리 음식 판매자가 그릴 옆에 작은 QR코드 표지판을 놓고 있어요. 보통 카카오페이나 네이버페이 같은 한국 모바일 결제 앱을 열고, 스캔하고, 메뉴를 고른 뒤 바로 결제합니다. 셰프가 바로 뜨거운 접시를 건네주는 경우가 많아 현금만 받는 노점보다 줄 서는 속도가 빠릅니다. 팬데믹 이후 현금 취급을 줄이고 서비스 속도를 높이기 위해 이 시스템이 확대됐어요. 일부 판매자는 같은 화면에서 셰프에게 팁을 추가할 수 있게 해줍니다.
