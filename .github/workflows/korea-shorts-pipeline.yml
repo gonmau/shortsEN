@@ -37,8 +37,8 @@ on:
         options: [all, prepare, cuts, render]
         default: all
       count:
-        description: "만들 영상 개수 (하루 1~2개 권장)"
-        default: "2"
+        description: "만들 영상 개수 (기본 3개, 하루 업로드 상한도 3개)"
+        default: "3"
       start_index:
         description: "이 번호 이후 소재만 처리 (새 레포라 보통 0)"
         default: "0"
@@ -87,7 +87,7 @@ jobs:
       PYTHONUNBUFFERED: "1"  # 로그가 실시간으로 보이게 함
       REDO: ${{ github.event.inputs.redo || '' }}
       REDO_SCRIPT: ${{ github.event.inputs.redo_script || '' }}
-      COUNT: ${{ github.event.inputs.count || '2' }}
+      COUNT: ${{ github.event.inputs.count || '3' }}
       START: ${{ github.event.inputs.start_index || '0' }}
       CTA_MODE: ${{ github.event.inputs.cta_check || 'off' }}
       SUPERTONIC_VOICE_EN: ${{ github.event.inputs.voice || '' }}
@@ -277,7 +277,7 @@ jobs:
           JOB_STATUS: ${{ job.status }}
           ART_URL: ${{ steps.art.outputs.artifact-url }}
           RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
-          COUNT: ${{ github.event.inputs.count || '2' }}
+          COUNT: ${{ github.event.inputs.count || '3' }}
           START: ${{ github.event.inputs.start_index || '0' }}
           REVIEW_URL: ${{ github.server_url }}/${{ github.repository }}/blob/${{ github.ref_name }}/review.txt
         run: python notify_discord.py
