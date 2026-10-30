@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": 1,
+    "mode": "manual",
+    "theme": "",
+    "members": [
+      5,
+      2,
+      1
+    ],
+    "title": "3 Korean Culture Facts That Surprise Foreigners",
+    "style": "rich",
+    "expanded": true,
+    "clips": false,
+    "description": "00:00 Intro\n00:13 1. Quiet Subway Cars - Seoul quiet subway Silent car study hub\n02:00 2. Heated Underground Malls - Heated underground mall Shop barefoot in snow\n03:48 3. Instant Coffee Vending - Seoul coffee vending Espresso in 30 seconds\n05:49 Recap\n\nPhotos: Pixabay (pixabay.com)\nPhotos from Wikimedia Commons / Openverse (cropped/zoomed):\n- \"강남역 江南驛 Gangnam Station, Seoul.png\" by Jmh65890, CC0 (https://creativecommons.org/publicdomain/zero/1.0/) - https://commons.wikimedia.org/wiki/File:%EA%B0%95%EB%82%A8%EC%97%AD_%E6%B1%9F%E5%8D%97%E9%A9%9B_Gangnam_Station,_Seoul.png\n- \"스크린샷 2025-08-08 114750.png\" by Jmh65890, CC0 (https://creativecommons.org/publicdomain/zero/1.0/) - https://commons.wikimedia.org/wiki/File:%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2025-08-08_114750.png\n\n🇰🇷 Real Korea in under a minute: everyday life, food, etiquette and surprising facts.\n\n#QuietSubwayCars #Korea #HeatedUndergroundMalls #InstantCoffeeVending #Korea #SouthKorea #KoreanCulture",
+    "duration_sec": 373.4,
+    "video": "longform_001.mp4",
+    "status": "video_done",
+    "created_at": "2026-10-30T04:49:36.557318+00:00"
+  }
+]
