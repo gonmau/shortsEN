@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-30 18:02:12 (KST) · 기록 212건 · 소재 118개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-30 18:02:43 (KST) · 기록 213건 · 소재 118개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -20,6 +20,7 @@
 | make_thumbnail | 2 | 0 | 1초 |
 | promote_ready | 16 | 0 | 1초 |
 | redo_videos | 11 | 0 | 1초 |
+| upload_to_youtube | 1 | 0 | 9초 |
 | 롱폼 | 21 | 0 | 27분 42초 |
 | 쇼츠 | 33 | 3 | 4시간 14분 |
 | 코드업데이트 | 12 | 0 | 0초 |
@@ -30,6 +31,7 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 18:02 | PC | upload_to_youtube | upload_to_youtube.py --limit 1 --daily-max 4 | ✅ | 9초 |  |
 | 18:00 | PC | 코드업데이트 | gonmau/shortsEN: 4개 (get_refresh_token.py, local_ui.py, redo_videos.py, sync_db.py) | ✅ |  |  |
 | 13:49 | PC | 롱폼 | build_longform.py --mode manual --indexes 5,2,1 --theme  --count 3 --start 0 --channel KoreaAtoZ --handle @KoreaA2Z --style rich --fill-images --requi | ✅ | 25분 48초 |  |
 | 13:23 | PC | 롱폼 | build_longform.py --mode manual --indexes 5,2,1 --channel KoreaAtoZ --handle @KoreaA2Z --style rich --fill-images --plan-only --only 5 --resync | ✅ | 5초 |  |
