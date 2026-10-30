@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-30 13:23:45 (KST) · 기록 210건 · 소재 118개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-30 13:49:41 (KST) · 기록 211건 · 소재 118개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -20,7 +20,7 @@
 | make_thumbnail | 2 | 0 | 1초 |
 | promote_ready | 16 | 0 | 1초 |
 | redo_videos | 11 | 0 | 1초 |
-| 롱폼 | 20 | 0 | 1분 54초 |
+| 롱폼 | 21 | 0 | 27분 42초 |
 | 쇼츠 | 33 | 3 | 4시간 14분 |
 | 코드업데이트 | 11 | 0 | 0초 |
 
@@ -30,6 +30,7 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 13:49 | PC | 롱폼 | build_longform.py --mode manual --indexes 5,2,1 --theme  --count 3 --start 0 --channel KoreaAtoZ --handle @KoreaA2Z --style rich --fill-images --requi | ✅ | 25분 48초 |  |
 | 13:23 | PC | 롱폼 | build_longform.py --mode manual --indexes 5,2,1 --channel KoreaAtoZ --handle @KoreaA2Z --style rich --fill-images --plan-only --only 5 --resync | ✅ | 5초 |  |
 | 13:23 | PC | 롱폼 | build_longform.py --mode manual --indexes 5,2,1 --channel KoreaAtoZ --handle @KoreaA2Z --style rich --fill-images --plan-only --only 1 --resync | ✅ | 5초 |  |
 | 13:22 | PC | 롱폼 | build_longform.py --mode manual --indexes 5,2,1 --channel KoreaAtoZ --handle @KoreaA2Z --style rich --fill-images --plan-only --only 5 --resync | ✅ | 5초 |  |
