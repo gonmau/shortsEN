@@ -3762,7 +3762,9 @@
     "audio_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0039_Winter Shaved Ice_v2.mp3",
     "timing_path_v2": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\0039_Winter Shaved Ice_v2_timing.json",
     "tts_voice_v2": "en-US-AndrewNeural",
-    "status_tts_v2": "done"
+    "status_tts_v2": "done",
+    "youtube_id": "kz5-J1HxL5o",
+    "uploaded_at": "2026-10-30T18:02:39.222565+09:00"
   },
   {
     "label": "Delivery Robots on Streets",
