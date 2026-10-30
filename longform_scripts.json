@@ -160,6 +160,8 @@
   "sig": "addc3dcb2bb4",
   "model": "openai/gpt-oss-120b",
   "created": "2026-10-30 13:21",
-  "bridge_to": ""
+  "bridge_to": "",
+  "locked": true,
+  "edited": "2026-10-30 13:23"
  }
 }
