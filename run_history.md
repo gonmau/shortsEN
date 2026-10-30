@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-30 13:17:07 (KST) · 기록 203건 · 소재 118개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-30 13:17:20 (KST) · 기록 204건 · 소재 118개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -20,7 +20,7 @@
 | make_thumbnail | 2 | 0 | 1초 |
 | promote_ready | 16 | 0 | 1초 |
 | redo_videos | 11 | 0 | 1초 |
-| 롱폼 | 13 | 0 | 1분 26초 |
+| 롱폼 | 14 | 0 | 1분 26초 |
 | 쇼츠 | 33 | 3 | 4시간 14분 |
 | 코드업데이트 | 11 | 0 | 0초 |
 
@@ -30,6 +30,7 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 13:17 | PC | 롱폼 | build_longform.py --mode auto --indexes  --theme Seoul --count 4 --start 0 --channel KoreaAtoZ --handle @KoreaA2Z --style rich --fill-images --dry-run | ✅ | 0초 |  |
 | 13:17 | PC | 롱폼 | build_longform.py --mode auto --indexes  --theme Seoul --count 3 --start 0 --channel KoreaAtoZ --handle @KoreaA2Z --style rich --fill-images --dry-run | ✅ | 0초 |  |
 | 13:16 | PC | 롱폼 | build_longform.py --mode auto --indexes  --theme Seoul --count 6 --start 0 --channel KoreaAtoZ --handle @KoreaA2Z --style rich --fill-images --dry-run | ✅ | 0초 |  |
 | 13:12 | PC | 롱폼 | build_longform.py --mode auto --indexes  --theme Seoul --count 3 --start 0 --channel KoreaAtoZ --handle @KoreaA2Z --style rich --fill-images --dry-run | ✅ | 0초 |  |
