@@ -11,80 +11,116 @@
 #   제외한 소재는 폐기(rejected)로 바뀌어 render에서 건너뛰고, 나중에 'redo_script=번호!'로 되살릴 수 있습니다.
 # - '('로 시작하는 줄은 참고용이라 무시됩니다. '=== [번호] ===' 줄은 바꾸지 마세요.
 
-=== [95] Bike‑Rental Helmet Kiosk ===
-(사실 확인용 검색어) Seoul bike share helmet vending, Seoul bike rental helmet kiosk, public bike helmet dispenser
-(한글 제목) 한국: 서울 자전거 공유 헬멧 키오스크에서
-후크: Did you know you can rent a bike and get a helmet from a vending machine in Seoul?
-본문: In many districts of Seoul, public bike‑share stations are paired with compact kiosks that store helmets. When you scan the bike’s QR code, the kiosk releases a clean helmet that fits the bike’s lock. The helmet is returned to the same kiosk when you finish your ride, and the system tracks usage automatically. This setup encourages safe cycling without the need to carry your own helmet.
-반전: Some kiosks even sanitize the helmet with UV light between uses.
-제외:
-제목1: Seoul bike‑share
-제목2: Helmets from a kiosk
-핵심[1]: Rent a bike & *helmet*
-핵심[2]: Scan QR for *helmet*
-핵심[3]: *Sanitize* with light
-이미지[1]: Seoul bike and helmet rental
-이미지[2]: Seoul bike helmet QR scan
-이미지[3]: helmet UV sanitizing
-대본[1]: Did you know you can rent a bike and get helmet from a vending machine in Seoul?
-대본[2]: Districts pair bike stations with kiosks that release helmet when you scan the QR code.
-대본[3]: You return it to kiosk, and sanitize it with light, though not all stations have this.
-(한글 대본) 서울에서 자전거를 대여하고 헬멧을 자동 판매기에서 받을 수 있다는 사실, 알고 계셨나요? 각 구역은 QR 코드를 스캔하면 헬멧을 내놓는 키오스크와 자전거 스테이션을 연결합니다. 라이딩이 끝나면 키오스크에 반납하고, 빛으로 헬멧을 살균하지만 모든 스테이션에 이 기능이 있는 것은 아닙니다.
-
-=== [96] Women‑Only Subway Cars ===
-(사실 확인용 검색어) Seoul women only subway car policy, Seoul Metro women only cars, women-only train cars South Korea
-(한글 제목) 한국: 여성 전용 지하철 러시아워 핑크 차량?
-후크: Ever seen a subway car reserved just for women in Seoul?
-본문: During the morning and evening peak hours, Seoul Metro marks one car on lines such as Line 2 and Line 4 as women‑only. The doors open with a pink sign and a brief announcement, and the car is kept separate from the mixed‑gender cars. Many commuters appreciate the extra sense of security, especially during crowded trips. The policy has been in place since 2012 and is enforced by station staff.
-반전: During special holidays, the women‑only car sometimes carries a small free gift, like a hand‑sanitizer packet.
-제외:
-제목1: Women‑Only subway
-제목2: Rush‑hour pink car?
-핵심[1]: *Women*‑only subway car
-핵심[2]: *Pink* sign, rush‑hour only
-핵심[3]: *Free* sanitizer
-이미지[1]: Seoul women-only subway car
-이미지[2]: Seoul subway pink sign
-이미지[3]: Seoul subway sanitizer packet
-대본[1]: Ever seen a subway car reserved just for women in Seoul?
-대본[2]: During morning and evening rush hour, one car on lines like Line 2 and Line 4 displays a pink sign and announcement, keeping it women‑only.
-대본[3]: Staff enforce it, and on holidays they sometimes hand out a free sanitizer packet.
-(한글 대본) 서울에서 여성 전용 지하철 차량을 본 적 있나요? 출퇴근 러시아워에 2호선·4호선 등에서 한 칸이 핑크 표지판과 안내 방송으로 여성 전용임을 표시합니다. 직원이 단속하고, 공휴일에는 무료 손소독제 팩을 나눠 주기도 합니다.
-
-=== [97] QR Code Street Food ===
+=== [99] Heated Toilet Seats ===
 (교차검증) fixed
-(교차검증 메모 1) [수정됨] [unsupported] 1번 문장: no evidence provided
-(교차검증 메모 2) [수정됨] [unsupported] 2번 문장: no evidence provided
-(교차검증 메모 3) [수정됨] [unsupported] 3번 문장: no evidence provided
-(교차검증 메모 4) [수정됨] [unsupported] 4번 문장: no evidence provided
-(교차검증 메모 5) [수정됨] [unsupported] 5번 문장: no evidence provided
-(교차검증 메모 6) [수정됨] [unsupported] 6번 문장: no evidence provided
-(교차검증 메모 7) [수정됨] [unsupported] 7번 문장: no evidence provided
-(교차검증 메모 8) [수정됨] [unsupported] 8번 문장: no evidence provided
-(사실 확인용 검색어) Korean street food QR code ordering, Hongdae tteokbokki QR, mobile payments KakaoPay street stalls
-(한글 제목) 한국: QR코드 길거리 음식 스캔, 결제, 떡 먹기
-후크: You can often order tteokbokki by scanning a QR code on the stall.
-본문: In busy Seoul neighborhoods such as Hongdae and Myeongdong, many street‑food vendors often display a small QR‑code sign next to their grill. You usually open a Korean mobile‑payment app like KakaoPay or Naver Pay, scan, pick your dish, and pay instantly. The chef often hands you the hot plate right away, so lines move faster than at cash‑only stalls. The system grew after the pandemic to cut down cash handling and speed service.
-반전: Some vendors even let you add a tip for the chef through the same screen.
+(교차검증 메모 1) [수정됨] [unsupported] 1번 문장: No specific evidence confirming widespread pre‑seat warming sensors
+(교차검증 메모 2) [수정됨] [unsupported] 2번 문장: Lacks verifiable sources for sensor‑activated heated seats in those specific venues
+(교차검증 메모 3) [수정됨] [contradicted] 3번 문장: Heated seats are typically electric, not powered by a building’s central heating system
+(교차검증 메모 4) [수정됨] [unsupported] 4번 문장: No documented proof of automatic shut‑off timing in public Korean toilets
+(사실 확인용 검색어) Seoul public restroom heated seats, Korean toilet seat heating, Korean public facilities heated toilet
+(한글 제목) 시원한 좌석, 한국에서 앉기 전 따뜻해지는 좌석
+후크: Did you know that some Korean public toilets have seats that can warm up before you sit?
+본문: In some Seoul department stores, subway stations, and hospitals, public restrooms have sensor‑activated heated seats that may start warming when someone approaches. The seats are powered electrically, often drawing electricity from the building’s supply, so they stay warm during the cold winter months. When you move away, the heating often shuts off after a short period of inactivity to save energy. This convenience reflects Korea’s focus on hygiene and user comfort in public spaces.
+반전: Many of those modern seats also hide a bidet nozzle, letting you adjust water pressure with a single button for a quick clean.
 제외:
-제목1: QR code street food
-제목2: Scan, pay, eat tteok
-핵심[1]: Scan for tteokbokki
-핵심[2]: QR codes in Seoul stalls
-핵심[3]: Instant *pay* KakaoPay
-핵심[5]: Post‑pandemic *speed* boost
-이미지[1]: QR code tteokbokki stall
-이미지[2]: Hongdae street food vendor
-이미지[3]: KakaoPay mobile payment screen
-이미지[4]: Chef handing hot plate
-이미지[5]: Post pandemic cashless stall
-이미지[6]: Tip option on screen
-이미지[7]: Traditional market cash stall
-이미지[8]: Scan and eat tteokbokki
-대본[1]: You can often order tteokbokki by scanning a QR code on the stall.
-대본[2]: In busy Seoul neighborhoods such as Hongdae and Myeongdong, many street‑food vendors often display a small QR‑code sign next to their grill.
-대본[3]: You usually open a Korean mobile‑payment app like KakaoPay or Naver Pay, scan, pick your dish, and pay instantly.
-대본[4]: The chef often hands you the hot plate right away, so lines move faster than at cash‑only stalls.
-대본[5]: The system grew after the pandemic to cut down cash handling and speed service.
-대본[6]: Some vendors even let you add a tip for the chef through the same screen.
-(한글 대본) 노점에서 QR코드를 스캔하면 떡볶이를 주문할 수 있어요. 홍대·명동 같은 번화한 서울 동네에서는 많은 길거리 음식 판매자가 그릴 옆에 작은 QR코드 표지판을 놓고 있어요. 보통 카카오페이나 네이버페이 같은 한국 모바일 결제 앱을 열고, 스캔하고, 메뉴를 고른 뒤 바로 결제합니다. 셰프가 바로 뜨거운 접시를 건네주는 경우가 많아 현금만 받는 노점보다 줄 서는 속도가 빠릅니다. 팬데믹 이후 현금 취급을 줄이고 서비스 속도를 높이기 위해 이 시스템이 확대됐어요. 일부 판매자는 같은 화면에서 셰프에게 팁을 추가할 수 있게 해줍니다.
+제목1: Heated seats Korea
+제목2: Warm before sitting
+핵심[1]: Seat *warm* ahead
+핵심[2]: Sensor *heat* near you
+핵심[4]: Auto *off* saves power
+핵심[6]: One‑tap *bidet*
+이미지[1]: warm seat bathroom
+이미지[2]: sensor heat toilet seat
+이미지[3]: heated toilet seat Seoul
+이미지[4]: auto off toilet seat
+이미지[5]: Korean public restroom
+이미지[6]: one tap bidet
+이미지[7]: rural Korean restroom
+이미지[8]: Korean restroom interior
+대본[1]: Did you know that some Korean public toilets have seats that can warm up before you sit?
+대본[2]: In some Seoul department stores, subway stations, and hospitals, public restrooms have sensor‑activated heated seats that may start warming when someone approaches.
+대본[3]: The seats are powered electrically, often drawing electricity from the building’s supply, so they stay warm during the cold winter months.
+대본[4]: When you move away, the heating often shuts off after a short period of inactivity to save energy.
+대본[5]: This convenience reflects Korea’s focus on hygiene and user comfort in public spaces.
+대본[6]: Many of those modern seats also hide a bidet nozzle, letting you adjust water pressure with a single button for a quick clean.
+대본[7]: Keep in mind, older or rural restrooms may still have plain, unheated seats.
+대본[8]: So next time you step into a Korean restroom, you might feel the warmth before you even think to sit.
+(한글 대본) 한국의 일부 공중 화장실에 좌석이 앉기 전에 따뜻해지는 기능이 있다는 것을 알고 계셨나요? 서울의 일부 백화점, 지하철역, 병원에서는 감지 센서가 작동해 사람이 접근하면 좌석이 따뜻해지는 공중 화장실이 있습니다. 좌석은 전기적으로 구동되며, 대부분 건물의 전력 공급을 이용해 전기를 끌어와 겨울철에도 따뜻함을 유지합니다. 사용자가 멀어지면 에너지를 절약하기 위해 짧은 비활성 기간 후에 난방이 자동으로 꺼집니다. 이러한 편의성은 한국이 공공장소에서 위생과 사용자 편안함을 중시한다는 것을 반영합니다. 그 현대적인 좌석 중 상당수는 비데 노즐을 숨겨 두고 있어 버튼 하나로 물압을 조절해 빠르게 세척할 수 있습니다. 유의할 점은 구식이거나 시골 화장실은 아직 따뜻해지지 않는 평범한 좌석일 수 있다는 것입니다. 다음에 한국 화장실에 들어갈 때는 앉기 전에 따뜻함을 느낄 수 있을지도 모릅니다.
+
+=== [100] Zero‑Waste Bulk Aisles ===
+(교차검증) unsupported
+(교차검증 메모 1) [unsupported] 1번 문장: No evidence provided about Korean bulk aisles
+(교차검증 메모 2) [unsupported] 2번 문장: No evidence about Emart, Homeplus, Lotte Mart zero‑waste sections
+(교차검증 메모 3) [unsupported] 3번 문장: No evidence about weighing procedure
+(교차검증 메모 4) [unsupported] 4번 문장: No evidence about government campaign
+(교차검증 메모 5) [unsupported] 5번 문장: No evidence about comparison to European bulk shopping
+(교차검증 메모 6) [unsupported] 6번 문장: No evidence about discounts for own containers
+(교차검증 메모 7) [unsupported] 7번 문장: No evidence about prevalence in supermarkets and convenience stores
+(직접 확인할 문장 1번) In Korea, you can shop the bulk aisle without buying a single plastic bag.
+(직접 확인할 문장 2번) Major chains like Emart, Homeplus, and Lotte Mart have set up “zero‑waste” sections where you bring a reusable jar or bag and fill it with rice, beans, tea, nuts, or spices.
+(직접 확인할 문장 3번) Staff weigh your container before and after filling, then charge you for the exact amount.
+(직접 확인할 문장 4번) This system grew from a government‑backed campaign in the 2010s to cut plastic waste, and younger shoppers in city neighborhoods often choose it for both environmental and cost reasons.
+(직접 확인할 문장 5번) The process works much like European bulk shopping, but Korean stores add precise weighing and clear labeling.
+(직접 확인할 문장 6번) Some locations even give a small discount if you use your own container, encouraging repeat visits.
+(직접 확인할 문장 7번) These aisles are common in large supermarkets and a few convenience stores in major cities, though smaller neighborhood shops usually don’t offer them.
+(사실 확인용 검색어) Korea zero waste bulk aisles, Korean supermarkets reusable containers, Emart zero waste
+(한글 제목) 한국 제로 웨이스트 플라스틱백이 필요없어요
+후크: In Korea, you can shop the bulk aisle without buying a single plastic bag.
+본문: Major Korean grocery chains such as Emart, Homeplus, and Lotte Mart have introduced “zero‑waste” aisles where customers bring reusable jars or bags to fill items like rice, beans, tea, and nuts. Staff weigh the containers before and after filling to charge the correct amount, and the practice grew out of a government‑backed campaign to cut plastic waste that began in the 2010s. Younger shoppers in city neighborhoods often favor these sections for both environmental and cost reasons. The system works much like bulk shopping in Europe, but with a Korean focus on precise weighing and labeling.
+반전: Some stores even offer a small discount for using your own container, encouraging repeat visits.
+제외:
+제목1: Korea zero waste
+제목2: No plastic bags needed
+핵심[1]: *Plastic*-free bulk
+핵심[2]: Bring your own *jar*
+핵심[3]: Exact *weight* price
+핵심[6]: *Discount* for reuse
+이미지[1]: plastic-free bulk aisle Korea
+이미지[2]: bring your own jar bulk
+이미지[3]: exact weight price scale
+이미지[4]: Korean supermarket zero waste section
+이미지[5]: European style bulk shelves Korea
+이미지[6]: discount for reuse container
+이미지[7]: large Korean supermarket bulk aisle
+이미지[8]: jar shopping zero waste Korea
+대본[1]: In Korea, you can shop the bulk aisle without buying a single plastic bag.
+대본[2]: Major chains like Emart, Homeplus, and Lotte Mart have set up “zero‑waste” sections where you bring a reusable jar or bag and fill it with rice, beans, tea, nuts, or spices.
+대본[3]: Staff weigh your container before and after filling, then charge you for the exact amount.
+대본[4]: This system grew from a government‑backed campaign in the 2010s to cut plastic waste, and younger shoppers in city neighborhoods often choose it for both environmental and cost reasons.
+대본[5]: The process works much like European bulk shopping, but Korean stores add precise weighing and clear labeling.
+대본[6]: Some locations even give a small discount if you use your own container, encouraging repeat visits.
+대본[7]: These aisles are common in large supermarkets and a few convenience stores in major cities, though smaller neighborhood shops usually don’t offer them.
+대본[8]: Next time you visit, bring a jar and see how easy zero‑waste shopping can be.
+(한글 대본) 한국에서는 플라스틱백 한 개도 사지 않고 벌크 코너에서 쇼핑할 수 있어요. 에마트, 홈플러스, 롯데마트 같은 대형 체인점은 재사용 가능한 병이나 가방을 가져와 쌀, 콩, 차, 견과류, 향신료 등을 채우는 "제로‑웨이스트" 코너를 마련했습니다. 직원은 채우기 전후에 용기를 무게를 재어 정확한 금액을 청구합니다. 이 시스템은 2010년대에 플라스틱 쓰레기를 줄이기 위해 시작된 정부 주도의 캠페인에서 발전했으며, 도시 지역의 젊은 쇼핑객들은 환경과 비용 두 가지 이유로 이를 선택합니다. 이 과정은 유럽의 벌크 쇼핑과 유사하지만, 한국 매장은 정밀한 무게 측정과 명확한 라벨링을 추가합니다. 일부 매장은 자체 용기를 사용하면 소정의 할인을 제공해 재방문을 장려합니다. 이 코너는 대형 슈퍼마켓과 주요 도시의 몇몇 편의점에서 흔하지만, 작은 동네 가게는 보통 제공하지 않습니다. 다음에 방문할 때는 병을 가져가서 제로‑웨이스트 쇼핑이 얼마나 쉬운지 확인해 보세요.
+
+=== [101] Automated Bike Parking ===
+(교차검증) ok
+(사실 확인용 검색어) Seoul bike parking tower, automated bike storage Korea, bike elevator Seoul
+(한글 제목) 한국: 서울 자전거 타워, 코드로 승강되는 자전거 리프트
+후크: Ever seen a skyscraper for bikes that lifts your ride up like an elevator?
+본문: In districts such as Gangnam, Songpa, and near several subway stations, public bike‑parking towers use a conveyor‑belt system that lifts a bike into a stacked compartment after the rider scans a QR code. The towers can store dozens of bicycles in the footprint of a single parking spot, and users retrieve their bike by scanning the same code, which lowers the platform back to ground level. This solution helps the city promote cycling while managing limited sidewalk space. Many of the towers also include charging ports for electric‑bike users.
+반전: The towers are equipped with charging ports, so electric bike users can top up while their bike is stored.
+제외:
+제목1: Bike towers in Seoul
+제목2: Bike lifts by code
+핵심[1]: Bike *tower* lifts you
+핵심[3]: Scan QR, bike *rises*
+핵심[5]: Get bike back, *lower*
+핵심[6]: *Smart* towers free
+이미지[1]: bike tower elevator
+이미지[2]: Seoul bike parking tower
+이미지[3]: QR code bike elevator
+이미지[4]: multiple bikes stacked tower
+이미지[5]: bike retrieval platform
+이미지[6]: Seoul smart bike tower
+이미지[7]: electric bike charging station
+이미지[8]: bike tower at park
+대본[1]: Ever seen a skyscraper for bikes that lifts your ride up like an elevator?
+대본[2]: In Seoul, districts like Gangnam and Songpa have public bike‑parking towers next to subway stations and parks.
+대본[3]: When you arrive, you scan a QR code and a conveyor belt lifts your bike into a stacked compartment, using the space of a single parking spot.
+대본[4]: The system can hold dozens of bicycles in one footprint.
+대본[5]: To get your bike back, you scan the same code and the platform lowers to ground level.
+대본[6]: These towers help the city encourage cycling while freeing limited sidewalk space.
+대본[7]: Many of them also include charging ports, so electric‑bike riders can top up while their bike is stored.
+대본[8]: The towers aren’t everywhere, only at selected stations and public parks, but they show how Seoul tackles crowded streets with smart design.
+(한글 대본) 엘리베이터처럼 자전거를 올려주는 초고층 자전거 타워를 본 적이 있나요? 서울에서는 강남, 송파 같은 구역에 지하철역과 공원 옆에 공공 자전거 주차 타워가 있습니다. 도착하면 QR 코드를 스캔하면 컨베이어 벨트가 자전거를 쌓인 칸으로 올려 놓고, 한 개의 주차 공간을 사용합니다. 이 시스템은 한 공간 안에 수십 대의 자전거를 보관할 수 있습니다. 자전거를 다시 가져가려면 같은 코드를 스캔하면 플랫폼이 지면으로 내려옵니다. 이 타워는 시내가 자전거 이용을 장려하면서 제한된 보도 공간을 확보하도록 돕습니다. 많은 타워에는 전기 자전거 이용자가 보관 중에도 충전할 수 있는 포트가 포함돼 있습니다. 타워는 모든 곳에 있는 것이 아니라 선택된 역과 공공 공원에만 있으며, 이는 서울이 혼잡한 거리를 스마트한 디자인으로 해결하는 방식을 보여줍니다.
