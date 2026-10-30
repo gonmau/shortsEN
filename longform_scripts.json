@@ -46,7 +46,10 @@
    "metro staff reminding passengers"
   ],
   "locked": true,
-  "edited": "2026-10-30 13:22"
+  "edited": "2026-10-30 13:23",
+  "audio": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\lf_0005_Quiet_Subway_Cars.mp3",
+  "timing": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\lf_0005_Quiet_Subway_Cars_timing.json",
+  "tts_hash": "b95fb47f8f05"
  },
  "2": {
   "narration": "Did you know you can walk barefoot in a Seoul subway mall while snow falls outside? Below the bustling stations of Gangnam, City Hall, and many others, long corridors stretch like underground streets. These corridors are covered with ondol‑style heated flooring, the same system that warms traditional Korean homes. The heat is drawn from the subway’s central heating plant, which already supplies warmth to trains and platforms. As a result, shoppers can linger at clothing boutiques, food stalls, and tech stores without pulling on coats. The malls stay open 24 hours, becoming late‑night hangouts for students finishing exams and office workers after a shift. During peak hours the floor stays at a comfortable temperature, while sensors lower it a few degrees in the early morning to save energy. Even with the slight drop, the surface never feels cold to the touch. This design grew from Seoul’s harsh winter climate and the city’s need to keep pedestrian flow moving year‑round. By placing commerce directly under transit hubs, the city reduces street‑level congestion and encourages public‑transport use. Many locals treat the underground malls as a second living room, meeting friends for coffee or grabbing a quick bite after work. The heated floors also help prevent ice buildup on stairways, improving safety for the thousands of daily commuters. For foreigners, the surprise is how seamless the transition is from a cold platform to a warm, lively market without stepping outside. The concept reflects Korea’s emphasis on efficiency, comfort, and maximizing limited urban space. Visitors often comment that the experience feels like walking through a giant, climate‑controlled department store beneath the city. The hidden warmth keeps the city’s rhythm steady, no matter how frosty the season above. Next, we’ll see how high‑tech vending machines brew fresh espresso in seconds at any convenience store.",
@@ -105,7 +108,10 @@
   "sig": "e177ee45d342",
   "model": "openai/gpt-oss-120b",
   "created": "2026-10-30 13:21",
-  "bridge_to": "High‑tech vending machines brew fresh espresso in seconds at any convenience store"
+  "bridge_to": "High‑tech vending machines brew fresh espresso in seconds at any convenience store",
+  "audio": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\lf_0002_Heated_Underground_Malls.mp3",
+  "timing": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\lf_0002_Heated_Underground_Malls_timing.json",
+  "tts_hash": "ed09917a5858"
  },
  "1": {
   "narration": "Did you know you can pull a barista‑level espresso from a vending machine in under a minute? In Seoul, every 24‑hour convenience store hides a compact coffee unit behind its counter. The machine stores whole beans, grinds them fresh, froths milk, and extracts a shot in about 30 seconds. A touchscreen lets you pick espresso, latte, or Americano, and you can adjust strength, milk amount, and sugar. Payment is done by RFID card, mobile app, or cash‑less card, so there is no line at the register. The technology arrived as Korea’s coffee culture exploded, driven by long work hours and a demand for quick, high‑quality caffeine. Because stores are open all night, the machines serve commuters, night‑shift workers, and students studying late. During the scorching summer of 2023, many stores switched the same units to brew iced cold‑brew, keeping the line moving and the drink chilled. The machines use sealed capsules for milk and sugar, ensuring hygiene and consistent taste. They also record usage data, helping operators restock beans and maintain the units without human error. This convenience contributes to Korea ranking among the world’s top coffee consumers. Vending coffee sales now exceed a billion cups annually, a figure that would surprise many visitors. Foreign travelers often marvel at the speed, noting it feels like a futuristic coffee shop on a corner. Locals appreciate the reliability; they know a perfect espresso is available at any hour, rain or shine. The machines are also energy‑efficient, powering down between drinks to reduce electricity use. Some stores display the machine’s inner workings on a small screen, turning the brewing process into a mini‑show. The rise of these units reflects Korea’s blend of high tech and everyday practicality. Next time you walk into a convenience store after midnight, you can expect a fresh espresso without waiting for a human barista. This seamless coffee experience is a small but vivid example of how Korea turns everyday moments into high‑tech convenience.",
@@ -162,6 +168,9 @@
   "created": "2026-10-30 13:21",
   "bridge_to": "",
   "locked": true,
-  "edited": "2026-10-30 13:23"
+  "edited": "2026-10-30 13:23",
+  "audio": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\lf_0001_Instant_Coffee_Vending.mp3",
+  "timing": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\lf_0001_Instant_Coffee_Vending_timing.json",
+  "tts_hash": "e92a9c5b5fe3"
  }
 }
