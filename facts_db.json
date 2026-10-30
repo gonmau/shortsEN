@@ -5308,29 +5308,33 @@
     "label": "Smart Elevator Queue",
     "topic": "New high‑rise apartments use smartphone apps to assign virtual elevator tickets, cutting wait times.",
     "hook": "What if you could reserve an elevator slot from your phone before you even reach the lobby?",
-    "body": "In some new high‑rise apartments, residents can use a smartphone app to choose their floor and receive a digital ticket that appears on a lobby screen. The system may group riders going to nearby floors, which can help reduce wait times and may display an estimated arrival countdown. During busy periods, the app might advise waiting for the next elevator instead of suggesting a stairwell.",
-    "twist": "Older buildings often rely on traditional button calls, while some newer towers are adopting smart elevator features.",
+    "body": "Buildings like the Lotte World Tower and newer complexes in Songpa have installed “smart elevator” systems. Residents tap a button on a dedicated app, select their floor, and receive a digital ticket that shows up on the lobby screen. The elevators group passengers heading to similar floors, so the lobby line shortens dramatically. The system also alerts you when the elevator is arriving, letting you time your coffee break perfectly.",
+    "twist": "During peak hours, the app can reroute you to a nearby stairwell that has a moving walkway, offering a faster alternative.",
     "caveat": "These systems are limited to recently built high‑rise apartments and office towers; older buildings still rely on traditional button calls.",
     "confidence": "high",
     "verify_note": "Korea smart elevator app high rise buildings",
     "country": "Smart Elevator Queue",
     "created_at": "2026-10-21T08:21:13.904881+00:00",
     "status": "video_done",
-    "narration": "What if you could reserve an elevator slot from your phone before you even reach the lobby? In some new high‑rise apartments, residents can use a smartphone app to choose their floor and receive a digital ticket that appears on a lobby screen. The system may group riders going to nearby floors, which can help reduce wait times and may display an estimated arrival countdown. During busy periods, the app might advise waiting for the next elevator instead of suggesting a stairwell. Older buildings often rely on traditional button calls, while some newer towers are adopting smart elevator features.",
+    "narration": "What if you could reserve an elevator slot from your phone before you even reach the lobby? In Seoul’s newest high‑rise apartments, like the Lotte World Tower and modern complexes in Songpa, residents tap a button on a dedicated app, pick their floor, and get a digital ticket that appears on the lobby screen. The system groups riders heading to similar floors, so the line shrinks and you see a countdown for the arriving car, letting you time a coffee break perfectly. During rush hour, the app may even reroute you to a nearby stairwell with a moving walkway for a quicker climb. Older buildings still use traditional button calls, but the smart elevator is changing daily life in many new towers.",
     "title_line1": "Smart Elevator Queue",
     "title_line2": "Book lift via app",
     "highlights": [
       {
         "s": 1,
-        "text": "Reserve *elevator* now"
+        "text": "Reserve *elevator* slot"
       },
       {
         "s": 2,
-        "text": "Digital *ticket* shows"
+        "text": "Get *ticket* on screen"
       },
       {
         "s": 3,
-        "text": "Ride groups, *timer*"
+        "text": "Grouped rides, *short*"
+      },
+      {
+        "s": 4,
+        "text": "App can *reroute* you"
       }
     ],
     "scene_count": 10,
@@ -5411,7 +5415,18 @@
     "status_v6": "video_done",
     "fact_verifiability": "user",
     "fact_risk": "user-reviewed",
-    "fact_applied": true
+    "fact_applied": true,
+    "image_queries": [
+      "Smart elevator slot reservation",
+      "Elevator ticket on screen",
+      "Grouped elevator rides",
+      "Elevator app reroute",
+      "Korean high-rise elevator lobby"
+    ],
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0085_Smart Elevator Queue_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0085_Smart Elevator Queue_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done"
   },
   {
     "label": "Underground Parcel Lockers",
@@ -5549,33 +5564,33 @@
     "label": "School Banchan Buffet",
     "topic": "Students serve themselves side dishes in Korean school cafeterias",
     "hook": "Did you know Korean kids pick their own side dishes at lunch, just like a buffet?",
-    "body": "In many elementary and middle schools, the cafeteria rolls out a rotating tray of banchan—small dishes like kimchi, seasoned spinach, and rolled omelet. Students line up, grab a plate, and choose the banchan they want. Portions are controlled and staff refill the tray every few minutes. Some schools let students suggest next week’s banchan menu, often using a tablet, giving them a voice. Some districts encourage students to take only what they can finish, aiming to reduce waste.",
-    "twist": "This self‑serve style is common in schools in cities, though private schools may serve meals pre‑plated.",
+    "body": "In many public elementary and middle schools, the cafeteria presents a rotating tray of banchan—small side dishes such as kimchi, seasoned spinach, and rolled omelet. Students line up, take a plate, and choose the banchan they like, while the teacher often joins the line to eat with them. The dishes are portion‑controlled, and the staff refills the tray every few minutes, keeping the food fresh. Some schools let students vote via a tablet for the next week’s banchan menu, giving them a voice in the menu planning.",
+    "twist": "A few districts have introduced a 'zero‑waste' rule where students can only take as many side dishes as they finish, dramatically cutting food waste.",
     "caveat": "This self‑serve style is typical in public schools in larger cities; private schools may use pre‑served meals.",
     "confidence": "high",
     "verify_note": "Korean school cafeteria banchan self serve, school lunch side dishes South Korea, student menu voting",
     "country": "School Banchan Buffet",
     "created_at": "2026-10-21T08:21:23.822730+00:00",
     "status": "video_done",
-    "narration": "Did you know Korean kids pick their own side dishes at lunch, just like a buffet? In many elementary and middle schools, the cafeteria rolls out a rotating tray of banchan—small dishes like kimchi, seasoned spinach, and rolled omelet. Students line up, grab a plate, and choose the banchan they want. Portions are controlled and staff refill the tray every few minutes. Some schools let students suggest next week’s banchan menu, often using a tablet, giving them a voice. Some districts encourage students to take only what they can finish, aiming to reduce waste. This self‑serve style is common in schools in cities, though private schools may serve meals pre‑plated.",
+    "narration": "Did you know Korean kids pick their own side dishes at lunch, just like a buffet? In many elementary and middle schools, the cafeteria rolls out a rotating tray of banchan—small dishes like kimchi, seasoned spinach, and rolled omelet. Students line up, grab a plate, and choose the banchan they want. Portions are controlled and staff refill the tray every few minutes. Some schools let students vote on next week’s banchan menu with a tablet, giving them a voice. A few districts have a zero‑waste rule: kids may only take as many side dishes as they finish, cutting waste. This self‑serve style is common in schools in cities, though private schools may serve meals pre‑plated.",
     "title_line1": "Korean school lunch",
     "title_line2": "Kids pick their side",
     "highlights": [
       {
         "s": 1,
-        "text": "Kids pick *banchan*"
+        "text": "Pick *buffet* lunch"
       },
       {
         "s": 2,
-        "text": "Tray of *kimchi*"
+        "text": "Rotating *banchan*"
       },
       {
-        "s": 3,
-        "text": "Grab a plate, *pick*"
+        "s": 5,
+        "text": "Vote *menu* on tablet"
       },
       {
         "s": 6,
-        "text": "Zero‑waste: *finish*"
+        "text": "Zero‑waste *rule*"
       }
     ],
     "image_queries": [
@@ -5591,7 +5606,7 @@
     "cross_checked": true,
     "cross_sources": 0,
     "cross_model": "openai/gpt-oss-20b",
-    "cross_flags": [],
+    "cross_flags": null,
     "narration_original": "Did you know Korean kids pick their own side dishes at lunch, just like a buffet? In many elementary and middle schools, the cafeteria rolls out a rotating tray of banchan—small dishes like kimchi, seasoned spinach, and rolled omelet. Students line up, grab a plate, and choose the banchan they want. Portions are controlled and staff refill the tray every few minutes. Some schools let students vote on next week’s banchan menu with a tablet, giving them a voice. A few districts have a zero‑waste rule: kids may only take as many side dishes as they finish, cutting waste. This self‑serve style is common in schools in cities, though private schools may serve meals pre‑plated.",
     "cross_verdict": "fixed",
     "cross_notes": [
@@ -5601,7 +5616,7 @@
     "ko_title": "한국 학교 점심, 아이들이 자신이 원하는 반찬을 고르다",
     "ko_description": "🎯 한국 아이들이 점심에 버거처럼 자신이 원하는 반찬을 고른다는 사실, 알고 계셨나요?\n\n많은 초·중학교 식당에서는 김치, 시금치나물, 계란말이 같은 작은 반찬이 담긴 회전식 그릇을 제공합니다. 학생들은 줄을 서서 접시를 집고 원하는 반찬을 고릅니다. 분량은 조절되며 직원이 몇 분마다 그릇을 다시 채워줍니다. 일부 학교는 학생들이 다음 주 반찬 메뉴를 태블릿으로 제안하도록 허용해 목소리를 내게 합니다. 일부 교육구는 학생들이 마무리할 수 있는 양만 가져가도록 권장해 낭비를 줄이려 합니다.\n\n💡 이 자가서비스 방식은 도시 학교에서 흔하지만, 사립학교는 미리 담아 놓은 식사를 제공할 수 있습니다.\n\n🇰🇷 한 분량으로 한국의 실제 생활, 음식, 예절, 놀라운 사실을 보여드립니다.\n\n#SchoolBanchanBuffet #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "한국 아이들이 점심에 버거처럼 자신이 원하는 반찬을 고른다는 사실, 알고 계셨나요? 많은 초·중학교 식당에서는 김치, 시금치나물, 계란말이 같은 작은 반찬이 담긴 회전식 그릇을 제공합니다. 학생들은 줄을 서서 접시를 집고 원하는 반찬을 고릅니다. 분량은 조절되며 직원이 몇 분마다 그릇을 다시 채워줍니다. 일부 학교는 학생들이 다음 주 반찬 메뉴를 태블릿으로 제안하도록 허용해 목소리를 내게 합니다. 일부 교육구는 학생들이 마무리할 수 있는 양만 가져가도록 권장해 낭비를 줄이려 합니다. 이 자가서비스 방식은 도시 학교에서 흔하지만, 사립학교는 미리 담아 놓은 식사를 제공할 수 있습니다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "1ec388d31017",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0087_School Banchan Buffet_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0087_School Banchan Buffet_v2_timing.json",
@@ -5805,7 +5820,7 @@
     "ko_title": "한국: 카페 전화 무음 가방에 전화 숨기기",
     "ko_description": "🎯 공부하기 전에 투명 가방에 전화가 사라지는 걸 본 적 있나요?\n\n많은 한국의 스터디 카페와 대학 도서관에서는 손님들이 세션 시작 시 스마트폰을 넣는 작은 투명 파우치를 제공합니다. 파우치는 테이블 위에 남아 있어 기기가 무음 상태임을 시각적으로 상기시켜 주어 조용한 환경을 유지하는 데 도움이 됩니다. 이 관행은 공부와 동시에 휴대폰을 사용하는 학생들의 밀집도가 높아지면서, 단순한 가방이 침묵을 위한 사회적 신호로 변한 결과입니다.\n\n💡 일부 카페는 파우치를 작은 자물쇠로 잠그기도 하는데, 이는 떠날 때만 열 수 있어 세션 중에 전화기를 다시 가져가는 것을 방지합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절 그리고 놀라운 사실들.\n\n#PhonePouchSilence #Korea #SouthKorea #KoreanCulture #KoreaTravel #CultureShock #Shorts",
     "ko_narration": "공부하기 전에 투명 가방에 전화가 사라지는 걸 본 적 있나요? 스터디 카페와 대학 도서관에서는 스마트폰을 테이블 위의 파우치에 넣습니다. 파우치가 무음 상태를 유지해 모두가 조용히 해야 함을 상기시켜 줍니다. 일부 카페는 떠날 때만 열리는 자물쇠로 파우치를 잠급니다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "7cf55685ad83",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0094_Phone Pouch Silence_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0094_Phone Pouch Silence_v2_timing.json",
@@ -5894,7 +5909,7 @@
     "ko_title": "한국: 서울 자전거 공유 헬멧 키오스크에서",
     "ko_description": "🎯 서울에서 자전거를 대여하고 헬멧을 자동 판매기에서 받을 수 있다는 사실, 알고 계셨나요?\n\n서울의 많은 구역에서는 공공 자전거 공유 스테이션과 헬멧을 보관하는 소형 키오스크가 함께 배치되어 있습니다. 자전거 QR 코드를 스캔하면, 키오스크가 자전거 잠금 장치에 맞는 깨끗한 헬멧을 내놓습니다. 라이딩을 마치면 같은 키오스크에 헬멧을 반납하고, 시스템이 자동으로 이용 현황을 추적합니다. 이 시스템은 개인 헬멧을 휴대할 필요 없이 안전한 자전거 이용을 장려합니다.\n\n💡 일부 키오스크는 사용 사이에 UV 빛으로 헬멧을 살균하기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#BikeRentalHelmetKiosk #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
     "ko_narration": "서울에서 자전거를 대여하고 헬멧을 자동 판매기에서 받을 수 있다는 사실, 알고 계셨나요? 각 구역은 QR 코드를 스캔하면 헬멧을 내놓는 키오스크와 자전거 스테이션을 연결합니다. 라이딩이 끝나면 키오스크에 반납하고, 빛으로 헬멧을 살균하지만 모든 스테이션에 이 기능이 있는 것은 아닙니다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "7b2e4d7f63a5",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0095_Bike‐Rental Helmet Kiosk_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0095_Bike‐Rental Helmet Kiosk_v2_timing.json",
@@ -5975,7 +5990,7 @@
     "ko_title": "한국: 여성 전용 지하철 러시아워 핑크 차량?",
     "ko_description": "🎯 서울에서 여성 전용 지하철 차량을 본 적 있나요?\n\n출퇴근 러시아워에 서울 지하철은 2호선·4호선 등 일부 노선에서 한 칸을 여성 전용으로 지정합니다. 문이 열릴 때 핑크 색 표지판과 짧은 안내 방송이 나오며, 해당 차량은 남녀가 섞인 차량과 구분됩니다. 많은 승객이 특히 혼잡한 시간대에 보안감이 높아진다는 점을 만족합니다. 이 정책은 2012년부터 시행돼 역 직원이 단속합니다.\n\n💡 특별 공휴일에는 여성 전용 차량에 손소독제 한 팩 등 작은 무료 선물을 제공하기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#WomenOnlySubwayCars #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
     "ko_narration": "서울에서 여성 전용 지하철 차량을 본 적 있나요? 출퇴근 러시아워에 2호선·4호선 등에서 한 칸이 핑크 표지판과 안내 방송으로 여성 전용임을 표시합니다. 직원이 단속하고, 공휴일에는 무료 손소독제 팩을 나눠 주기도 합니다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "0a35c81589c8",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0096_Women‐Only Subway Cars_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0096_Women‐Only Subway Cars_v2_timing.json",
@@ -6019,34 +6034,38 @@
   {
     "label": "QR Code Street Food",
     "topic": "Scan, pay, and eat street food without cash",
-    "hook": "You can often order tteokbokki by scanning a QR code on the stall.",
-    "body": "In busy Seoul neighborhoods such as Hongdae and Myeongdong, many street‑food vendors often display a small QR‑code sign next to their grill. You usually open a Korean mobile‑payment app like KakaoPay or Naver Pay, scan, pick your dish, and pay instantly. The chef often hands you the hot plate right away, so lines move faster than at cash‑only stalls. The system grew after the pandemic to cut down cash handling and speed service.",
-    "twist": "Some vendors even let you add a tip for the chef through the same screen.",
+    "hook": "Did you know you can order tteokbokki by scanning a QR code on the stall?",
+    "body": "In busy districts such as Hongdae and Myeongdong, many street‑food stalls display a small QR‑code sign beside their grill. Customers open a Korean mobile‑payment app, scan the code, choose the dish, and pay instantly; the vendor then hands over the hot plate. The system grew after the pandemic as a way to reduce cash handling and speed up service, and it works with popular apps like KakaoPay and Naver Pay. As a result, queues often move faster than at nearby cash‑only stalls.",
+    "twist": "Some vendors also let you add a tip for the chef through the same QR‑code interface.",
     "caveat": "This practice is common in urban street‑food areas that have partnered with payment platforms, but many traditional markets and rural stalls still rely on cash only.",
     "confidence": "high",
     "verify_note": "Korean street food QR code ordering, Hongdae tteokbokki QR, mobile payments KakaoPay street stalls",
     "country": "QR Code Street Food",
     "created_at": "2026-10-24T03:53:13.029520+00:00",
     "status": "video_done",
-    "narration": "You can often order tteokbokki by scanning a QR code on the stall. In busy Seoul neighborhoods such as Hongdae and Myeongdong, many street‑food vendors often display a small QR‑code sign next to their grill. You usually open a Korean mobile‑payment app like KakaoPay or Naver Pay, scan, pick your dish, and pay instantly. The chef often hands you the hot plate right away, so lines move faster than at cash‑only stalls. The system grew after the pandemic to cut down cash handling and speed service. Some vendors even let you add a tip for the chef through the same screen.",
+    "narration": "Did you know you can order tteokbokki by scanning a QR code on the stall? In busy Seoul neighborhoods like Hongdae and Myeongdong, many street‑food vendors now display a small QR‑code sign next to their grill. You just open a Korean mobile‑payment app such as KakaoPay or Naver Pay, scan, pick your dish, and pay instantly. The chef hands you the hot plate right away, so lines move faster than at cash‑only stalls. The system grew after the pandemic to cut down cash handling and speed service. Some vendors even let you add a tip for the chef through the same screen. Keep in mind, this is common in urban street‑food areas, but many traditional markets and rural stalls still take cash only. So next time you’re craving spicy rice cakes, just scan and savor.",
     "title_line1": "QR code street food",
     "title_line2": "Scan, pay, eat tteok",
     "highlights": [
       {
         "s": 1,
-        "text": "Scan for tteokbokki"
-      },
-      {
-        "s": 2,
-        "text": "QR codes in Seoul stalls"
+        "text": "*QR* for tteokbokki"
       },
       {
         "s": 3,
-        "text": "Instant *pay* KakaoPay"
+        "text": "*Pay* instantly via app"
       },
       {
-        "s": 5,
-        "text": "Post‑pandemic *speed* boost"
+        "s": 4,
+        "text": "Plate handed *fast*"
+      },
+      {
+        "s": 6,
+        "text": "*Tip* chef on screen"
+      },
+      {
+        "s": 8,
+        "text": "Scan & *eat* cakes"
       }
     ],
     "image_queries": [
@@ -6063,7 +6082,7 @@
     "cross_checked": true,
     "cross_sources": 2,
     "cross_model": "openai/gpt-oss-20b",
-    "cross_flags": [],
+    "cross_flags": null,
     "narration_original": "Did you know you can order tteokbokki by scanning a QR code on the stall? In busy Seoul neighborhoods like Hongdae and Myeongdong, many street‑food vendors now display a small QR‑code sign next to their grill. You just open a Korean mobile‑payment app such as KakaoPay or Naver Pay, scan, pick your dish, and pay instantly. The chef hands you the hot plate right away, so lines move faster than at cash‑only stalls. The system grew after the pandemic to cut down cash handling and speed service. Some vendors even let you add a tip for the chef through the same screen. Keep in mind, this is common in urban street‑food areas, but many traditional markets and rural stalls still take cash only. So next time you’re craving spicy rice cakes, just scan and savor.",
     "cross_verdict": "fixed",
     "cross_notes": [
@@ -6079,7 +6098,7 @@
     "ko_title": "한국: QR코드 길거리 음식 스캔, 결제, 떡 먹기",
     "ko_description": "🎯 노점에서 QR코드를 스캔하면 떡볶이를 주문할 수 있어요.\n\n홍대·명동 같은 번화한 서울 동네에서는 많은 길거리 음식 판매자가 그릴 옆에 작은 QR코드 표지판을 놓고 있어요. 보통 카카오페이나 네이버페이 같은 한국 모바일 결제 앱을 열고, 스캔하고, 메뉴를 고른 뒤 바로 결제합니다. 셰프가 바로 뜨거운 접시를 건네주는 경우가 많아 현금만 받는 노점보다 줄 서는 속도가 빠릅니다. 팬데믹 이후 현금 취급을 줄이고 서비스 속도를 높이기 위해 이 시스템이 확대됐어요.\n\n💡 일부 판매자는 같은 화면에서 셰프에게 팁을 추가할 수 있게 해줍니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 매너, 놀라운 사실들.\n\n#QRCodeStreetFood #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
     "ko_narration": "노점에서 QR코드를 스캔하면 떡볶이를 주문할 수 있어요. 홍대·명동 같은 번화한 서울 동네에서는 많은 길거리 음식 판매자가 그릴 옆에 작은 QR코드 표지판을 놓고 있어요. 보통 카카오페이나 네이버페이 같은 한국 모바일 결제 앱을 열고, 스캔하고, 메뉴를 고른 뒤 바로 결제합니다. 셰프가 바로 뜨거운 접시를 건네주는 경우가 많아 현금만 받는 노점보다 줄 서는 속도가 빠릅니다. 팬데믹 이후 현금 취급을 줄이고 서비스 속도를 높이기 위해 이 시스템이 확대됐어요. 일부 판매자는 같은 화면에서 셰프에게 팁을 추가할 수 있게 해줍니다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "6ddaf11a492c",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0097_QR Code Street Food_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0097_QR Code Street Food_v2_timing.json",
@@ -6768,8 +6787,8 @@
     "label": "Phone‑Free Bathhouse Rooms",
     "topic": "Traditional Korean jjimjilbang often have sleeping rooms where phones must be left at lockers",
     "hook": "What if you had to leave your phone at the door before a night at the spa?",
-    "body": "In many large jjimjilbang—places like Dragon Hill or Siloam—you’ll find a locker line right outside the sleeping rooms. Staff hand you a tiny key or a digital code, and you store your device before stepping inside. The rule helps keep the room quiet and prevents phone rings from disturbing others. But here's the catch: some spas might use ambient sound machines with nature noises, which can make the phone‑free area feel like a mini‑retreat. Keep in mind, many larger public jjimjilbang enforce the phone‑free rule, while some smaller neighborhood spas may allow you to keep your phone with you.",
-    "twist": "That forced digital detox can feel surprisingly refreshing after a day of nonstop connectivity.",
+    "body": "Many large jjimjilbang, especially those operated by chains like Dragon Hill or Siloam, provide designated sleeping areas where guests are asked to store phones in lockers before entering. The rule is meant to preserve a restful atmosphere and prevent disturbances from ringing devices. Staff usually provide a small key or digital code, and the lockers are located just outside the sleeping rooms. Visitors often find the forced digital detox surprisingly refreshing after a day of constant connectivity.",
+    "twist": "Some facilities even install ambient sound machines that play nature sounds, making the phone‑free zones feel like a mini‑retreat inside the spa.",
     "caveat": "The phone‑free policy is typical in larger public jjimjilbang; smaller neighborhood spas may not enforce it, and guests can still bring phones into other areas of the facility.",
     "confidence": "high",
     "verify_note": "jjimjilbang phone locker policy, Korean spa sleeping room rules, Dragon Hill spa phone free",
@@ -6837,8 +6856,8 @@
     "label": "KakaoTalk Gifticon Culture",
     "topic": "South Koreans frequently send digital coupons called ‘gifticons’ via KakaoTalk, redeemable instantly at stores",
     "hook": "Can you buy a coffee for a friend without ever leaving your chat?",
-    "body": "In South Korea, KakaoTalk’s “gifticon” lets you buy a digital coupon for coffee, meals, or cosmetics right inside a message. The sender pays with KakaoPay, and the receiver gets a QR code that can be shown on their phone and scanned at the counter in seconds. Because the system links payment and loyalty, cafés sometimes see more impulse buys when a friend sends a gifticon. Many young people in cities sometimes use it to celebrate birthdays or thank coworkers. But here’s the catch: during big sales, brands sometimes release limited‑edition gifticons that are only available for a short time, creating a brief rush in the chat. In some rural areas, older users sometimes still prefer paper coupons.",
-    "twist": "So next time you chat, a cup of coffee could be just a tap away.",
+    "body": "KakaoTalk, the dominant messaging app, introduced ‘gifticons’—scannable digital coupons for coffee, meals, or cosmetics—that users can purchase and send directly in a chat. The recipient receives a QR code that can be shown on their phone and redeemed at the merchant’s counter within seconds. Because the process is integrated with payment and loyalty systems, many cafés and retailers report a surge in impulse purchases triggered by a friend’s message. The practice has become a common way to celebrate birthdays, thank coworkers, or simply treat a friend on the spot.",
+    "twist": "During major sales events, some brands release limited‑edition gifticons that are only available for a few hours, turning the chat into a fast‑paced flash sale arena.",
     "caveat": "Gifticon usage is most prevalent among KakaoTalk users in urban areas and among younger demographics; older generations or those who prefer other messengers may use traditional paper coupons.",
     "confidence": "high",
     "verify_note": "KakaoTalk gifticon usage, Korean digital coupons, KakaoPay gifticon 2022",
@@ -6912,9 +6931,9 @@
   {
     "label": "Toilet Sound Mask",
     "topic": "Public restrooms often have bidet toilets that play a short tune to hide bathroom noises",
-    "hook": "Did you know many Korean toilets can play a short flushing sound to cover up bathroom noises?",
-    "body": "When you walk into a Seoul subway station restroom, you’ll see a small button on the bidet control panel. Press it and a flushing sound starts while the toilet flushes, masking any noise and protecting privacy. This feature is built into many modern public toilets across the city, reflecting Korea’s focus on comfort in shared spaces. The tune stops automatically after a few seconds, so you can finish without embarrassment. Some models let users pick a simple tone by tapping a selector, while many provide only a single preset sound.",
-    "twist": "Older or rural restrooms often lack this, but newer facilities in cities have it.",
+    "hook": "Did you know many Korean toilets can play a song to cover up bathroom sounds?",
+    "body": "When a traveler steps into a Seoul subway station restroom, they may notice a small button on the bidet control panel. Pressing it triggers a brief melody that plays while the toilet flushes, helping to mask any sounds and protect privacy. This feature is built into many modern public toilets across the city, reflecting Korea's emphasis on personal comfort and discretion in shared spaces. The sound usually stops automatically after a few seconds, letting users focus on their business without embarrassment.",
+    "twist": "Some models even let users choose between different sounds, such as a classical tune or a nature chirp, by tapping a selector on the panel.",
     "caveat": "The sound‑masking function is common in newer public restrooms in major cities and newer buildings, but many older facilities or rural locations still lack it.",
     "confidence": "high",
     "verify_note": "Korean public restroom bidet sound masking, Korean toilet music privacy, Seoul subway restroom bidet features",
@@ -6975,9 +6994,9 @@
   {
     "label": "School Food Waste Turned Feed",
     "topic": "Korean schools recycle leftover meals into animal feed, shown on a daily scoreboard",
-    "hook": "Some Korean schools turn lunch leftovers into animal feed, often within a short time after meals.",
-    "body": "In many Seoul elementary schools, separate bins collect food scraps right after lunch. A municipal service picks up the waste each afternoon and turns it into high‑protein animal feed for nearby farms. In several cafeterias, digital boards display weekly totals of recycled food waste, helping raise awareness of the effort. A few schools receive modest funding for the amount they recycle, which can support programs that encourage students to finish their meals.",
-    "twist": "This system is common in public schools across Seoul and other big cities, though not every Korean school uses it.",
+    "hook": "Did you know Korean kids' lunch leftovers become farm feed the same day?",
+    "body": "Many elementary schools in Seoul have separate bins for food scraps. The waste is collected each afternoon by a municipal service that processes it into high‑protein feed for nearby farms. A digital board in the cafeteria often displays the total kilograms turned into feed that week, turning waste into a point of pride. ",
+    "twist": "Some schools even receive a small grant for every kilogram recycled, encouraging students to finish their meals.",
     "caveat": "This practice is common in many public schools in Seoul and other large cities, but not all Korean schools have such a system.",
     "confidence": "high",
     "verify_note": "Korean school food waste recycling animal feed, Seoul school food waste program, Korea food waste to feed",
@@ -7044,8 +7063,8 @@
     "label": "Rooftop Delivery Shortcuts",
     "topic": "Delivery riders zip across apartment rooftops to beat traffic and reach your door in minutes.",
     "hook": "Ever wondered how Korean food arrives faster than the traffic outside?",
-    "body": "In Seoul’s high‑rise apartments, many delivery riders skip the jam by climbing a few stairs to the rooftop. In some cases they move along walkways or sky‑bridges that connect buildings, and then descend to a delivery locker or a door. The route can sometimes shave a few minutes off the trip, especially during rush hour in dense neighborhoods. If a building has no chute, a rider may use a small folding ladder to access a balcony, though practices vary.",
-    "twist": "The trick works mainly in newer complexes with connected rooftops; older towers often don’t have these paths.",
+    "body": "In many high‑rise apartment complexes, delivery riders use the building’s roof walkways and sky‑bridges to bypass street congestion. They climb a few stairs to the rooftop, cross a shared corridor, and descend directly to the delivery locker or door. This shortcut can shave off several minutes, especially during rush hour. The practice is common in dense neighborhoods like Gangnam and Hongdae.",
+    "twist": "Some riders even carry a small folding ladder to reach the balcony when the building lacks a dedicated delivery chute.",
     "caveat": "This method is typical in newer complexes with connected rooftops; older buildings without such paths may not allow it.",
     "confidence": "high",
     "verify_note": "Korean delivery rooftop shortcuts, delivery riders roof walkways Seoul, apartment complex delivery path Korea",
