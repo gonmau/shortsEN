@@ -19,28 +19,7 @@
     "text": "education focus"
    }
   ],
-  "compare": {
-   "title": "Korea vs United States",
-   "left": "Korea",
-   "right": "United States",
-   "rows": [
-    {
-     "label": "Quiet car policy",
-     "left": "mandatory",
-     "right": "rare"
-    },
-    {
-     "label": "Public transport usage",
-     "left": "high",
-     "right": "moderate"
-    },
-    {
-     "label": "Cultural emphasis on stu",
-     "left": "strong",
-     "right": "varied"
-    }
-   ]
-  },
+  "compare": null,
   "recap": "Seoul’s quiet subway cars turn daily commutes into silent study spaces",
   "broll": [
    "seoul subway interior",
@@ -56,7 +35,18 @@
   "sig": "eb03855ea584",
   "model": "openai/gpt-oss-120b",
   "created": "2026-10-30 13:21",
-  "bridge_to": "Seoul’s subway stations feature heated‑floor malls where shoppers stroll in winter barefoot"
+  "bridge_to": "Seoul’s subway stations feature heated‑floor malls where shoppers stroll in winter barefoot",
+  "compare_at": 0,
+  "images": [],
+  "title1": "Seoul quiet subway",
+  "title2": "Silent car study hub",
+  "clip_queries": [
+   "seoul subway interior",
+   "students reading train",
+   "metro staff reminding passengers"
+  ],
+  "locked": true,
+  "edited": "2026-10-30 13:22"
  },
  "2": {
   "narration": "Did you know you can walk barefoot in a Seoul subway mall while snow falls outside? Below the bustling stations of Gangnam, City Hall, and many others, long corridors stretch like underground streets. These corridors are covered with ondol‑style heated flooring, the same system that warms traditional Korean homes. The heat is drawn from the subway’s central heating plant, which already supplies warmth to trains and platforms. As a result, shoppers can linger at clothing boutiques, food stalls, and tech stores without pulling on coats. The malls stay open 24 hours, becoming late‑night hangouts for students finishing exams and office workers after a shift. During peak hours the floor stays at a comfortable temperature, while sensors lower it a few degrees in the early morning to save energy. Even with the slight drop, the surface never feels cold to the touch. This design grew from Seoul’s harsh winter climate and the city’s need to keep pedestrian flow moving year‑round. By placing commerce directly under transit hubs, the city reduces street‑level congestion and encourages public‑transport use. Many locals treat the underground malls as a second living room, meeting friends for coffee or grabbing a quick bite after work. The heated floors also help prevent ice buildup on stairways, improving safety for the thousands of daily commuters. For foreigners, the surprise is how seamless the transition is from a cold platform to a warm, lively market without stepping outside. The concept reflects Korea’s emphasis on efficiency, comfort, and maximizing limited urban space. Visitors often comment that the experience feels like walking through a giant, climate‑controlled department store beneath the city. The hidden warmth keeps the city’s rhythm steady, no matter how frosty the season above. Next, we’ll see how high‑tech vending machines brew fresh espresso in seconds at any convenience store.",
