@@ -1,599 +1,183 @@
 {
- "10": {
-  "narration": "Did you know a QR code can turn a stranger into a coffee buddy in Seoul? A tourist spots a flyer that says “Coffee with a Stranger” and scans the code. Instantly the phone opens a KakaoTalk open‑chat room buzzing with dozens of members. Within minutes a local replies, offering a nearby café and a quick language exchange. The chat uses KakaoTalk’s built‑in verification, so users feel safe sharing contact details. Because KakaoTalk dominates Korean messaging, the pool of potential partners is huge and diverse. Some groups host over ten thousand members and schedule weekly meet‑ups in three different districts. Participants range from curious travelers to busy office workers looking for a break. The gatherings are informal – a simple latte, a shared table, and stories about daily life. This low‑cost, low‑commitment format encourages people to practice English or Korean in a real setting. It also reflects Korea’s strong café culture, where coffee shops serve as social hubs. Next, we’ll follow the lights as cyclists glide along the Han River at night.",
+ "5": {
+  "narration": "Did you know a single subway car in Seoul is dedicated to silence? Since the early 2020s the metro authority converted one carriage on every line into a quiet zone. The rule is simple: phones on vibrate, voices below a whisper, and an ear‑shaped sign marks the space. Station staff politely remind noisy riders to lower their volume, and most commuters respect the guideline. The car quickly fills with students clutching textbooks, office workers reviewing reports, and seniors reading newspapers. During exam periods, small tutoring groups set up on the carriage, handing out flashcards to fellow passengers. The quiet car feels like a moving library, turning a crowded commute into productive study time. Compliance is reported to be very high, with only occasional reminders needed. For many foreigners, the idea of a designated silent carriage is unexpected, as most metros elsewhere allow normal conversation. In Seoul, the practice reflects the city’s emphasis on efficiency and respect for shared spaces. This unique habit makes the daily rush feel less chaotic and more purposeful. Next, we’ll see how Seoul solves another rainy‑day problem with vending‑machine umbrellas.",
   "keywords": [
    {
     "sentence": 1,
-    "text": "QR code coffee buddy"
-   },
-   {
-    "sentence": 3,
-    "text": "KakaoTalk open‑chat"
-   },
-   {
-    "sentence": 7,
-    "text": "10,000 members"
-   },
-   {
-    "sentence": 10,
-    "text": "language exchange"
-   },
-   {
-    "sentence": 12,
-    "text": "Han River bike parade"
-   }
-  ],
-  "compare": {
-   "title": "Korea vs United States",
-   "left": "Korea",
-   "right": "United States",
-   "rows": [
-    {
-     "label": "Messaging dominance",
-     "left": "KakaoTalk universal",
-     "right": "Multiple apps"
-    },
-    {
-     "label": "Coffee meetup size",
-     "left": "10k+ members",
-     "right": "smaller groups"
-    }
-   ]
-  },
-  "recap": "A QR code and KakaoTalk turn strangers into coffee companions across S",
-  "broll": [
-   "seoul café interior",
-   "kakaotalk phone screen",
-   "people chatting over coffee"
-  ],
-  "verify": {
-   "status": "fixed",
-   "removed_sentences": 0,
-   "removed_rows": 1,
-   "unsupported": 10,
-   "notes": [
-    "[unsupported] 1번 문장: No evidence that a QR code specifically enables coffee meetups in Seoul",
-    "[unsupported] 2번 문장: No source confirming such flyers exist",
-    "[unsupported] 3번 문장: No data on open‑chat rooms opening automatically with dozens of members",
-    "[unsupported] 4번 문장: Anecdotal claim without verification",
-    "[unsupported] 5번 문장: KakaoTalk has phone verification but not a built‑in ID check guaranteeing safety",
-    "[unsupported] 7번 문장: No evidence of groups with >10,000 members scheduling weekly meet‑ups in three districts",
-    "[unsupported] 8번 문장: Broad demographic claim lacks supporting data",
-    "[unsupported] 9번 문장: Descriptive claim about format not substantiated"
-   ],
-   "model": "openai/gpt-oss-120b"
-  },
-  "sig": "0f9706eab577",
-  "model": "openai/gpt-oss-120b",
-  "created": "2026-10-25 23:56",
-  "audio": "/home/runner/work/shortsEN/shortsEN/audio/lf_0010_KakaoTalk_Coffee_Meetups.mp3",
-  "timing": "/home/runner/work/shortsEN/shortsEN/audio/lf_0010_KakaoTalk_Coffee_Meetups_timing.json",
-  "tts_hash": "d9961d2fa12d",
-  "clips": [
-   {
-    "query": "seoul café interior",
-    "path": "/home/runner/work/shortsEN/shortsEN/clips/0010_KakaoTalk Coffee Meetups/clip_01.mp4",
-    "source": "pixabay",
-    "user": "RafterJr72",
-    "page": "https://pixabay.com/videos/id-21115/",
-    "id": "pixabay21115",
-    "check": "unknown"
-   },
-   {
-    "query": "kakaotalk phone screen",
-    "path": "/home/runner/work/shortsEN/shortsEN/clips/0010_KakaoTalk Coffee Meetups/clip_02.mp4",
-    "source": "pixabay",
-    "user": "Natures_Embrace",
-    "page": "https://pixabay.com/videos/id-202987/",
-    "id": "pixabay202987",
-    "check": "unknown"
-   },
-   {
-    "query": "people chatting over coffee",
-    "path": "/home/runner/work/shortsEN/shortsEN/clips/0010_KakaoTalk Coffee Meetups/clip_03.mp4",
-    "source": "pixabay",
-    "user": "Life-Of-Vids",
-    "page": "https://pixabay.com/videos/id-1623/",
-    "id": "pixabay1623",
-    "check": "unknown"
-   }
-  ]
- },
- "11": {
-  "narration": "Did you know Seoul’s river can turn into a glowing highway every summer? Each July, cyclists gather at Yeouido to start the Han River Light Bike parade. The event is organized by the Seoul Bike Festival, a group that promotes eco‑friendly recreation and showcases the city’s nightscape. Riders attach flexible LED strips to their bikes, and the lights pulse in sync with a DJ’s beat. As the group rolls out, the riverbank becomes a moving ribbon of color that reflects off the water and the skyscrapers beyond. The parade follows the Han River’s winding path, stretching for many kilometres, and it feels like a river of light flowing through the city. In 2022, participants claimed a Guinness World Record for the longest continuous night bike parade, a testament to the event’s scale. The atmosphere is a mix of music, cheers, and the soft hum of wheels on the paved trail. Locals treat it as a summer ritual, often meeting friends after work to join the ride. Visitors are surprised by how organized the traffic is; police and volunteers guide the cyclists, keeping the flow safe and smooth. The LED strips are battery‑powered, so the ride stays green and quiet, fitting Seoul’s push for sustainable urban life. Nighttime cyclists also get a unique view of Seoul’s skyline, with landmarks like the 63 Building shimmering on the river’s surface. The parade ends near the Banpo Bridge, where the famous Moonlight Rainbow Fountain adds another layer of light. After the ride, many riders linger at riverside cafés, sharing stories over iced coffee. This luminous tradition highlights how modern technology and community spirit can reshape a city’s public spaces. Next, we’ll see how students satisfy late‑night cravings at 24‑hour convenience stores.",
-  "keywords": [
-   {
-    "sentence": 1,
-    "text": "Han River Light Bike"
-   },
-   {
-    "sentence": 3,
-    "text": "LED strips pulse"
-   },
-   {
-    "sentence": 6,
-    "text": "Guinness record"
-   },
-   {
-    "sentence": 9,
-    "text": "sustainable urban ride"
-   },
-   {
-    "sentence": 12,
-    "text": "Moonlight Rainbow Fountain"
-   }
-  ],
-  "compare": {
-   "title": "Korea vs United States",
-   "left": "Korea",
-   "right": "United States",
-   "rows": [
-    {
-     "label": "Event scale",
-     "left": "citywide",
-     "right": "regional"
-    },
-    {
-     "label": "Public transport support",
-     "left": "high",
-     "right": "varied"
-    },
-    {
-     "label": "Night bike culture",
-     "left": "growing fast",
-     "right": "emerging"
-    }
-   ]
-  },
-  "recap": "Seoul’s night bike parade lights up the Han River with eco‑friendly LE",
-  "broll": [
-   "Han River night bike parade",
-   "Seoul skyline reflections",
-   "crowd with LED bike lights"
-  ],
-  "verify": {
-   "status": "ok",
-   "removed_sentences": 0,
-   "removed_rows": 0,
-   "unsupported": 7,
-   "notes": [
-    "[unsupported] 4번 문장: Specific claim about LED strips pulsing in sync with a DJ lacks verifiable source",
-    "[unsupported] 7번 문장: No evidence found of a 2022 Guinness World Record for this event",
-    "[unsupported] 9번 문장: Claim about locals treating it as a ritual and joining after work is anecdotal and unverified",
-    "[unsupported] 14번 문장: No specific evidence that riders linger at cafés after the ride",
-    "[unsupported] 17번 문장: Comparative scale claim lacks supporting data",
-    "[unsupported] 18번 문장: Comparative public‑transport support claim lacks evidence",
-    "[unsupported] 19번 문장: Comparative night‑bike culture claim lacks evidence"
-   ],
-   "model": "openai/gpt-oss-120b"
-  },
-  "sig": "60c1546ba980",
-  "model": "openai/gpt-oss-120b",
-  "created": "2026-10-25 23:56",
-  "audio": "/home/runner/work/shortsEN/shortsEN/audio/lf_0011_Han_River_Light_Bike.mp3",
-  "timing": "/home/runner/work/shortsEN/shortsEN/audio/lf_0011_Han_River_Light_Bike_timing.json",
-  "tts_hash": "7f0375a27b60",
-  "clips": [
-   {
-    "query": "Han River night bike parade",
-    "path": "/home/runner/work/shortsEN/shortsEN/clips/0011_Han River Light Bike/clip_01.mp4",
-    "source": "pixabay",
-    "user": "stchois",
-    "page": "https://pixabay.com/videos/id-222365/",
-    "id": "pixabay222365",
-    "check": "unknown"
-   },
-   {
-    "query": "Seoul skyline reflections",
-    "path": "/home/runner/work/shortsEN/shortsEN/clips/0011_Han River Light Bike/clip_02.mp4",
-    "source": "pixabay",
-    "user": "YounStudios",
-    "page": "https://pixabay.com/videos/id-336755/",
-    "id": "pixabay336755",
-    "check": "unknown"
-   },
-   {
-    "query": "crowd with LED bike lights",
-    "path": "/home/runner/work/shortsEN/shortsEN/clips/0011_Han River Light Bike/clip_03.mp4",
-    "source": "pixabay",
-    "user": "Vimeo-Free-Videos",
-    "page": "https://pixabay.com/videos/id-1275/",
-    "id": "pixabay1275",
-    "check": "unknown"
-   }
-  ]
- },
- "12": {
-  "narration": "Ever wondered why you can buy a fresh salad at 2 am in Seoul? In Korea, most convenience stores stay open 24 hours, so they become the go‑to spot for late‑night cravings. These shops receive fresh deliveries several times a day, keeping lettuce crisp and sushi moist even after midnight. A university student finishing a night class can walk into a store, pick up a chilled salmon kimbap, and be back on campus within minutes. The stores use refrigerated display cases and sometimes automated shelving that rotates stock to maintain temperature. Because Korean students often study late, the market grew to meet demand for quick, healthy snacks after hours. You’ll also find fruit bowls and pre‑made salads that look like they were just prepared at noon. The convenience of grabbing a nutritious bite at any hour is rare in many other countries. In some places, you must rely on fast‑food chains that close early, making Korea’s 24‑hour fresh food option stand out. This habit reflects the country’s high‑density urban life and the cultural norm of staying up late to study or work. Foreign visitors are often surprised to see sushi rolls next to instant noodles on the same shelf at 3 am.",
-  "keywords": [
-   {
-    "sentence": 1,
-    "text": "2 am fresh salad"
-   },
-   {
-    "sentence": 3,
-    "text": "multiple daily deliveries"
-   },
-   {
-    "sentence": 5,
-    "text": "automated shelving"
-   },
-   {
-    "sentence": 9,
-    "text": "rare late‑night options"
-   },
-   {
-    "sentence": 11,
-    "text": "surprising midnight sushi"
-   }
-  ],
-  "compare": {
-   "title": "Korea vs United States",
-   "left": "Korea",
-   "right": "United States",
-   "rows": [
-    {
-     "label": "24‑hour fresh food",
-     "left": "common",
-     "right": "rare"
-    },
-    {
-     "label": "Student night‑snack cult",
-     "left": "high",
-     "right": "low"
-    },
-    {
-     "label": "Automated refrigerated s",
-     "left": "some chains",
-     "right": "few stores"
-    }
-   ]
-  },
-  "recap": "Korea’s 24‑hour stores keep fresh salads and sushi ready for any midni",
-  "broll": [
-   "seoul convenience store night",
-   "student walking campus late",
-   "refrigerated food display"
-  ],
-  "verify": {
-   "status": "fixed",
-   "removed_sentences": 1,
-   "removed_rows": 0,
-   "unsupported": 6,
-   "notes": [
-    "[unsupported] 5번 문장: Automated rotating shelving is not a documented standard",
-    "[unsupported] 6번 문장: Growth due to student study habits is plausible but not verifiable",
-    "[unsupported] 8번 문장: General claim that 24‑hour fresh food is rare elsewhere lacks evidence",
-    "[unsupported] 9번 문장: Statement about fast‑food closures in other places is too broad",
-    "[contradicted] 12번 문장: No evidence that Korean office elevators become karaoke stages",
-    "[unsupported] 14번 문장: No concrete data on 'cult' level of student night‑snacking",
-    "[unsupported] 15번 문장: Automated refrigerated shelving is not widespread in either country"
-   ],
-   "model": "openai/gpt-oss-120b"
-  },
-  "sig": "a7fd325b8028",
-  "model": "openai/gpt-oss-120b",
-  "created": "2026-10-25 23:57",
-  "audio": "/home/runner/work/shortsEN/shortsEN/audio/lf_0012_Midnight_Fresh_Food_Runs.mp3",
-  "timing": "/home/runner/work/shortsEN/shortsEN/audio/lf_0012_Midnight_Fresh_Food_Runs_timing.json",
-  "tts_hash": "8b6070c08dbb",
-  "clips": [
-   {
-    "query": "seoul convenience store night",
-    "path": "/home/runner/work/shortsEN/shortsEN/clips/0012_Midnight Fresh Food Runs/clip_01.mp4",
-    "source": "pixabay",
-    "user": "RafterJr72",
-    "page": "https://pixabay.com/videos/id-21116/",
-    "id": "pixabay21116",
-    "check": "unknown"
-   },
-   {
-    "query": "student walking campus late",
-    "path": "/home/runner/work/shortsEN/shortsEN/clips/0012_Midnight Fresh Food Runs/clip_02.mp4",
-    "source": "pixabay",
-    "user": "Media_Hopper_Studio",
-    "page": "https://pixabay.com/videos/id-378586/",
-    "id": "pixabay378586",
-    "check": "unknown"
-   },
-   {
-    "query": "refrigerated food display",
-    "path": "/home/runner/work/shortsEN/shortsEN/clips/0012_Midnight Fresh Food Runs/clip_03.mp4",
-    "source": "pixabay",
-    "user": "PIRO4D",
-    "page": "https://pixabay.com/videos/id-7549/",
-    "id": "pixabay7549",
-    "check": "unknown"
-   }
-  ]
- },
- "13": {
-  "narration": "Did you know an elevator in Seoul can become a karaoke booth the moment the doors close? In several high‑rise office towers, a hidden button activates a compact karaoke system inside the lift. When the button is pressed, a small screen lights up, a microphone drops from the ceiling, and a short instrumental track begins. The music is volume‑controlled and the cabin is sound‑insulated, so the singing stays inside the elevator and does not disturb other floors. Workers often use the brief ride to belt out a chorus of a popular K‑pop hit, turning a routine trip into a quick ice‑breaker before a meeting. Sometimes strangers on the same floor join in, creating a spontaneous mini‑concert that lasts only a few seconds before the lift reaches its destination. The idea started as a fun way to boost morale and encourage informal networking in busy office environments. It also reflects Korea’s love of singing and the cultural habit of sharing music in public spaces. Visitors are often surprised to hear colleagues laughing and harmonizing while the doors open on the 10th floor. The system is simple: a single button, a pre‑loaded playlist of well‑known choruses, and a timer that stops the music as soon as the doors open. This playful feature shows how Korean workplaces blend work and leisure in unexpected ways. Next, we’ll see how the Korean honorific “‑ssi” works like “Mr./Ms.” but can feel overly formal in casual texts.",
-  "keywords": [
-   {
-    "sentence": 1,
-    "text": "Elevator karaoke"
-   },
-   {
-    "sentence": 3,
-    "text": "Sound‑insulated cabin"
-   },
-   {
-    "sentence": 5,
-    "text": "Mini‑concert"
-   },
-   {
-    "sentence": 9,
-    "text": "Work‑leisure blend"
-   }
-  ],
-  "compare": {
-   "title": "Korea vs United States",
-   "left": "Korea",
-   "right": "United States",
-   "rows": [
-    {
-     "label": "Elevator karaoke",
-     "left": "common in some offices",
-     "right": "rare"
-    },
-    {
-     "label": "Workplace music culture",
-     "left": "highly accepted",
-     "right": "more formal"
-    },
-    {
-     "label": "Sound‑insulated lifts",
-     "left": "standard in high‑rises",
-     "right": "less common"
-    }
-   ]
-  },
-  "recap": "Seoul elevators can turn a short ride into a surprise karaoke session.",
-  "broll": [
-   "modern office elevator interior",
-   "people singing in elevator",
-   "Seoul skyscraper lobby"
-  ],
-  "verify": {
-   "status": "ok",
-   "removed_sentences": 0,
-   "removed_rows": 0,
-   "unsupported": 13,
-   "notes": [
-    "[unsupported] 2번 문장: No reliable evidence of hidden karaoke buttons in Korean office elevators",
-    "[unsupported] 3번 문장: Specific description of hardware not documented",
-    "[unsupported] 4번 문장: No proof that elevators are sound‑insulated for karaoke use",
-    "[unsupported] 5번 문장: Anecdotal claim lacking verification",
-    "[unsupported] 6번 문장: No evidence of spontaneous mini‑concerts in lifts",
-    "[unsupported] 7번 문장: Origin story not substantiated",
-    "[unsupported] 8번 문장: Broad cultural statement not specifically linked to elevators",
-    "[unsupported] 9번 문장: No documented observations of visitors hearing karaoke in lifts"
-   ],
-   "model": "openai/gpt-oss-120b"
-  },
-  "sig": "c1ea665dff09",
-  "model": "openai/gpt-oss-120b",
-  "created": "2026-10-25 23:57",
-  "audio": "/home/runner/work/shortsEN/shortsEN/audio/lf_0013_Elevator_Karaoke_Surprise.mp3",
-  "timing": "/home/runner/work/shortsEN/shortsEN/audio/lf_0013_Elevator_Karaoke_Surprise_timing.json",
-  "tts_hash": "03d1f884927f",
-  "clips": [
-   {
-    "query": "modern office elevator interior",
-    "path": "/home/runner/work/shortsEN/shortsEN/clips/0013_Elevator Karaoke Surprise/clip_01.mp4",
-    "source": "pixabay",
-    "user": "Coverr-Free-Footage",
-    "page": "https://pixabay.com/videos/id-3611/",
-    "id": "pixabay3611",
-    "check": "unknown"
-   },
-   {
-    "query": "people singing in elevator",
-    "path": "/home/runner/work/shortsEN/shortsEN/clips/0013_Elevator Karaoke Surprise/clip_02.mp4",
-    "source": "pixabay",
-    "user": "NickyPe",
-    "page": "https://pixabay.com/videos/id-188778/",
-    "id": "pixabay188778",
-    "check": "unknown"
-   },
-   {
-    "query": "Seoul skyscraper lobby",
-    "path": "/home/runner/work/shortsEN/shortsEN/clips/0013_Elevator Karaoke Surprise/clip_03.mp4",
-    "source": "pixabay",
-    "user": "YounStudios",
-    "page": "https://pixabay.com/videos/id-337470/",
-    "id": "pixabay337470",
-    "check": "unknown"
-   }
-  ]
- },
- "18": {
-  "narration": "Did you know that adding ‑ssi to a Korean name can feel as formal as a business suit? In Korean, ‑ssi is a polite suffix that attaches to a given name or full name, much like “Mr.” or “Ms.” in English. You’ll hear it most often between coworkers, classmates, or acquaintances who share a similar rank. Using only a family name, such as “Kim‑ssi,” is generally avoided because it sounds detached and can even be rude. In a casual chat with a close friend, people usually drop the suffix and just say the first name for a softer tone. When you need extra respect—like for a boss, teacher, or someone much older—Koreans add the honorific ‑nim after a title, for example “Manager Kim‑nim.” This hierarchy helps keep conversations clear about who holds authority. In everyday life, a teenager might text “Jimin‑ssi” to a peer, but switch to “Jimin‑oppa” or just “Jimin” with a best friend. The same pattern appears in public announcements, where staff call passengers by name‑ssi to stay polite yet neutral. Foreigners often surprise themselves by hearing ‑ssi in a text and wondering if they sounded stiff; the key is to match the level of closeness you share. Remember, using the right suffix shows you respect Korean social etiquette and keeps your conversation comfortable.",
-  "keywords": [
-   {
-    "sentence": 1,
-    "text": "‑ssi feels formal"
+    "text": "Silent subway car"
    },
    {
     "sentence": 4,
-    "text": "avoid surname‑ssi"
-   },
-   {
-    "sentence": 6,
-    "text": "‑nim for higher respect"
-   },
-   {
-    "sentence": 9,
-    "text": "peer vs friend suffix"
-   }
-  ],
-  "compare": {
-   "title": "Korea vs United States",
-   "left": "Korea",
-   "right": "United States",
-   "rows": [
-    {
-     "label": "Honorific use",
-     "left": "common in daily speech",
-     "right": "rare, only titles"
-    },
-    {
-     "label": "Surname alone",
-     "left": "considered rude",
-     "right": "acceptable"
-    },
-    {
-     "label": "Formal suffix",
-     "left": "‑ssi, ‑nim",
-     "right": "Mr./Ms. only"
-    }
-   ]
-  },
-  "recap": "Use ‑ssi with peers, switch to ‑nim for higher respect, and drop it wi",
-  "broll": [
-   "Korean smartphone texting",
-   "office meeting in Seoul",
-   "friends chatting at a café"
-  ],
-  "verify": {
-   "status": "fixed",
-   "removed_sentences": 1,
-   "removed_rows": 0,
-   "unsupported": 0,
-   "notes": [
-    "[contradicted] 3번 문장: Origin is from Chinese \"氏\" (ssi), not \"sang‑si\""
-   ],
-   "model": "openai/gpt-oss-120b"
-  },
-  "sig": "40f5f27ab49c",
-  "model": "openai/gpt-oss-120b",
-  "created": "2026-10-28 05:00",
-  "audio": "/home/runner/work/shortsEN/shortsEN/audio/lf_0018_The_ssi_Slip.mp3",
-  "timing": "/home/runner/work/shortsEN/shortsEN/audio/lf_0018_The_ssi_Slip_timing.json",
-  "tts_hash": "a62c7e1d9716",
-  "clips": [
-   {
-    "query": "Korean smartphone texting",
-    "path": "/home/runner/work/shortsEN/shortsEN/clips/0018_The ‘‐ssi’ Slip/clip_01.mp4",
-    "source": "pixabay",
-    "user": "Natures_Embrace",
-    "page": "https://pixabay.com/videos/id-202987/",
-    "id": "pixabay202987",
-    "check": "unknown"
-   },
-   {
-    "query": "office meeting in Seoul",
-    "path": "/home/runner/work/shortsEN/shortsEN/clips/0018_The ‘‐ssi’ Slip/clip_02.mp4",
-    "source": "pixabay",
-    "user": "Life-Of-Vids",
-    "page": "https://pixabay.com/videos/id-2340/",
-    "id": "pixabay2340",
-    "check": "unknown"
-   },
-   {
-    "query": "friends chatting at a café",
-    "path": "/home/runner/work/shortsEN/shortsEN/clips/0018_The ‘‐ssi’ Slip/clip_03.mp4",
-    "source": "pixabay",
-    "user": "Alanchevereau",
-    "page": "https://pixabay.com/videos/id-22728/",
-    "id": "pixabay22728",
-    "check": "unknown"
-   }
-  ]
- },
- "19": {
-  "narration": "Did you know a single Korean delivery can bring a whole table of side dishes? In South Korea, most restaurants still follow the traditional meal structure even when you order online. When you tap Baedal Minjok or Coupang Eats, the kitchen often adds banchan—small plates of kimchi, pickled radish, seasoned spinach, and more. This habit comes from the Korean habit of sharing many side dishes at every home meal. It lets a busy office worker enjoy a balanced, flavorful lunch without cooking. Some places even pack a full set: a bowl of rice, a hot soup, a main protein, and three to five banchan items. The practice also reflects the cultural value of hospitality; serving extra dishes shows care for the guest. Delivery drivers usually receive a sealed container, so the banchan stay fresh until they arrive at your door. However, not every order includes them; Western‑style menus like pizza or fried chicken often skip the extras. Compared with the United States, where side dishes are usually ordered separately, Korean delivery feels like a mini banquet. Foreign visitors often laugh when they find a tiny jar of kimchi beside their ramen. Next, we’ll explore the quiet zones in Korean cafés where phones go silent and work gets done.",
-  "keywords": [
-   {
-    "sentence": 1,
-    "text": "single Korean delivery"
-   },
-   {
-    "sentence": 3,
-    "text": "banchan"
-   },
-   {
-    "sentence": 5,
-    "text": "balanced lunch"
-   },
-   {
-    "sentence": 9,
-    "text": "Western‑style menus"
-   },
-   {
-    "sentence": 11,
-    "text": "mini banquet"
-   }
-  ],
-  "compare": {
-   "title": "Korea vs United States",
-   "left": "Korea",
-   "right": "United States",
-   "rows": [
-    {
-     "label": "Banchan inclusion",
-     "left": "common with delivery",
-     "right": "rare, ordered separately"
-    },
-    {
-     "label": "Meal packaging",
-     "left": "single box with sides",
-     "right": "main dish only"
-    },
-    {
-     "label": "Cultural expectation",
-     "left": "hospitality focus",
-     "right": "convenience focus"
-    }
-   ]
-  },
-  "recap": "Korean delivery often turns one order into a full banchan‑filled sprea",
-  "broll": [
-   "Korean food delivery box",
-   "banchan assortment on table",
-   "delivery driver handing food"
-  ],
-  "verify": {
-   "status": "ok",
-   "removed_sentences": 0,
-   "removed_rows": 0,
-   "unsupported": 2,
-   "notes": [
-    "[unsupported] 1번 문장: Overgeneralizes that every Korean delivery includes a whole table of side dishes",
-    "[unsupported] 11번 문장: Anecdotal claim about foreign visitors laughing lacks verifiable evidence"
-   ],
-   "model": "openai/gpt-oss-120b"
-  },
-  "sig": "ac58806df8db",
-  "model": "openai/gpt-oss-120b",
-  "created": "2026-10-25 23:58",
-  "audio": "/home/runner/work/shortsEN/shortsEN/audio/lf_0019_South_Korea.mp3",
-  "timing": "/home/runner/work/shortsEN/shortsEN/audio/lf_0019_South_Korea_timing.json",
-  "tts_hash": "65b8b7541770"
- },
- "21": {
-  "narration": "Did you know Seoul’s cafés often double as silent study rooms? When you step inside a typical neighborhood coffee shop, you’ll see a small sign that marks a “work zone” or “study pod.” These areas are equipped with power outlets, extra lighting, and chairs arranged for concentration. The rule is simple: phones must stay on silent and conversations are kept to a whisper. Many students and freelancers treat these spots like mini‑libraries, plugging laptops in for hours while sipping espresso. The habit grew from the high cost of private study rooms and the city’s fast‑paced lifestyle, making cafés the most convenient quiet corners. Some cafés even add wooden partitions or individual desks to reinforce the silence. In these pods, you’ll often hear the soft click of keyboards and the occasional rustle of notebooks, but rarely the clatter of dishes. The culture is so ingrained that people who habitually work in cafés are nicknamed “cagongjok,” a blend of café and study. Rules can vary: a few places allow light eating, while others ban food entirely to keep the space tidy. If you’re visiting, just glance at the posted signs and respect the silent atmosphere. This quiet café culture contrasts sharply with many Western coffee spots where lively chatter is the norm. Up next, we’ll see why Koreans pour drinks for elders with both hands as a sign of respect.",
-  "keywords": [
-   {
-    "sentence": 1,
-    "text": "Seoul cafés as study rooms"
-   },
-   {
-    "sentence": 3,
-    "text": "Power outlets and extra ligh"
-   },
-   {
-    "sentence": 5,
-    "text": "Students and freelancers"
+    "text": "Moving library"
    },
    {
     "sentence": 7,
-    "text": "Soft click of keyboards"
+    "text": "Exam flashcards"
+   }
+  ],
+  "compare": {
+   "title": "Korea vs United States",
+   "left": "Korea",
+   "right": "United States",
+   "rows": [
+    {
+     "label": "Quiet car policy",
+     "left": "Nationwide",
+     "right": "Rare"
+    },
+    {
+     "label": "Enforcement",
+     "left": "Staff reminders",
+     "right": "Loose"
+    },
+    {
+     "label": "Commuter response",
+     "left": "High compliance",
+     "right": "Mixed"
+    }
+   ]
+  },
+  "recap": "Seoul’s quiet subway cars turn the daily ride into a silent study spac",
+  "broll": [
+   "Seoul subway interior",
+   "students reading on train",
+   "ear sign on subway car"
+  ],
+  "verify": {
+   "status": "skipped",
+   "notes": [
+    "교차검증 꺼짐(CROSS_CHECK=0) - 직접 검증하거나 확인하세요"
+   ]
+  },
+  "sig": "60d3066ef57b",
+  "model": "openai/gpt-oss-120b",
+  "created": "2026-10-30 12:15",
+  "bridge_to": "Disposable umbrellas sold from vending machines at subway stations"
+ },
+ "28": {
+  "narration": "Ever wondered why a tiny glass box on a Seoul subway platform can hand you a dry day? When a sudden rainstorm hits the city, commuters rush to the nearest vending machine. These machines are transparent, about the size of a small locker, and stocked with single‑use plastic umbrellas. You press a button, the umbrella folds out automatically, and you can slip it over your head in seconds. The service exists because Seoul’s weather changes quickly and many people prefer not to carry a bulky umbrella all day. Most stations keep the machines filled year‑round, and some also offer a small bottle of hand sanitizer for added convenience. Locals often store a spare umbrella in their lockers or bags, but the vending option is a quick backup for unexpected showers. The machines are most common in busy districts like Gangnam and Hongdae, yet you’ll still find them in smaller stations across Busan and other major cities. Foreign visitors are surprised by how clean and reliable the umbrellas are, despite being disposable. The design is simple: a spring‑loaded mechanism releases the folded umbrella into a plastic sleeve. Because the umbrellas are cheap and lightweight, the city can maintain them without heavy expense. Next, we’ll see how Korea’s vending culture even brews fresh espresso in seconds at any convenience store.",
+  "keywords": [
+   {
+    "sentence": 1,
+    "text": "rainstorm vending"
+   },
+   {
+    "sentence": 5,
+    "text": "quick backup"
    },
    {
     "sentence": 9,
-    "text": "Cagongjok nickname"
+    "text": "surprising clean"
+   }
+  ],
+  "compare": {
+   "title": "Korea vs United States",
+   "left": "Korea",
+   "right": "United States",
+   "rows": [
+    {
+     "label": "Umbrella vending",
+     "left": "common in stations",
+     "right": "rare"
+    },
+    {
+     "label": "Rain frequency",
+     "left": "high, sudden",
+     "right": "moderate"
+    },
+    {
+     "label": "Public sanitizer",
+     "left": "often included",
+     "right": "rare"
+    }
+   ]
+  },
+  "recap": "Seoul’s umbrella vending machines give commuters instant rain protecti",
+  "broll": [
+   "Seoul subway platform rain",
+   "hand pressing vending button",
+   "folding plastic umbrella"
+  ],
+  "verify": {
+   "status": "skipped",
+   "notes": [
+    "교차검증 꺼짐(CROSS_CHECK=0) - 직접 검증하거나 확인하세요"
+   ]
+  },
+  "sig": "26f1aa1d97b9",
+  "model": "openai/gpt-oss-120b",
+  "created": "2026-10-30 12:15",
+  "bridge_to": "High‑tech vending machines brew fresh espresso in seconds at any convenience store"
+ },
+ "1": {
+  "narration": "Did you know you can pull a barista‑level espresso from a vending machine in under a minute in Seoul? Every 24‑hour convenience store hides a compact coffee unit that grinds fresh beans, froths milk, and pours a latte in about 30 seconds. The machine is controlled by a touchscreen where you select espresso, Americano, latte, or cold‑brew and adjust strength, milk amount, and sugar. Payment is made with an RFID card, a mobile app, or cash, so the whole process is hands‑free. These units appeared as Korea’s coffee culture exploded, offering a quick alternative to crowded cafés during rush hour. Because Korean commuters often have only a few minutes between subway stations, the speed and consistency of the vending coffee keep the nation among the world’s top coffee consumers. In the summer heat of 2023, many stores switched the same machines to serve iced cold‑brew, keeping lines short and drinks chilled. The machines use sealed bean cartridges, which maintain freshness without the need for daily restocking. They also collect usage data, allowing operators to tweak recipes to local taste preferences. For a foreign visitor, the surprise is the quality—creamy foam and rich aroma rival many small cafés. Yet the experience remains affordable and available at any hour, from early morning subway exits to late‑night study sessions. Next, we’ll explore the quiet zones in Korean cafés where phones go silent and work gets done.",
+  "keywords": [
+   {
+    "sentence": 1,
+    "text": "Espresso from vending"
+   },
+   {
+    "sentence": 4,
+    "text": "Touchscreen payment"
+   },
+   {
+    "sentence": 8,
+    "text": "Bean cartridges"
+   }
+  ],
+  "compare": {
+   "title": "Korea vs United States",
+   "left": "Korea",
+   "right": "United States",
+   "rows": [
+    {
+     "label": "Vending coffee availabil",
+     "left": "Every 24‑hour store",
+     "right": "Rare, limited"
+    },
+    {
+     "label": "Customization options",
+     "left": "Strength, milk, sugar",
+     "right": "Basic selections"
+    },
+    {
+     "label": "Coffee culture speed",
+     "left": "Rush‑hour convenience",
+     "right": "Café‑focused"
+    }
+   ]
+  },
+  "recap": "Korean vending machines brew fresh espresso or cold‑brew in seconds, a",
+  "broll": [
+   "Seoul convenience store interior",
+   "Coffee vending machine close‑up",
+   "Busy subway station commuters"
+  ],
+  "verify": {
+   "status": "skipped",
+   "notes": [
+    "교차검증 꺼짐(CROSS_CHECK=0) - 직접 검증하거나 확인하세요"
+   ]
+  },
+  "sig": "945d436e7874",
+  "model": "openai/gpt-oss-120b",
+  "created": "2026-10-30 12:15",
+  "bridge_to": "Quiet zones in Korean cafés where phones go silent and work gets done"
+ },
+ "21": {
+  "narration": "Did you know Seoul’s cafés often double as quiet study pods? When you step inside a typical coffee shop, you might see a small sign that reads “Study Zone” or “Work Area.” These spots usually have extra power outlets, comfortable chairs, and a calm atmosphere. The rule is simple: keep your phone on silent and speak softly, so everyone can focus. Many students and freelancers treat these cafés like mini‑libraries, plugging in laptops and staying for several hours. The habit grew as housing became smaller and public libraries crowded, making cafés a convenient alternative. Some cafés even install partitions or individual desks to create personal work bubbles. In these dedicated study cafés, talking and eating are often discouraged, reinforcing the silent vibe. The word “cagongjok” is used to describe people who regularly study in cafés, reflecting how common the practice has become. Each café sets its own guidelines, so it’s wise to glance at the signs before you settle in. While the concept exists elsewhere, the uniform quiet culture and the term “cagongjok” are uniquely Korean. Next, we’ll see how Seoul’s subway stations keep shoppers warm with heated‑floor malls during winter.",
+  "keywords": [
+   {
+    "sentence": 1,
+    "text": "Seoul cafés as study pods"
+   },
+   {
+    "sentence": 5,
+    "text": "cagongjok"
+   },
+   {
+    "sentence": 9,
+    "text": "quiet culture"
    }
   ],
   "compare": {
@@ -603,212 +187,107 @@
    "rows": [
     {
      "label": "Study café prevalence",
-     "left": "common in cities",
-     "right": "less common"
+     "left": "common",
+     "right": "rare"
     },
     {
-     "label": "Phone rule enforcement",
-     "left": "strict silent rule",
+     "label": "Phone silence rule",
+     "left": "strict",
      "right": "relaxed"
     },
     {
-     "label": "Design of work zones",
-     "left": "dedicated pods",
-     "right": "open seating"
+     "label": "Dedicated study zones",
+     "left": "common",
+     "right": "uncommon"
     }
    ]
   },
-  "recap": "Seoul cafés offer quiet pods with silent‑phone rules for focused work.",
+  "recap": "Seoul’s cafés turn coffee time into focused study time.",
   "broll": [
-   "Seoul café interior quiet",
-   "students working laptop coffee shop",
-   "café study pod sign"
+   "seoul café interior",
+   "people working laptop coffee shop",
+   "quiet study area sign"
   ],
   "verify": {
-   "status": "ok",
-   "removed_sentences": 0,
-   "removed_rows": 0,
-   "unsupported": 6,
+   "status": "skipped",
    "notes": [
-    "[unsupported] 5번 문장: No specific evidence linking the habit to high cost of private study rooms; claim is speculative.",
-    "[unsupported] 8번 문장: The nickname \"cagongjok\" is not documented in reliable sources.",
-    "[unsupported] 11번 문장: Contrast with Western coffee spots is a generalization lacking specific comparative data.",
-    "[unsupported] 13번 문장: No quantitative data provided to confirm prevalence differences between Korea and the United States.",
-    "[unsupported] 14번 문장: No evidence presented to substantiate strict vs. relaxed phone rule enforcement across the two countries.",
-    "[unsupported] 15번 문장: Design differences are asserted without supporting evidence."
-   ],
-   "model": "openai/gpt-oss-120b"
+    "교차검증 꺼짐(CROSS_CHECK=0) - 직접 검증하거나 확인하세요"
+   ]
   },
-  "sig": "ebb2ee39947f",
+  "sig": "5bf312f408cb",
   "model": "openai/gpt-oss-120b",
-  "created": "2026-10-25 23:59",
-  "audio": "/home/runner/work/shortsEN/shortsEN/audio/lf_0021_Café_Study_Pods.mp3",
-  "timing": "/home/runner/work/shortsEN/shortsEN/audio/lf_0021_Café_Study_Pods_timing.json",
-  "tts_hash": "fee717bc951f"
+  "created": "2026-10-30 12:15",
+  "bridge_to": "Seoul’s subway stations feature heated‑floor malls where shoppers stroll in winter barefoot"
  },
- "22": {
-  "narration": "Ever wondered why a Korean holds a bottle with both hands when serving a drink? It is a core part of Korean drinking etiquette, rooted in Confucian respect for elders and seniors. When you pour soju or makgeolli, you grip the bottle with your right hand and support the wrist or forearm with your left, showing care and control. The recipient often lifts the glass with both hands, mirroring the gesture of deference. This two‑handed pour signals that the giver acknowledges the receiver’s higher status in age or rank. In a family gathering, a younger sibling will bow slightly while pouring for a parent, reinforcing filial duty. At a corporate dinner, a junior employee serves a manager the same way, reinforcing workplace hierarchy. Among close friends of the same age, a casual one‑handed pour is acceptable, but the two‑handed version still appears as a sign of politeness. The practice also helps prevent spills, which is practical when the drink is clear and the glass is small. Many foreigners are surprised that the ritual continues even with modern glassware and casual settings. The custom spreads beyond alcohol; tea is also offered with both hands in formal settings. By observing the hand positions, you can instantly read the social dynamics at the table. Remember, the act is less about the drink itself and more about showing respect through mindful movement. So the next time you see a careful two‑handed pour, you’ll know it carries centuries of cultural meaning.",
+ "2": {
+  "narration": "Ever wondered why Seoulites can shop barefoot in winter? Below the bustling streets, subway stations like Gangnam and City Hall hide massive underground malls. These malls stretch for several city blocks, linking train platforms to department stores and food courts. The floors are heated with ondol, the same under‑floor system that warms Korean homes. Warm water or steam from the station’s central heating circulates beneath concrete slabs, keeping the surface comfortably warm. Because the heat comes from the subway’s own energy plant, the malls stay warm even when the trains pause. Shoppers stroll past clothing boutiques, tech stalls, and street‑food vendors without a coat. Students often meet there after class, spreading out on the warm tiles to study or chat. Office workers use the space for quick lunches, enjoying hot meals while the city snows above. The malls never close, turning into lively night‑time hangouts with music and neon lights. Sensors detect foot traffic and lower the floor temperature by a couple of degrees during the quiet early‑morning hours, saving energy while still feeling pleasant. This clever balance lets the city stay active underground, regardless of the season. For many foreigners, the idea of walking barefoot on a public floor in winter feels strange, but Koreans see it as a practical comfort. The heated malls also protect the subway infrastructure from frost damage, extending the lifespan of tracks and equipment. In contrast to many Western cities, Seoul’s underground commerce is integrated directly with public transit, not just a side‑walk market. The seamless connection encourages people to use the subway for errands, reducing street‑level congestion. As you leave the warm corridors, you’ll notice the city above still buzzing with life. Next, we’ll see how Seoul’s streets are lined with vending machines that sell everything from fruit to umbrellas.",
   "keywords": [
    {
     "sentence": 1,
-    "text": "Why two‑handed pour?"
-   },
-   {
-    "sentence": 3,
-    "text": "Right hand bottle"
+    "text": "barefoot winter shopping"
    },
    {
     "sentence": 5,
-    "text": "Show respect"
-   },
-   {
-    "sentence": 9,
-    "text": "Spill prevention"
-   },
-   {
-    "sentence": 13,
-    "text": "Cultural meaning"
-   }
-  ],
-  "compare": {
-   "title": "Korea vs United States",
-   "left": "Korea",
-   "right": "United States",
-   "rows": [
-    {
-     "label": "Handedness rule",
-     "left": "Two‑handed for elders",
-     "right": "One‑handed common"
-    },
-    {
-     "label": "Elder respect",
-     "left": "Formal, required",
-     "right": "Casual, optional"
-    },
-    {
-     "label": "Drink type focus",
-     "left": "Soju, makgeolli",
-     "right": "Beer, wine"
-    }
-   ]
-  },
-  "recap": "Two‑handed pouring shows respect for elders in Korean drinking culture",
-  "broll": [
-   "Korean dinner table",
-   "hands holding soju bottle",
-   "elder receiving drink"
-  ],
-  "verify": {
-   "status": "fixed",
-   "removed_sentences": 1,
-   "removed_rows": 0,
-   "unsupported": 5,
-   "notes": [
-    "[unsupported] 9번 문장: Practical spill‑prevention benefit is plausible but not documented as a primary reason",
-    "[unsupported] 10번 문장: Anecdotal claim about foreigners' surprise lacks verifiable evidence",
-    "[unsupported] 12번 문장: The ability to \"instantly read\" social dynamics from hand positions is overstated",
-    "[contradicted] 15번 문장: Baek‑il is celebrated at 100 days, not 1,000 days",
-    "[unsupported] 16번 문장: Overgeneralizes US practice; no formal rule exists",
-    "[unsupported] 17번 문장: Comparative claim is vague and not a documented rule"
-   ],
-   "model": "openai/gpt-oss-120b"
-  },
-  "sig": "c0b6d9273a09",
-  "model": "openai/gpt-oss-120b",
-  "created": "2026-10-25 23:59",
-  "audio": "/home/runner/work/shortsEN/shortsEN/audio/lf_0022_Respectful_Drink_Pour.mp3",
-  "timing": "/home/runner/work/shortsEN/shortsEN/audio/lf_0022_Respectful_Drink_Pour_timing.json",
-  "tts_hash": "e89efcb555dc"
- },
- "23": {
-  "narration": "Did you know Korean families mark a baby’s 100th day with a special ceremony? This day is called baek‑il, which literally means “hundred‑day.” The tradition dates back to the Joseon era, when infant mortality was high and families prayed for survival. Parents gather at home, lay a clean white cloth, and place a small bowl of seaweed soup on the table. The soup, called miyeok‑guk, is believed to nourish both mother and child after childbirth. Alongside the soup, they serve baekseolgi, a plain white steamed rice cake. Baekseolgi’s pure color symbolizes a clean start and the hope for a healthy future. In the past, families would share pieces of the cake with neighbors, asking for blessings to return to the baby. Today, many families keep the celebration modest, but some still invite close relatives for a short photo session. A common practice is to write the baby’s name and the date on a decorative card placed beside the food. The ceremony is quiet, lasting only a few minutes, yet it reinforces family bonds. Unlike doljanchi, the first‑birthday party that involves elaborate games and a “doljabi” ritual, baek‑il focuses solely on health and gratitude. Some modern parents combine the two, holding a brief baek‑il before a larger birthday gathering. The ritual also reflects Confucian values of respect for elders, as older relatives often lead the blessing. In urban apartments, the celebration may happen in a compact kitchen, while rural homes might use a larger dining room. Many Korean blogs share photos of tiny hands holding a piece of baekseolgi, highlighting the cuteness factor that surprises foreigners. The simplicity of baek‑il can be a gentle introduction to Korean customs for new parents. Even when families are busy, they try not to miss this milestone, believing it sets a positive tone for the child’s growth. Next, we’ll stroll through Seoul’s streets, where vending machines sell everything from fruit to umbrellas.",
-  "keywords": [
-   {
-    "sentence": 1,
-    "text": "Korean 100th day"
-   },
-   {
-    "sentence": 4,
-    "text": "seaweed soup"
-   },
-   {
-    "sentence": 6,
-    "text": "baekseolgi rice cake"
-   },
-   {
-    "sentence": 10,
-    "text": "share with neighbors"
-   },
-   {
-    "sentence": 13,
-    "text": "doljanchi contrast"
-   }
-  ],
-  "compare": {
-   "title": "Korea vs United States",
-   "left": "Korea",
-   "right": "United States",
-   "rows": [
-    {
-     "label": "Celebration focus",
-     "left": "Health & gratitude",
-     "right": "Birthday parties"
-    },
-    {
-     "label": "Typical food",
-     "left": "Seaweed soup, rice cake",
-     "right": "Cake, ice cream"
-    },
-    {
-     "label": "Scale",
-     "left": "Modest, family‑only",
-     "right": "Often large, friends"
-    }
-   ]
-  },
-  "recap": "Baek‑il marks a baby's 100th day with soup, rice cake, and quiet famil",
-  "broll": [
-   "Korean family kitchen",
-   "white rice cake steaming",
-   "close‑up of seaweed soup bowl"
-  ],
-  "verify": {
-   "status": "ok",
-   "removed_sentences": 0,
-   "removed_rows": 0,
-   "unsupported": 0,
-   "notes": [],
-   "model": "openai/gpt-oss-120b"
-  },
-  "sig": "fc79d8c5d733",
-  "model": "openai/gpt-oss-120b",
-  "created": "2026-10-26 00:00",
-  "audio": "/home/runner/work/shortsEN/shortsEN/audio/lf_0023_1000_Day_Celebration.mp3",
-  "timing": "/home/runner/work/shortsEN/shortsEN/audio/lf_0023_1000_Day_Celebration_timing.json",
-  "tts_hash": "9a8f0aa62b75"
- },
- "24": {
-  "narration": "Did you know you can buy a fresh banana from a vending machine the moment you exit a Seoul subway? In South Korea, vending machines line almost every street corner, especially in the city’s bustling districts. They started appearing in the early 2000s as a response to long store hours and a tech‑savvy population. The machines are climate‑controlled, keeping fruit cool in summer and hot drinks warm in winter. You’ll find them selling sliced fruit, instant noodles, face masks, phone chargers, and even compact umbrellas for sudden rain. Most accept credit cards, mobile wallets, and even NFC taps, so cash is rarely needed. A commuter can step onto a platform, press a button, and receive a chilled apple without entering a shop. Seasonal items rotate; during cherry‑blossom month you might see sakura‑flavored snacks, while winter brings hot tea and soup cups. Some machines display a live counter of how many items were sold that day, turning a simple purchase into a tiny competition. In central Seoul, especially around Gangnam and Hongdae, you’ll see multi‑product towers that hold dozens of different goods. Smaller neighborhoods have fewer machines, but the concept still spreads to most transit hubs. The convenience fits Korea’s fast‑paced lifestyle, where people often grab a quick bite between meetings. It also reflects the country’s high trust in automated retail and low crime rates. For tourists, the surprise is that you can buy a face mask as easily as a soda. The machines are regularly restocked by local vendors who monitor sales data in real time. Because they are energy‑efficient, the government encourages their use to reduce street‑level waste. Many machines even have a small screen that shows a short advertisement for the product inside. The prevalence of these machines has turned the cityscape into a modern marketplace that never sleeps. So the next time you wander Seoul’s streets, keep an eye on the sleek panels – your next snack or shelter could be just a button away.",
-  "keywords": [
-   {
-    "sentence": 1,
-    "text": "fresh banana vending"
-   },
-   {
-    "sentence": 4,
-    "text": "climate‑controlled"
-   },
-   {
-    "sentence": 7,
-    "text": "mobile wallets"
+    "text": "ondol heated floor"
    },
    {
     "sentence": 12,
-    "text": "seasonal items"
+    "text": "energy‑saving sensors"
+   }
+  ],
+  "compare": {
+   "title": "Korea vs United States",
+   "left": "Korea",
+   "right": "United States",
+   "rows": [
+    {
+     "label": "Underground malls",
+     "left": "common in city centers",
+     "right": "rare"
+    },
+    {
+     "label": "Heated floors in public",
+     "left": "widespread",
+     "right": "uncommon"
+    },
+    {
+     "label": "Transit‑linked shopping",
+     "left": "integrated",
+     "right": "separate"
+    }
+   ]
+  },
+  "recap": "Seoul’s subway stations host heated underground malls where shoppers s",
+  "broll": [
+   "Seoul subway mall interior",
+   "heated floor close‑up",
+   "people walking barefoot underground"
+  ],
+  "verify": {
+   "status": "skipped",
+   "notes": [
+    "교차검증 꺼짐(CROSS_CHECK=0) - 직접 검증하거나 확인하세요"
+   ]
+  },
+  "sig": "9b838bd53168",
+  "model": "openai/gpt-oss-120b",
+  "created": "2026-10-30 12:15",
+  "bridge_to": "Seoul’s streets are lined with vending machines that sell everything from fruit to umbrellas"
+ },
+ "24": {
+  "narration": "Did you know you can buy a fresh banana from a sidewalk machine in Seoul? As you exit a subway station, a sleek, glass‑fronted vending unit glows beside the stairs. These machines are everywhere – on almost every block, in office lobbies, and inside large transit hubs. They sell more than drinks: seasonal fruit, instant noodles, face masks, phone chargers, and even compact rain‑proof umbrellas. The reason they thrive is Korea’s fast‑paced urban life and high mobile‑payment adoption, so people prefer quick, contact‑free purchases. Most units are temperature‑controlled, keeping fruit cool in summer and tea warm in winter. Payments are accepted via credit cards, T‑money cards, and smartphone apps, so cash is rarely needed. Some machines rotate their inventory with the seasons, offering hot soup in winter and chilled smoothies in summer. A few display a live counter of how many items were sold that day, turning a simple snack into a tiny competition among commuters. Central districts like Jongno and Gangnam have the highest density, while smaller towns have only a handful of multi‑product machines. For a foreign visitor, the surprise often comes from seeing a vending machine dispense a disposable raincoat right after a sudden downpour. The convenience reflects Korea’s blend of technology and everyday practicality, making a quick grab‑and‑go feel completely normal. Next time you stroll the streets, keep an eye on the glowing panels – your next snack or shelter might be just a button away.",
+  "keywords": [
+   {
+    "sentence": 1,
+    "text": "Banana vending"
    },
    {
-    "sentence": 18,
-    "text": "high trust"
+    "sentence": 5,
+    "text": "Temperature‑controlled"
+   },
+   {
+    "sentence": 9,
+    "text": "Live sales counter"
    }
   ],
   "compare": {
@@ -818,46 +297,36 @@
    "rows": [
     {
      "label": "Vending variety",
-     "left": "fruit, masks, umbrellas",
-     "right": "mostly drinks"
+     "left": "Fruit, masks, umbrellas",
+     "right": "Mostly drinks"
     },
     {
      "label": "Payment method",
-     "left": "cards & mobile NFC",
-     "right": "cash still common"
+     "left": "Card & mobile apps",
+     "right": "Cash dominant"
     },
     {
      "label": "Machine density",
-     "left": "every block in cities",
-     "right": "rare outside malls"
+     "left": "Every block in cities",
+     "right": "Sparse, mostly malls"
     }
    ]
   },
-  "recap": "Seoul’s streets are packed with smart vending machines offering everyt",
+  "recap": "Seoul’s streets are lined with high‑tech vending machines that sell ev",
   "broll": [
    "Seoul street vending machine",
    "subway exit kiosk",
-   "people buying from machine"
+   "rainy city sidewalk"
   ],
   "verify": {
-   "status": "ok",
-   "removed_sentences": 0,
-   "removed_rows": 0,
-   "unsupported": 5,
+   "status": "skipped",
    "notes": [
-    "[unsupported] 2번 문장: Exaggerated claim that machines line almost every street corner",
-    "[unsupported] 3번 문장: Specific start date and motive not verifiable",
-    "[unsupported] 9번 문장: Live sales counters are not a widespread documented feature",
-    "[unsupported] 16번 문장: No clear evidence of government encouragement for energy‑efficient vending",
-    "[unsupported] 22번 문장: Absolute claim of 'every block' vs 'rare' is overstated"
-   ],
-   "model": "openai/gpt-oss-120b"
+    "교차검증 꺼짐(CROSS_CHECK=0) - 직접 검증하거나 확인하세요"
+   ]
   },
   "sig": "5c19cff9d01a",
   "model": "openai/gpt-oss-120b",
-  "created": "2026-10-26 00:00",
-  "audio": "/home/runner/work/shortsEN/shortsEN/audio/lf_0024_Vending_Machine_City.mp3",
-  "timing": "/home/runner/work/shortsEN/shortsEN/audio/lf_0024_Vending_Machine_City_timing.json",
-  "tts_hash": "11d21804e1bd"
+  "created": "2026-10-30 12:15",
+  "bridge_to": ""
  }
 }
