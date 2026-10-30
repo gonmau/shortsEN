@@ -1,0 +1,17 @@
+{
+ "channel": "",
+ "handle": "",
+ "avatar": "channel_avatar.png",
+ "hud": true,
+ "hud_avatar": true,
+ "hud_name": true,
+ "hud_handle": false,
+ "hud_text": "",
+ "hud_pill": false,
+ "intro_logo": true,
+ "intro_name": true,
+ "cta": "",
+ "recap": true,
+ "recap_cards": true,
+ "compare": false
+}
