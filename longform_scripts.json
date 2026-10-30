@@ -110,19 +110,19 @@
   "bridge_to": "High‑tech vending machines brew fresh espresso in seconds at any convenience store"
  },
  "1": {
-  "narration": "Did you know you can pull a barista‑level espresso from a vending machine in under a minute in Seoul? Every 24‑hour convenience store hides a compact coffee unit that grinds fresh beans, froths milk, and pours a latte in about 30 seconds. The machine is controlled by a touchscreen where you select espresso, Americano, latte, or cold‑brew and adjust strength, milk amount, and sugar. Payment is made with an RFID card, a mobile app, or cash, so the whole process is hands‑free. These units appeared as Korea’s coffee culture exploded, offering a quick alternative to crowded cafés during rush hour. Because Korean commuters often have only a few minutes between subway stations, the speed and consistency of the vending coffee keep the nation among the world’s top coffee consumers. In the summer heat of 2023, many stores switched the same machines to serve iced cold‑brew, keeping lines short and drinks chilled. The machines use sealed bean cartridges, which maintain freshness without the need for daily restocking. They also collect usage data, allowing operators to tweak recipes to local taste preferences. For a foreign visitor, the surprise is the quality—creamy foam and rich aroma rival many small cafés. Yet the experience remains affordable and available at any hour, from early morning subway exits to late‑night study sessions. Next, we’ll explore the quiet zones in Korean cafés where phones go silent and work gets done.",
+  "narration": "Did you know you can pull a barista‑level espresso from a vending machine in under a minute? In Seoul, every 24‑hour convenience store hides a sleek coffee unit behind its counter. The machine grinds fresh beans, froths milk, and pours a latte in about 30 seconds. You select the drink on a bright touchscreen and pay with an RFID card or mobile phone. The system lets you adjust strength, milk amount, and sugar to match your taste. This convenience fits Korea’s fast‑paced lifestyle and its love for coffee, helping the country rank among the world’s top coffee consumers. When summer temperatures soar above 30 °C, many stores switch the same units to serve iced cold‑brew, keeping lines short and drinks cold. The machines operate all day, so a night‑shift worker can grab a hot espresso at 2 am without waiting for a barista. Because the units are compact, they fit even the smallest corner stores, spreading coffee access to neighborhoods without cafés. The technology originated from Korea’s strong vending‑machine culture and advances in automated brewing. Visitors often marvel at the quality, expecting a café but finding a machine instead. Next, we’ll see how Seoul’s subway stations keep shoppers warm with heated‑floor malls in winter.",
   "keywords": [
    {
     "sentence": 1,
-    "text": "Espresso from vending"
+    "text": "Vending espresso"
    },
    {
     "sentence": 4,
-    "text": "Touchscreen payment"
+    "text": "Touchscreen order"
    },
    {
     "sentence": 8,
-    "text": "Bean cartridges"
+    "text": "Night‑shift coffee"
    }
   ],
   "compare": {
@@ -131,27 +131,27 @@
    "right": "United States",
    "rows": [
     {
-     "label": "Vending coffee availabil",
-     "left": "Every 24‑hour store",
-     "right": "Rare, limited"
+     "label": "Vending coffee",
+     "left": "common in stores",
+     "right": "rare"
     },
     {
-     "label": "Customization options",
-     "left": "Strength, milk, sugar",
-     "right": "Basic selections"
+     "label": "24‑hour access",
+     "left": "every convenience store",
+     "right": "limited locations"
     },
     {
-     "label": "Coffee culture speed",
-     "left": "Rush‑hour convenience",
-     "right": "Café‑focused"
+     "label": "Customization",
+     "left": "highly adjustable",
+     "right": "basic options"
     }
    ]
   },
-  "recap": "Korean vending machines brew fresh espresso or cold‑brew in seconds, a",
+  "recap": "Korean convenience stores serve fresh espresso from vending machines a",
   "broll": [
-   "Seoul convenience store interior",
-   "Coffee vending machine close‑up",
-   "Busy subway station commuters"
+   "seoul convenience store interior",
+   "coffee vending machine close‑up",
+   "night street coffee run"
   ],
   "verify": {
    "status": "skipped",
@@ -159,10 +159,10 @@
     "교차검증 꺼짐(CROSS_CHECK=0) - 직접 검증하거나 확인하세요"
    ]
   },
-  "sig": "945d436e7874",
+  "sig": "8c31184f3103",
   "model": "openai/gpt-oss-120b",
-  "created": "2026-10-30 12:15",
-  "bridge_to": "Quiet zones in Korean cafés where phones go silent and work gets done"
+  "created": "2026-10-30 13:06",
+  "bridge_to": "Seoul’s subway stations feature heated‑floor malls where shoppers stroll in winter barefoot"
  },
  "21": {
   "narration": "Did you know Seoul’s cafés often double as quiet study pods? When you step inside a typical coffee shop, you might see a small sign that reads “Study Zone” or “Work Area.” These spots usually have extra power outlets, comfortable chairs, and a calm atmosphere. The rule is simple: keep your phone on silent and speak softly, so everyone can focus. Many students and freelancers treat these cafés like mini‑libraries, plugging in laptops and staying for several hours. The habit grew as housing became smaller and public libraries crowded, making cafés a convenient alternative. Some cafés even install partitions or individual desks to create personal work bubbles. In these dedicated study cafés, talking and eating are often discouraged, reinforcing the silent vibe. The word “cagongjok” is used to describe people who regularly study in cafés, reflecting how common the practice has become. Each café sets its own guidelines, so it’s wise to glance at the signs before you settle in. While the concept exists elsewhere, the uniform quiet culture and the term “cagongjok” are uniquely Korean. Next, we’ll see how Seoul’s subway stations keep shoppers warm with heated‑floor malls during winter.",
@@ -220,18 +220,18 @@
   "bridge_to": "Seoul’s subway stations feature heated‑floor malls where shoppers stroll in winter barefoot"
  },
  "2": {
-  "narration": "Ever wondered why Seoulites can shop barefoot in winter? Below the bustling streets, subway stations like Gangnam and City Hall hide massive underground malls. These malls stretch for several city blocks, linking train platforms to department stores and food courts. The floors are heated with ondol, the same under‑floor system that warms Korean homes. Warm water or steam from the station’s central heating circulates beneath concrete slabs, keeping the surface comfortably warm. Because the heat comes from the subway’s own energy plant, the malls stay warm even when the trains pause. Shoppers stroll past clothing boutiques, tech stalls, and street‑food vendors without a coat. Students often meet there after class, spreading out on the warm tiles to study or chat. Office workers use the space for quick lunches, enjoying hot meals while the city snows above. The malls never close, turning into lively night‑time hangouts with music and neon lights. Sensors detect foot traffic and lower the floor temperature by a couple of degrees during the quiet early‑morning hours, saving energy while still feeling pleasant. This clever balance lets the city stay active underground, regardless of the season. For many foreigners, the idea of walking barefoot on a public floor in winter feels strange, but Koreans see it as a practical comfort. The heated malls also protect the subway infrastructure from frost damage, extending the lifespan of tracks and equipment. In contrast to many Western cities, Seoul’s underground commerce is integrated directly with public transit, not just a side‑walk market. The seamless connection encourages people to use the subway for errands, reducing street‑level congestion. As you leave the warm corridors, you’ll notice the city above still buzzing with life. Next, we’ll see how Seoul’s streets are lined with vending machines that sell everything from fruit to umbrellas.",
+  "narration": "Did you know you can walk barefoot in a Seoul subway mall while snow falls outside? Below the bustling stations of Gangnam, City Hall and many others, sprawling underground malls stretch for blocks. These walkways are lined with ondol‑style heated floors, the same system that warms traditional Korean homes. The heat is supplied by the station’s central boiler plant, which circulates warm water through metal pipes beneath the tiles. Shoppers glide past fashion boutiques, food courts and tech stalls without a coat or scarf. The malls stay open 24 hours, becoming night‑time hangouts for students cramming for exams and office workers grabbing a late snack. Because the subway network runs continuously, the heated floors never shut down, even during the quiet early‑morning hours. A network of temperature sensors lowers the floor heat by a couple of degrees when foot traffic is low, saving energy while keeping the surface comfortably warm. Many visitors are surprised to find that the floor never feels cold, no matter how bitter the winter air above ground. The concept started as a practical solution to keep commuters comfortable during harsh Korean winters. It also encourages people to use public transit instead of driving, reducing traffic and pollution. Local businesses thrive because the malls capture commuter spending all day and night. The design integrates safety signs, fire exits and clear way‑finding so crowds move smoothly even in peak rush hour. Some malls even host pop‑up art shows and live music, turning the underground space into a cultural venue. For foreigners, the sight of people strolling in socks or bare feet while sipping coffee is both novel and inviting. The heated floors also help prevent ice buildup on the platform edges, improving overall station safety. This hidden warmth is a daily reminder of how Korean infrastructure adapts to climate and lifestyle. Next, we’ll explore the quiet corners of the subway where designated silent cars let commuters study and read in peace.",
   "keywords": [
    {
     "sentence": 1,
-    "text": "barefoot winter shopping"
+    "text": "barefoot subway mall"
    },
    {
     "sentence": 5,
-    "text": "ondol heated floor"
+    "text": "heated ondol floor"
    },
    {
-    "sentence": 12,
+    "sentence": 9,
     "text": "energy‑saving sensors"
    }
   ],
@@ -241,27 +241,27 @@
    "right": "United States",
    "rows": [
     {
-     "label": "Underground malls",
-     "left": "common in city centers",
+     "label": "Heated underground malls",
+     "left": "common in major stations",
      "right": "rare"
     },
     {
-     "label": "Heated floors in public",
-     "left": "widespread",
-     "right": "uncommon"
+     "label": "Public transit usage",
+     "left": "high daily ridership",
+     "right": "lower overall"
     },
     {
-     "label": "Transit‑linked shopping",
-     "left": "integrated",
-     "right": "separate"
+     "label": "Winter commuter comfort",
+     "left": "standard feature",
+     "right": "often limited"
     }
    ]
   },
-  "recap": "Seoul’s subway stations host heated underground malls where shoppers s",
+  "recap": "Seoul’s subway malls stay warm year‑round with ondol floors, letting s",
   "broll": [
    "Seoul subway mall interior",
-   "heated floor close‑up",
-   "people walking barefoot underground"
+   "heated floor tiles close‑up",
+   "people walking barefoot winter"
   ],
   "verify": {
    "status": "skipped",
@@ -269,10 +269,10 @@
     "교차검증 꺼짐(CROSS_CHECK=0) - 직접 검증하거나 확인하세요"
    ]
   },
-  "sig": "9b838bd53168",
+  "sig": "4ed3fc3c197f",
   "model": "openai/gpt-oss-120b",
-  "created": "2026-10-30 12:15",
-  "bridge_to": "Seoul’s streets are lined with vending machines that sell everything from fruit to umbrellas"
+  "created": "2026-10-30 13:06",
+  "bridge_to": "Designated silent cars on Seoul Metro for studying and reading"
  },
  "24": {
   "narration": "Did you know you can buy a fresh banana from a sidewalk machine in Seoul? As you exit a subway station, a sleek, glass‑fronted vending unit glows beside the stairs. These machines are everywhere – on almost every block, in office lobbies, and inside large transit hubs. They sell more than drinks: seasonal fruit, instant noodles, face masks, phone chargers, and even compact rain‑proof umbrellas. The reason they thrive is Korea’s fast‑paced urban life and high mobile‑payment adoption, so people prefer quick, contact‑free purchases. Most units are temperature‑controlled, keeping fruit cool in summer and tea warm in winter. Payments are accepted via credit cards, T‑money cards, and smartphone apps, so cash is rarely needed. Some machines rotate their inventory with the seasons, offering hot soup in winter and chilled smoothies in summer. A few display a live counter of how many items were sold that day, turning a simple snack into a tiny competition among commuters. Central districts like Jongno and Gangnam have the highest density, while smaller towns have only a handful of multi‑product machines. For a foreign visitor, the surprise often comes from seeing a vending machine dispense a disposable raincoat right after a sudden downpour. The convenience reflects Korea’s blend of technology and everyday practicality, making a quick grab‑and‑go feel completely normal. Next time you stroll the streets, keep an eye on the glowing panels – your next snack or shelter might be just a button away.",
