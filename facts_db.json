@@ -7599,15 +7599,65 @@
   {
     "label": "Missing Fourth Floor",
     "topic": "Many Korean buildings skip floor number 4 because it sounds like the word for death",
-    "hook": "Ever noticed an ‘F’ floor in a Korean office building?",
-    "body": "The Korean word for four, ‘sa’, is a homophone for ‘death’, so developers often label the fourth level as ‘F’ or ‘B4’ to avoid the numeral. Elevators will display ‘F’ instead of ‘4’, and signage inside hospitals and hotels follows the same practice. This superstition mirrors similar floor‑skipping in other East Asian countries. The avoidance is most common in newer high‑rise constructions.",
-    "twist": "Some luxury apartments even rename the 13th floor as ‘M’ (for ‘mystery’) to add an extra layer of auspiciousness.",
+    "hook": "Have you ever pressed an elevator button in Korea and noticed that floor four is missing?",
+    "body": "In many Korean buildings the elevator jumps from three to five, and the fourth floor is often labeled “F” because the Sino‑Korean word for four (sa) sounds like the word for death. This tetraphobia is especially common in hospitals, funeral halls, and some public buildings, though newer constructions sometimes keep a normal “4”.",
+    "twist": "The fourth floor hasn’t disappeared—it simply hides behind a different label.",
     "caveat": "Older buildings may still have a labeled fourth floor, and not every structure follows the practice.",
     "confidence": "high",
     "verify_note": "Korean building floor 4 omitted, floor labeling ‘F’, superstitions sa death, Korean elevators",
     "country": "Missing Fourth Floor",
     "created_at": "2026-10-25T09:53:41.129948+00:00",
-    "status": "unverified"
+    "status": "scripted",
+    "narration_original": "",
+    "narration": "Have you ever pressed an elevator button in Korea and noticed that floor four is missing? In many Korean buildings, the elevator jumps from three to five. Sometimes, the fourth floor is labeled F instead. This happens because the Sino-Korean word for four is pronounced sa. The word for death is also pronounced sa. Because the two sound the same, many people see the number four as unlucky. This avoidance is called tetraphobia. It is especially common in hospitals, funeral halls, and some public buildings. In apartments or hotels, the floor still exists, but its label may change. A person living there still receives mail for the fourth floor. The practice is not required by law, and newer buildings sometimes use a normal four. Yet the old habit remains easy to spot. The fourth floor has not disappeared. It has simply learned to hide behind another name.",
+    "fact_verifiability": "user",
+    "fact_risk": "user-reviewed",
+    "fact_applied": true,
+    "cross_checked": true,
+    "cross_verdict": "manual",
+    "cross_notes": [
+      "직접 검증한 대본 (외부 AI)"
+    ],
+    "cross_flags": [],
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Missing *fourth* floor?"
+      },
+      {
+        "s": 4,
+        "text": "*Sa* sounds like death"
+      },
+      {
+        "s": 6,
+        "text": "Four = *unlucky*"
+      },
+      {
+        "s": 7,
+        "text": "*Tetraphobia* in Korea"
+      },
+      {
+        "s": 14,
+        "text": "It *hides* a name"
+      }
+    ],
+    "title_line1": "Missing floor four?",
+    "title_line2": "It sounds like death",
+    "image_queries": [
+      "Korean elevator button panel",
+      "Elevator floor numbers three five",
+      "Elevator button labeled F",
+      "Korean sign showing sa pronunciation",
+      "Korean death symbol illustration",
+      "Tetraphobia sign Korean building",
+      "Hospital elevator floor panel Korea",
+      "Apartment hallway floor label Korea",
+      "Mailbox with fourth floor number",
+      "Modern Korean building elevator",
+      "Old Korean building floor signs",
+      "Hidden floor name Korean elevator"
+    ],
+    "scene_count": 12
   },
   {
     "label": "Han River Lantern Release",
@@ -7675,7 +7725,7 @@
     "image_queries": [
       "cave entrance",
       "mountain clouds sky",
-      "bear in dark cave",
+      "동굴속에 곰",
       "bear sitting patiently",
       "웅녀",
       "praying woman silhouette",
@@ -7690,7 +7740,7 @@
     "image_queries_done": [
       "cave entrance",
       "mountain clouds sky",
-      "bear in dark cave",
+      "동굴속에 곰",
       "bear sitting patiently",
       "웅녀",
       "praying woman silhouette",
@@ -7719,9 +7769,9 @@
       {
         "scene": 3,
         "source": "pixabay",
-        "user": "Willgard",
-        "page": "https://pixabay.com/photos/fantasy-ravens-cave-dark-light-7516767/",
-        "id": 7516767
+        "user": "katerinavulcova",
+        "page": "https://pixabay.com/photos/bear-beast-dormant-mammal-good-7598582/",
+        "id": 7598582
       },
       {
         "scene": 4,
