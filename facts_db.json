@@ -6999,7 +6999,76 @@
       "old Korean apartment thermostat",
       "warm floor tiles subway exit"
     ],
-    "scene_count": 14
+    "scene_count": 14,
+    "image_queries_done": [
+      "subway platform heating",
+      "Seoul high-rise apartment interior",
+      "smartphone app preheat floor",
+      "Korean heating app energy display",
+      "cold floor apartment hallway",
+      "train arrival heating sync",
+      "old Korean apartment thermostat",
+      "warm floor tiles subway exit"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "john_Ioannidis",
+        "page": "https://pixabay.com/photos/stockholm-metro-station-4734117/",
+        "id": 4734117
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "wal_172619",
+        "page": "https://pixabay.com/photos/city-building-heaven-skyscraper-5974876/",
+        "id": 5974876
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "geralt",
+        "page": "https://pixabay.com/photos/mobile-phone-smartphone-keyboard-1917737/",
+        "id": 1917737
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "geralt",
+        "page": "https://pixabay.com/photos/energy-crisis-thermostat-heating-7349347/",
+        "id": 7349347
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "PIRO4D",
+        "page": "https://pixabay.com/photos/hallway-corridor-entrance-2228277/",
+        "id": 2228277
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "jhenning",
+        "page": "https://pixabay.com/photos/train-trainstation-arrival-7310566/",
+        "id": 7310566
+      },
+      {
+        "scene": 7,
+        "source": "pixabay",
+        "user": "viarami",
+        "page": "https://pixabay.com/photos/business-bar-restaurant-shield-5475283/",
+        "id": 5475283
+      },
+      {
+        "scene": 8,
+        "source": "pixabay",
+        "user": "zj900430",
+        "page": "https://pixabay.com/photos/subway-stairs-stair-handrail-4950141/",
+        "id": 4950141
+      }
+    ],
+    "image_source": "pixabay"
   },
   {
     "label": "Phone‑Free Bathhouse Rooms",
