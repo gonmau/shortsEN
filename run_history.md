@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-31 22:03:58 (KST) · 기록 228건 · 소재 119개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-31 22:04:56 (KST) · 기록 232건 · 소재 119개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -9,17 +9,17 @@
 | -c | 13 | 0 | 4분 37초 |
 | .github/workflows/te | 0 | 4 | 0초 |
 | DB커밋 | 36 | 0 | 0초 |
-| apply_review | 17 | 0 | 1초 |
+| apply_review | 18 | 0 | 1초 |
 | approve | 5 | 0 | 0초 |
 | build_video | 2 | 0 | 14분 37초 |
 | check_uploads | 2 | 0 | 5초 |
 | edit_points | 0 | 6 | 2분 21초 |
 | export_review | 6 | 0 | 0초 |
-| fetch_images | 10 | 0 | 6분 3초 |
-| generate_script | 17 | 0 | 4분 16초 |
+| fetch_images | 11 | 0 | 6분 17초 |
+| generate_script | 18 | 0 | 4분 18초 |
 | generate_tts | 3 | 0 | 48초 |
 | make_thumbnail | 2 | 0 | 1초 |
-| promote_ready | 17 | 0 | 1초 |
+| promote_ready | 18 | 0 | 2초 |
 | redo_videos | 11 | 0 | 1초 |
 | resync_meta | 2 | 0 | 16초 |
 | sync_uploads | 2 | 0 | 4초 |
@@ -34,6 +34,10 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 22:04 | PC | fetch_images | fetch_images.py --limit 1 --start 0 --any | ✅ | 13초 |  |
+| 22:04 | PC | generate_script | generate_script.py --extras-only --limit 1 --start 0 | ✅ | 1초 |  |
+| 22:04 | PC | promote_ready | promote_ready.py --start 0 | ✅ | 0초 |  |
+| 22:04 | PC | apply_review | apply_review.py | ✅ | 0초 |  |
 | 22:03 | PC | resync_meta | resync_meta.py --indexes 116 | ✅ | 8초 |  |
 | 22:01 | PC | -c | -c import os,requests;import fetch_images as F;from common import load_db,save_db;db=load_db();F.fetch_item(requests.Session(),os.environ['PIXABAY_API | ✅ | 39초 |  |
 | 22:00 | PC | -c | -c import os,requests;import fetch_images as F;from common import load_db,save_db;db=load_db();F.fetch_item(requests.Session(),os.environ['PIXABAY_API | ✅ | 10초 |  |
