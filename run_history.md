@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-31 21:58:09 (KST) · 기록 221건 · 소재 119개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-31 22:00:09 (KST) · 기록 225건 · 소재 119개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -9,17 +9,17 @@
 | -c | 11 | 0 | 3분 46초 |
 | .github/workflows/te | 0 | 4 | 0초 |
 | DB커밋 | 36 | 0 | 0초 |
-| apply_review | 16 | 0 | 1초 |
+| apply_review | 17 | 0 | 1초 |
 | approve | 5 | 0 | 0초 |
 | build_video | 2 | 0 | 14분 37초 |
 | check_uploads | 2 | 0 | 5초 |
 | edit_points | 0 | 6 | 2분 21초 |
 | export_review | 6 | 0 | 0초 |
-| fetch_images | 9 | 0 | 4분 40초 |
-| generate_script | 16 | 0 | 4분 14초 |
+| fetch_images | 10 | 0 | 6분 3초 |
+| generate_script | 17 | 0 | 4분 16초 |
 | generate_tts | 3 | 0 | 48초 |
 | make_thumbnail | 2 | 0 | 1초 |
-| promote_ready | 16 | 0 | 1초 |
+| promote_ready | 17 | 0 | 1초 |
 | redo_videos | 11 | 0 | 1초 |
 | resync_meta | 1 | 0 | 8초 |
 | sync_uploads | 2 | 0 | 4초 |
@@ -34,6 +34,10 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 22:00 | PC | fetch_images | fetch_images.py --limit 1 --start 118 --any | ✅ | 1분 23초 |  |
+| 21:58 | PC | generate_script | generate_script.py --extras-only --limit 1 --start 118 | ✅ | 1초 |  |
+| 21:58 | PC | apply_review | apply_review.py | ✅ | 0초 |  |
+| 21:58 | PC | promote_ready | promote_ready.py --start 118 | ✅ | 0초 |  |
 | 21:58 | PC | resync_meta | resync_meta.py --indexes 118 | ✅ | 8초 |  |
 | 21:48 | PC | check_uploads | check_uploads.py | ✅ | 2초 |  |
 | 21:48 | PC | sync_uploads | sync_uploads.py | ✅ | 2초 |  |
