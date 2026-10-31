@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-31 21:48:31 (KST) · 기록 219건 · 소재 118개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-31 21:48:43 (KST) · 기록 220건 · 소재 118개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -12,7 +12,7 @@
 | apply_review | 16 | 0 | 1초 |
 | approve | 5 | 0 | 0초 |
 | build_video | 2 | 0 | 14분 37초 |
-| check_uploads | 1 | 0 | 3초 |
+| check_uploads | 2 | 0 | 5초 |
 | edit_points | 0 | 6 | 2분 21초 |
 | export_review | 6 | 0 | 0초 |
 | fetch_images | 9 | 0 | 4분 40초 |
@@ -33,6 +33,7 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 21:48 | PC | check_uploads | check_uploads.py | ✅ | 2초 |  |
 | 21:48 | PC | sync_uploads | sync_uploads.py | ✅ | 2초 |  |
 | 21:48 | PC | sync_uploads | sync_uploads.py --dry | ✅ | 2초 |  |
 | 21:46 | PC | check_uploads | check_uploads.py | ✅ | 3초 |  |
