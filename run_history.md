@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-31 21:48:43 (KST) · 기록 220건 · 소재 118개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-31 21:58:09 (KST) · 기록 221건 · 소재 119개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -21,6 +21,7 @@
 | make_thumbnail | 2 | 0 | 1초 |
 | promote_ready | 16 | 0 | 1초 |
 | redo_videos | 11 | 0 | 1초 |
+| resync_meta | 1 | 0 | 8초 |
 | sync_uploads | 2 | 0 | 4초 |
 | upload_to_youtube | 1 | 0 | 9초 |
 | 롱폼 | 21 | 0 | 27분 42초 |
@@ -33,6 +34,7 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 21:58 | PC | resync_meta | resync_meta.py --indexes 118 | ✅ | 8초 |  |
 | 21:48 | PC | check_uploads | check_uploads.py | ✅ | 2초 |  |
 | 21:48 | PC | sync_uploads | sync_uploads.py | ✅ | 2초 |  |
 | 21:48 | PC | sync_uploads | sync_uploads.py --dry | ✅ | 2초 |  |
