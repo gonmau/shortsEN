@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-31 01:53:14 (KST) · 기록 214건 · 소재 118개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-31 21:44:58 (KST) · 기록 215건 · 소재 118개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -23,7 +23,7 @@
 | upload_to_youtube | 1 | 0 | 9초 |
 | 롱폼 | 21 | 0 | 27분 42초 |
 | 쇼츠 | 34 | 3 | 4시간 14분 |
-| 코드업데이트 | 12 | 0 | 0초 |
+| 코드업데이트 | 13 | 0 | 0초 |
 
 ## 날짜별 작업 (최근 30일)
 
@@ -37,6 +37,7 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 18:10 | PC | 코드업데이트 | gonmau/shortsEN: 2개 (local_ui.py, upload_to_youtube.py) | ✅ |  |  |
 | 18:02 | PC | upload_to_youtube | upload_to_youtube.py --limit 1 --daily-max 4 | ✅ | 9초 |  |
 | 18:00 | PC | 코드업데이트 | gonmau/shortsEN: 4개 (get_refresh_token.py, local_ui.py, redo_videos.py, sync_db.py) | ✅ |  |  |
 | 13:49 | PC | 롱폼 | build_longform.py --mode manual --indexes 5,2,1 --theme  --count 3 --start 0 --channel KoreaAtoZ --handle @KoreaA2Z --style rich --fill-images --requi | ✅ | 25분 48초 |  |
