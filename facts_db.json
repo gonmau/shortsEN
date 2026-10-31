@@ -7537,7 +7537,8 @@
     "verify_note": "Korea 24 hour convenience store night shift dinner, convenience store hot meals Korea late night",
     "country": "Midnight Convenience Store Dinner",
     "created_at": "2026-10-25T09:52:58.406562+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
   },
   {
     "label": "Cheering with ‘Fighting!’",
@@ -7550,7 +7551,8 @@
     "verify_note": "Korean fighting cheer meaning, Fighting Korean expression dictionary",
     "country": "Cheering with ‘Fighting!’",
     "created_at": "2026-10-25T09:52:58.406562+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
   },
   {
     "label": "5G Everywhere on the Subway",
@@ -7563,7 +7565,8 @@
     "verify_note": "Seoul subway 5G coverage, Korea subway 5G streaming, 5G tunnels Seoul Metro",
     "country": "5G Everywhere on the Subway",
     "created_at": "2026-10-25T09:52:58.406562+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
   },
   {
     "label": "Office Morning Greeting",
@@ -7576,7 +7579,8 @@
     "verify_note": "Korean office morning greeting ritual, group bow, ‘fighting’ chant, workplace culture Seoul",
     "country": "Office Morning Greeting",
     "created_at": "2026-10-25T09:53:41.129948+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
   },
   {
     "label": "Café on Every Block",
@@ -7589,7 +7593,8 @@
     "verify_note": "Seoul coffee shop density per capita study, number of cafés per 200 residents, coffee culture South Korea",
     "country": "Café on Every Block",
     "created_at": "2026-10-25T09:53:41.129948+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
   },
   {
     "label": "Missing Fourth Floor",
@@ -7615,6 +7620,72 @@
     "verify_note": "Han River lantern festival release wishes, Hangang lantern event October November, biodegradable rice paper lanterns",
     "country": "Han River Lantern Release",
     "created_at": "2026-10-25T09:53:41.129948+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "UI에서 제외"
+  },
+  {
+    "label": "Dangun: Korea's Legendary Founder",
+    "topic": "Exploring the myth of Dangun, the ancient figure said to have founded Korea's first kingdom.",
+    "hook": "Did Korea’s legendary founder begin life inside a cave?",
+    "body": "In the Dangun myth, heavenly prince Hwanung descends to earth and tasks a bear and a tiger with living in a dark cave eating garlic and mugwort; the bear endures and becomes Ungnyeo, who later bears Dangun. Dangun is said to have founded Gojoseon, Korea’s first kingdom, traditionally dated to 2333 BCE, a story recorded in the 13th‑century Samguk Yusa.",
+    "twist": "The narrative raises the question: is Dangun history, myth, or both, depending on how a people preserves its memories?",
+    "caveat": "The account is mythological; archaeological evidence for Dangun as a historical person is lacking, and interpretations vary across regions and time periods.",
+    "confidence": "high",
+    "verify_note": "search 'Dangun legend', 'Gojoseon founding myth', 'Dangun Chinese historical records'",
+    "country": "Dangun: Korea's Legendary Founder",
+    "status": "scripted",
+    "created_at": "2026-10-31T12:54:51.536161+00:00",
+    "theme": "keyword",
+    "seed_keyword": "단군할아버지",
+    "narration_original": "",
+    "narration": "Did Korea’s legendary founder begin life inside a cave? In the Dangun myth, a heavenly prince named Hwanung comes down to earth to help people. A bear and a tiger ask him to make them human. He tells them to stay in a dark cave and eat only garlic and mugwort. The tiger gives up, but the bear endures. She becomes a woman called Ungnyeo, meaning bear woman. Later, she prays for a child, and Hwanung becomes her husband. Their son is Dangun. According to the legend, Dangun founds Gojoseon, often called Korea’s first kingdom. Tradition places its founding in 2333 BCE, though historians treat that date as legendary rather than proven. The story is best known from the Samguk Yusa, a thirteenth-century Korean text. It blends sky, animal, and human worlds into one powerful origin story. So is Dangun history, myth, or both? Perhaps the answer depends on where a people keeps its memories.",
+    "fact_verifiability": "user",
+    "fact_risk": "user-reviewed",
+    "fact_applied": true,
+    "cross_checked": true,
+    "cross_verdict": "manual",
+    "cross_notes": [
+      "직접 검증한 대본 (외부 AI)"
+    ],
+    "cross_flags": [],
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Born in a *cave*?"
+      },
+      {
+        "s": 3,
+        "text": "*Bear* seeks humanity"
+      },
+      {
+        "s": 5,
+        "text": "*Bear* endures"
+      },
+      {
+        "s": 9,
+        "text": "*Dangun* founds Korea"
+      },
+      {
+        "s": 13,
+        "text": "History, myth, or *both*?"
+      }
+    ],
+    "title_line1": "Dangun: Korea's Myth",
+    "title_line2": "Cave‑born bear woman",
+    "image_queries": [
+      "cave entrance",
+      "mountain clouds sky",
+      "bear in dark cave",
+      "bear sitting patiently",
+      "bear woman statue",
+      "praying woman silhouette",
+      "ancient Korean kingdom ruins",
+      "historical timeline scroll",
+      "Samguk Yusa manuscript",
+      "sunrise over mountains",
+      "ancient stone tablet",
+      "stone cairn"
+    ],
+    "scene_count": 12
   }
 ]
