@@ -6036,34 +6036,38 @@
   {
     "label": "QR Code Street Food",
     "topic": "Scan, pay, and eat street food without cash",
-    "hook": "You can often order tteokbokki by scanning a QR code on the stall.",
-    "body": "In busy Seoul neighborhoods such as Hongdae and Myeongdong, many street‑food vendors often display a small QR‑code sign next to their grill. You usually open a Korean mobile‑payment app like KakaoPay or Naver Pay, scan, pick your dish, and pay instantly. The chef often hands you the hot plate right away, so lines move faster than at cash‑only stalls. The system grew after the pandemic to cut down cash handling and speed service.",
-    "twist": "Some vendors even let you add a tip for the chef through the same screen.",
+    "hook": "Did you know you can order tteokbokki by scanning a QR code on the stall?",
+    "body": "In busy districts such as Hongdae and Myeongdong, many street‑food stalls display a small QR‑code sign beside their grill. Customers open a Korean mobile‑payment app, scan the code, choose the dish, and pay instantly; the vendor then hands over the hot plate. The system grew after the pandemic as a way to reduce cash handling and speed up service, and it works with popular apps like KakaoPay and Naver Pay. As a result, queues often move faster than at nearby cash‑only stalls.",
+    "twist": "Some vendors also let you add a tip for the chef through the same QR‑code interface.",
     "caveat": "This practice is common in urban street‑food areas that have partnered with payment platforms, but many traditional markets and rural stalls still rely on cash only.",
     "confidence": "high",
     "verify_note": "Korean street food QR code ordering, Hongdae tteokbokki QR, mobile payments KakaoPay street stalls",
     "country": "QR Code Street Food",
     "created_at": "2026-10-24T03:53:13.029520+00:00",
     "status": "video_done",
-    "narration": "You can often order tteokbokki by scanning a QR code on the stall. In busy Seoul neighborhoods such as Hongdae and Myeongdong, many street‑food vendors often display a small QR‑code sign next to their grill. You usually open a Korean mobile‑payment app like KakaoPay or Naver Pay, scan, pick your dish, and pay instantly. The chef often hands you the hot plate right away, so lines move faster than at cash‑only stalls. The system grew after the pandemic to cut down cash handling and speed service. Some vendors even let you add a tip for the chef through the same screen.",
+    "narration": "Did you know you can order tteokbokki by scanning a QR code on the stall? In busy Seoul neighborhoods like Hongdae and Myeongdong, many street‑food vendors now display a small QR‑code sign next to their grill. You just open a Korean mobile‑payment app such as KakaoPay or Naver Pay, scan, pick your dish, and pay instantly. The chef hands you the hot plate right away, so lines move faster than at cash‑only stalls. The system grew after the pandemic to cut down cash handling and speed service. Some vendors even let you add a tip for the chef through the same screen. Keep in mind, this is common in urban street‑food areas, but many traditional markets and rural stalls still take cash only. So next time you’re craving spicy rice cakes, just scan and savor.",
     "title_line1": "QR code street food",
     "title_line2": "Scan, pay, eat tteok",
     "highlights": [
       {
         "s": 1,
-        "text": "Scan for tteokbokki"
-      },
-      {
-        "s": 2,
-        "text": "QR codes in Seoul stalls"
+        "text": "*QR* for tteokbokki"
       },
       {
         "s": 3,
-        "text": "Instant *pay* KakaoPay"
+        "text": "*Pay* instantly via app"
       },
       {
-        "s": 5,
-        "text": "Post‑pandemic *speed* boost"
+        "s": 4,
+        "text": "Plate handed *fast*"
+      },
+      {
+        "s": 6,
+        "text": "*Tip* chef on screen"
+      },
+      {
+        "s": 8,
+        "text": "Scan & *eat* cakes"
       }
     ],
     "scene_count": 10,
@@ -6172,7 +6176,21 @@
     "uploaded_at": "2026-10-30T01:32:26.628443+09:00",
     "fact_verifiability": "user",
     "fact_risk": "user-reviewed",
-    "fact_applied": true
+    "fact_applied": true,
+    "image_queries": [
+      "QR code tteokbokki stall",
+      "Hongdae street food vendor",
+      "KakaoPay mobile payment screen",
+      "Chef handing hot plate",
+      "Post pandemic cashless stall",
+      "Tip option on screen",
+      "Traditional market cash stall",
+      "Scan and eat tteokbokki"
+    ],
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0097_QR Code Street Food_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0097_QR Code Street Food_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done"
   },
   {
     "label": "Seoul Subway Quiet Car",
@@ -6543,9 +6561,9 @@
       {
         "scene": 2,
         "source": "pixabay",
-        "user": "jarmoluk",
-        "page": "https://pixabay.com/photos/toilets-toilet-purely-public-toilet-265278/",
-        "id": 265278
+        "user": "lyperzyt",
+        "page": "https://pixabay.com/photos/toilet-paper-toilet-paper-loo-4974461/",
+        "id": 4974461
       },
       {
         "scene": 3,
@@ -6594,7 +6612,7 @@
     "ko_title": "시원한 좌석, 한국에서 앉기 전 따뜻해지는 좌석",
     "ko_description": "🎯 한국의 일부 공중 화장실에 좌석이 앉기 전에 따뜻해지는 기능이 있다는 것을 알고 계셨나요?\n\n서울의 일부 백화점, 지하철역, 병원에서는 감지 센서가 작동해 사람이 접근하면 좌석이 따뜻해지는 공중 화장실이 있습니다. 좌석은 전기적으로 구동되며, 대부분 건물의 전력 공급을 이용해 전기를 끌어와 겨울철에도 따뜻함을 유지합니다. 사용자가 멀어지면 에너지를 절약하기 위해 짧은 비활성 기간 후에 난방이 자동으로 꺼집니다. 이러한 편의성은 한국이 공공장소에서 위생과 사용자 편안함을 중시한다는 것을 반영합니다.\n\n💡 그 현대적인 좌석 중 상당수는 비데 노즐을 숨겨 두고 있어 버튼 하나로 물압을 조절해 빠르게 세척할 수 있습니다.\n\n🇰🇷 한 분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실.\n\n사진: Pixabay (pixabay.com)\n\n#HeatedToiletSeats #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
     "ko_narration": "한국의 일부 공중 화장실에 좌석이 앉기 전에 따뜻해지는 기능이 있다는 것을 알고 계셨나요? 서울의 일부 백화점, 지하철역, 병원에서는 감지 센서가 작동해 사람이 접근하면 좌석이 따뜻해지는 공중 화장실이 있습니다. 좌석은 전기적으로 구동되며, 대부분 건물의 전력 공급을 이용해 전기를 끌어와 겨울철에도 따뜻함을 유지합니다. 사용자가 멀어지면 에너지를 절약하기 위해 짧은 비활성 기간 후에 난방이 자동으로 꺼집니다. 이러한 편의성은 한국이 공공장소에서 위생과 사용자 편안함을 중시한다는 것을 반영합니다. 그 현대적인 좌석 중 상당수는 비데 노즐을 숨겨 두고 있어 버튼 하나로 물압을 조절해 빠르게 세척할 수 있습니다. 유의할 점은 구식이거나 시골 화장실은 아직 따뜻해지지 않는 평범한 좌석일 수 있다는 것입니다. 다음에 한국 화장실에 들어갈 때는 앉기 전에 따뜻함을 느낄 수 있을지도 모릅니다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "506effe815b8",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0099_Heated Toilet Seats_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0099_Heated Toilet Seats_v2_timing.json",
@@ -6696,7 +6714,7 @@
     "ko_title": "한국 제로 웨이스트 플라스틱백이 필요없어요",
     "ko_description": "🎯 한국에서는 플라스틱백 한 개도 사지 않고 벌크 코너에서 쇼핑할 수 있어요.\n\n에마트, 홈플러스, 롯데마트 같은 대형 한국 식료품 체인점에서는 고객이 재사용 가능한 병이나 가방을 가져와 쌀, 콩, 차, 견과류 등을 채우는 \"제로‑웨이스트\" 코너를 도입했습니다. 직원은 채우기 전후에 용기를 무게를 재어 정확한 금액을 청구하고, 이 관행은 2010년대에 시작된 정부 후원 캠페인에서 플라스틱 쓰레기를 줄이기 위해 발전했습니다. 도시 지역의 젊은 쇼핑객들은 환경과 비용 두 가지 이유로 이 섹션을 선호합니다. 이 시스템은 유럽의 벌크 쇼핑과 비슷하지만 한국식으로 정밀한 무게 측정과 라벨링이 강조됩니다.\n\n💡 일부 매장에서는 자체 용기를 사용하면 소정의 할인도 제공해 재방문을 유도합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#ZeroWasteBulkAisles #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
     "ko_narration": "한국에서는 플라스틱백 한 개도 사지 않고 벌크 코너에서 쇼핑할 수 있어요. 에마트, 홈플러스, 롯데마트 같은 대형 체인점은 재사용 가능한 병이나 가방을 가져와 쌀, 콩, 차, 견과류, 향신료 등을 채우는 \"제로‑웨이스트\" 코너를 마련했습니다. 직원은 채우기 전후에 용기를 무게를 재어 정확한 금액을 청구합니다. 이 시스템은 2010년대에 플라스틱 쓰레기를 줄이기 위해 시작된 정부 주도의 캠페인에서 발전했으며, 도시 지역의 젊은 쇼핑객들은 환경과 비용 두 가지 이유로 이를 선택합니다. 이 과정은 유럽의 벌크 쇼핑과 유사하지만, 한국 매장은 정밀한 무게 측정과 명확한 라벨링을 추가합니다. 일부 매장은 자체 용기를 사용하면 소정의 할인을 제공해 재방문을 장려합니다. 이 코너는 대형 슈퍼마켓과 주요 도시의 몇몇 편의점에서 흔하지만, 작은 동네 가게는 보통 제공하지 않습니다. 다음에 방문할 때는 병을 가져가서 제로‑웨이스트 쇼핑이 얼마나 쉬운지 확인해 보세요.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "aa2bd04a60ce",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0100_Zero‐Waste Bulk Aisles_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0100_Zero‐Waste Bulk Aisles_v2_timing.json",
@@ -6824,13 +6842,13 @@
     "cross_checked": true,
     "cross_sources": 2,
     "cross_model": "openai/gpt-oss-20b",
-    "cross_flags": [],
+    "cross_flags": null,
     "cross_verdict": "ok",
-    "cross_notes": [],
+    "cross_notes": null,
     "ko_title": "한국: 서울 자전거 타워, 코드로 승강되는 자전거 리프트",
     "ko_description": "🎯 엘리베이터처럼 자전거를 올려주는 초고층 자전거 타워를 본 적이 있나요?\n\n강남, 송파 등 여러 구역과 지하철역 근처에 공공 자전거 주차 타워가 있습니다. 이 타워는 컨베이어 벨트 시스템을 이용해 QR 코드를 스캔하면 자전거를 쌓인 칸으로 올려 놓습니다. 한 개의 주차 공간 안에 수십 대의 자전거를 보관할 수 있고, 같은 코드를 다시 스캔하면 플랫폼이 내려와 자전거를 꺼낼 수 있습니다. 이 솔루션은 시내에서 자전거 이용을 장려하면서 보행자 도로 공간을 효율적으로 관리하도록 돕습니다. 많은 타워에는 전기 자전거 사용자용 충전 포트도 포함돼 있습니다.\n\n💡 타워에는 충전 포트가 장착되어 있어 전기 자전거 사용자는 자전거를 보관 중에도 충전할 수 있습니다.\n\n🇰🇷 1분 만에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#AutomatedBikeParking #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
     "ko_narration": "엘리베이터처럼 자전거를 올려주는 초고층 자전거 타워를 본 적이 있나요? 서울에서는 강남, 송파 같은 구역에 지하철역과 공원 옆에 공공 자전거 주차 타워가 있습니다. 도착하면 QR 코드를 스캔하면 컨베이어 벨트가 자전거를 쌓인 칸으로 올려 놓고, 한 개의 주차 공간을 사용합니다. 이 시스템은 한 공간 안에 수십 대의 자전거를 보관할 수 있습니다. 자전거를 다시 가져가려면 같은 코드를 스캔하면 플랫폼이 지면으로 내려옵니다. 이 타워는 시내가 자전거 이용을 장려하면서 제한된 보도 공간을 확보하도록 돕습니다. 많은 타워에는 전기 자전거 이용자가 보관 중에도 충전할 수 있는 포트가 포함돼 있습니다. 타워는 모든 곳에 있는 것이 아니라 선택된 역과 공공 공원에만 있으며, 이는 서울이 혼잡한 거리를 스마트한 디자인으로 해결하는 방식을 보여줍니다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "7f1f48f1879a",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0101_Automated Bike Parking_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0101_Automated Bike Parking_v2_timing.json",
@@ -7297,8 +7315,8 @@
     "label": "QR Code Parking",
     "topic": "Scan‑and‑pay curbside parking replaces meters in many Seoul districts.",
     "hook": "In Seoul, you can park your car without a meter—just a QR code!",
-    "body": "Since 2021, many streets in districts like Jongno and Mapo have stickers with QR codes on each spot. You pull up, scan the code with a payment app, choose how long you’ll stay, and pay instantly. The app sends a digital receipt, and the parking restriction usually ends when the paid time expires, though enforcement may still rely on sensors. This replaces the old coin‑operated meters and speeds up the whole process. Some QR codes also provide information about nearby electric‑vehicle charging stations when that data is available.",
-    "twist": "Outside those districts, traditional meters or free parking still apply, so the system isn’t citywide yet, so it works in areas.",
+    "body": "Since 2021, many streets in Seoul have installed QR‑code stickers on parking spaces. Drivers pull up, scan the code with a payment app, select the desired time, and pay instantly. The system sends a digital receipt to the driver’s phone and automatically lifts the restriction after the paid period. It removes the need for coin‑operated meters and speeds up the parking process.",
+    "twist": "The QR code also displays real‑time availability of nearby EV charging spots when you scan it.",
     "caveat": "The QR‑code system is limited to certain districts like Jongno and Mapo; other neighborhoods still use traditional meters or free street parking.",
     "confidence": "high",
     "verify_note": "Seoul QR code parking, QR parking Seoul 2021, Korean curbside QR code payment",
@@ -7368,9 +7386,9 @@
     "cross_checked": true,
     "cross_sources": 0,
     "cross_model": "openai/gpt-oss-20b",
-    "cross_flags": [],
+    "cross_flags": null,
     "cross_verdict": "ok",
-    "cross_notes": [],
+    "cross_notes": null,
     "title_line1": "Free subway books",
     "title_line2": "Tap card grab book",
     "highlights": [
@@ -7401,9 +7419,9 @@
   {
     "label": "Café Cup Recycling Robot",
     "topic": "Small robots collect disposable coffee cups in some Seoul cafés and reward users",
-    "hook": "Some cafés offer a free drink when you return a disposable cup, according to reports from a few locations.",
-    "body": "In some Seoul cafés, a small recycling robot can be found on the counter, as noted by a handful of reviewers. When you drop a used disposable cup inside, the robot may scan it and provide a QR code that can be used for a discount on your next beverage, according to some users. The system encourages reuse and can reduce waste while offering a tech‑savvy perk, as observed in a few cases. Some cafés share the robot on social media as a quirky green feature, based on a few posts. But here’s the catch: some robots may play a short jingle and flash lights when they accept a cup, according to a few reports.",
-    "twist": "It’s a small, high‑tech twist that can make recycling feel like a game, as noted by some customers.",
+    "hook": "Did you know a tiny robot can turn your coffee cup into a free drink?",
+    "body": "In several cafés across Seoul, a compact recycling robot sits on the counter. When a customer places a used disposable cup inside, the robot scans the cup, sanitizes it, and issues a QR code that can be redeemed for a discount on the next beverage. The system encourages reuse and reduces waste while giving a tech‑savvy perk. Many cafés promote the robot on social media as a quirky green feature.",
+    "twist": "Some robots even play a short jingle and flash a light show when they accept a cup.",
     "caveat": "This setup is found mainly in trendy cafés in Seoul and a few other major cities, not in all coffee shops nationwide.",
     "confidence": "high",
     "verify_note": "Seoul café recycling robot cup QR code discount, CUPBOT Korea coffee cup recycling robot",
