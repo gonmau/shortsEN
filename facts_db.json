@@ -3651,7 +3651,7 @@
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0038_Underground Delivery Rooms.mp4",
     "status_v6": "video_done",
     "youtube_id": "Fy1ASk4YdYA",
-    "youtube_privacy": "private",
+    "youtube_privacy": "public",
     "uploaded_at": "2026-10-21"
   },
   {
@@ -3764,7 +3764,8 @@
     "tts_voice_v2": "en-US-AndrewNeural",
     "status_tts_v2": "done",
     "youtube_id": "kz5-J1HxL5o",
-    "uploaded_at": "2026-10-30T18:02:39.222565+09:00"
+    "uploaded_at": "2026-10-30T18:02:39.222565+09:00",
+    "youtube_privacy": "public"
   },
   {
     "label": "Delivery Robots on Streets",
@@ -5196,7 +5197,11 @@
     "image_source": "pixabay",
     "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0083_Reusable Cup Lockers.srt",
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0083_Reusable Cup Lockers.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "tdmOk1ZHT2M",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-25",
+    "uploaded_manually": true
   },
   {
     "label": "Morning Milk Bike Delivery",
@@ -5304,7 +5309,11 @@
     "image_source": "pixabay",
     "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0084_Morning Milk Bike Delivery.srt",
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0084_Morning Milk Bike Delivery.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "rzMGWrqsZNs",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-25",
+    "uploaded_manually": true
   },
   {
     "label": "Smart Elevator Queue",
@@ -5428,7 +5437,11 @@
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0085_Smart Elevator Queue_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0085_Smart Elevator Queue_v2_timing.json",
     "tts_voice_v2": "en-US-AndrewNeural",
-    "status_tts_v2": "done"
+    "status_tts_v2": "done",
+    "youtube_id": "hHxTeWz6ISA",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-28",
+    "uploaded_manually": true
   },
   {
     "label": "Underground Parcel Lockers",
@@ -5560,7 +5573,11 @@
     "image_source": "pixabay",
     "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0086_Underground Parcel Lockers.srt",
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0086_Underground Parcel Lockers.mp4",
-    "status_v6": "video_done"
+    "status_v6": "video_done",
+    "youtube_id": "Q1iWWQI7vK4",
+    "youtube_privacy": "public",
+    "uploaded_at": "2026-10-29",
+    "uploaded_manually": true
   },
   {
     "label": "School Banchan Buffet",
@@ -5693,7 +5710,8 @@
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0087_School Banchan Buffet.mp4",
     "status_v6": "video_done",
     "youtube_id": "s3bBkRGI9nM",
-    "uploaded_at": "2026-10-29T01:40:05.085821+09:00"
+    "uploaded_at": "2026-10-29T01:40:05.085821+09:00",
+    "youtube_privacy": "public"
   },
   {
     "label": "NFC Café Study Pods",
@@ -5871,7 +5889,8 @@
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0094_Phone Pouch Silence.mp4",
     "status_v6": "video_done",
     "youtube_id": "Efacg4JwEuI",
-    "uploaded_at": "2026-10-29T01:40:07.433079+09:00"
+    "uploaded_at": "2026-10-29T01:40:07.433079+09:00",
+    "youtube_privacy": "public"
   },
   {
     "label": "Bike‑Rental Helmet Kiosk",
@@ -5952,7 +5971,8 @@
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0095_Bike‐Rental Helmet Kiosk.mp4",
     "status_v6": "video_done",
     "youtube_id": "RcB40NZBDtE",
-    "uploaded_at": "2026-10-30T01:32:22.519225+09:00"
+    "uploaded_at": "2026-10-30T01:32:22.519225+09:00",
+    "youtube_privacy": "public"
   },
   {
     "label": "Women‑Only Subway Cars",
@@ -6031,7 +6051,8 @@
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0096_Women‐Only Subway Cars.mp4",
     "status_v6": "video_done",
     "youtube_id": "Pa95pfME2XE",
-    "uploaded_at": "2026-10-30T01:32:24.740662+09:00"
+    "uploaded_at": "2026-10-30T01:32:24.740662+09:00",
+    "youtube_privacy": "public"
   },
   {
     "label": "QR Code Street Food",
@@ -6190,7 +6211,8 @@
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0097_QR Code Street Food_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0097_QR Code Street Food_v2_timing.json",
     "tts_voice_v2": "en-US-AndrewNeural",
-    "status_tts_v2": "done"
+    "status_tts_v2": "done",
+    "youtube_privacy": "public"
   },
   {
     "label": "Seoul Subway Quiet Car",
@@ -6622,7 +6644,8 @@
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0099_Heated Toilet Seats.mp4",
     "status_v6": "video_done",
     "youtube_id": "DJ-s-MjOs74",
-    "uploaded_at": "2026-10-31T01:51:09.697493+09:00"
+    "uploaded_at": "2026-10-31T01:51:09.697493+09:00",
+    "youtube_privacy": "private"
   },
   {
     "label": "Zero‑Waste Bulk Aisles",
@@ -6793,7 +6816,8 @@
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0100_Zero‐Waste Bulk Aisles.mp4",
     "status_v6": "video_done",
     "youtube_id": "bhauy-Kcqh4",
-    "uploaded_at": "2026-10-31T01:51:11.346723+09:00"
+    "uploaded_at": "2026-10-31T01:51:11.346723+09:00",
+    "youtube_privacy": "private"
   },
   {
     "label": "Automated Bike Parking",
@@ -6929,7 +6953,8 @@
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0101_Automated Bike Parking.mp4",
     "status_v6": "video_done",
     "youtube_id": "EcDVWq9_2mU",
-    "uploaded_at": "2026-10-31T01:51:12.852731+09:00"
+    "uploaded_at": "2026-10-31T01:51:12.852731+09:00",
+    "youtube_privacy": "public"
   },
   {
     "label": "App‑Controlled Floor Heating",
