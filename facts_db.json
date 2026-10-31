@@ -7677,7 +7677,7 @@
       "mountain clouds sky",
       "bear in dark cave",
       "bear sitting patiently",
-      "bear woman statue",
+      "웅녀",
       "praying woman silhouette",
       "ancient Korean kingdom ruins",
       "historical timeline scroll",
@@ -7692,7 +7692,7 @@
       "mountain clouds sky",
       "bear in dark cave",
       "bear sitting patiently",
-      "bear woman statue",
+      "웅녀",
       "praying woman silhouette",
       "ancient Korean kingdom ruins",
       "historical timeline scroll",
@@ -7724,11 +7724,20 @@
         "id": 7516767
       },
       {
-        "scene": 5,
+        "scene": 4,
         "source": "pixabay",
-        "user": "whitedaemon",
-        "page": "https://pixabay.com/photos/young-woman-ice-girl-on-ice-skates-1597649/",
-        "id": 1597649
+        "user": "cherylholt",
+        "page": "https://pixabay.com/photos/baby-teddy-bear-play-toy-teddy-623417/",
+        "id": 623417
+      },
+      {
+        "scene": 5,
+        "source": "commons",
+        "user": "Rob Bixby",
+        "license": "CC BY 2.0",
+        "title": "Fortress of the Bear woman posing next to bear figure.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Fortress_of_the_Bear_woman_posing_next_to_bear_figure.jpg",
+        "id": "c:128979681"
       },
       {
         "scene": 6,
