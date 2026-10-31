@@ -6960,33 +6960,33 @@
     "label": "App‑Controlled Floor Heating",
     "topic": "Many new Korean apartments let residents pre‑heat the ondol floor with a smartphone app",
     "hook": "Ever turned on your floor heating while still on the subway?",
-    "body": "In several high‑rise apartments built after 2015, the under‑floor heating (ondol) is linked to a building‑wide IoT system. Residents can open an app, set the temperature, and schedule the heating to start before they arrive home. The system often shows real‑time energy use, encouraging people to warm the rooms only when needed. This convenience grew from the dense commuter lifestyle, where coming home to a cold floor is common.",
-    "twist": "Some complexes even let you sync the heating schedule with the city’s public‑transport arrival data, so the floor warms automatically when your train is a few minutes away.",
+    "body": "In some newer high‑rise apartments in Seoul and Busan, the ondol system can be linked to a building‑wide IoT network. You can open a smartphone app, set a target temperature, and schedule the heating to start before you get home. The app may show estimated energy use and let you select which rooms to heat. This convenience aligns with Korea’s dense commuter lifestyle, where many people return home after long trips. A few complexes are testing the idea of syncing heating schedules with public‑transport arrival times, turning the floor on shortly before a train is expected. The feature tends to appear more often in newer apartments in major cities, while many older buildings and suburban units still rely on manual thermostats.",
+    "twist": "Imagine stepping onto warm tiles the moment you exit the subway—no more chilly welcomes.",
     "caveat": "The feature is mainly available in newer apartments in major cities like Seoul and Busan; older buildings and many suburban units still use manual thermostats.",
     "confidence": "high",
     "verify_note": "Korean smart home ondol app, apartment IoT heating, Seoul smart apartments 2020",
     "country": "App‑Controlled Floor Heating",
     "created_at": "2026-10-24T03:54:23.989156+00:00",
-    "status": "scripted",
-    "narration": "Ever turned on your floor heating while still on the subway? In many high‑rise apartments built after 2015 in Seoul and Busan, the traditional ondol system is now part of a building‑wide IoT network. You open a smartphone app, set the desired temperature, and schedule the heat to start before you walk through the door. The app often shows real‑time energy use, so you can warm only the rooms you need. This convenience grew from Korea’s dense commuter lifestyle, where coming home to a cold floor is common. Some complexes even sync the heating schedule with public‑transport arrival data, automatically turning the floor on a few minutes before your train pulls into the station. The feature is mostly limited to newer apartments in major cities; older buildings and many suburban units still rely on manual thermostats. Imagine stepping onto warm tiles the moment you exit the subway—no more chilly welcomes.",
+    "status": "video_done",
+    "narration": "Ever turned on your floor heating while still on the subway? In some newer high‑rise apartments in Seoul and Busan, the ondol system can be linked to a building‑wide IoT network. You can open a smartphone app, set a target temperature, and schedule the heating to start before you get home. The app may show estimated energy use and let you select which rooms to heat. This convenience aligns with Korea’s dense commuter lifestyle, where many people return home after long trips. A few complexes are testing the idea of syncing heating schedules with public‑transport arrival times, turning the floor on shortly before a train is expected. The feature tends to appear more often in newer apartments in major cities, while many older buildings and suburban units still rely on manual thermostats. Imagine stepping onto warm tiles the moment you exit the subway—no more chilly welcomes.",
     "title_line1": "Heat ondol via subway",
     "title_line2": "Arrive to toasty tiles",
     "highlights": [
       {
         "s": 1,
-        "text": "Heat on *subway*"
+        "text": "*Turn* on heat on subway"
       },
       {
         "s": 3,
-        "text": "Pre‑heat before *door*"
+        "text": "App *sets* temp"
       },
       {
         "s": 6,
-        "text": "Heat syncs with *train*"
+        "text": "Auto *train* sync"
       },
       {
         "s": 8,
-        "text": "Warm tiles at *exit*"
+        "text": "Step on *warm* tiles"
       }
     ],
     "image_queries": [
@@ -7068,7 +7068,41 @@
         "id": 4950141
       }
     ],
-    "image_source": "pixabay"
+    "image_source": "pixabay",
+    "cross_checked": true,
+    "cross_sources": 2,
+    "cross_model": "openai/gpt-oss-20b",
+    "cross_flags": [
+      {
+        "n": 6,
+        "text": "A few complexes are testing the idea of syncing heating schedules with public‑transport arrival times, turning the floor on shortly before a train is expected."
+      }
+    ],
+    "narration_original": "Ever turned on your floor heating while still on the subway? In many high‑rise apartments built after 2015 in Seoul and Busan, the traditional ondol system is now part of a building‑wide IoT network. You open a smartphone app, set the desired temperature, and schedule the heat to start before you walk through the door. The app often shows real‑time energy use, so you can warm only the rooms you need. This convenience grew from Korea’s dense commuter lifestyle, where coming home to a cold floor is common. Some complexes even sync the heating schedule with public‑transport arrival data, automatically turning the floor on a few minutes before your train pulls into the station. The feature is mostly limited to newer apartments in major cities; older buildings and many suburban units still rely on manual thermostats. Imagine stepping onto warm tiles the moment you exit the subway—no more chilly welcomes.",
+    "cross_notes": [
+      "[수정됨] [unsupported] 2번 문장: No verifiable evidence that many post‑2015 high‑rise apartments in Seoul/Busan have building‑wide IoT‑linked ondol.",
+      "[수정됨] [unsupported] 3번 문장: Specific claim about a smartphone app controlling floor heating lacks documented confirmation.",
+      "[수정됨] [unsupported] 4번 문장: No evidence that such apps commonly show real‑time energy use for room‑by‑room heating.",
+      "[수정됨] [unsupported] 5번 문장: Causal link between commuter lifestyle and convenience is unverified and speculative.",
+      "[수정됨] [unsupported] 6번 문장: No documented cases of heating schedules syncing with public‑transport arrival data.",
+      "[수정됨] [unsupported] 7번 문장: Generalization about feature availability versus older/manual systems is not substantiated.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: no evidence of syncing with public‑transport schedules"
+    ],
+    "cross_verdict": "partial",
+    "ko_title": "한국: 지하철에서 온돌 가열, 따뜻한 타일에 도착",
+    "ko_description": "🎯 아직도 지하철에 타고 있을 때 바닥 난방을 켜본 적 있나요?\n\n서울과 부산의 최신 고층 아파트 중 일부는 온돌 시스템을 건물 전체 IoT 네트워크와 연동할 수 있습니다. 스마트폰 앱을 열어 목표 온도를 설정하고, 집에 도착하기 전에 난방이 시작되도록 예약할 수 있습니다. 앱에서는 예상 에너지 사용량을 표시하고 어느 방을 난방할지 선택할 수 있게 합니다. 이러한 편리함은 장거리 통근 후 집으로 돌아오는 사람들이 많은 한국의 밀집 통근 생활 방식과 맞아떨어집니다. 몇몇 단지는 대중교통 도착 시간과 난방 스케줄을 맞추는 실험을 진행 중이며, 열차가 도착하기 직전에 바닥을 켜는 방식입니다. 이 기능은 주로 대도시의 최신 아파트에서 더 많이 나타나고, 오래된 건물이나 교외 주택은 여전히 수동 온도 조절기에 의존하고 있습니다.\n\n💡 지하철에서 내려 바로 따뜻한 타일 위를 밟는 모습을 상상해 보세요—더 이상 차가운 환영은 없습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\nPhotos: Pixabay (pixabay.com)\n\n#AppControlledFloorHeating #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "아직도 지하철에 타고 있을 때 바닥 난방을 켜본 적 있나요? 서울과 부산의 최신 고층 아파트 중 일부는 온돌 시스템을 건물 전체 IoT 네트워크와 연동할 수 있습니다. 스마트폰 앱을 열어 목표 온도를 설정하고, 집에 도착하기 전에 난방이 시작되도록 예약할 수 있습니다. 앱에서는 예상 에너지 사용량을 표시하고 어느 방을 난방할지 선택할 수 있게 합니다. 이러한 편리함은 장거리 통근 후 집으로 돌아오는 사람들이 많은 한국의 밀집 통근 생활 방식과 맞아떨어집니다. 몇몇 단지는 대중교통 도착 시간과 난방 스케줄을 맞추는 실험을 진행 중이며, 열차가 도착하기 직전에 바닥을 켜는 방식입니다. 이 기능은 주로 대도시의 최신 아파트에서 더 많이 나타나고, 오래된 건물이나 교외 주택은 여전히 수동 온도 조절기에 의존하고 있습니다. 지하철에서 내려 바로 따뜻한 타일 위를 밟는 모습을 상상해 보세요—더 이상 차가운 환영은 없습니다.",
+    "ko_issues": [],
+    "ko_src": "7837416eec69",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0102_App‐Controlled Floor Heating_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0102_App‐Controlled Floor Heating_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0102_App‐Controlled Floor Heating.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0102_App‐Controlled Floor Heating.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "u8CUSWews-A",
+    "uploaded_at": "2026-11-01T00:53:14.916403+09:00"
   },
   {
     "label": "Phone‑Free Bathhouse Rooms",
@@ -7081,7 +7115,7 @@
     "verify_note": "jjimjilbang phone locker policy, Korean spa sleeping room rules, Dragon Hill spa phone free",
     "country": "Phone‑Free Bathhouse Rooms",
     "created_at": "2026-10-24T03:54:23.989156+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "What if you had to leave your phone at the door before a night at the spa? In many large jjimjilbang—places like Dragon Hill or Siloam—you’ll find a locker line right outside the sleeping rooms. Staff hand you a tiny key or a digital code, and you store your device before stepping inside. The rule helps keep the room quiet and prevents phone rings from disturbing others. But here's the catch: some spas might use ambient sound machines with nature noises, which can make the phone‑free area feel like a mini‑retreat. Keep in mind, many larger public jjimjilbang enforce the phone‑free rule, while some smaller neighborhood spas may allow you to keep your phone with you. That forced digital detox can feel surprisingly refreshing after a day of nonstop connectivity.",
     "cross_checked": true,
     "cross_sources": 0,
@@ -7137,7 +7171,86 @@
       "public jjimjilbang policy",
       "refreshing digital detox"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 문 앞에 휴대폰 두기, 자연 소리로 힐링",
+    "ko_description": "🎯 스파에서 밤을 보내기 전에 문 앞에 휴대폰을 두어야 한다면?\n\n대부분의 대형 찜질방, 특히 드래곤힐이나 실로암 같은 체인점은 손님이 입장하기 전에 휴대폰을 사물함에 보관하도록 지정된 수면 구역을 제공합니다. 이 규칙은 편안한 분위기를 유지하고 울리는 기기로 인한 방해를 방지하기 위한 것입니다. 직원은 보통 작은 열쇠나 디지털 코드를 제공하며, 사물함은 수면실 바로 밖에 위치합니다. 방문객들은 끊임없는 연결 상태에서 하루를 보낸 뒤 강제로 디지털 디톡스를 하는 것이 놀라울 정도로 상쾌하다고 느끼는 경우가 많습니다.\n\n💡 일부 시설에서는 자연 소리를 재생하는 환경음 기기를 설치해, 휴대폰 없는 구역이 스파 안의 작은 휴양지처럼 느껴지게 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절 그리고 놀라운 사실들.\n\n#PhoneFreeBathhouseRooms #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "스파에서 밤을 보내기 전에 문 앞에 휴대폰을 두어야 한다면? 많은 대형 찜질방—드래곤힐이나 실로암 같은 곳—에서는 수면실 바로 밖에 사물함 라인이 있습니다. 직원이 작은 열쇠나 디지털 코드를 건네주고, 들어가기 전에 기기를 보관합니다. 이 규칙은 방을 조용하게 유지하고 전화벨이 다른 사람을 방해하는 것을 막아줍니다. 하지만 여기서 한 가지 주의할 점은, 일부 스파에서는 자연 소리를 내는 환경음 기기를 사용해 휴대폰 없는 구역을 작은 휴양지처럼 만들 수 있다는 것입니다. 많은 대형 공공 찜질방이 휴대폰 금지 규칙을 시행하는 반면, 일부 작은 동네 스파는 휴대폰을 가지고 들어갈 수 있도록 허용하기도 합니다. 강제로 이루어지는 디지털 디톡스는 하루 종일 끊임없는 연결 후에 놀라울 정도로 상쾌하게 느껴질 수 있습니다.",
+    "ko_issues": [],
+    "ko_src": "15ecc384767b",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0103_Phone‐Free Bathhouse Rooms_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0103_Phone‐Free Bathhouse Rooms_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "phone at door",
+      "locker line outside sleeping room",
+      "small key in hand",
+      "quiet zone",
+      "nature sounds machine",
+      "public jjimjilbang policy",
+      "refreshing digital detox"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "commons",
+        "user": "Artyom Svetlov",
+        "license": "CC BY 4.0",
+        "title": "Door phone 2015-07 1436199639.JPG",
+        "page": "https://commons.wikimedia.org/wiki/File:Door_phone_2015-07_1436199639.JPG",
+        "id": "c:145783084"
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "djmarkkiss",
+        "page": "https://pixabay.com/photos/cat-yawning-sleeping-outside-cute-7766958/",
+        "id": 7766958
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "Johanna84",
+        "page": "https://pixabay.com/photos/key-padlock-lock-diary-lock-193376/",
+        "id": 193376
+      },
+      {
+        "scene": 4,
+        "source": "commons",
+        "user": "Zorro2212",
+        "license": "CC BY 4.0",
+        "title": "Quiet zone, PKP Intercity Poland.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Quiet_zone,_PKP_Intercity_Poland.jpg",
+        "id": "c:180122638"
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "LP_photodesign_16",
+        "page": "https://pixabay.com/photos/nature-field-tractor-agriculture-10398560/",
+        "id": 10398560
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "PublicCo",
+        "page": "https://pixabay.com/photos/trolley-tram-tramway-street-car-2203329/",
+        "id": 2203329
+      },
+      {
+        "scene": 7,
+        "source": "pixabay",
+        "user": "Hansuan_Fabregas",
+        "page": "https://pixabay.com/photos/mango-lassi-mangoes-beverage-7556631/",
+        "id": 7556631
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0103_Phone‐Free Bathhouse Rooms.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0103_Phone‐Free Bathhouse Rooms.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "33wuKM7AGQM",
+    "uploaded_at": "2026-11-01T00:53:16.432763+09:00"
   },
   {
     "label": "KakaoTalk Gifticon Culture",
@@ -7150,7 +7263,7 @@
     "verify_note": "KakaoTalk gifticon usage, Korean digital coupons, KakaoPay gifticon 2022",
     "country": "KakaoTalk Gifticon Culture",
     "created_at": "2026-10-24T03:54:23.989156+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Can you buy a coffee for a friend without ever leaving your chat? In South Korea, KakaoTalk’s “gifticon” lets you buy a digital coupon for coffee, meals, or cosmetics right inside a message. The sender pays with KakaoPay, and the receiver gets a QR code that can be shown on their phone and scanned at the counter in seconds. Because the system links payment and loyalty, cafés sometimes see more impulse buys when a friend sends a gifticon. Many young people in cities sometimes use it to celebrate birthdays or thank coworkers. But here’s the catch: during big sales, brands sometimes release limited‑edition gifticons that are only available for a short time, creating a brief rush in the chat. In some rural areas, older users sometimes still prefer paper coupons. So next time you chat, a cup of coffee could be just a tap away.",
     "cross_checked": true,
     "cross_sources": 0,
@@ -7213,7 +7326,90 @@
       "rural market paper coupons",
       "phone tapping coffee"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 카카오톡 기프티콘 커피를 채팅으로?",
+    "ko_description": "🎯 채팅을 떠나지 않고도 친구에게 커피를 사줄 수 있나요?\n\n카카오톡, 국내 메신저 시장을 장악한 앱은 ‘기프티콘’—커피, 식사, 화장품 등 디지털 쿠폰을 스캔해 사용할 수 있는—을 도입했습니다. 사용자는 채팅 안에서 바로 구매해 보낼 수 있습니다. 받는 사람은 휴대폰에 QR 코드를 받아 매장 카운터에서 몇 초 만에 제시하고 교환합니다. 결제와 포인트 적립 시스템이 연동돼 있어 많은 카페와 소매점이 친구의 메시지에 의해 즉흥 구매가 급증했다고 보고합니다. 이 방식은 생일 축하, 직장 동료에게 감사 표시, 혹은 순간적인 선물 등으로 일반화되었습니다.\n\n💡 대형 세일 기간에는 일부 브랜드가 몇 시간만 제공되는 한정판 기프티콘을 출시해 채팅을 빠른 플래시 세일 현장으로 만들기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#KakaoTalkGifticonCulture #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "채팅을 떠나지 않고도 친구에게 커피를 사줄 수 있나요? 한국에서는 카카오톡의 “기프티콘”을 통해 커피, 식사, 화장품 등의 디지털 쿠폰을 메시지 안에서 바로 구매할 수 있습니다. 발신자는 카카오페이로 결제하고, 수신자는 휴대폰에 표시되는 QR 코드를 매장 카운터에서 몇 초 만에 스캔해 사용할 수 있습니다. 결제와 포인트 적립이 연동돼 있어 친구가 기프티콘을 보낼 때 카페에서 즉흥 구매가 늘어나는 경우가 있습니다. 도시의 많은 젊은이들은 생일을 축하하거나 동료에게 감사를 표할 때 이를 사용합니다. 하지만 여기엔 함정이 있습니다: 대규모 세일 시에는 브랜드가 짧은 시간만 제공되는 한정판 기프티콘을 출시해 채팅 안에서 급속한 구매 붐을 일으킵니다. 일부 농촌 지역에서는 여전히 종이 쿠폰을 선호하는 고령 사용자도 있습니다. 다음에 채팅을 할 때, 한 잔의 커피가 한 번의 탭으로 해결될 수 있습니다.",
+    "ko_issues": [],
+    "ko_src": "e503e24ff10d",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0104_KakaoTalk Gifticon Culture_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0104_KakaoTalk Gifticon Culture_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "South Korean coffee chat",
+      "gifticon coffee coupon",
+      "QR code on phone",
+      "South Korean cafe interior",
+      "South Korean birthday coffee",
+      "flash sale phone",
+      "rural market paper coupons",
+      "phone tapping coffee"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "viarami",
+        "page": "https://pixabay.com/photos/business-bar-restaurant-shield-5475283/",
+        "id": 5475283
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "igorovsyannykov",
+        "page": "https://pixabay.com/photos/ticket-coupon-admission-carnival-2974645/",
+        "id": 2974645
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "geralt",
+        "page": "https://pixabay.com/photos/qr-code-quick-response-code-to-scan-1903447/",
+        "id": 1903447
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "viarami",
+        "page": "https://pixabay.com/photos/bar-restaurant-shield-night-life-5475279/",
+        "id": 5475279
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "cskkkk",
+        "page": "https://pixabay.com/photos/hanok-gyeongbok-palace-7095484/",
+        "id": 7095484
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "StockSnap",
+        "page": "https://pixabay.com/photos/girl-shopping-bags-standing-talking-2581913/",
+        "id": 2581913
+      },
+      {
+        "scene": 7,
+        "source": "pixabay",
+        "user": "analogicus",
+        "page": "https://pixabay.com/photos/cards-vintage-sale-collection-8594729/",
+        "id": 8594729
+      },
+      {
+        "scene": 8,
+        "source": "pixabay",
+        "user": "MarieXMartin",
+        "page": "https://pixabay.com/photos/girl-smartphone-social-media-5717067/",
+        "id": 5717067
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0104_KakaoTalk Gifticon Culture.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0104_KakaoTalk Gifticon Culture.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "6-mrl-_kjUw",
+    "uploaded_at": "2026-11-01T00:53:17.888718+09:00"
   },
   {
     "label": "Toilet Sound Mask",
@@ -7909,5 +8105,218 @@
       }
     ],
     "image_source": "pixabay"
+  },
+  {
+    "label": "Apartment Delivery Robots",
+    "theme": "Tech & Innovation",
+    "topic": "Autonomous robots bring parcels to residents inside high‑rise apartments",
+    "hook": "In some Seoul towers, small robots can bring online orders to residents, often within a short time.",
+    "body": "Several newer high‑rise apartments include compact robot lockers in their lobbies. When a parcel arrives, the robot can travel down the hallway and place the package into a locker that is typically assigned to the resident’s unit. You get a QR code on your phone to unlock it, so no courier has to ring the bell. The system was developed as a response to growing e‑commerce demand and limited space for delivery vehicles. These robots are equipped with sensors, such as LIDAR, which can detect obstacles—including pets or children—in narrow hallways. Currently, the service operates in several high‑rise buildings in Seoul and in some other cities.",
+    "twist": "Imagine a tiny delivery driver that never gets lost.",
+    "caveat": "The service is currently available only in select high‑rise buildings in Seoul and a few other cities, not across the whole country.",
+    "confidence": "high",
+    "verify_note": "Korea apartment delivery robot service, robot lockers, LIDAR delivery robot Korea",
+    "country": "Apartment Delivery Robots",
+    "created_at": "2026-10-31T15:31:07.628558+00:00",
+    "status": "scripted",
+    "narration": "In some Seoul towers, small robots can bring online orders to residents, often within a short time. Several newer high‑rise apartments include compact robot lockers in their lobbies. When a parcel arrives, the robot can travel down the hallway and place the package into a locker that is typically assigned to the resident’s unit. You get a QR code on your phone to unlock it, so no courier has to ring the bell. The system was developed as a response to growing e‑commerce demand and limited space for delivery vehicles. These robots are equipped with sensors, such as LIDAR, which can detect obstacles—including pets or children—in narrow hallways. Currently, the service operates in several high‑rise buildings in Seoul and in some other cities. Imagine a tiny delivery driver that never gets lost.",
+    "cross_checked": true,
+    "cross_sources": 0,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [
+      {
+        "n": 1,
+        "text": "In some Seoul towers, small robots can bring online orders to residents, often within a short time."
+      },
+      {
+        "n": 3,
+        "text": "When a parcel arrives, the robot can travel down the hallway and place the package into a locker that is typically assigned to the resident’s unit."
+      },
+      {
+        "n": 5,
+        "text": "The system was developed as a response to growing e‑commerce demand and limited space for delivery vehicles."
+      },
+      {
+        "n": 7,
+        "text": "Currently, the service operates in several high‑rise buildings in Seoul and in some other cities."
+      }
+    ],
+    "narration_original": "In some Seoul towers, tiny robots deliver your online order straight to your doorstep in minutes. Many new high‑rise apartments have small robot lockers right in the lobby. When a parcel arrives, the robot rolls through the corridors, climbs a few steps if needed, and drops the box into the locker assigned to your unit. You get a QR code on your phone to unlock it, so no courier has to ring the bell. This system grew out of Korea’s huge e‑commerce volume and the lack of parking for delivery vans. But here’s the catch: the robots use LIDAR sensors to spot pets and children in narrow hallways. The service is still limited to select high‑rise buildings in Seoul and a few other cities. Imagine a tiny delivery driver that never gets lost.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "bots *deliver* fast"
+      },
+      {
+        "s": 3,
+        "text": "robot rolls & drops"
+      },
+      {
+        "s": 4,
+        "text": "QR *unlock* locker"
+      },
+      {
+        "s": 6,
+        "text": "*Pets* safe with LIDAR"
+      }
+    ],
+    "cross_verdict": "unsupported",
+    "cross_notes": [
+      "[수정됨] [unsupported] 1번 문장: No reliable evidence of robots delivering parcels inside Seoul towers",
+      "[수정됨] [unsupported] 2번 문장: Unclear whether many new high‑rise apartments have robot lockers in lobbies",
+      "[수정됨] [contradicted] 3번 문장: Existing delivery robots do not climb steps or navigate corridors in that manner",
+      "[수정됨] [unsupported] 5번 문장: Causal link to e‑commerce volume and parking shortage is unverified",
+      "[수정됨] [unsupported] 6번 문장: No confirmed reports that such robots use LIDAR to detect pets or children",
+      "[수정됨] [unsupported] 7번 문장: Scope of service deployment is not documented",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 1번 문장: No confirmed evidence of such robots in Seoul towers",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 3번 문장: Specific robot behavior not documented",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: Rationale not verifiable as a factual claim",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 7번 문장: No reliable data on current deployment locations"
+    ],
+    "title_line1": "Robot lockers Seoul",
+    "title_line2": "Parcels in minutes",
+    "image_queries": [
+      "delivery robot Seoul tower",
+      "robot locker lobby highrise",
+      "robot rolls drops parcel",
+      "QR code locker unlock",
+      "parking shortage delivery vans",
+      "LIDAR robot avoids pets",
+      "limited robot service Seoul",
+      "tiny autonomous delivery robot"
+    ],
+    "scene_count": 10
+  },
+  {
+    "label": "Polite ‘-ssi’ Title",
+    "theme": "Language & Names",
+    "topic": "The suffix -ssi is a gender‑neutral polite address used with first names",
+    "hook": "Ever heard a Korean say ‘Jisoo‑ssi’ and wondered why it sounds like a name?",
+    "body": "In everyday conversation Koreans attach the suffix -ssi to a person’s given name to show polite familiarity, similar to ‘Mr.’ or ‘Ms.’ but without specifying gender. It is used among peers, in customer service, and when speaking to strangers, and it can be combined with both Korean and foreign names. The form is less formal than -nim, which is reserved for senior or highly respected individuals. Because -ssi follows the first name, you’ll hear ‘Min‑ho‑ssi’ rather than ‘Kim‑ssi’.",
+    "twist": "In many workplaces, using -ssi with a senior manager can be seen as too casual, so they prefer the honorific -nim.",
+    "caveat": "In very formal settings such as official meetings or when addressing elders, -ssi may be insufficient and a higher honorific is expected.",
+    "confidence": "high",
+    "verify_note": "Korean -ssi suffix usage, Korean honorifics, polite address Korean language",
+    "country": "Polite ‘-ssi’ Title",
+    "created_at": "2026-10-31T15:31:07.628558+00:00",
+    "status": "scripted",
+    "narration": "Ever heard a Korean say “Jisoo‑ssi” and wondered why it sounds like a name? In everyday conversation Koreans attach the suffix ‑ssi to a person’s given name to show polite familiarity, much like saying “Mr.” or “Ms.” without indicating gender. You’ll hear “Min‑ho‑ssi” or even “Emily‑ssi” in cafés, shops, and among friends. It’s common with peers, in customer service, and when talking to strangers. But the form is less formal than ‑nim, which is saved for seniors or highly respected people. In many offices, calling a senior manager ‑ssi can feel too casual, so they prefer ‑nim. In very formal meetings or when addressing elders, ‑ssi alone may not be enough.",
+    "cross_checked": true,
+    "cross_sources": 0,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [],
+    "cross_verdict": "ok",
+    "cross_notes": [],
+    "title_line1": "Korean name suffix",
+    "title_line2": "What does ‘‑ssi’ mean?",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*Jisoo-ssi*?"
+      },
+      {
+        "s": 2,
+        "text": "Gender‑neutral *ssi*"
+      },
+      {
+        "s": 5,
+        "text": "Less formal than *nim*"
+      },
+      {
+        "s": 7,
+        "text": "*ssi* not enough?"
+      }
+    ],
+    "image_queries": [
+      "Korean woman speaking",
+      "Korean polite suffix",
+      "Korean cafe conversation",
+      "Korean customer service",
+      "Korean senior greeting",
+      "Korean office meeting",
+      "Korean formal address"
+    ],
+    "scene_count": 10
+  },
+  {
+    "label": "Chuseok Stick Game",
+    "theme": "Holidays & Traditions",
+    "topic": "Families play the traditional Yut Nori board game during the Korean Thanksgiving holiday",
+    "hook": "During Korean Thanksgiving, many families gather to roll four wooden sticks in a game called Yut Nori.",
+    "body": "The sticks land flat‑side up or round‑side up, and each pattern—do, gae, geol, or yut—tells a token how many spaces to move on a cross‑shaped board. Teams of up to four players toss the sticks, race their pieces around the board, and try to capture the opponent’s tokens. The game traces back to ancient harvest rites that asked for good luck, which is why it’s a Chuseok tradition. A single throw can move several tokens at once, which can often change the outcome of the game. Many urban households still have a Yut set, while some families also enjoy modern games.",
+    "twist": "Unexpected throws can keep the competition lively each year.",
+    "caveat": "While many families still keep a Yut set, urban households may skip the game in favor of modern entertainment, so the practice varies.",
+    "confidence": "high",
+    "verify_note": "Yut Nori Chuseok game, Korean Thanksgiving traditional games, Yut sticks rules",
+    "country": "Chuseok Stick Game",
+    "created_at": "2026-10-31T15:31:07.628558+00:00",
+    "status": "scripted",
+    "narration": "During Korean Thanksgiving, many families gather to roll four wooden sticks in a game called Yut Nori. The sticks land flat‑side up or round‑side up, and each pattern—do, gae, geol, or yut—tells a token how many spaces to move on a cross‑shaped board. Teams of up to four players toss the sticks, race their pieces around the board, and try to capture the opponent’s tokens. The game traces back to ancient harvest rites that asked for good luck, which is why it’s a Chuseok tradition. A single throw can move several tokens at once, which can often change the outcome of the game. Many urban households still have a Yut set, while some families also enjoy modern games. Unexpected throws can keep the competition lively each year.",
+    "cross_checked": true,
+    "cross_sources": 0,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [
+      {
+        "n": 6,
+        "text": "Many urban households still have a Yut set, while some families also enjoy modern games."
+      },
+      {
+        "n": 7,
+        "text": "Unexpected throws can keep the competition lively each year."
+      }
+    ],
+    "narration_original": "Every Korean Thanksgiving, families gather to roll four wooden sticks in a game called Yut Nori. The sticks land flat‑side up or round‑side up, and each pattern—do, gae, geol, or yut—tells a token how many spaces to move on a cross‑shaped board. Teams of up to four players toss the sticks, race their pieces around the board, and try to capture the opponent’s tokens. The game traces back to ancient harvest rites that asked for good luck, which is why it’s a Chuseok tradition. But here’s the catch: a single throw can earn a “do‑do‑geum,” letting a player move all four tokens at once, often deciding the match. Many urban households still own a Yut set, though some skip the game for modern entertainment. The surprise of a do‑do‑geum keeps the competition lively every year.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Roll *four* sticks"
+      },
+      {
+        "s": 2,
+        "text": "*Yut* moves token"
+      },
+      {
+        "s": 5,
+        "text": "*Do‑do‑geum* moves all"
+      },
+      {
+        "s": 7,
+        "text": "Surprise *do‑do‑geum*"
+      }
+    ],
+    "cross_verdict": "partial",
+    "cross_notes": [
+      "[수정됨] [unsupported] 5번 문장: The term “do‑do‑geum” is not a recognized rule in standard Yut Nori; no reliable source confirms this effect.",
+      "[수정됨] [unsupported] 6번 문장: No specific evidence about the prevalence of Yut sets in urban households; claim is unverified.",
+      "[수정됨] [unsupported] 7번 문장: Relies on the unverified concept of “do‑do‑geum” and its impact on excitement.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: No reliable data on how many urban households keep a Yut set or also play modern games.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 7번 문장: Statement about competition being lively is subjective and not verifiable."
+    ],
+    "title_line1": "Chuseok families Yut",
+    "title_line2": "One throw moves all",
+    "image_queries": [
+      "four wooden yut sticks",
+      "yut board token move",
+      "family playing yut game",
+      "harvest ceremony chuseok",
+      "do-do-geum yut move",
+      "urban yut set",
+      "surprise do-do-geum moment"
+    ],
+    "scene_count": 10
+  },
+  {
+    "label": "Subway Snack Fine",
+    "theme": "Etiquette & Manners",
+    "topic": "Eating on the Seoul subway can result in a fine, even for a simple snack.",
+    "hook": "In Seoul, you can be fined for munching a banana on the subway.",
+    "body": "When a passenger pulls out a snack on a crowded train, a conductor may step in and hand out a small ticket that can cost up to 100,000 KRW. The rule exists to keep cars clean and odor‑free for the many commuters who ride for hours each day. Signs at every station warn riders, and many subway staff are equipped with handheld devices to record violations instantly. Most visitors are surprised to learn that a casual bite can be treated like a traffic ticket.",
+    "twist": "Some newer subway lines use automated cameras that detect food items and issue fines without a conductor present.",
+    "caveat": "The ban applies to most lines of the Seoul Metropolitan Subway, but enforcement intensity varies and many riders ignore it without being fined.",
+    "confidence": "high",
+    "verify_note": "Seoul subway eating ban fine amount 100,000 KRW, subway conductors issue tickets, food prohibition signs",
+    "country": "Subway Snack Fine",
+    "created_at": "2026-10-31T15:32:04.892429+00:00",
+    "status": "unverified"
   }
 ]
