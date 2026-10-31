@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-10-31 22:01:53 (KST) · 기록 227건 · 소재 119개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-10-31 22:03:58 (KST) · 기록 228건 · 소재 119개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -21,7 +21,7 @@
 | make_thumbnail | 2 | 0 | 1초 |
 | promote_ready | 17 | 0 | 1초 |
 | redo_videos | 11 | 0 | 1초 |
-| resync_meta | 1 | 0 | 8초 |
+| resync_meta | 2 | 0 | 16초 |
 | sync_uploads | 2 | 0 | 4초 |
 | upload_to_youtube | 1 | 0 | 9초 |
 | 롱폼 | 21 | 0 | 27분 42초 |
@@ -34,6 +34,7 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 22:03 | PC | resync_meta | resync_meta.py --indexes 116 | ✅ | 8초 |  |
 | 22:01 | PC | -c | -c import os,requests;import fetch_images as F;from common import load_db,save_db;db=load_db();F.fetch_item(requests.Session(),os.environ['PIXABAY_API | ✅ | 39초 |  |
 | 22:00 | PC | -c | -c import os,requests;import fetch_images as F;from common import load_db,save_db;db=load_db();F.fetch_item(requests.Session(),os.environ['PIXABAY_API | ✅ | 10초 |  |
 | 22:00 | PC | fetch_images | fetch_images.py --limit 1 --start 118 --any | ✅ | 1분 23초 |  |
