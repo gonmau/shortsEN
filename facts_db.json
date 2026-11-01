@@ -8317,7 +8317,7 @@
     "verify_note": "Seoul subway eating ban fine amount 100,000 KRW, subway conductors issue tickets, food prohibition signs",
     "country": "Subway Snack Fine",
     "created_at": "2026-10-31T15:32:04.892429+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Free Public Foot Baths",
@@ -8331,7 +8331,7 @@
     "verify_note": "Seoul foot bath parks winter heated foot bath solar panel",
     "country": "Free Public Foot Baths",
     "created_at": "2026-11-01T09:40:44.006828+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Ramen Vending Machines",
@@ -8345,7 +8345,7 @@
     "verify_note": "Seoul subway ramen vending machine instant noodles hot 3 minutes",
     "country": "Ramen Vending Machines",
     "created_at": "2026-11-01T09:40:44.006828+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "KakaoTalk Lunch Orders",
@@ -8374,7 +8374,7 @@
     "verify_note": "Korean handphone term 핸드폰 usage loanword smartphone Korean language",
     "country": "Handphone Word",
     "created_at": "2026-11-01T09:40:44.006828+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Charging Bus Stops",
@@ -8388,7 +8388,7 @@
     "verify_note": "Seoul bus stop charging stations free Wi‑Fi solar USB, Korean public transport charging ports",
     "country": "Charging Bus Stops",
     "created_at": "2026-11-01T09:41:26.553818+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Consonant Texting",
@@ -8402,7 +8402,7 @@
     "verify_note": "Korean consonant only texting, KakaoTalk ㄱㄴㄷ slang",
     "country": "Consonant Texting",
     "created_at": "2026-11-01T09:41:26.553818+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Locker Charging Race",
@@ -8416,7 +8416,7 @@
     "verify_note": "Korean high school lockers charging ports, school facility upgrades Korea, Korean education articles about locker amenities",
     "country": "Locker Charging Race",
     "created_at": "2026-11-01T09:42:08.278484+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Even‑Numbered Seollal Money",
@@ -8430,7 +8430,7 @@
     "verify_note": "Seollal cash gift even numbers, Korean New Year sebae tradition, Korean customs even numbers, Korean holiday etiquette",
     "country": "Even‑Numbered Seollal Money",
     "created_at": "2026-11-01T09:42:08.278484+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Reward Recycling Bins",
@@ -8444,7 +8444,7 @@
     "verify_note": "Seoul smart recycling bin points coffee coupon Songpa district Seongnam recycling vending machine",
     "country": "Reward Recycling Bins",
     "created_at": "2026-11-01T09:46:57.754465+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Boss‑Paid Dinner",
@@ -8458,7 +8458,7 @@
     "verify_note": "Korean hoesik boss pays attendance promotion culture office dinner etiquette",
     "country": "Boss‑Paid Dinner",
     "created_at": "2026-11-01T09:46:57.754465+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Rotating Drying Rooms",
@@ -8472,7 +8472,7 @@
     "verify_note": "Korean apartment communal drying room rotating rack UV light high‑rise complexes",
     "country": "Rotating Drying Rooms",
     "created_at": "2026-11-01T09:46:57.754465+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Han River Night Ferry",
@@ -8486,7 +8486,7 @@
     "verify_note": "Han River night ferry free Wi‑Fi snack bar seasonal operation Hangang Cruise",
     "country": "Han River Night Ferry",
     "created_at": "2026-11-01T09:46:57.754465+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Upright Chopsticks Taboo",
@@ -8500,7 +8500,7 @@
     "verify_note": "Korean chopsticks etiquette upright taboo funeral incense",
     "country": "Upright Chopsticks Taboo",
     "created_at": "2026-11-01T09:47:40.008491+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Facial‑Recognition Parcel Lockers",
@@ -8514,7 +8514,7 @@
     "verify_note": "Korean apartment facial recognition parcel lockers",
     "country": "Facial‑Recognition Parcel Lockers",
     "created_at": "2026-11-01T09:47:40.008491+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Convenience Store Hot Plate",
@@ -8528,7 +8528,7 @@
     "verify_note": "Korean convenience store hot plate tteokbokki GS25 CU 24 hour",
     "country": "Convenience Store Hot Plate",
     "created_at": "2026-11-01T09:47:45.573907+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Weather‑Smart Bike Sharing",
@@ -8542,6 +8542,6 @@
     "verify_note": "Seoul Ddareungi bike redistribution weather AI electric vans",
     "country": "Weather‑Smart Bike Sharing",
     "created_at": "2026-11-01T09:47:45.573907+00:00",
-    "status": "unverified"
+    "status": "verified"
   }
 ]
