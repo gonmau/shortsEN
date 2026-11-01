@@ -6960,44 +6960,34 @@
     "label": "App‑Controlled Floor Heating",
     "topic": "Many new Korean apartments let residents pre‑heat the ondol floor with a smartphone app",
     "hook": "Ever turned on your floor heating while still on the subway?",
-    "body": "In several high‑rise apartments built after 2015, the under‑floor heating (ondol) is linked to a building‑wide IoT system. Residents can open an app, set the temperature, and schedule the heating to start before they arrive home. The system often shows real‑time energy use, encouraging people to warm the rooms only when needed. This convenience grew from the dense commuter lifestyle, where coming home to a cold floor is common.",
-    "twist": "Some complexes even let you sync the heating schedule with the city’s public‑transport arrival data, so the floor warms automatically when your train is a few minutes away.",
+    "body": "In some newer high‑rise apartments in Seoul and Busan, the ondol system can be linked to a building‑wide IoT network. You can open a smartphone app, set a target temperature, and schedule the heating to start before you get home. The app may show estimated energy use and let you select which rooms to heat. This convenience aligns with Korea’s dense commuter lifestyle, where many people return home after long trips. A few complexes are testing the idea of syncing heating schedules with public‑transport arrival times, turning the floor on shortly before a train is expected. The feature tends to appear more often in newer apartments in major cities, while many older buildings and suburban units still rely on manual thermostats.",
+    "twist": "Imagine stepping onto warm tiles the moment you exit the subway—no more chilly welcomes.",
     "caveat": "The feature is mainly available in newer apartments in major cities like Seoul and Busan; older buildings and many suburban units still use manual thermostats.",
     "confidence": "high",
     "verify_note": "Korean smart home ondol app, apartment IoT heating, Seoul smart apartments 2020",
     "country": "App‑Controlled Floor Heating",
     "created_at": "2026-10-24T03:54:23.989156+00:00",
     "status": "video_done",
-    "narration": "Ever turned on your floor heating while still on the subway? In many high‑rise apartments built after 2015 in Seoul and Busan, the traditional ondol system is now part of a building‑wide IoT network. You open a smartphone app, set the desired temperature, and schedule the heat to start before you walk through the door. The app often shows real‑time energy use, so you can warm only the rooms you need. This convenience grew from Korea’s dense commuter lifestyle, where coming home to a cold floor is common. Some complexes even sync the heating schedule with public‑transport arrival data, automatically turning the floor on a few minutes before your train pulls into the station. The feature is mostly limited to newer apartments in major cities; older buildings and many suburban units still rely on manual thermostats. Imagine stepping onto warm tiles the moment you exit the subway—no more chilly welcomes.",
+    "narration": "Ever turned on your floor heating while still on the subway? In some newer high‑rise apartments in Seoul and Busan, the ondol system can be linked to a building‑wide IoT network. You can open a smartphone app, set a target temperature, and schedule the heating to start before you get home. The app may show estimated energy use and let you select which rooms to heat. This convenience aligns with Korea’s dense commuter lifestyle, where many people return home after long trips. A few complexes are testing the idea of syncing heating schedules with public‑transport arrival times, turning the floor on shortly before a train is expected. The feature tends to appear more often in newer apartments in major cities, while many older buildings and suburban units still rely on manual thermostats. Imagine stepping onto warm tiles the moment you exit the subway—no more chilly welcomes.",
     "title_line1": "Heat ondol via subway",
     "title_line2": "Arrive to toasty tiles",
     "highlights": [
       {
         "s": 1,
-        "text": "Heat on *subway*"
+        "text": "*Turn* on heat on subway"
       },
       {
         "s": 3,
-        "text": "Pre‑heat before *door*"
+        "text": "App *sets* temp"
       },
       {
         "s": 6,
-        "text": "Heat syncs with *train*"
+        "text": "Auto *train* sync"
       },
       {
         "s": 8,
-        "text": "Warm tiles at *exit*"
+        "text": "Step on *warm* tiles"
       }
-    ],
-    "image_queries": [
-      "subway platform heating",
-      "Seoul high-rise apartment interior",
-      "smartphone app preheat floor",
-      "Korean heating app energy display",
-      "cold floor apartment hallway",
-      "train arrival heating sync",
-      "old Korean apartment thermostat",
-      "warm floor tiles subway exit"
     ],
     "scene_count": 14,
     "image_queries_done": [
@@ -7094,15 +7084,14 @@
     "ko_narration": "아직도 지하철에 타고 있을 때 바닥 난방을 켜본 적 있나요? 서울과 부산의 최신 고층 아파트 중 일부는 온돌 시스템을 건물 전체 IoT 네트워크와 연동할 수 있습니다. 스마트폰 앱을 열어 목표 온도를 설정하고, 집에 도착하기 전에 난방이 시작되도록 예약할 수 있습니다. 앱에서는 예상 에너지 사용량을 표시하고 어느 방을 난방할지 선택할 수 있게 합니다. 이러한 편리함은 장거리 통근 후 집으로 돌아오는 사람들이 많은 한국의 밀집 통근 생활 방식과 맞아떨어집니다. 몇몇 단지는 대중교통 도착 시간과 난방 스케줄을 맞추는 실험을 진행 중이며, 열차가 도착하기 직전에 바닥을 켜는 방식입니다. 이 기능은 주로 대도시의 최신 아파트에서 더 많이 나타나고, 오래된 건물이나 교외 주택은 여전히 수동 온도 조절기에 의존하고 있습니다. 지하철에서 내려 바로 따뜻한 타일 위를 밟는 모습을 상상해 보세요—더 이상 차가운 환영은 없습니다.",
     "ko_issues": null,
     "ko_src": "7837416eec69",
-    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0102_App‐Controlled Floor Heating_v2.mp3",
-    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0102_App‐Controlled Floor Heating_v2_timing.json",
-    "tts_voice_v2": "en-US-AndrewNeural",
-    "status_tts_v2": "done",
     "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0102_App‐Controlled Floor Heating.srt",
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0102_App‐Controlled Floor Heating.mp4",
     "status_v6": "video_done",
     "youtube_id": "u8CUSWews-A",
-    "uploaded_at": "2026-11-01T00:53:14.916403+09:00"
+    "uploaded_at": "2026-11-01T00:53:14.916403+09:00",
+    "fact_verifiability": "user",
+    "fact_risk": "user-reviewed",
+    "fact_applied": true
   },
   {
     "label": "Phone‑Free Bathhouse Rooms",
@@ -7422,7 +7411,7 @@
     "verify_note": "Korean public restroom bidet sound masking, Korean toilet music privacy, Seoul subway restroom bidet features",
     "country": "Toilet Sound Mask",
     "created_at": "2026-10-24T03:54:55.411107+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Did you know many Korean toilets can play a short flushing sound to cover up bathroom noises? When you walk into a Seoul subway station restroom, you’ll see a small button on the bidet control panel. Press it and a flushing sound starts while the toilet flushes, masking any noise and protecting privacy. This feature is built into many modern public toilets across the city, reflecting Korea’s focus on comfort in shared spaces. The tune stops automatically after a few seconds, so you can finish without embarrassment. Some models let users pick a simple tone by tapping a selector, while many provide only a single preset sound. Older or rural restrooms often lack this, but newer facilities in cities have it.",
     "cross_checked": true,
     "cross_sources": 0,
@@ -7472,7 +7461,88 @@
       "Bidet tune selector",
       "Rural Korean restroom"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 서울 지하철 화장실 멜로디 마스크 사운드",
+    "ko_description": "🎯 많은 한국 화장실이 화장실 소리를 가리기 위해 노래를 재생할 수 있다는 사실, 알고 계셨나요?\n\n여행자가 서울 지하철역 화장실에 들어서면 비데 조절 패널에 작은 버튼이 있는 것을 볼 수 있습니다. 그 버튼을 누르면 화장실이 물을 내리는 동안 짧은 멜로디가 재생되어 소리를 가리고 프라이버시를 보호합니다. 이 기능은 도시 곳곳의 현대적인 공공 화장실에 널리 설치돼 있어, 공유 공간에서 개인의 편안함과 사생활을 중시하는 한국의 문화를 반영합니다. 멜로디는 몇 초 뒤 자동으로 멈춰 사용자는 부끄러움 없이 용변을 마칠 수 있습니다.\n\n💡 일부 모델은 패널의 선택기를 눌러 클래식 곡이나 자연의 새소리 등 다양한 사운드 중 하나를 선택할 수 있습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#ToiletSoundMask #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "많은 한국 화장실이 짧은 물 내리는 소리를 재생해 화장실 소음을 가린다는 사실, 알고 계셨나요? 서울 지하철역 화장실에 들어가면 비데 조절 패널에 작은 버튼이 보입니다. 그 버튼을 누르면 화장실이 물을 내리는 동안 물 내리는 소리가 시작돼 소리를 가리고 프라이버시를 보호합니다. 이 기능은 도시 곳곳의 현대적인 공공 화장실에 설치돼 있어, 공유 공간에서 편안함을 중시하는 한국의 특징을 보여줍니다. 멜로디는 몇 초 뒤 자동으로 멈추어 부끄러움 없이 마무리할 수 있습니다. 일부 모델은 선택기를 눌러 간단한 톤을 고를 수 있으며, 많은 화장실은 하나의 사전 설정된 소리만 제공합니다. 오래된 혹은 농촌 화장실은 보통 이 기능이 없지만, 도심의 최신 시설에는 갖추어져 있습니다.",
+    "ko_issues": [],
+    "ko_src": "5760ead8fb8a",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0105_Toilet Sound Mask_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0105_Toilet Sound Mask_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Korean toilet speaker",
+      "Seoul subway restroom button",
+      "Bidet melody masking",
+      "Modern Korean public restroom",
+      "Toilet privacy music",
+      "Bidet tune selector",
+      "Rural Korean restroom"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "commons",
+        "user": "골뱅이",
+        "license": "CC BY-SA 3.0",
+        "title": "Restroom (화장실) - panoramio.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Restroom_(%ED%99%94%EC%9E%A5%EC%8B%A4)_-_panoramio.jpg",
+        "id": "c:56816518"
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "스마트랜스",
+        "page": "https://pixabay.com/photos/train-subway-railway-transport-5969381/",
+        "id": 5969381
+      },
+      {
+        "scene": 3,
+        "source": "commons",
+        "user": "Abc46224",
+        "license": "CC0",
+        "title": "20200724 163934 restroom.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:20200724_163934_restroom.jpg",
+        "id": "c:105607761"
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "jeanvdmeulen",
+        "page": "https://pixabay.com/photos/modern-minimalist-bathroom-interior-3150293/",
+        "id": 3150293
+      },
+      {
+        "scene": 5,
+        "source": "commons",
+        "user": "Gayest Frogs",
+        "license": "Public domain",
+        "title": "20240720 121607 graffiti.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:20240720_121607_graffiti.jpg",
+        "id": "c:166419928"
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "sferrario1968",
+        "page": "https://pixabay.com/photos/toilet-bidet-vater-sanitary-1284608/",
+        "id": 1284608
+      },
+      {
+        "scene": 7,
+        "source": "pixabay",
+        "user": "viarami",
+        "page": "https://pixabay.com/photos/business-bar-restaurant-shield-5475283/",
+        "id": 5475283
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0105_Toilet Sound Mask.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0105_Toilet Sound Mask.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "OlGjxiBloZM",
+    "uploaded_at": "2026-11-02T08:06:03.667609+09:00"
   },
   {
     "label": "School Food Waste Turned Feed",
@@ -7485,7 +7555,7 @@
     "verify_note": "Korean school food waste recycling animal feed, Seoul school food waste program, Korea food waste to feed",
     "country": "School Food Waste Turned Feed",
     "created_at": "2026-10-25T09:51:52.572943+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Some Korean schools turn lunch leftovers into animal feed, often within a short time after meals. In many Seoul elementary schools, separate bins collect food scraps right after lunch. A municipal service picks up the waste each afternoon and turns it into high‑protein animal feed for nearby farms. In several cafeterias, digital boards display weekly totals of recycled food waste, helping raise awareness of the effort. A few schools receive modest funding for the amount they recycle, which can support programs that encourage students to finish their meals. This system is common in public schools across Seoul and other big cities, though not every Korean school uses it.",
     "cross_checked": true,
     "cross_sources": 0,
@@ -7540,7 +7610,76 @@
       "school waste grant",
       "Seoul elementary school cafeteria"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국 학교 폐기물, 그날 바로 농장 사료로 활용",
+    "ko_description": "🎯 한국 아이들의 점심 남은 음식이 같은 날 농장 사료가 된다는 사실, 알고 계셨나요?\n\n서울의 많은 초등학교에는 음식물 쓰레기를 위한 별도 쓰레기통이 있습니다. 이 쓰레기는 매일 오후 시청에서 수거해 인근 농장용 고단백 사료로 가공합니다. 구내식당의 디지털 게시판에는 그 주에 사료로 전환된 총 킬로그램 수가 표시돼, 폐기물을 자부심의 대상으로 만들고 있습니다.\n\n💡 일부 학교는 재활용된 킬로그램당 소액의 지원금을 받아, 학생들이 식사를 마치도록 유도하고 있습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절 그리고 놀라운 사실들.\n\n#SchoolFoodWasteTurnedFeed #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "일부 한국 학교에서는 점심 남은 음식을 식사 후 곧바로 동물 사료로 전환합니다. 서울의 많은 초등학교에서는 점심이 끝난 직후 음식물 쓰레기를 모아두는 별도 쓰레기통이 있습니다. 시청에서 운영하는 서비스가 매일 오후 이 폐기물을 수거해 인근 농장용 고단백 동물 사료로 가공합니다. 여러 구내식당에서는 디지털 게시판에 재활용된 음식물 쓰레기의 주간 총량을 표시해 인식을 높이고 있습니다. 몇몇 학교는 재활용량에 따라 소액의 지원금을 받아, 학생들이 식사를 마치도록 독려하는 프로그램에 활용하고 있습니다. 이 시스템은 서울 및 다른 대도시의 공립학교에서 일반적이지만, 모든 한국 학교에서 시행되는 것은 아닙니다.",
+    "ko_issues": [],
+    "ko_src": "7d0babc8040e",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0106_School Food Waste Turned Feed_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0106_School Food Waste Turned Feed_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "leftover food feed",
+      "school food scrap bins",
+      "high protein animal feed",
+      "school recycling scoreboard",
+      "school waste grant",
+      "Seoul elementary school cafeteria"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "balouriarajesh",
+        "page": "https://pixabay.com/photos/pigeons-feeding-dove-bird-animal-7844415/",
+        "id": 7844415
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "lagosfoodbank",
+        "page": "https://pixabay.com/photos/poverty-food-children-africa-6749769/",
+        "id": 6749769
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "Alexas_Fotos",
+        "page": "https://pixabay.com/photos/sparrow-bird-nature-wildlife-9587532/",
+        "id": 9587532
+      },
+      {
+        "scene": 4,
+        "source": "commons",
+        "user": "Royal Mayhem",
+        "license": "CC BY-SA 4.0",
+        "title": "Korean missionaries donating food to village children.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Korean_missionaries_donating_food_to_village_children.jpg",
+        "id": "c:87179853"
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "moritz320",
+        "page": "https://pixabay.com/photos/garbage-the-prevention-of-waste-2478742/",
+        "id": 2478742
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "coyot",
+        "page": "https://pixabay.com/photos/class-classroom-room-school-empty-1986501/",
+        "id": 1986501
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0106_School Food Waste Turned Feed.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0106_School Food Waste Turned Feed.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "HSA-9MXk6DE",
+    "uploaded_at": "2026-11-02T08:06:05.335076+09:00"
   },
   {
     "label": "Rooftop Delivery Shortcuts",
@@ -7553,7 +7692,7 @@
     "verify_note": "Korean delivery rooftop shortcuts, delivery riders roof walkways Seoul, apartment complex delivery path Korea",
     "country": "Rooftop Delivery Shortcuts",
     "created_at": "2026-10-25T09:52:01.847518+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Ever wondered how Korean food arrives faster than the traffic outside? In Seoul’s high‑rise apartments, many delivery riders skip the jam by climbing a few stairs to the rooftop. In some cases they move along walkways or sky‑bridges that connect buildings, and then descend to a delivery locker or a door. The route can sometimes shave a few minutes off the trip, especially during rush hour in dense neighborhoods. If a building has no chute, a rider may use a small folding ladder to access a balcony, though practices vary. The trick works mainly in newer complexes with connected rooftops; older towers often don’t have these paths.",
     "cross_checked": true,
     "cross_sources": 0,
@@ -7599,7 +7738,74 @@
       "foldable ladder delivery",
       "new Seoul rooftop complex"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 옥상 음식 해킹, 교통 체증을 피하는 방법",
+    "ko_description": "🎯 한국 음식이 밖의 교통 체증보다 더 빨리 도착하는 이유가 궁금했나요?\n\n많은 고층 아파트 단지에서 배달 라이더들은 건물의 옥상 보도와 스카이브리지를 이용해 거리 혼잡을 우회합니다. 몇 계단을 올라 옥상에 도착한 뒤, 공유 복도를 가로질러 바로 배달함이나 문으로 내려갑니다. 이 지름길은 특히 러시아워에 몇 분을 절약할 수 있습니다. 강남, 홍대와 같은 인구 밀집 지역에서 흔히 볼 수 있는 풍경입니다.\n\n💡 일부 라이더는 건물에 전용 배달 통로가 없을 경우를 대비해 작은 접이식 사다리를 휴대해 발코니까지 올라갑니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상 생활, 음식, 예절, 그리고 놀라운 사실들.\n\n#RooftopDeliveryShortcuts #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "한국 음식이 밖의 교통 체증보다 더 빨리 도착하는 이유가 궁금했나요? 서울의 고층 아파트에서 많은 배달 라이더들은 몇 계단을 올라 옥상으로 이동해 교통 체증을 피합니다. 경우에 따라 건물들을 연결하는 보도나 스카이브리지를 따라 이동한 뒤, 배달함이나 문으로 내려갑니다. 이 경로는 특히 인구 밀집 지역의 러시아워에 몇 분 정도 시간을 단축시킬 수 있습니다. 건물에 배달 통로가 없을 경우, 라이더는 작은 접이식 사다리를 사용해 발코니에 접근하기도 하는데, 이는 상황에 따라 다릅니다. 이 트릭은 연결된 옥상이 있는 최신 단지에서 주로 활용되며, 오래된 아파트는 이런 경로가 없을 경우가 많습니다.",
+    "ko_issues": [],
+    "ko_src": "96095f4a6300",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0107_Rooftop Delivery Shortcuts_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0107_Rooftop Delivery Shortcuts_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "food delivery rooftop",
+      "delivery rider skipping jam",
+      "rider on sky bridge",
+      "Seoul apartment rooftop walkway",
+      "foldable ladder delivery",
+      "new Seoul rooftop complex"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "Sunriseforever",
+        "page": "https://pixabay.com/photos/fast-food-delivery-online-service-6974507/",
+        "id": 6974507
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "江远泽泽泽",
+        "page": "https://pixabay.com/photos/delivery-rider-motorcycle-takeaway-5451838/",
+        "id": 5451838
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "GLady",
+        "page": "https://pixabay.com/photos/bridge-manhattan-brooklyn-new-york-370542/",
+        "id": 370542
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "Alef_photograph",
+        "page": "https://pixabay.com/photos/city-building-architecture-urban-7358078/",
+        "id": 7358078
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "Matthias_Groeneveld",
+        "page": "https://pixabay.com/photos/firemen-smoke-ladder-equipment-5242315/",
+        "id": 5242315
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "rmsep4",
+        "page": "https://pixabay.com/photos/building-complex-city-korea-seoul-7638767/",
+        "id": 7638767
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0107_Rooftop Delivery Shortcuts.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0107_Rooftop Delivery Shortcuts.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "VNr8v8xQF5I",
+    "uploaded_at": "2026-11-02T08:06:07.366621+09:00"
   },
   {
     "label": "QR Code Parking",
@@ -8317,7 +8523,37 @@
     "verify_note": "Seoul subway eating ban fine amount 100,000 KRW, subway conductors issue tickets, food prohibition signs",
     "country": "Subway Snack Fine",
     "created_at": "2026-10-31T15:32:04.892429+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "In Seoul, you can be fined for munching a banana on the subway. When a passenger pulls out a snack on a crowded train, a conductor may hand out a ticket that can cost up to 100,000 KRW. The rule aims to keep cars clean and odor‑free for commuters who ride for hours each day. Signs at every station warn riders, and many staff carry handheld devices to record violations instantly. But here's the catch: some newer lines use automated cameras that detect food items and issue fines without a conductor present. Enforcement varies across the network, and many riders never get caught, but a casual bite can feel like a traffic ticket.",
+    "title_line1": "Subway snack fine",
+    "title_line2": "Banana bite = fine",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Banana *fine*"
+      },
+      {
+        "s": 2,
+        "text": "Snack *ticket* 100k"
+      },
+      {
+        "s": 5,
+        "text": "Cameras *spot* snacks"
+      },
+      {
+        "s": 6,
+        "text": "Bite = *ticket*"
+      }
+    ],
+    "image_queries": [
+      "banana on subway",
+      "snack ticket subway",
+      "clean subway interior",
+      "subway staff handheld device",
+      "subway camera detecting snack",
+      "person biting snack subway"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Free Public Foot Baths",
@@ -8331,7 +8567,36 @@
     "verify_note": "Seoul foot bath parks winter heated foot bath solar panel",
     "country": "Free Public Foot Baths",
     "created_at": "2026-11-01T09:40:44.006828+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "Even when it’s freezing outside, you can soak your feet for free in Seoul’s parks. From November to February Seoul installs small heated foot‑bath stations in popular spots like Hangang River Park and Namsan. The water stays around 38 °C, is filtered, changed regularly, and the stations stay open 24 hours so anyone can step in while they walk or chat. But here’s a surprising twist: some of the foot‑bath stations draw power from solar panels on nearby lamp posts, making the service eco‑friendly. They’re seasonal, so not every park has one, but when they’re there the warm water turns a cold walk into a cozy community moment.",
+    "title_line1": "Free foot baths Seoul",
+    "title_line2": "Solar winter foot spa",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Free foot soak"
+      },
+      {
+        "s": 2,
+        "text": "Heated 38°C stations"
+      },
+      {
+        "s": 3,
+        "text": "24‑hour *warm* water"
+      },
+      {
+        "s": 4,
+        "text": "Solar‑powered *eco*"
+      }
+    ],
+    "image_queries": [
+      "free foot soak Seoul park",
+      "heated foot bath station",
+      "24-hour warm foot bath",
+      "solar powered foot bath",
+      "winter foot bath Seoul"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Ramen Vending Machines",
@@ -8345,7 +8610,33 @@
     "verify_note": "Seoul subway ramen vending machine instant noodles hot 3 minutes",
     "country": "Ramen Vending Machines",
     "created_at": "2026-11-01T09:40:44.006828+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "Craving hot ramen at 2 am? Seoul’s subway stations have vending machines that serve it in three minutes. At busy stops like Hongdae and Gangnam, a compact unit lets you pick a flavor, swipe a transit card or insert cash, and then it boils water, cooks the noodles, and drops a disposable bowl with toppings into your hands. The whole cycle takes about three minutes, and the machines are restocked every night for night‑shift workers and late‑night commuters. But here’s the catch: each bowl is sterilized with a built‑in UV light before it’s served, so hygiene stays high. These machines appear in many, though not all, stations, mainly in bustling commercial areas.",
+    "title_line1": "Seoul Ramen Vending",
+    "title_line2": "Hot noodles in 3 min",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Hot ramen at *2 am*?"
+      },
+      {
+        "s": 2,
+        "text": "3‑minute *ramen* vending"
+      },
+      {
+        "s": 5,
+        "text": "UV *sterilized* for hygiene"
+      }
+    ],
+    "image_queries": [
+      "hot ramen midnight",
+      "3 minute ramen vending",
+      "Seoul subway ramen vending machine",
+      "night restocking ramen machine",
+      "UV sterilized ramen bowl",
+      "busy subway station vending machine"
+    ],
+    "scene_count": 10
   },
   {
     "label": "KakaoTalk Lunch Orders",

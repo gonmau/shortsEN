@@ -11,121 +11,103 @@
 #   제외한 소재는 폐기(rejected)로 바뀌어 render에서 건너뛰고, 나중에 'redo_script=번호!'로 되살릴 수 있습니다.
 # - '('로 시작하는 줄은 참고용이라 무시됩니다. '=== [번호] ===' 줄은 바꾸지 마세요.
 
-=== [102] App‑Controlled Floor Heating ===
+=== [105] Toilet Sound Mask ===
 (교차검증) partial
-(교차검증 메모 1) [수정됨] [unsupported] 2번 문장: No verifiable evidence that many post‑2015 high‑rise apartments in Seoul/Busan have building‑wide IoT‑linked ondol.
-(교차검증 메모 2) [수정됨] [unsupported] 3번 문장: Specific claim about a smartphone app controlling floor heating lacks documented confirmation.
-(교차검증 메모 3) [수정됨] [unsupported] 4번 문장: No evidence that such apps commonly show real‑time energy use for room‑by‑room heating.
-(교차검증 메모 4) [수정됨] [unsupported] 5번 문장: Causal link between commuter lifestyle and convenience is unverified and speculative.
-(교차검증 메모 5) [수정됨] [unsupported] 6번 문장: No documented cases of heating schedules syncing with public‑transport arrival data.
-(교차검증 메모 6) [수정됨] [unsupported] 7번 문장: Generalization about feature availability versus older/manual systems is not substantiated.
-(교차검증 메모 7) [수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: no evidence of syncing with public‑transport schedules
-(직접 확인할 문장 6번) A few complexes are testing the idea of syncing heating schedules with public‑transport arrival times, turning the floor on shortly before a train is expected.
-(사실 확인용 검색어) Korean smart home ondol app, apartment IoT heating, Seoul smart apartments 2020
-(한글 제목) 한국: 지하철에서 온돌 가열, 따뜻한 타일에 도착
-후크: Ever turned on your floor heating while still on the subway?
-본문: In some newer high‑rise apartments in Seoul and Busan, the ondol system can be linked to a building‑wide IoT network. You can open a smartphone app, set a target temperature, and schedule the heating to start before you get home. The app may show estimated energy use and let you select which rooms to heat. This convenience aligns with Korea’s dense commuter lifestyle, where many people return home after long trips. A few complexes are testing the idea of syncing heating schedules with public‑transport arrival times, turning the floor on shortly before a train is expected. The feature tends to appear more often in newer apartments in major cities, while many older buildings and suburban units still rely on manual thermostats.
-반전: Imagine stepping onto warm tiles the moment you exit the subway—no more chilly welcomes.
+(교차검증 메모 1) [수정됨] [unsupported] 6번 문장: While some high‑end models may offer selectable sounds, there is no reliable evidence that public‑use models commonly let users choose classical tunes or nature chirps.
+(교차검증 메모 2) [수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: Limited evidence that models allow tone selection
+(직접 확인할 문장 6번) Some models let users pick a simple tone by tapping a selector, while many provide only a single preset sound.
+(사실 확인용 검색어) Korean public restroom bidet sound masking, Korean toilet music privacy, Seoul subway restroom bidet features
+(한글 제목) 한국: 서울 지하철 화장실 멜로디 마스크 사운드
+후크: Did you know many Korean toilets can play a song to cover up bathroom sounds?
+본문: When a traveler steps into a Seoul subway station restroom, they may notice a small button on the bidet control panel. Pressing it triggers a brief melody that plays while the toilet flushes, helping to mask any sounds and protect privacy. This feature is built into many modern public toilets across the city, reflecting Korea's emphasis on personal comfort and discretion in shared spaces. The sound usually stops automatically after a few seconds, letting users focus on their business without embarrassment.
+반전: Some models even let users choose between different sounds, such as a classical tune or a nature chirp, by tapping a selector on the panel.
 제외:
-제목1: Heat ondol via subway
-제목2: Arrive to toasty tiles
-핵심[1]: *Turn* on heat on subway
-핵심[3]: App *sets* temp
-핵심[6]: Auto *train* sync
-핵심[8]: Step on *warm* tiles
-이미지[1]: subway platform heating
-이미지[2]: Seoul high-rise apartment interior
-이미지[3]: smartphone app preheat floor
-이미지[4]: Korean heating app energy display
-이미지[5]: cold floor apartment hallway
-이미지[6]: train arrival heating sync
-이미지[7]: old Korean apartment thermostat
-이미지[8]: warm floor tiles subway exit
-대본[1]: Ever turned on your floor heating while still on the subway?
-대본[2]: In some newer high‑rise apartments in Seoul and Busan, the ondol system can be linked to a building‑wide IoT network.
-대본[3]: You can open a smartphone app, set a target temperature, and schedule the heating to start before you get home.
-대본[4]: The app may show estimated energy use and let you select which rooms to heat.
-대본[5]: This convenience aligns with Korea’s dense commuter lifestyle, where many people return home after long trips.
-대본[6]: A few complexes are testing the idea of syncing heating schedules with public‑transport arrival times, turning the floor on shortly before a train is expected.
-대본[7]: The feature tends to appear more often in newer apartments in major cities, while many older buildings and suburban units still rely on manual thermostats.
-대본[8]: Imagine stepping onto warm tiles the moment you exit the subway—no more chilly welcomes.
-(한글 대본) 아직도 지하철에 타고 있을 때 바닥 난방을 켜본 적 있나요? 서울과 부산의 최신 고층 아파트 중 일부는 온돌 시스템을 건물 전체 IoT 네트워크와 연동할 수 있습니다. 스마트폰 앱을 열어 목표 온도를 설정하고, 집에 도착하기 전에 난방이 시작되도록 예약할 수 있습니다. 앱에서는 예상 에너지 사용량을 표시하고 어느 방을 난방할지 선택할 수 있게 합니다. 이러한 편리함은 장거리 통근 후 집으로 돌아오는 사람들이 많은 한국의 밀집 통근 생활 방식과 맞아떨어집니다. 몇몇 단지는 대중교통 도착 시간과 난방 스케줄을 맞추는 실험을 진행 중이며, 열차가 도착하기 직전에 바닥을 켜는 방식입니다. 이 기능은 주로 대도시의 최신 아파트에서 더 많이 나타나고, 오래된 건물이나 교외 주택은 여전히 수동 온도 조절기에 의존하고 있습니다. 지하철에서 내려 바로 따뜻한 타일 위를 밟는 모습을 상상해 보세요—더 이상 차가운 환영은 없습니다.
+제목1: Seoul subway toilets
+제목2: Melody masks sounds
+핵심[1]: Toilets play a *song*
+핵심[2]: Press the *button*
+핵심[3]: Melody masks *noise*
+핵심[5]: *Embarrassment* gone
+핵심[6]: Choose *tune* options
+이미지[1]: Korean toilet speaker
+이미지[2]: Seoul subway restroom button
+이미지[3]: Bidet melody masking
+이미지[4]: Modern Korean public restroom
+이미지[5]: Toilet privacy music
+이미지[6]: Bidet tune selector
+이미지[7]: Rural Korean restroom
+대본[1]: Did you know many Korean toilets can play a short flushing sound to cover up bathroom noises?
+대본[2]: When you walk into a Seoul subway station restroom, you’ll see a small button on the bidet control panel.
+대본[3]: Press it and a flushing sound starts while the toilet flushes, masking any noise and protecting privacy.
+대본[4]: This feature is built into many modern public toilets across the city, reflecting Korea’s focus on comfort in shared spaces.
+대본[5]: The tune stops automatically after a few seconds, so you can finish without embarrassment.
+대본[6]: Some models let users pick a simple tone by tapping a selector, while many provide only a single preset sound.
+대본[7]: Older or rural restrooms often lack this, but newer facilities in cities have it.
+(한글 대본) 많은 한국 화장실이 짧은 물 내리는 소리를 재생해 화장실 소음을 가린다는 사실, 알고 계셨나요? 서울 지하철역 화장실에 들어가면 비데 조절 패널에 작은 버튼이 보입니다. 그 버튼을 누르면 화장실이 물을 내리는 동안 물 내리는 소리가 시작돼 소리를 가리고 프라이버시를 보호합니다. 이 기능은 도시 곳곳의 현대적인 공공 화장실에 설치돼 있어, 공유 공간에서 편안함을 중시하는 한국의 특징을 보여줍니다. 멜로디는 몇 초 뒤 자동으로 멈추어 부끄러움 없이 마무리할 수 있습니다. 일부 모델은 선택기를 눌러 간단한 톤을 고를 수 있으며, 많은 화장실은 하나의 사전 설정된 소리만 제공합니다. 오래된 혹은 농촌 화장실은 보통 이 기능이 없지만, 도심의 최신 시설에는 갖추어져 있습니다.
 
-=== [103] Phone‑Free Bathhouse Rooms ===
+=== [106] School Food Waste Turned Feed ===
 (교차검증) partial
-(교차검증 메모 1) [수정됨] [unsupported] 5번 문장: No reliable evidence that spas commonly add ambient sound machines.
-(교차검증 메모 2) [수정됨] [unsupported] 6번 문장: Claim about policy prevalence in big vs. small jjimjilbang lacks verifiable data.
-(교차검증 메모 3) [수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: no reliable evidence that ambient sound machines are commonly used
-(교차검증 메모 4) [수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: no reliable evidence on enforcement differences between large and small jjimjilbang
-(직접 확인할 문장 5번) But here's the catch: some spas might use ambient sound machines with nature noises, which can make the phone‑free area feel like a mini‑retreat.
-(직접 확인할 문장 6번) Keep in mind, many larger public jjimjilbang enforce the phone‑free rule, while some smaller neighborhood spas may allow you to keep your phone with you.
-(사실 확인용 검색어) jjimjilbang phone locker policy, Korean spa sleeping room rules, Dragon Hill spa phone free
-(한글 제목) 한국: 문 앞에 휴대폰 두기, 자연 소리로 힐링
-후크: What if you had to leave your phone at the door before a night at the spa?
-본문: Many large jjimjilbang, especially those operated by chains like Dragon Hill or Siloam, provide designated sleeping areas where guests are asked to store phones in lockers before entering. The rule is meant to preserve a restful atmosphere and prevent disturbances from ringing devices. Staff usually provide a small key or digital code, and the lockers are located just outside the sleeping rooms. Visitors often find the forced digital detox surprisingly refreshing after a day of constant connectivity.
-반전: Some facilities even install ambient sound machines that play nature sounds, making the phone‑free zones feel like a mini‑retreat inside the spa.
+(교차검증 메모 1) [수정됨] [unsupported] 4번 문장: Specific claim about a digital board displaying weekly kilograms lacks verifiable evidence
+(교차검증 메모 2) [수정됨] [unsupported] 5번 문장: No reliable source confirming schools receive a grant per kilogram recycled
+(교차검증 메모 3) [수정 시도 후에도 근거 없음 남음] [unsupported] 4번 문장: No reliable evidence of digital boards showing weekly totals.
+(교차검증 메모 4) [수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: Funding incentives for recycling amounts are not documented.
+(직접 확인할 문장 4번) In several cafeterias, digital boards display weekly totals of recycled food waste, helping raise awareness of the effort.
+(직접 확인할 문장 5번) A few schools receive modest funding for the amount they recycle, which can support programs that encourage students to finish their meals.
+(사실 확인용 검색어) Korean school food waste recycling animal feed, Seoul school food waste program, Korea food waste to feed
+(한글 제목) 한국 학교 폐기물, 그날 바로 농장 사료로 활용
+후크: Did you know Korean kids' lunch leftovers become farm feed the same day?
+본문: Many elementary schools in Seoul have separate bins for food scraps. The waste is collected each afternoon by a municipal service that processes it into high‑protein feed for nearby farms. A digital board in the cafeteria often displays the total kilograms turned into feed that week, turning waste into a point of pride.
+반전: Some schools even receive a small grant for every kilogram recycled, encouraging students to finish their meals.
 제외:
-제목1: Leave phone at door
-제목2: Nature sounds soothe
-핵심[1]: Leave phone at *door*
-핵심[2]: Locker line at *sleep*
-핵심[4]: Quiet zone stops *ring*
-핵심[5]: Nature sounds = *mini*
-핵심[7]: Detox feels *refresh*
-이미지[1]: phone at door
-이미지[2]: locker line outside sleeping room
-이미지[3]: small key in hand
-이미지[4]: quiet zone
-이미지[5]: nature sounds machine
-이미지[6]: public jjimjilbang policy
-이미지[7]: refreshing digital detox
-대본[1]: What if you had to leave your phone at the door before a night at the spa?
-대본[2]: In many large jjimjilbang—places like Dragon Hill or Siloam—you’ll find a locker line right outside the sleeping rooms.
-대본[3]: Staff hand you a tiny key or a digital code, and you store your device before stepping inside.
-대본[4]: The rule helps keep the room quiet and prevents phone rings from disturbing others.
-대본[5]: But here's the catch: some spas might use ambient sound machines with nature noises, which can make the phone‑free area feel like a mini‑retreat.
-대본[6]: Keep in mind, many larger public jjimjilbang enforce the phone‑free rule, while some smaller neighborhood spas may allow you to keep your phone with you.
-대본[7]: That forced digital detox can feel surprisingly refreshing after a day of nonstop connectivity.
-(한글 대본) 스파에서 밤을 보내기 전에 문 앞에 휴대폰을 두어야 한다면? 많은 대형 찜질방—드래곤힐이나 실로암 같은 곳—에서는 수면실 바로 밖에 사물함 라인이 있습니다. 직원이 작은 열쇠나 디지털 코드를 건네주고, 들어가기 전에 기기를 보관합니다. 이 규칙은 방을 조용하게 유지하고 전화벨이 다른 사람을 방해하는 것을 막아줍니다. 하지만 여기서 한 가지 주의할 점은, 일부 스파에서는 자연 소리를 내는 환경음 기기를 사용해 휴대폰 없는 구역을 작은 휴양지처럼 만들 수 있다는 것입니다. 많은 대형 공공 찜질방이 휴대폰 금지 규칙을 시행하는 반면, 일부 작은 동네 스파는 휴대폰을 가지고 들어갈 수 있도록 허용하기도 합니다. 강제로 이루어지는 디지털 디톡스는 하루 종일 끊임없는 연결 후에 놀라울 정도로 상쾌하게 느껴질 수 있습니다.
+제목1: Korean school waste
+제목2: Feeds farms that day
+핵심[1]: *Feed* from leftovers
+핵심[2]: Bins grab *scraps*
+핵심[3]: *Protein* feed
+핵심[4]: Weekly *kg* on board
+핵심[5]: *Grant* per kg
+이미지[1]: leftover food feed
+이미지[2]: school food scrap bins
+이미지[3]: high protein animal feed
+이미지[4]: school recycling scoreboard
+이미지[5]: school waste grant
+이미지[6]: Seoul elementary school cafeteria
+대본[1]: Some Korean schools turn lunch leftovers into animal feed, often within a short time after meals.
+대본[2]: In many Seoul elementary schools, separate bins collect food scraps right after lunch.
+대본[3]: A municipal service picks up the waste each afternoon and turns it into high‑protein animal feed for nearby farms.
+대본[4]: In several cafeterias, digital boards display weekly totals of recycled food waste, helping raise awareness of the effort.
+대본[5]: A few schools receive modest funding for the amount they recycle, which can support programs that encourage students to finish their meals.
+대본[6]: This system is common in public schools across Seoul and other big cities, though not every Korean school uses it.
+(한글 대본) 일부 한국 학교에서는 점심 남은 음식을 식사 후 곧바로 동물 사료로 전환합니다. 서울의 많은 초등학교에서는 점심이 끝난 직후 음식물 쓰레기를 모아두는 별도 쓰레기통이 있습니다. 시청에서 운영하는 서비스가 매일 오후 이 폐기물을 수거해 인근 농장용 고단백 동물 사료로 가공합니다. 여러 구내식당에서는 디지털 게시판에 재활용된 음식물 쓰레기의 주간 총량을 표시해 인식을 높이고 있습니다. 몇몇 학교는 재활용량에 따라 소액의 지원금을 받아, 학생들이 식사를 마치도록 독려하는 프로그램에 활용하고 있습니다. 이 시스템은 서울 및 다른 대도시의 공립학교에서 일반적이지만, 모든 한국 학교에서 시행되는 것은 아닙니다.
 
-=== [104] KakaoTalk Gifticon Culture ===
-(교차검증) unsupported
-(교차검증 메모 1) [수정됨] [unsupported] 4번 문장: No specific evidence that cafés report increased impulse buys from gifticons.
-(교차검증 메모 2) [수정됨] [unsupported] 7번 문장: No concrete data on rural older users preferring paper coupons.
-(교차검증 메모 3) [수정 시도 후에도 근거 없음 남음] [unsupported] 4번 문장: no verifiable evidence of impulse buy effect
-(교차검증 메모 4) [수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: generalization about usage, no evidence
-(교차검증 메모 5) [수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: no evidence of limited‑edition releases causing rush
-(교차검증 메모 6) [수정 시도 후에도 근거 없음 남음] [unsupported] 7번 문장: no evidence on rural preference
-(직접 확인할 문장 4번) Because the system links payment and loyalty, cafés sometimes see more impulse buys when a friend sends a gifticon.
-(직접 확인할 문장 5번) Many young people in cities sometimes use it to celebrate birthdays or thank coworkers.
-(직접 확인할 문장 6번) But here’s the catch: during big sales, brands sometimes release limited‑edition gifticons that are only available for a short time, creating a brief rush in the chat.
-(직접 확인할 문장 7번) In some rural areas, older users sometimes still prefer paper coupons.
-(사실 확인용 검색어) KakaoTalk gifticon usage, Korean digital coupons, KakaoPay gifticon 2022
-(한글 제목) 한국: 카카오톡 기프티콘 커피를 채팅으로?
-후크: Can you buy a coffee for a friend without ever leaving your chat?
-본문: KakaoTalk, the dominant messaging app, introduced ‘gifticons’—scannable digital coupons for coffee, meals, or cosmetics—that users can purchase and send directly in a chat. The recipient receives a QR code that can be shown on their phone and redeemed at the merchant’s counter within seconds. Because the process is integrated with payment and loyalty systems, many cafés and retailers report a surge in impulse purchases triggered by a friend’s message. The practice has become a common way to celebrate birthdays, thank coworkers, or simply treat a friend on the spot.
-반전: During major sales events, some brands release limited‑edition gifticons that are only available for a few hours, turning the chat into a fast‑paced flash sale arena.
+=== [107] Rooftop Delivery Shortcuts ===
+(교차검증) partial
+(교차검증 메모 1) [수정됨] [unsupported] 4번 문장: Specific time savings ('several minutes') lacks verifiable data.
+(교차검증 메모 2) [수정됨] [unsupported] 5번 문장: No reliable evidence that riders commonly carry folding ladders for this purpose.
+(교차검증 메모 3) [수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: Use of folding ladders to access balconies is not reliably documented.
+(직접 확인할 문장 5번) If a building has no chute, a rider may use a small folding ladder to access a balcony, though practices vary.
+(사실 확인용 검색어) Korean delivery rooftop shortcuts, delivery riders roof walkways Seoul, apartment complex delivery path Korea
+(한글 제목) 한국: 옥상 음식 해킹, 교통 체증을 피하는 방법
+후크: Ever wondered how Korean food arrives faster than the traffic outside?
+본문: In many high‑rise apartment complexes, delivery riders use the building’s roof walkways and sky‑bridges to bypass street congestion. They climb a few stairs to the rooftop, cross a shared corridor, and descend directly to the delivery locker or door. This shortcut can shave off several minutes, especially during rush hour. The practice is common in dense neighborhoods like Gangnam and Hongdae.
+반전: Some riders even carry a small folding ladder to reach the balcony when the building lacks a dedicated delivery chute.
 제외:
-제목1: KakaoTalk gifticons
-제목2: Coffee via chat?
-핵심[1]: Coffee *via* chat
-핵심[2]: *Gifticon* coffee
-핵심[3]: *Scan* QR in secs
-핵심[6]: *Flash* sale drops
-이미지[1]: South Korean coffee chat
-이미지[2]: gifticon coffee coupon
-이미지[3]: QR code on phone
-이미지[4]: South Korean cafe interior
-이미지[5]: South Korean birthday coffee
-이미지[6]: flash sale phone
-이미지[7]: rural market paper coupons
-이미지[8]: phone tapping coffee
-대본[1]: Can you buy a coffee for a friend without ever leaving your chat?
-대본[2]: In South Korea, KakaoTalk’s “gifticon” lets you buy a digital coupon for coffee, meals, or cosmetics right inside a message.
-대본[3]: The sender pays with KakaoPay, and the receiver gets a QR code that can be shown on their phone and scanned at the counter in seconds.
-대본[4]: Because the system links payment and loyalty, cafés sometimes see more impulse buys when a friend sends a gifticon.
-대본[5]: Many young people in cities sometimes use it to celebrate birthdays or thank coworkers.
-대본[6]: But here’s the catch: during big sales, brands sometimes release limited‑edition gifticons that are only available for a short time, creating a brief rush in the chat.
-대본[7]: In some rural areas, older users sometimes still prefer paper coupons.
-대본[8]: So next time you chat, a cup of coffee could be just a tap away.
-(한글 대본) 채팅을 떠나지 않고도 친구에게 커피를 사줄 수 있나요? 한국에서는 카카오톡의 “기프티콘”을 통해 커피, 식사, 화장품 등의 디지털 쿠폰을 메시지 안에서 바로 구매할 수 있습니다. 발신자는 카카오페이로 결제하고, 수신자는 휴대폰에 표시되는 QR 코드를 매장 카운터에서 몇 초 만에 스캔해 사용할 수 있습니다. 결제와 포인트 적립이 연동돼 있어 친구가 기프티콘을 보낼 때 카페에서 즉흥 구매가 늘어나는 경우가 있습니다. 도시의 많은 젊은이들은 생일을 축하하거나 동료에게 감사를 표할 때 이를 사용합니다. 하지만 여기엔 함정이 있습니다: 대규모 세일 시에는 브랜드가 짧은 시간만 제공되는 한정판 기프티콘을 출시해 채팅 안에서 급속한 구매 붐을 일으킵니다. 일부 농촌 지역에서는 여전히 종이 쿠폰을 선호하는 고령 사용자도 있습니다. 다음에 채팅을 할 때, 한 잔의 커피가 한 번의 탭으로 해결될 수 있습니다.
+제목1: Rooftop food hacks
+제목2: How they skip jams
+핵심[1]: Food arrives *faster*
+핵심[2]: Skip the *jam*
+핵심[3]: Ride the *sky‑bridge*
+핵심[5]: Foldable *ladder* hack
+이미지[1]: food delivery rooftop
+이미지[2]: delivery rider skipping jam
+이미지[3]: rider on sky bridge
+이미지[4]: Seoul apartment rooftop walkway
+이미지[5]: foldable ladder delivery
+이미지[6]: new Seoul rooftop complex
+대본[1]: Ever wondered how Korean food arrives faster than the traffic outside?
+대본[2]: In Seoul’s high‑rise apartments, many delivery riders skip the jam by climbing a few stairs to the rooftop.
+대본[3]: In some cases they move along walkways or sky‑bridges that connect buildings, and then descend to a delivery locker or a door.
+대본[4]: The route can sometimes shave a few minutes off the trip, especially during rush hour in dense neighborhoods.
+대본[5]: If a building has no chute, a rider may use a small folding ladder to access a balcony, though practices vary.
+대본[6]: The trick works mainly in newer complexes with connected rooftops; older towers often don’t have these paths.
+(한글 대본) 한국 음식이 밖의 교통 체증보다 더 빨리 도착하는 이유가 궁금했나요? 서울의 고층 아파트에서 많은 배달 라이더들은 몇 계단을 올라 옥상으로 이동해 교통 체증을 피합니다. 경우에 따라 건물들을 연결하는 보도나 스카이브리지를 따라 이동한 뒤, 배달함이나 문으로 내려갑니다. 이 경로는 특히 인구 밀집 지역의 러시아워에 몇 분 정도 시간을 단축시킬 수 있습니다. 건물에 배달 통로가 없을 경우, 라이더는 작은 접이식 사다리를 사용해 발코니에 접근하기도 하는데, 이는 상황에 따라 다릅니다. 이 트릭은 연결된 옥상이 있는 최신 단지에서 주로 활용되며, 오래된 아파트는 이런 경로가 없을 경우가 많습니다.
