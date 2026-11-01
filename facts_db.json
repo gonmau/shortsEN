@@ -6960,33 +6960,33 @@
     "label": "App‑Controlled Floor Heating",
     "topic": "Many new Korean apartments let residents pre‑heat the ondol floor with a smartphone app",
     "hook": "Ever turned on your floor heating while still on the subway?",
-    "body": "In some newer high‑rise apartments in Seoul and Busan, the ondol system can be linked to a building‑wide IoT network. You can open a smartphone app, set a target temperature, and schedule the heating to start before you get home. The app may show estimated energy use and let you select which rooms to heat. This convenience aligns with Korea’s dense commuter lifestyle, where many people return home after long trips. A few complexes are testing the idea of syncing heating schedules with public‑transport arrival times, turning the floor on shortly before a train is expected. The feature tends to appear more often in newer apartments in major cities, while many older buildings and suburban units still rely on manual thermostats.",
-    "twist": "Imagine stepping onto warm tiles the moment you exit the subway—no more chilly welcomes.",
+    "body": "In several high‑rise apartments built after 2015, the under‑floor heating (ondol) is linked to a building‑wide IoT system. Residents can open an app, set the temperature, and schedule the heating to start before they arrive home. The system often shows real‑time energy use, encouraging people to warm the rooms only when needed. This convenience grew from the dense commuter lifestyle, where coming home to a cold floor is common.",
+    "twist": "Some complexes even let you sync the heating schedule with the city’s public‑transport arrival data, so the floor warms automatically when your train is a few minutes away.",
     "caveat": "The feature is mainly available in newer apartments in major cities like Seoul and Busan; older buildings and many suburban units still use manual thermostats.",
     "confidence": "high",
     "verify_note": "Korean smart home ondol app, apartment IoT heating, Seoul smart apartments 2020",
     "country": "App‑Controlled Floor Heating",
     "created_at": "2026-10-24T03:54:23.989156+00:00",
     "status": "video_done",
-    "narration": "Ever turned on your floor heating while still on the subway? In some newer high‑rise apartments in Seoul and Busan, the ondol system can be linked to a building‑wide IoT network. You can open a smartphone app, set a target temperature, and schedule the heating to start before you get home. The app may show estimated energy use and let you select which rooms to heat. This convenience aligns with Korea’s dense commuter lifestyle, where many people return home after long trips. A few complexes are testing the idea of syncing heating schedules with public‑transport arrival times, turning the floor on shortly before a train is expected. The feature tends to appear more often in newer apartments in major cities, while many older buildings and suburban units still rely on manual thermostats. Imagine stepping onto warm tiles the moment you exit the subway—no more chilly welcomes.",
+    "narration": "Ever turned on your floor heating while still on the subway? In many high‑rise apartments built after 2015 in Seoul and Busan, the traditional ondol system is now part of a building‑wide IoT network. You open a smartphone app, set the desired temperature, and schedule the heat to start before you walk through the door. The app often shows real‑time energy use, so you can warm only the rooms you need. This convenience grew from Korea’s dense commuter lifestyle, where coming home to a cold floor is common. Some complexes even sync the heating schedule with public‑transport arrival data, automatically turning the floor on a few minutes before your train pulls into the station. The feature is mostly limited to newer apartments in major cities; older buildings and many suburban units still rely on manual thermostats. Imagine stepping onto warm tiles the moment you exit the subway—no more chilly welcomes.",
     "title_line1": "Heat ondol via subway",
     "title_line2": "Arrive to toasty tiles",
     "highlights": [
       {
         "s": 1,
-        "text": "*Turn* on heat on subway"
+        "text": "Heat on *subway*"
       },
       {
         "s": 3,
-        "text": "App *sets* temp"
+        "text": "Pre‑heat before *door*"
       },
       {
         "s": 6,
-        "text": "Auto *train* sync"
+        "text": "Heat syncs with *train*"
       },
       {
         "s": 8,
-        "text": "Step on *warm* tiles"
+        "text": "Warm tiles at *exit*"
       }
     ],
     "image_queries": [
@@ -7092,7 +7092,7 @@
     "ko_title": "한국: 지하철에서 온돌 가열, 따뜻한 타일에 도착",
     "ko_description": "🎯 아직도 지하철에 타고 있을 때 바닥 난방을 켜본 적 있나요?\n\n서울과 부산의 최신 고층 아파트 중 일부는 온돌 시스템을 건물 전체 IoT 네트워크와 연동할 수 있습니다. 스마트폰 앱을 열어 목표 온도를 설정하고, 집에 도착하기 전에 난방이 시작되도록 예약할 수 있습니다. 앱에서는 예상 에너지 사용량을 표시하고 어느 방을 난방할지 선택할 수 있게 합니다. 이러한 편리함은 장거리 통근 후 집으로 돌아오는 사람들이 많은 한국의 밀집 통근 생활 방식과 맞아떨어집니다. 몇몇 단지는 대중교통 도착 시간과 난방 스케줄을 맞추는 실험을 진행 중이며, 열차가 도착하기 직전에 바닥을 켜는 방식입니다. 이 기능은 주로 대도시의 최신 아파트에서 더 많이 나타나고, 오래된 건물이나 교외 주택은 여전히 수동 온도 조절기에 의존하고 있습니다.\n\n💡 지하철에서 내려 바로 따뜻한 타일 위를 밟는 모습을 상상해 보세요—더 이상 차가운 환영은 없습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\nPhotos: Pixabay (pixabay.com)\n\n#AppControlledFloorHeating #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
     "ko_narration": "아직도 지하철에 타고 있을 때 바닥 난방을 켜본 적 있나요? 서울과 부산의 최신 고층 아파트 중 일부는 온돌 시스템을 건물 전체 IoT 네트워크와 연동할 수 있습니다. 스마트폰 앱을 열어 목표 온도를 설정하고, 집에 도착하기 전에 난방이 시작되도록 예약할 수 있습니다. 앱에서는 예상 에너지 사용량을 표시하고 어느 방을 난방할지 선택할 수 있게 합니다. 이러한 편리함은 장거리 통근 후 집으로 돌아오는 사람들이 많은 한국의 밀집 통근 생활 방식과 맞아떨어집니다. 몇몇 단지는 대중교통 도착 시간과 난방 스케줄을 맞추는 실험을 진행 중이며, 열차가 도착하기 직전에 바닥을 켜는 방식입니다. 이 기능은 주로 대도시의 최신 아파트에서 더 많이 나타나고, 오래된 건물이나 교외 주택은 여전히 수동 온도 조절기에 의존하고 있습니다. 지하철에서 내려 바로 따뜻한 타일 위를 밟는 모습을 상상해 보세요—더 이상 차가운 환영은 없습니다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "7837416eec69",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0102_App‐Controlled Floor Heating_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0102_App‐Controlled Floor Heating_v2_timing.json",
@@ -7175,7 +7175,7 @@
     "ko_title": "한국: 문 앞에 휴대폰 두기, 자연 소리로 힐링",
     "ko_description": "🎯 스파에서 밤을 보내기 전에 문 앞에 휴대폰을 두어야 한다면?\n\n대부분의 대형 찜질방, 특히 드래곤힐이나 실로암 같은 체인점은 손님이 입장하기 전에 휴대폰을 사물함에 보관하도록 지정된 수면 구역을 제공합니다. 이 규칙은 편안한 분위기를 유지하고 울리는 기기로 인한 방해를 방지하기 위한 것입니다. 직원은 보통 작은 열쇠나 디지털 코드를 제공하며, 사물함은 수면실 바로 밖에 위치합니다. 방문객들은 끊임없는 연결 상태에서 하루를 보낸 뒤 강제로 디지털 디톡스를 하는 것이 놀라울 정도로 상쾌하다고 느끼는 경우가 많습니다.\n\n💡 일부 시설에서는 자연 소리를 재생하는 환경음 기기를 설치해, 휴대폰 없는 구역이 스파 안의 작은 휴양지처럼 느껴지게 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절 그리고 놀라운 사실들.\n\n#PhoneFreeBathhouseRooms #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
     "ko_narration": "스파에서 밤을 보내기 전에 문 앞에 휴대폰을 두어야 한다면? 많은 대형 찜질방—드래곤힐이나 실로암 같은 곳—에서는 수면실 바로 밖에 사물함 라인이 있습니다. 직원이 작은 열쇠나 디지털 코드를 건네주고, 들어가기 전에 기기를 보관합니다. 이 규칙은 방을 조용하게 유지하고 전화벨이 다른 사람을 방해하는 것을 막아줍니다. 하지만 여기서 한 가지 주의할 점은, 일부 스파에서는 자연 소리를 내는 환경음 기기를 사용해 휴대폰 없는 구역을 작은 휴양지처럼 만들 수 있다는 것입니다. 많은 대형 공공 찜질방이 휴대폰 금지 규칙을 시행하는 반면, 일부 작은 동네 스파는 휴대폰을 가지고 들어갈 수 있도록 허용하기도 합니다. 강제로 이루어지는 디지털 디톡스는 하루 종일 끊임없는 연결 후에 놀라울 정도로 상쾌하게 느껴질 수 있습니다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "15ecc384767b",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0103_Phone‐Free Bathhouse Rooms_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0103_Phone‐Free Bathhouse Rooms_v2_timing.json",
@@ -7330,7 +7330,7 @@
     "ko_title": "한국: 카카오톡 기프티콘 커피를 채팅으로?",
     "ko_description": "🎯 채팅을 떠나지 않고도 친구에게 커피를 사줄 수 있나요?\n\n카카오톡, 국내 메신저 시장을 장악한 앱은 ‘기프티콘’—커피, 식사, 화장품 등 디지털 쿠폰을 스캔해 사용할 수 있는—을 도입했습니다. 사용자는 채팅 안에서 바로 구매해 보낼 수 있습니다. 받는 사람은 휴대폰에 QR 코드를 받아 매장 카운터에서 몇 초 만에 제시하고 교환합니다. 결제와 포인트 적립 시스템이 연동돼 있어 많은 카페와 소매점이 친구의 메시지에 의해 즉흥 구매가 급증했다고 보고합니다. 이 방식은 생일 축하, 직장 동료에게 감사 표시, 혹은 순간적인 선물 등으로 일반화되었습니다.\n\n💡 대형 세일 기간에는 일부 브랜드가 몇 시간만 제공되는 한정판 기프티콘을 출시해 채팅을 빠른 플래시 세일 현장으로 만들기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#KakaoTalkGifticonCulture #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
     "ko_narration": "채팅을 떠나지 않고도 친구에게 커피를 사줄 수 있나요? 한국에서는 카카오톡의 “기프티콘”을 통해 커피, 식사, 화장품 등의 디지털 쿠폰을 메시지 안에서 바로 구매할 수 있습니다. 발신자는 카카오페이로 결제하고, 수신자는 휴대폰에 표시되는 QR 코드를 매장 카운터에서 몇 초 만에 스캔해 사용할 수 있습니다. 결제와 포인트 적립이 연동돼 있어 친구가 기프티콘을 보낼 때 카페에서 즉흥 구매가 늘어나는 경우가 있습니다. 도시의 많은 젊은이들은 생일을 축하하거나 동료에게 감사를 표할 때 이를 사용합니다. 하지만 여기엔 함정이 있습니다: 대규모 세일 시에는 브랜드가 짧은 시간만 제공되는 한정판 기프티콘을 출시해 채팅 안에서 급속한 구매 붐을 일으킵니다. 일부 농촌 지역에서는 여전히 종이 쿠폰을 선호하는 고령 사용자도 있습니다. 다음에 채팅을 할 때, 한 잔의 커피가 한 번의 탭으로 해결될 수 있습니다.",
-    "ko_issues": [],
+    "ko_issues": null,
     "ko_src": "e503e24ff10d",
     "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0104_KakaoTalk Gifticon Culture_v2.mp3",
     "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0104_KakaoTalk Gifticon Culture_v2_timing.json",
@@ -8317,6 +8317,118 @@
     "verify_note": "Seoul subway eating ban fine amount 100,000 KRW, subway conductors issue tickets, food prohibition signs",
     "country": "Subway Snack Fine",
     "created_at": "2026-10-31T15:32:04.892429+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Free Public Foot Baths",
+    "theme": "Daily Life",
+    "topic": "Free heated foot baths installed in many Seoul parks during winter",
+    "hook": "You can soak your feet for free in Seoul’s parks, even when it’s freezing outside.",
+    "body": "During the cold months, the Seoul Metropolitan Government places small heated foot‑bath stations in popular parks such as Hangang and Namsan. They are filled with warm water kept at around 38 °C and are open 24 hours, so anyone can step in and warm up while they walk or chat. The water is regularly filtered and changed, and no payment or ID is required. Locals treat them as informal gathering spots, especially after evening jogs.",
+    "twist": "Some of these foot‑bath stations are powered by solar panels on nearby lamp posts, making them eco‑friendly.",
+    "caveat": "Foot baths are installed in many, but not all, Seoul parks and are usually seasonal, operating mainly from November to February.",
+    "confidence": "high",
+    "verify_note": "Seoul foot bath parks winter heated foot bath solar panel",
+    "country": "Free Public Foot Baths",
+    "created_at": "2026-11-01T09:40:44.006828+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Ramen Vending Machines",
+    "theme": "Food & Dining",
+    "topic": "Instant ramen vending machines in Seoul subway stations that serve hot noodles in minutes",
+    "hook": "Craving hot ramen at 2 am? Seoul’s subway stations have vending machines that serve it in three minutes.",
+    "body": "At several major subway stations, such as Hongdae and Gangnam, you’ll find compact vending machines that dispense a bowl of freshly boiled ramen. After you select the flavor and insert cash or a transit card, the machine heats water to boiling, cooks the noodles, and hands you a disposable bowl with toppings. The whole process takes roughly three minutes, and the machines are restocked nightly. They are popular with night‑shift workers and late‑night commuters who need a quick, hot snack.",
+    "twist": "The machines use a built‑in UV light to sterilize the bowl before serving, ensuring hygiene.",
+    "caveat": "Ramen vending machines are present in many, but not all, subway stations and are more common in busy commercial areas.",
+    "confidence": "high",
+    "verify_note": "Seoul subway ramen vending machine instant noodles hot 3 minutes",
+    "country": "Ramen Vending Machines",
+    "created_at": "2026-11-01T09:40:44.006828+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "KakaoTalk Lunch Orders",
+    "theme": "School & Work",
+    "topic": "Korean offices use KakaoTalk group chats to order lunch and split the bill automatically",
+    "hook": "Korean office teams order lunch with a single group chat – no cash, no wait.",
+    "body": "In many Korean companies, employees create a KakaoTalk group chat titled ‘Lunch’ each day. One person posts a menu from a nearby restaurant, and colleagues tap a quick‑reply button to add their order; the app instantly tallies the total and generates a QR‑code payment that each person scans with their banking app. The food arrives at the office in a sealed box, and the delivery driver drops it off at the reception, where a staff member distributes the meals. This digital workflow eliminates the need for cash handling and speeds up the lunch break to under ten minutes.",
+    "twist": "Some offices have a ‘lunch roulette’ feature that randomly assigns a menu to keep the routine fresh.",
+    "caveat": "This practice is common in medium‑to‑large companies in Seoul and Busan, but smaller firms or traditional workplaces may still use cash orders.",
+    "confidence": "high",
+    "verify_note": "KakaoTalk office lunch ordering group chat split bill QR code Korean companies",
+    "country": "KakaoTalk Lunch Orders",
+    "created_at": "2026-11-01T09:40:44.006828+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Handphone Word",
+    "theme": "Language & Names",
+    "topic": "The Korean term “handphone” is widely used to refer to mobile phones",
+    "hook": "When Koreans say ‘handphone’, they’re not talking about a glove.",
+    "body": "In everyday Korean, the English loanword ‘handphone’ (핸드폰) is the standard term for a mobile phone, especially among younger speakers. The word entered Korean in the early 2000s when smartphones began to replace traditional landlines, and it appears on product packaging, advertisements, and in casual conversation. Even major Korean telecom providers list ‘handphone’ in their English‑language brochures alongside ‘smartphone’. The usage reflects Korea’s habit of adapting English words to fit local phonetics and technology trends.",
+    "twist": "The Korean Ministry of Science and ICT once ran a campaign encouraging the use of ‘handphone’ instead of the older term ‘mobile phone’ to unify terminology.",
+    "caveat": "While ‘handphone’ is common, older generations may still use ‘cell phone’ (휴대전화) and some formal contexts prefer ‘mobile phone’ in English.",
+    "confidence": "high",
+    "verify_note": "Korean handphone term 핸드폰 usage loanword smartphone Korean language",
+    "country": "Handphone Word",
+    "created_at": "2026-11-01T09:40:44.006828+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Charging Bus Stops",
+    "theme": "Daily Life",
+    "topic": "Free phone charging and Wi‑Fi at many city bus stops",
+    "hook": "You can charge your phone while waiting for a bus—at no cost.",
+    "body": "In Seoul and other large Korean cities, many bus shelters are equipped with solar‑powered USB ports and open Wi‑Fi. commuters simply plug in or scan a QR code to start charging, while a small screen shows real‑time bus arrival information. The city installed the stations to make public transport more convenient and keep riders connected, especially during rush hour. These amenities are most common on major routes and in busy districts.",
+    "twist": "Some of the same stations also display live bus arrival times on a solar‑powered screen.",
+    "caveat": "Not every bus stop has this setup; the feature is concentrated in Seoul, Busan and other metropolitan areas and may be temporarily disabled during severe winter weather.",
+    "confidence": "high",
+    "verify_note": "Seoul bus stop charging stations free Wi‑Fi solar USB, Korean public transport charging ports",
+    "country": "Charging Bus Stops",
+    "created_at": "2026-11-01T09:41:26.553818+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Consonant Texting",
+    "theme": "Language & Names",
+    "topic": "Korean net slang where messages are typed using only initial consonants",
+    "hook": "Ever seen a Korean message that looks like a string of letters and wondered what it means? It’s actually a shortcut.",
+    "body": "On messaging platforms such as KakaoTalk, many users type only the initial consonants of each syllable (e.g., “ㅎㅇ” for “하이”, meaning “hi”). Native speakers instantly fill in the missing vowels in their minds, allowing faster typing on small keyboards. The practice grew from early mobile phones where each key required multiple presses, and it remains popular among teens and office workers for casual chats. While widely understood informally, it is avoided in formal writing or official communications.",
+    "twist": "Some of these consonant‑only shortcuts, like “ㅎㅇ”, have become accepted as standalone words in everyday speech.",
+    "caveat": "This shorthand is informal and primarily used in private messaging; it is not appropriate for business emails, academic papers, or other formal contexts.",
+    "confidence": "high",
+    "verify_note": "Korean consonant only texting, KakaoTalk ㄱㄴㄷ slang",
+    "country": "Consonant Texting",
+    "created_at": "2026-11-01T09:41:26.553818+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Locker Charging Race",
+    "theme": "School & Work",
+    "topic": "Students line up for lockers with free phone‑charging sockets each morning",
+    "hook": "In many Korean high schools, the locker that still has a charging outlet is more prized than a front‑row seat.",
+    "body": "Most Korean high schools equip lockers with built‑in power outlets, so students can charge their phones while the school day runs. Because many students rely on their phones for study apps, messaging, and the school’s digital attendance system, a free outlet becomes a hot commodity. Every morning a small queue forms outside the few lockers that still have an unused socket, and classmates often trade locker numbers to secure a spot. The habit reflects the country’s high mobile‑device usage and the school’s effort to keep students connected without needing separate charging stations.",
+    "twist": "Some campuses even publish a monthly leaderboard that ranks classes by the total charging minutes logged in the lockers.",
+    "caveat": "This setup is common in newer urban schools with upgraded facilities; older or rural schools may not have charging lockers at all.",
+    "confidence": "high",
+    "verify_note": "Korean high school lockers charging ports, school facility upgrades Korea, Korean education articles about locker amenities",
+    "country": "Locker Charging Race",
+    "created_at": "2026-11-01T09:42:08.278484+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Even‑Numbered Seollal Money",
+    "theme": "Holidays & Traditions",
+    "topic": "Cash gifts during Korean New Year are traditionally given in even amounts",
+    "hook": "If you receive money on Seollal, the number on the envelope will always be even.",
+    "body": "During Seollal (Lunar New Year), younger relatives give elders a small cash gift called \"sebae\" in a decorative envelope. Korean custom treats odd numbers as unlucky because they are linked to funeral rites, so the amount is almost always an even number of won, typically in multiples of 10,000. The practice is meant to convey good fortune and a smooth start to the new year, and visitors quickly notice the pattern when opening the red packets. Even‑numbered gifts are a subtle way families reinforce auspiciousness without saying a word.",
+    "twist": "The most common figure is exactly 10,000 won, but many families double or triple that amount to keep the number both even and generous.",
+    "caveat": "While the even‑number rule is followed by many families during traditional Seollal celebrations, some modern households may give odd amounts or use digital transfers that bypass the envelope tradition.",
+    "confidence": "high",
+    "verify_note": "Seollal cash gift even numbers, Korean New Year sebae tradition, Korean customs even numbers, Korean holiday etiquette",
+    "country": "Even‑Numbered Seollal Money",
+    "created_at": "2026-11-01T09:42:08.278484+00:00",
     "status": "unverified"
   }
 ]
