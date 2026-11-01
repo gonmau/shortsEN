@@ -239,3 +239,4 @@
 {"id": "1793537764857-275331", "time": "2026-11-01 21:56:04", "channel": "EN", "source": "PC", "kind": "cleanup_media", "title": "cleanup_media.py --delete", "status": "success", "secs": 0.5, "detail": ""}
 {"id": "1793537855157-e53b36", "time": "2026-11-01 21:57:35", "channel": "EN", "source": "PC", "kind": "cleanup_media", "title": "cleanup_media.py", "status": "success", "secs": 0.2, "detail": ""}
 {"id": "1793555702033-093248", "time": "2026-11-02 02:55:02", "channel": "EN", "source": "Actions", "kind": "롱폼", "title": "korea-longform #5", "status": "success", "secs": null, "detail": "https://github.com/gonmau/shortsEN/actions/runs/41328920290"}
+{"id": "1793574379524-193434", "time": "2026-11-02 08:06:19", "channel": "EN", "source": "Actions", "kind": "쇼츠", "title": "korea-shorts-pipeline #39", "status": "success", "secs": null, "detail": "https://github.com/gonmau/shortsEN/actions/runs/41359421356"}
