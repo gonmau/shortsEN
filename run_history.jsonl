@@ -236,3 +236,4 @@
 {"id": "1793526465670-9aec94", "time": "2026-11-01 18:47:45", "channel": "EN", "source": "PC", "kind": "generate_topics", "title": "generate_topics.py --count 12", "status": "success", "secs": 151.7, "detail": ""}
 {"id": "1793537603602-a90f26", "time": "2026-11-01 21:53:23", "channel": "EN", "source": "PC", "kind": "코드업데이트", "title": "gonmau/shortsEN: 4개 (cleanup_media.py, common.py, local_ui.py, upload_to_youtube.py)", "status": "success", "secs": null, "detail": ""}
 {"id": "1793537689610-d1dfc5", "time": "2026-11-01 21:54:49", "channel": "EN", "source": "PC", "kind": "cleanup_media", "title": "cleanup_media.py", "status": "success", "secs": 0.4, "detail": ""}
+{"id": "1793537764857-275331", "time": "2026-11-01 21:56:04", "channel": "EN", "source": "PC", "kind": "cleanup_media", "title": "cleanup_media.py --delete", "status": "success", "secs": 0.5, "detail": ""}
