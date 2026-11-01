@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-11-01 21:52:36 (KST) · 기록 236건 · 소재 139개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-11-01 21:54:54 (KST) · 기록 238건 · 소재 139개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -13,6 +13,7 @@
 | approve | 5 | 0 | 0초 |
 | build_video | 2 | 0 | 14분 37초 |
 | check_uploads | 2 | 0 | 5초 |
+| cleanup_media | 1 | 0 | 0초 |
 | edit_points | 0 | 6 | 2분 21초 |
 | export_review | 6 | 0 | 0초 |
 | fetch_images | 11 | 0 | 6분 17초 |
@@ -27,7 +28,7 @@
 | upload_to_youtube | 1 | 0 | 9초 |
 | 롱폼 | 21 | 0 | 27분 42초 |
 | 쇼츠 | 35 | 3 | 4시간 14분 |
-| 코드업데이트 | 15 | 0 | 0초 |
+| 코드업데이트 | 16 | 0 | 0초 |
 
 ## 날짜별 작업 (최근 30일)
 
@@ -35,6 +36,8 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 21:54 | PC | cleanup_media | cleanup_media.py | ✅ | 0초 |  |
+| 21:53 | PC | 코드업데이트 | gonmau/shortsEN: 4개 (cleanup_media.py, common.py, local_ui.py, upload_to_youtube.py) | ✅ |  |  |
 | 18:47 | PC | generate_topics | generate_topics.py --count 12 | ✅ | 2분 31초 |  |
 | 18:42 | PC | generate_topics | generate_topics.py --count 12 | ✅ | 2분 48초 |  |
 | 18:31 | PC | 코드업데이트 | gonmau/shortsEN: 2개 (local_ui.py, upload_to_youtube.py) | ✅ |  |  |
