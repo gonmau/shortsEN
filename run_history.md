@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-11-01 21:56:08 (KST) · 기록 239건 · 소재 139개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-11-01 21:57:39 (KST) · 기록 240건 · 소재 139개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -13,7 +13,7 @@
 | approve | 5 | 0 | 0초 |
 | build_video | 2 | 0 | 14분 37초 |
 | check_uploads | 2 | 0 | 5초 |
-| cleanup_media | 2 | 0 | 0초 |
+| cleanup_media | 3 | 0 | 1초 |
 | edit_points | 0 | 6 | 2분 21초 |
 | export_review | 6 | 0 | 0초 |
 | fetch_images | 11 | 0 | 6분 17초 |
@@ -36,6 +36,7 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 21:57 | PC | cleanup_media | cleanup_media.py | ✅ | 0초 |  |
 | 21:56 | PC | cleanup_media | cleanup_media.py --delete | ✅ | 0초 |  |
 | 21:54 | PC | cleanup_media | cleanup_media.py | ✅ | 0초 |  |
 | 21:53 | PC | 코드업데이트 | gonmau/shortsEN: 4개 (cleanup_media.py, common.py, local_ui.py, upload_to_youtube.py) | ✅ |  |  |
