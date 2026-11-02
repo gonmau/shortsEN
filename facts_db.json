@@ -8319,7 +8319,7 @@
     "verify_note": "Korean building floor 4 omitted, floor labeling ‘F’, superstitions sa death, Korean elevators",
     "country": "Missing Fourth Floor",
     "created_at": "2026-10-25T09:53:41.129948+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration_original": "",
     "narration": "Have you ever pressed an elevator button in Korea and noticed that floor four is missing? In many Korean buildings, the elevator jumps from three to five. Sometimes, the fourth floor is labeled F instead. This happens because the Sino-Korean word for four is pronounced sa. The word for death is also pronounced sa. Because the two sound the same, many people see the number four as unlucky. This avoidance is called tetraphobia. It is especially common in hospitals, funeral halls, and some public buildings. In apartments or hotels, the floor still exists, but its label may change. A person living there still receives mail for the fourth floor. The practice is not required by law, and newer buildings sometimes use a normal four. Yet the old habit remains easy to spot. The fourth floor has not disappeared. It has simply learned to hide behind another name.",
     "fact_verifiability": "user",
@@ -8369,7 +8369,122 @@
       "Old Korean building floor signs",
       "Hidden floor name Korean elevator"
     ],
-    "scene_count": 12
+    "scene_count": 12,
+    "ko_title": "한국: 4층이 사라진 것 같아요? 죽음과 같은 소리",
+    "ko_description": "🎯 한국에서 엘리베이터 버튼을 눌렀을 때 4층이 사라진 것을 느껴본 적이 있나요?\n\n많은 한국 건물에서 엘리베이터는 3층에서 바로 5층으로 건너뛰며, 4층은 보통 ‘F’라고 표시됩니다. 이는 사(四)가 죽음(死)을 뜻하는 사(死)와 발음이 같기 때문입니다. 이 사수공포증은 특히 병원, 장례식당, 일부 공공 건물에서 흔하며, 새로 지어진 건물은 때때로 정상적인 ‘4’를 사용하기도 합니다.\n\n💡 4층은 사라진 것이 아니라 다른 표시 뒤에 숨은 것일 뿐입니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#MissingFourthFloor #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "한국에서 엘리베이터 버튼을 눌렀을 때 4층이 사라진 것을 느껴본 적이 있나요? 많은 한국 건물에서 엘리베이터는 3층에서 바로 5층으로 건너뛰며, 때로는 4층이 F로 표시됩니다. 이는 사(四)가 사(死)와 발음이 같기 때문입니다. 두 단어가 같은 소리를 내기 때문에 많은 사람들이 숫자 4를 불운하다고 생각합니다. 이 회피 현상을 사수공포증이라고 부릅니다. 특히 병원, 장례식당, 일부 공공 건물에서 흔합니다. 아파트나 호텔에서는 4층이 실제로 존재하지만, 라벨이 바뀔 수 있습니다. 그곳에 사는 사람은 여전히 4층으로 우편을 받습니다. 이 관행은 법적으로 요구되는 것이 아니며, 새 건물에서는 때때로 정상적인 4를 사용하기도 합니다. 하지만 오래된 습관은 여전히 쉽게 눈에 띕니다. 4층은 사라진 것이 아니라 다른 이름 뒤에 숨는 법을 배웠을 뿐입니다.",
+    "ko_issues": [],
+    "ko_src": "b17bc3610948",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0116_Missing Fourth Floor_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0116_Missing Fourth Floor_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Korean elevator button panel",
+      "Elevator floor numbers three five",
+      "Elevator button labeled F",
+      "Korean sign showing sa pronunciation",
+      "Korean death symbol illustration",
+      "Tetraphobia sign Korean building",
+      "Hospital elevator floor panel Korea",
+      "Apartment hallway floor label Korea",
+      "Mailbox with fourth floor number",
+      "Modern Korean building elevator",
+      "Old Korean building floor signs",
+      "Hidden floor name Korean elevator"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "VariousPhotography",
+        "page": "https://pixabay.com/photos/mercedes-benz-automobile-car-gt-2498264/",
+        "id": 2498264
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "AlLes",
+        "page": "https://pixabay.com/photos/hand-palm-fingers-one-two-three-4594071/",
+        "id": 4594071
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "epicioci",
+        "page": "https://pixabay.com/photos/elevator-button-building-push-lift-1207812/",
+        "id": 1207812
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "ShonEjai",
+        "page": "https://pixabay.com/photos/street-sign-texture-wall-paint-2759803/",
+        "id": 2759803
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "pixel2013",
+        "page": "https://pixabay.com/photos/skeleton-the-death-png-sculpture-3659537/",
+        "id": 3659537
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "viarami",
+        "page": "https://pixabay.com/photos/business-bar-restaurant-shield-5475283/",
+        "id": 5475283
+      },
+      {
+        "scene": 7,
+        "source": "pixabay",
+        "user": "BruceEmmerling",
+        "page": "https://pixabay.com/photos/johns-hopkins-hospital-subway-stop-4356207/",
+        "id": 4356207
+      },
+      {
+        "scene": 8,
+        "source": "pixabay",
+        "user": "PIRO4D",
+        "page": "https://pixabay.com/photos/hallway-corridor-entrance-2228277/",
+        "id": 2228277
+      },
+      {
+        "scene": 9,
+        "source": "pixabay",
+        "user": "TanteTati",
+        "page": "https://pixabay.com/photos/letter-box-number-twenty-white-959299/",
+        "id": 959299
+      },
+      {
+        "scene": 10,
+        "source": "pixabay",
+        "user": "3093594",
+        "page": "https://pixabay.com/photos/elevators-berlin-ludwig-erhard-haus-1598431/",
+        "id": 1598431
+      },
+      {
+        "scene": 11,
+        "source": "pixabay",
+        "user": "cocoparisienne",
+        "page": "https://pixabay.com/photos/arcades-colonnade-architecture-city-3428490/",
+        "id": 3428490
+      },
+      {
+        "scene": 12,
+        "source": "pixabay",
+        "user": "Siegella",
+        "page": "https://pixabay.com/photos/disc-fungus-mushroom-hidden-moss-7607387/",
+        "id": 7607387
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0116_Missing Fourth Floor.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0116_Missing Fourth Floor.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "ksv3xi6v2AE",
+    "uploaded_at": "2026-11-02T18:28:13.328699+09:00"
   },
   {
     "label": "Han River Lantern Release",
@@ -8395,7 +8510,7 @@
     "confidence": "high",
     "verify_note": "search 'Dangun legend', 'Gojoseon founding myth', 'Dangun Chinese historical records'",
     "country": "Dangun: Korea's Legendary Founder",
-    "status": "scripted",
+    "status": "video_done",
     "created_at": "2026-10-31T12:54:51.536161+00:00",
     "theme": "keyword",
     "seed_keyword": "단군할아버지",
@@ -8525,9 +8640,9 @@
       {
         "scene": 9,
         "source": "pixabay",
-        "user": "Nile",
-        "page": "https://pixabay.com/photos/paper-writing-old-antique-write-623167/",
-        "id": 623167
+        "user": "cocoparisienne",
+        "page": "https://pixabay.com/photos/s%C3%BCtterlin-handwriting-typography-1362879/",
+        "id": 1362879
       },
       {
         "scene": 10,
@@ -8551,7 +8666,21 @@
         "id": 8195026
       }
     ],
-    "image_source": "pixabay"
+    "image_source": "pixabay",
+    "ko_title": "다낭: 한국의 미신 동굴에서 태어난 곰 여인",
+    "ko_description": "🎯 한국의 전설적인 창시자는 동굴 안에서 삶을 시작했을까요?\n\n다낭 신화에서 천공의 왕자 환웅은 지상으로 내려와 곰과 호랑이에게 어두운 동굴에서 마늘과 쑥만 먹으며 사는 것을 명령합니다. 곰은 견디며 우녀(곰여인)가 되고, 나중에 다낭을 낳습니다. 다낭은 고조선을 건국한 인물로, 전통적으로 기원전 2333년에 창건된 것으로 기록되며, 이는 13세기 삼국유사에 담겨 있습니다.\n\n💡 이 이야기는 다낭이 역사인지 신화인지, 혹은 둘 다인지, 사람들이 기억을 어떻게 보존하느냐에 따라 달라진다고 묻습니다.\n\n🇰🇷 한국의 현실을 1분 만에: 일상, 음식, 예절, 놀라운 사실들.\n\n사진: Pixabay (pixabay.com)\nWikimedia Commons / Openverse 사진 (자르기/확대):\n- \"Fortress of the Bear woman posing next to bear figure.jpg\" by Rob Bixby, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) - https://commons.wikimedia.org/wiki/File:Fortress_of_the_Bear_woman_posing_next_to_bear_figure.jpg\n\n#DangunKoreaSLegendaryFounder #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "한국의 전설적인 창시자는 동굴 안에서 삶을 시작했을까요? 다낭 신화에서 환웅이라는 천공의 왕자가 지상으로 내려와 사람들을 돕습니다. 곰과 호랑이가 그에게 인간이 되도록 부탁합니다. 그는 그들에게 어두운 동굴에 머무르고 마늘과 쑥만 먹으라고 말합니다. 호랑이는 포기하지만 곰은 견디고 우녀(곰여인)가 됩니다. 나중에 그녀는 아이를 위해 기도하고 환웅이 그녀의 남편이 됩니다. 그들의 아들은 다낭입니다. 전설에 따르면 다낭은 고조선을 건국했으며, 이는 흔히 한국의 첫 왕국으로 불립니다. 전통적으로 기원전 2333년에 창건된 것으로 기록되지만, 역사학자들은 그 날짜를 전설적이라 보지 실제 증거가 없다고 봅니다. 이 이야기는 13세기 한국 텍스트인 삼국유사에서 가장 잘 알려져 있습니다. 하늘, 동물, 인간 세계를 하나의 강력한 기원 이야기로 융합합니다. 그래서 다낭은 역사인지 신화인지, 혹은 둘 다인지는? 아마도 그 대답은 한 민족이 기억을 어디에 보관하느냐에 달려 있을 것입니다.",
+    "ko_issues": [],
+    "ko_src": "60f88b64afec",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0118_Dangun_ Korea's Legendary Founder_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0118_Dangun_ Korea's Legendary Founder_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0118_Dangun_ Korea's Legendary Founder.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0118_Dangun_ Korea's Legendary Founder.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "V9oKPQp-7xs",
+    "uploaded_at": "2026-11-02T18:28:15.568936+09:00"
   },
   {
     "label": "Apartment Delivery Robots",
@@ -8565,7 +8694,7 @@
     "verify_note": "Korea apartment delivery robot service, robot lockers, LIDAR delivery robot Korea",
     "country": "Apartment Delivery Robots",
     "created_at": "2026-10-31T15:31:07.628558+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "In some Seoul towers, small robots can bring online orders to residents, often within a short time. Several newer high‑rise apartments include compact robot lockers in their lobbies. When a parcel arrives, the robot can travel down the hallway and place the package into a locker that is typically assigned to the resident’s unit. You get a QR code on your phone to unlock it, so no courier has to ring the bell. The system was developed as a response to growing e‑commerce demand and limited space for delivery vehicles. These robots are equipped with sensors, such as LIDAR, which can detect obstacles—including pets or children—in narrow hallways. Currently, the service operates in several high‑rise buildings in Seoul and in some other cities. Imagine a tiny delivery driver that never gets lost.",
     "cross_checked": true,
     "cross_sources": 0,
@@ -8632,7 +8761,90 @@
       "limited robot service Seoul",
       "tiny autonomous delivery robot"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 로봇 사물함 서울 소포 몇 분 안에",
+    "ko_description": "🎯 서울의 일부 타워에서 작은 로봇이 온라인 주문을 주민에게 가져다 주며, 보통 짧은 시간 안에 전달됩니다.\n\n새로운 고층 아파트 몇 곳은 로비에 콤팩트한 로봇 사물함을 포함하고 있습니다. 소포가 도착하면 로봇은 복도를 내려가서 일반적으로 주민의 유닛에 할당된 사물함에 패키지를 놓습니다. 휴대폰에 QR 코드를 받아 사물함을 열 수 있으므로 택배 기사에게 벨을 누를 필요가 없습니다. 이 시스템은 증가하는 전자상거래 수요와 배송 차량을 위한 제한된 공간에 대응하기 위해 개발되었습니다. 이 로봇은 LIDAR와 같은 센서를 장착하고 있어 좁은 복도에서 동물이나 어린이 등 장애물을 감지할 수 있습니다. 현재 이 서비스는 서울의 몇몇 고층 건물과 다른 도시에서도 운영되고 있습니다.\n\n💡 길을 잃지 않는 작은 배달 기사를 상상해 보세요.\n\n🇰🇷 한국을 1분 안에 실제로: 일상 생활, 음식, 예절 및 놀라운 사실들.\n\n#ApartmentDeliveryRobots #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "서울의 일부 타워에서 작은 로봇이 온라인 주문을 주민에게 가져다 주며, 보통 짧은 시간 안에 전달됩니다. 새로운 고층 아파트 몇 곳은 로비에 콤팩트한 로봇 사물함을 포함하고 있습니다. 소포가 도착하면 로봇은 복도를 내려가서 일반적으로 주민의 유닛에 할당된 사물함에 패키지를 놓습니다. 휴대폰에 QR 코드를 받아 사물함을 열 수 있으므로 택배 기사에게 벨을 누를 필요가 없습니다. 이 시스템은 증가하는 전자상거래 수요와 배송 차량을 위한 제한된 공간에 대응하기 위해 개발되었습니다. 이 로봇은 LIDAR와 같은 센서를 장착하고 있어 좁은 복도에서 동물이나 어린이 등 장애물을 감지할 수 있습니다. 현재 이 서비스는 서울의 몇몇 고층 건물과 다른 도시에서도 운영되고 있습니다. 길을 잃지 않는 작은 배달 기사를 상상해 보세요.",
+    "ko_issues": [],
+    "ko_src": "2c6c64651814",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0119_Apartment Delivery Robots_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0119_Apartment Delivery Robots_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "delivery robot Seoul tower",
+      "robot locker lobby highrise",
+      "robot rolls drops parcel",
+      "QR code locker unlock",
+      "parking shortage delivery vans",
+      "LIDAR robot avoids pets",
+      "limited robot service Seoul",
+      "tiny autonomous delivery robot"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "cskkkk",
+        "page": "https://pixabay.com/photos/night-view-dark-seoul-korea-7523474/",
+        "id": 7523474
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "12019",
+        "page": "https://pixabay.com/photos/lobby-hotel-interior-hallway-398845/",
+        "id": 398845
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "manfredrichter",
+        "page": "https://pixabay.com/photos/bread-buns-baked-food-3467243/",
+        "id": 3467243
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "wir_sind_klein",
+        "page": "https://pixabay.com/photos/qr-code-barcode-miniature-figures-3970681/",
+        "id": 3970681
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "Momentmal",
+        "page": "https://pixabay.com/photos/austin-morris-combi-delivery-trucks-2738824/",
+        "id": 2738824
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "51581",
+        "page": "https://pixabay.com/photos/robot-woman-face-cry-sad-3010309/",
+        "id": 3010309
+      },
+      {
+        "scene": 7,
+        "source": "pixabay",
+        "user": "manseok_Kim",
+        "page": "https://pixabay.com/photos/building-architecture-city-9761776/",
+        "id": 9761776
+      },
+      {
+        "scene": 8,
+        "source": "pixabay",
+        "user": "distelAPPArath",
+        "page": "https://pixabay.com/photos/robotic-lawnmower-robot-autonomous-3403793/",
+        "id": 3403793
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0119_Apartment Delivery Robots.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0119_Apartment Delivery Robots.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "HAhqAT9-Cms",
+    "uploaded_at": "2026-11-02T18:28:17.868414+09:00"
   },
   {
     "label": "Polite ‘-ssi’ Title",
@@ -9103,29 +9315,107 @@
     "label": "Locker Charging Race",
     "theme": "School & Work",
     "topic": "Students line up for lockers with free phone‑charging sockets each morning",
-    "hook": "In many Korean high schools, the locker that still has a charging outlet is more prized than a front‑row seat.",
-    "body": "Most Korean high schools equip lockers with built‑in power outlets, so students can charge their phones while the school day runs. Because many students rely on their phones for study apps, messaging, and the school’s digital attendance system, a free outlet becomes a hot commodity. Every morning a small queue forms outside the few lockers that still have an unused socket, and classmates often trade locker numbers to secure a spot. The habit reflects the country’s high mobile‑device usage and the school’s effort to keep students connected without needing separate charging stations.",
-    "twist": "Some campuses even publish a monthly leaderboard that ranks classes by the total charging minutes logged in the lockers.",
+    "hook": "In many Korean high schools, lockers with charging outlets are often found among students.",
+    "body": "Each morning, students sometimes gather near the few lockers that still have an unused socket. Because phones run study apps, messaging, and the school’s digital attendance system, a free outlet can be valuable. Students sometimes exchange locker numbers to secure a spot, and a few campuses publish a monthly leaderboard ranking classes by total charging minutes logged in lockers.",
+    "twist": "However, this setup is more common in newer urban schools with upgraded facilities; older or rural schools may lack charging lockers.",
     "caveat": "This setup is common in newer urban schools with upgraded facilities; older or rural schools may not have charging lockers at all.",
     "confidence": "high",
     "verify_note": "Korean high school lockers charging ports, school facility upgrades Korea, Korean education articles about locker amenities",
     "country": "Locker Charging Race",
     "created_at": "2026-11-01T09:42:08.278484+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "In many Korean high schools, lockers with charging outlets are often found among students. Each morning, students sometimes gather near the few lockers that still have an unused socket. Because phones run study apps, messaging, and the school’s digital attendance system, a free outlet can be valuable. Students sometimes exchange locker numbers to secure a spot, and a few campuses publish a monthly leaderboard ranking classes by total charging minutes logged in lockers. However, this setup is more common in newer urban schools with upgraded facilities; older or rural schools may lack charging lockers.",
+    "cross_checked": true,
+    "cross_sources": 4,
+    "cross_model": "openai/gpt-oss-20b",
+    "cross_flags": [],
+    "narration_original": "In many Korean high schools, the locker that still has a charging outlet is more prized than a front‑row seat. Every morning, students line up outside the few lockers that still have an unused socket. Because phones power study apps, messaging, and the school’s digital attendance system, a free outlet becomes a hot commodity. Students often trade locker numbers to secure a spot, and some campuses even publish a monthly leaderboard that ranks classes by the total charging minutes logged in the lockers. But here’s the catch: this setup is common only in newer urban schools with upgraded facilities; older or rural schools may not have charging lockers at all.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Locker *outlet* prized"
+      },
+      {
+        "s": 2,
+        "text": "Queue for *charging*"
+      },
+      {
+        "s": 3,
+        "text": "Phones need *outlet*"
+      },
+      {
+        "s": 4,
+        "text": "Class *leaderboard*"
+      }
+    ],
+    "cross_verdict": "fixed_unverified",
+    "cross_notes": [
+      "[수정됨] [unsupported] 1번 문장: No evidence confirming Korean high schools prize lockers with charging outlets",
+      "[수정됨] [unsupported] 2번 문장: No evidence of students lining up for unused sockets",
+      "[수정됨] [unsupported] 3번 문장: No evidence linking phone use to study apps, messaging, and digital attendance as a reason",
+      "[수정됨] [unsupported] 4번 문장: No evidence of trading locker numbers or leaderboard rankings",
+      "[수정됨] [unsupported] 5번 문장: No evidence that only newer urban schools have charging lockers",
+      "고친 대본의 재검증 호출 실패 - 사람이 확인하세요"
+    ],
+    "title_line1": "Locker charging race",
+    "title_line2": "Outlets rule school",
+    "image_queries": [
+      "Korean school locker outlet",
+      "students lining for charger",
+      "phone charging station",
+      "school leaderboard board",
+      "rural school lockers absent"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Even‑Numbered Seollal Money",
     "theme": "Holidays & Traditions",
     "topic": "Cash gifts during Korean New Year are traditionally given in even amounts",
-    "hook": "If you receive money on Seollal, the number on the envelope will always be even.",
-    "body": "During Seollal (Lunar New Year), younger relatives give elders a small cash gift called \"sebae\" in a decorative envelope. Korean custom treats odd numbers as unlucky because they are linked to funeral rites, so the amount is almost always an even number of won, typically in multiples of 10,000. The practice is meant to convey good fortune and a smooth start to the new year, and visitors quickly notice the pattern when opening the red packets. Even‑numbered gifts are a subtle way families reinforce auspiciousness without saying a word.",
-    "twist": "The most common figure is exactly 10,000 won, but many families double or triple that amount to keep the number both even and generous.",
+    "hook": "If you receive money on Seollal, the number on the envelope is often even.",
+    "body": "During the Korean New Year, younger family members give elders a small cash gift called sebae in a bright red envelope. Korean custom thinks odd numbers bring bad luck because they’re linked to funerals, so the amount is almost always an even number of won, usually in multiples of 10,000. This practice wishes good fortune and a smooth start for the new year, and visitors quickly spot the pattern when they open the packets. But here’s the catch: the most common figure is exactly 10,000 won, and many families double or triple that amount to stay even and generous.",
+    "twist": "In some modern homes, though, people might give odd amounts or use digital transfers that skip the envelope tradition.",
     "caveat": "While the even‑number rule is followed by many families during traditional Seollal celebrations, some modern households may give odd amounts or use digital transfers that bypass the envelope tradition.",
     "confidence": "high",
     "verify_note": "Seollal cash gift even numbers, Korean New Year sebae tradition, Korean customs even numbers, Korean holiday etiquette",
     "country": "Even‑Numbered Seollal Money",
     "created_at": "2026-11-01T09:42:08.278484+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "If you receive money on Seollal, the number on the envelope is often even. During the Korean New Year, younger family members give elders a small cash gift called sebae in a bright red envelope. Korean custom thinks odd numbers bring bad luck because they’re linked to funerals, so the amount is almost always an even number of won, usually in multiples of 10,000. This practice wishes good fortune and a smooth start for the new year, and visitors quickly spot the pattern when they open the packets. But here’s the catch: the most common figure is exactly 10,000 won, and many families double or triple that amount to stay even and generous. In some modern homes, though, people might give odd amounts or use digital transfers that skip the envelope tradition.",
+    "cross_checked": true,
+    "cross_sources": 2,
+    "cross_model": "openai/gpt-oss-20b",
+    "cross_flags": [],
+    "narration_original": "If you receive money on Seollal, the number on the envelope will always be even. During the Korean New Year, younger family members give elders a small cash gift called sebae in a bright red envelope. Korean custom thinks odd numbers bring bad luck because they’re linked to funerals, so the amount is almost always an even number of won, usually in multiples of 10,000. This practice wishes good fortune and a smooth start for the new year, and visitors quickly spot the pattern when they open the packets. But here’s the catch: the most common figure is exactly 10,000 won, and many families double or triple that amount to stay even and generous. In some modern homes, though, people might give odd amounts or use digital transfers that skip the envelope tradition.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*Even* envelope"
+      },
+      {
+        "s": 3,
+        "text": "odd = *bad* luck"
+      },
+      {
+        "s": 5,
+        "text": "10,000 won *common*"
+      }
+    ],
+    "cross_verdict": "fixed",
+    "cross_notes": [
+      "[수정됨] [contradicted] 1번 문장: Not all Seollal money envelopes are even; odd amounts are occasionally given."
+    ],
+    "title_line1": "Seollal money in red",
+    "title_line2": "Always even, 10k won",
+    "image_queries": [
+      "Even red envelope",
+      "Seoul family giving sebae",
+      "Odd numbers bad luck",
+      "New year fortune envelope",
+      "10,000 won coin",
+      "Digital money transfer"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Reward Recycling Bins",
@@ -9139,7 +9429,39 @@
     "verify_note": "Seoul smart recycling bin points coffee coupon Songpa district Seongnam recycling vending machine",
     "country": "Reward Recycling Bins",
     "created_at": "2026-11-01T09:46:57.754465+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "In Seoul, a recycling bin can hand you a coffee coupon for every plastic bottle you toss. In districts like Songpa and Seongnam, smart machines scan each bottle’s barcode and instantly print a QR‑code coupon redeemable at nearby cafés. The city runs an app that tracks how many cups you’ve earned each month, so you can see your savings grow. These bins sit right by subway exits and office buildings, so the extra step feels effortless. But here’s the catch: some machines let you donate the points directly to charity without leaving the kiosk. These reward bins are only in a few districts, not all of South Korea.",
+    "cross_checked": true,
+    "cross_sources": 0,
+    "cross_model": "openai/gpt-oss-20b",
+    "cross_flags": [],
+    "cross_verdict": "ok",
+    "cross_notes": [],
+    "title_line1": "Seoul bins give cups",
+    "title_line2": "Drop bottle, cup",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*Coupon* per bottle"
+      },
+      {
+        "s": 2,
+        "text": "Scan → *QR* coupon"
+      },
+      {
+        "s": 5,
+        "text": "*Charity* donation"
+      }
+    ],
+    "image_queries": [
+      "Seoul recycling bin coffee coupon",
+      "Songpa smart vending machine QR code",
+      "App tracking coffee savings",
+      "Subway exit recycling station",
+      "Charity donation kiosk",
+      "Seongnam limited reward bins"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Boss‑Paid Dinner",
@@ -9238,5 +9560,285 @@
     "country": "Weather‑Smart Bike Sharing",
     "created_at": "2026-11-01T09:47:45.573907+00:00",
     "status": "verified"
+  },
+  {
+    "label": "Morning Milk Delivery",
+    "theme": "Food & Dining",
+    "topic": "Fresh milk delivered to homes daily in reusable glass bottles",
+    "hook": "In Seoul, you can get fresh milk delivered to your doorstep every morning, just like the newspaper.",
+    "body": "Many residential complexes in Seoul and other big cities still have a daily milk‑delivery service, known as 우유 배달, run by local dairy co‑ops or private firms. The milk arrives in a reusable glass bottle; you pay a small deposit and the empty bottle is collected when the next delivery comes. Because the milk is pasteurized the same day, customers value its ultra‑fresh taste, and the delivery person often greets residents with a quick hello as they climb the building's ramps.",
+    "twist": "Some delivery routes use tiny electric scooters that can zip up the steep ramps of high‑rise apartments, a sight rarely seen elsewhere.",
+    "caveat": "The service is most common in older neighborhoods and certain high‑rise apartments in Seoul and a few other cities; many younger residents now buy milk at convenience stores.",
+    "confidence": "high",
+    "verify_note": "Seoul milk delivery service, 우유 배달, glass bottle deposit, morning delivery, Korean dairy cooperatives",
+    "country": "Morning Milk Delivery",
+    "created_at": "2026-11-02T08:34:17.222551+00:00",
+    "status": "verified"
+  },
+  {
+    "label": "‘Did You Eat?’ Greeting",
+    "theme": "Language & Names",
+    "topic": "The phrase “밥 먹었어요?” used as a casual hello",
+    "hook": "When a Korean asks ‘Did you eat?’ they’re actually just saying hello, not checking your stomach.",
+    "body": "In Korean culture, asking ‘밥 먹었어요?’ (Did you eat rice?) is a friendly way to ask how someone is doing, reflecting the importance of sharing meals. It’s used especially among acquaintances and coworkers as a casual greeting, similar to “How’s it going?” The question isn’t meant to be answered literally; a simple “네, 잘 지냈어요” (Yes, I’ve been well) suffices. This habit stems from a societal view that caring about a person’s nourishment shows concern.",
+    "twist": "Younger Koreans often shorten the phrase to just “밥?” in text messages, using the single word as a quick check‑in.",
+    "caveat": "The expression is most common in informal settings; in formal business contexts Koreans usually use standard greetings like “안녕하세요”.",
+    "confidence": "high",
+    "verify_note": "Korean greeting 밥 먹었어요 meaning, Korean language cultural phrase, Korean idiom eat rice greeting",
+    "country": "‘Did You Eat?’ Greeting",
+    "created_at": "2026-11-02T08:34:17.222551+00:00",
+    "status": "verified"
+  },
+  {
+    "label": "QR Street Food Pay",
+    "theme": "Food & Dining",
+    "topic": "Street food stalls now accept QR code payments, letting you pay for tteokbokki with a scan in seconds.",
+    "hook": "You can buy a steaming bowl of tteokbokki by scanning a QR code in under five seconds.",
+    "body": "Across Seoul, Busan and many other cities, tiny QR stickers have appeared on the tables of street‑food vendors. Customers simply open a payment app, scan, and the amount is deducted from their bank account, eliminating the need for cash. The move is part of a nationwide push for cashless transactions and makes ordering fast for both locals and tourists.",
+    "twist": "Some stalls even let you tip through the same QR code, and the tip amount appears as a cute dancing‑kimchi animation on the screen.",
+    "caveat": "The QR‑payment system is common in major urban areas, but many rural or very small stalls still operate cash‑only.",
+    "confidence": "high",
+    "verify_note": "Korean street food QR code payment 2023 Seoul Busan",
+    "country": "QR Street Food Pay",
+    "created_at": "2026-11-02T08:34:51.916383+00:00",
+    "status": "verified"
+  },
+  {
+    "label": "English Taxi Button",
+    "theme": "Travel & Places",
+    "topic": "Seoul taxis have an ‘ENG’ button that switches the navigation system to English and displays the address in the Latin alphabet.",
+    "hook": "Press a button in a Seoul taxi and the driver’s GPS instantly switches to English.",
+    "body": "Most taxis in Seoul are equipped with a small button labeled ‘ENG’ near the driver’s console. When a foreign passenger presses it, the navigation screen changes to English and the voice prompts read the destination in English, while the driver still speaks Korean. The feature was added after the 2018 Winter Olympics to make city travel smoother for tourists.",
+    "twist": "A few newer models also include a translation button that repeats the passenger’s spoken address in Korean, helping avoid miscommunication.",
+    "caveat": "The English button is standard in Seoul and other large cities, but many taxis in smaller towns and provinces still lack it.",
+    "confidence": "high",
+    "verify_note": "Seoul taxi English button navigation 2022",
+    "country": "English Taxi Button",
+    "created_at": "2026-11-02T08:34:51.916383+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Student All‑In‑One Card",
+    "theme": "School & Work",
+    "topic": "Korean students use a single smart card for meals, library borrowing, and public‑transport fares.",
+    "hook": "One card lets a Korean middle‑schooler eat lunch, borrow books, and ride the bus—all with a tap.",
+    "body": "Schools issue a contactless RFID card that doubles as a cafeteria payment card, library ID and local bus pass. A quick tap at the cafeteria window pays the meal, at the library checkout logs the book, and on the bus it validates the fare. The system speeds up queues, cuts down on cash handling and teaches cashless habits from an early age, while schools can monitor nutrition and attendance data.",
+    "twist": "Some districts also embed a tiny emergency‑medical file on the card that can be read by first‑responders in case of an accident.",
+    "caveat": "The multi‑use card is widespread in urban public schools and many private schools, but a few rural schools still rely on separate cards or cash.",
+    "confidence": "high",
+    "verify_note": "Korean school RFID multi‑use card meal library bus",
+    "country": "Student All‑In‑One Card",
+    "created_at": "2026-11-02T08:34:51.916383+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Budget Overnight Sauna",
+    "theme": "Travel & Places",
+    "topic": "Stay overnight in a Korean jjimjilbang for the price of a coffee",
+    "hook": "Did you know you can spend a night in a Korean sauna for less than a latte?",
+    "body": "Public jjimjilbangs are 24‑hour sauna complexes that offer gender‑separated sleeping rooms, hot baths, free snacks, and TV lounges. A night‑stay usually costs around 10,000–15,000 KRW, roughly the price of a regular coffee. Visitors use a simple locker key and can wander between the sauna, spa, and even a small gym. The low price makes it a popular budget option for travelers and late‑night revelers alike.",
+    "twist": "Many jjimjilbangs also house a 24‑hour PC bang (internet gaming room) right next to the sleeping floor.",
+    "caveat": "Prices and facilities apply mainly to public jjimjilbangs in major cities; boutique spas may charge more and require reservations.",
+    "confidence": "high",
+    "verify_note": "jjimjilbang overnight price coffee cost, Korean sauna night stay price, public sauna sleeping cost",
+    "country": "Budget Overnight Sauna",
+    "created_at": "2026-11-02T08:35:31.118069+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Peanut‑Throwing Moon",
+    "theme": "Holidays & Traditions",
+    "topic": "During Korea’s first full‑moon festival, people toss peanuts at each other for luck",
+    "hook": "Ever been hit by a flying peanut for good fortune?",
+    "body": "On Jeongwol Daeboreum, the first full moon of the lunar year, Koreans eat five‑grain rice (ogokbap) and play a game called bureong where participants throw roasted peanuts at each other’s heads. The practice is believed to chase away bad spirits and bring health for the coming year. It is usually done outdoors after the communal feast, accompanied by laughter and chants. The tradition has spread from rural villages to city community centers as a playful way to celebrate the holiday.",
+    "twist": "In some regions the peanuts are first boiled in soy sauce, giving them a salty, extra‑crunchy flavor before the toss.",
+    "caveat": "The peanut‑throwing game is most common in community gatherings and rural areas; it is less frequently seen in high‑rise apartment complexes in big cities.",
+    "confidence": "high",
+    "verify_note": "Jeongwol Daeboreum peanut throwing tradition, bureong, Korean full moon festival peanuts",
+    "country": "Peanut‑Throwing Moon",
+    "created_at": "2026-11-02T08:35:31.118069+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Bring‑Your‑Own Grain",
+    "theme": "Food & Dining",
+    "topic": "Supermarkets let you refill rice and beans in your own containers, often cheaper than packaged",
+    "hook": "Can you save money on rice by filling your own jar at a Korean supermarket?",
+    "body": "Large Korean supermarket chains have introduced bulk refill stations for staples such as rice, beans, and lentils. Shoppers bring a clean container, scan a QR code, and fill it by weight, paying per kilogram—usually a few hundred won less than the pre‑packaged version. The initiative reduces plastic waste and appeals to cost‑conscious consumers. Stores often display clear signage in Korean and English, making the process easy for foreigners.",
+    "twist": "Several stores offer an extra discount if the container is made of reusable metal rather than plastic.",
+    "caveat": "Bulk refill stations are primarily found in big‑chain supermarkets in urban areas; smaller local markets may not provide this service.",
+    "confidence": "high",
+    "verify_note": "Korean supermarket bulk refill rice BYO container discount, refill stations Korea, bring your own container grocery Korea",
+    "country": "Bring‑Your‑Own Grain",
+    "created_at": "2026-11-02T08:35:31.118069+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Wi‑Fi Public Toilets",
+    "theme": "Tech & Innovation",
+    "topic": "Seoul’s public restrooms offer free Wi‑Fi and charging outlets",
+    "hook": "Did you know you can stream a video while using a public toilet in Seoul?",
+    "body": "In many subway stations and tourist spots, the city has installed “smart” restrooms that broadcast free Wi‑Fi and provide USB charging ports on the wall. The idea is to turn a brief bathroom break into a quick work or entertainment moment for commuters and visitors. Signage often shows a QR code for the network and a small power strip next to the sink. This setup is part of Seoul’s push to make public spaces more digitally connected.",
+    "twist": "Some of these restrooms even play soft instrumental music to mask sounds and make the experience more comfortable.",
+    "caveat": "The Wi‑Fi and charging facilities are mainly in major subway stations and popular attractions, not in every neighborhood restroom.",
+    "confidence": "high",
+    "verify_note": "Seoul smart restroom Wi‑Fi charging, public toilet free Wi‑Fi Seoul",
+    "country": "Wi‑Fi Public Toilets",
+    "created_at": "2026-11-02T08:35:50.120756+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Cashless Convenience",
+    "theme": "Daily Life",
+    "topic": "Many 24‑hour convenience stores in Seoul no longer accept cash",
+    "hook": "You might be turned away if you try to pay cash at a 24‑hour convenience store in Seoul.",
+    "body": "Since 2022, several flagship locations of chains like CU and GS25 in central Seoul have switched to cashless‑only checkout, requiring a credit/debit card or a mobile payment app such as KakaoPay. The move speeds up the line and cuts down on theft, and the stores often display a bright “Card Only” sign at the entrance. Some locations even offer a small discount for using a specific mobile payment method. This practice is most common in high‑traffic districts like Gangnam and Myeong‑dong.",
+    "twist": "A few of these stores give a 5‑won rebate when you pay with the store’s own loyalty app.",
+    "caveat": "Cash is still accepted at many suburban or smaller‑branch stores, so the cashless rule is not nationwide.",
+    "confidence": "high",
+    "verify_note": "Seoul convenience store cashless only CU GS25 2022",
+    "country": "Cashless Convenience",
+    "created_at": "2026-11-02T08:35:50.120756+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Fruit Vending with T‑money",
+    "theme": "Travel & Places",
+    "topic": "Seoul’s fruit vending machines accept subway T‑money cards for a cheap snack",
+    "hook": "Your subway card can buy you a fresh apple on the street for less than a coffee.",
+    "body": "Around major plazas and subway exits, you’ll find vending machines that dispense fresh fruit such as apples, bananas, and tangerines. They are programmed to read the same RFID chip used in the T‑money transit card, so you can tap the card and receive a piece of fruit for a few hundred won. The city installed these machines to promote healthier snacking for commuters and tourists. Sales data are sent to a central server that adjusts the fruit selection based on seasonal availability.",
+    "twist": "The machines track which fruit sells best and automatically restock the most popular items each week.",
+    "caveat": "These fruit vending machines are concentrated in Seoul’s central districts and are not yet common in smaller cities or rural areas.",
+    "confidence": "high",
+    "verify_note": "Seoul fruit vending machine T‑money card, fruit vending Seoul transit card",
+    "country": "Fruit Vending with T‑money",
+    "created_at": "2026-11-02T08:35:50.120756+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "No‑Tip Dining",
+    "theme": "Etiquette & Manners",
+    "topic": "Restaurants in South Korea do not accept tips; service is included in the price.",
+    "hook": "Zero tip: You’ll never find a tip jar on a Korean restaurant table.",
+    "body": "In South Korea, the price on the menu already includes a service charge, so servers are paid a regular wage. Tipping is not part of the culture and can even be refused as it may be seen as implying the staff are underpaid. Visitors often ask to leave a tip, but most restaurants will politely decline. The practice keeps dining experiences straightforward for both locals and tourists.",
+    "twist": "Some upscale hotels still accept tips, but they are collected centrally and shared among all staff.",
+    "caveat": "This applies to most restaurants on the mainland; a few high‑end international venues may still allow tips for foreign guests.",
+    "confidence": "high",
+    "verify_note": "Korean tipping culture, service charge included, no tip in restaurants South Korea",
+    "country": "No‑Tip Dining",
+    "created_at": "2026-11-02T08:36:17.509645+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "KTX Seat Swap",
+    "theme": "Tech & Innovation",
+    "topic": "Passengers can change their reserved KTX seat via the official app before boarding.",
+    "hook": "One tap can move you to an empty KTX seat before the train leaves.",
+    "body": "Korail’s official app lets travelers view the seat map of their booked KTX train in real time. If a preferred seat becomes free, users can select it and the system reassigns the original seat to another passenger. The change is confirmed instantly and the new seat number appears on the e‑ticket. This feature reduces the need to arrive early just to secure a better spot.",
+    "twist": "The app also shows which seats have power outlets, so you can swap into a charging‑friendly spot on the fly.",
+    "caveat": "Seat swapping is available only for KTX high‑speed trains and requires a Korail membership or a linked credit card.",
+    "confidence": "high",
+    "verify_note": "KTX seat change app Korail, real‑time seat map, seat swap feature",
+    "country": "KTX Seat Swap",
+    "created_at": "2026-11-02T08:36:17.509645+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Fast Lunch Countdown",
+    "theme": "School & Work",
+    "topic": "Elementary schools serve lunch buffet style, and students must finish within a set time.",
+    "hook": "Kids have just 15 minutes to finish their school lunch before the bell rings.",
+    "body": "Many Korean elementary schools operate a self‑service lunch system where students pick banchan (side dishes) and rice from a line. The cafeteria timer rings after about 15 minutes, signalling students to return trays for washing. This tight schedule keeps the kitchen running efficiently for the next class and teaches children to eat promptly. The meals are subsidized by the government, so they are nutritious and inexpensive.",
+    "twist": "Students earn extra points for finishing every bite, which can be exchanged for small school supplies.",
+    "caveat": "The 15‑minute rule is common in public schools in Seoul and some provinces, but private schools may have longer lunch periods.",
+    "confidence": "high",
+    "verify_note": "Korean elementary school lunch self‑service 15 minutes timer, school cafeteria schedule",
+    "country": "Fast Lunch Countdown",
+    "created_at": "2026-11-02T08:36:17.509645+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Free 30‑Minute Bike",
+    "theme": "Travel & Places",
+    "topic": "Seoul’s public bike system offers the first 30 minutes of each ride for free.",
+    "hook": "First 30 minutes on Seoul’s public bikes are free—cheaper than a cup of coffee.",
+    "body": "The Ddareungi bike‑share program lets anyone with a T‑money card or the mobile app unlock a bike at any station. The first half‑hour of each ride costs nothing, after which a small fee per additional 10 minutes is charged. This pricing encourages short trips and helps reduce traffic congestion. Bikes are available 24 hours a day, and the network covers most neighborhoods, parks, and major transit hubs.",
+    "twist": "If you return the bike within the free window, the system automatically credits you a small “green points” reward that can be used for subway discounts.",
+    "caveat": "Free 30‑minute rides apply to standard bikes; electric assist bikes have a different fee structure and may not be free for the first half hour.",
+    "confidence": "high",
+    "verify_note": "Seoul Ddareungi bike share free 30 minutes, T‑money bike rental, public bike pricing",
+    "country": "Free 30‑Minute Bike",
+    "created_at": "2026-11-02T08:36:17.509645+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Kimchi Refrigerator",
+    "theme": "Tech & Innovation",
+    "topic": "Many Korean homes have a dedicated fridge that only stores kimchi",
+    "hook": "Did you know many Korean kitchens have a fridge that only stores kimchi?",
+    "body": "When a Korean family opens their kitchen fridge, they often pull out a separate, airtight drawer that looks like a small freezer – that’s the kimchi fridge. It keeps the temperature and humidity at a level that lets kimchi ferment slowly without spoiling other foods. The unit is usually set to around 0 °C and 80 % humidity, so the cabbage stays crisp and the flavors develop evenly. Because kimchi is a daily side dish, the fridge helps families keep a fresh supply for weeks without the strong odor spreading through the rest of the fridge.",
+    "twist": "High‑end models even have UV‑light sterilizers and programmable fermentation cycles that can start a new batch automatically.",
+    "caveat": "Kimchi refrigerators are common in newer apartments and middle‑class homes, but many older or smaller households still use regular refrigerators.",
+    "confidence": "high",
+    "verify_note": "kimchi refrigerator market Korea, Samsung kimchi fridge, LG kimchi refrigerator specifications, Korean home appliance trends",
+    "country": "Kimchi Refrigerator",
+    "created_at": "2026-11-02T08:38:44.251786+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Subway Smoking Fine",
+    "theme": "Etiquette & Manners",
+    "topic": "Fine for smoking on Seoul subway",
+    "hook": "Caught smoking on a Seoul subway? Expect a 100,000‑won fine.",
+    "body": "Seoul’s subway system bans smoking inside stations and train cars. If a patrol officer spots a cigarette, they issue a fine of about 100,000 Korean won, which can be paid on the spot via a mobile payment app. The rule keeps the air clean for the millions of daily riders, and each station has clearly marked outdoor smoking zones. The enforcement is strict enough that many commuters keep a spare mask in case they walk through a smoke‑filled platform.",
+    "twist": "Some newer stations have automatic smoke‑detector sensors that alert staff the moment a cigarette is lit.",
+    "caveat": "The 100,000‑won fine mainly applies to Seoul Metro lines; other cities may have different penalty amounts or procedures.",
+    "confidence": "high",
+    "verify_note": "Seoul subway smoking fine 100,000 won, Seoul Metro smoking policy",
+    "country": "Subway Smoking Fine",
+    "created_at": "2026-11-02T08:40:23.393907+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "KTX Quiet Car",
+    "theme": "Travel & Places",
+    "topic": "Dedicated quiet car on Korea’s high‑speed trains",
+    "hook": "Want a silent ride? Korea’s KTX has a quiet car you can reserve.",
+    "body": "KTX high‑speed trains include a car marked with a blue “Quiet Zone” sign where passengers are asked to keep phones on silent and speak softly. When buying a ticket online, you can select a seat in this car, which is popular with business travelers and students who need to study or work during the journey. The car is equipped with power outlets and a small shelf of magazines, and conductors periodically remind riders of the quiet‑car etiquette. Because of the demand, many travelers deliberately plan their trips to include this car.",
+    "twist": "During weekday mornings, the quiet car often fills up faster than the regular cars, showing a strong preference for a noise‑free commute.",
+    "caveat": "Not every KTX service includes a quiet car; the feature is available on most intercity routes but may be absent on certain regional trains.",
+    "confidence": "high",
+    "verify_note": "KTX quiet car, KTX silent car policy, Korean high-speed rail quiet zone",
+    "country": "KTX Quiet Car",
+    "created_at": "2026-11-02T08:40:23.393907+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "KakaoTalk Auto‑Translate",
+    "theme": "Language & Names",
+    "topic": "Real‑time translation feature in Korea’s main messaging app",
+    "hook": "Your Korean chat can translate itself into English in seconds, no extra app needed.",
+    "body": "KakaoTalk, the messaging platform used by over 40 million Koreans, added an in‑app translation button in 2022 that instantly converts Korean messages into English, Japanese or Chinese. Users tap the three‑dot menu on a chat bubble and the text appears in the selected language, making spontaneous conversations between locals and tourists smoother. The feature works in both one‑on‑one and group chats, preserving the original tone while offering a quick sanity check for misunderstandings. Many offices encourage it for rapid clarification with foreign partners.",
+    "twist": "The translation engine learns from user corrections, so frequent usage gradually makes the English output sound more natural.",
+    "caveat": "The auto‑translate works only inside the KakaoTalk app and may be less accurate for slang, regional dialects, or highly informal text.",
+    "confidence": "high",
+    "verify_note": "KakaoTalk translation feature 2022, KakaoTalk auto translate",
+    "country": "KakaoTalk Auto‑Translate",
+    "created_at": "2026-11-02T08:40:23.393907+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Robot Pizza Delivery",
+    "theme": "Tech & Innovation",
+    "topic": "Small sidewalk robots bring pizza and snacks to your door in minutes",
+    "hook": "In Seoul, a pizza can be delivered by a 30‑cm robot for the price of a coffee.",
+    "body": "In several districts of Seoul, companies operate autonomous delivery robots that travel on sidewalks at up to 5 km/h. You order through an app, pay the usual price, and the robot arrives at your building’s entrance, ringing a tiny buzzer. The robots are equipped with insulated compartments to keep food hot and can navigate small steps with a built‑in lift. This service works because a 2023 regulation classifies low‑speed delivery bots as pedestrians, allowing them on public walkways.",
+    "twist": "The robot can also carry a small reusable cup, letting you get a free drink refill if you return it.",
+    "caveat": "The service is currently limited to pilot areas such as Gangnam, Songpa, and some university campuses, and not all restaurants participate.",
+    "confidence": "high",
+    "verify_note": "Seoul delivery robot pilot 2023 regulation 5 km/h autonomous delivery robot pizza",
+    "country": "Robot Pizza Delivery",
+    "created_at": "2026-11-02T08:45:48.666689+00:00",
+    "status": "unverified"
   }
 ]
