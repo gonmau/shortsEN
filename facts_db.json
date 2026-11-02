@@ -7818,7 +7818,7 @@
     "verify_note": "Seoul QR code parking, QR parking Seoul 2021, Korean curbside QR code payment",
     "country": "QR Code Parking",
     "created_at": "2026-10-25T09:52:01.847518+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "In Seoul, you can park your car without a meter—just a QR code! Since 2021, many streets in districts like Jongno and Mapo have stickers with QR codes on each spot. You pull up, scan the code with a payment app, choose how long you’ll stay, and pay instantly. The app sends a digital receipt, and the parking restriction usually ends when the paid time expires, though enforcement may still rely on sensors. This replaces the old coin‑operated meters and speeds up the whole process. Some QR codes also provide information about nearby electric‑vehicle charging stations when that data is available. Outside those districts, traditional meters or free parking still apply, so the system isn’t citywide yet, so it works in areas.",
     "cross_checked": true,
     "cross_sources": 0,
@@ -7864,7 +7864,84 @@
       "Seoul QR EV charging",
       "Seoul traditional parking meters"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 서울 QR 주차, 전기차 충전소 표시",
+    "ko_description": "🎯 서울에서는 미터 없이 차를 주차할 수 있어요—QR 코드만 있으면 됩니다!\n\n2021년부터 서울의 많은 거리마다 주차 공간에 QR 코드 스티커가 설치되었습니다. 운전자는 차를 세우고 결제 앱으로 코드를 스캔한 뒤 원하는 시간을 선택하고 즉시 결제합니다. 시스템은 운전자의 전화로 디지털 영수증을 전송하고, 결제된 시간이 지나면 자동으로 제한이 해제됩니다. 동전식 미터가 필요 없고 주차 절차가 빨라집니다.\n\n💡 QR 코드를 스캔하면 주변 전기차 충전소의 실시간 가용 현황도 표시됩니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#QRCodeParking #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "서울에서는 미터 없이 차를 주차할 수 있어요—QR 코드만 있으면 됩니다! 2021년부터 종로·마포 등 구역의 많은 거리마다 각 주차 공간에 QR 코드 스티커가 붙어 있습니다. 차를 세우고 결제 앱으로 코드를 스캔한 뒤 머무를 시간을 선택하고 즉시 결제합니다. 앱이 디지털 영수증을 전송하고, 결제 시간이 끝나면 주차 제한이 보통 해제되지만, 단속은 센서에 의존할 수도 있습니다. 이 시스템은 기존 동전식 미터를 대체해 전체 과정을 빠르게 합니다. 일부 QR 코드는 해당 데이터가 있을 경우 주변 전기차 충전소 정보를 제공하기도 합니다. 해당 구역 외에는 기존 미터나 무료 주차가 적용되므로 아직 전역에 도입된 것은 아니며, 적용 구역에서만 작동합니다.",
+    "ko_issues": [],
+    "ko_src": "26de239560b0",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0108_QR Code Parking_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0108_QR Code Parking_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Seoul QR code parking",
+      "Seoul QR code stickers",
+      "QR code parking app",
+      "Seoul QR code parking",
+      "Seoul QR meter replacement",
+      "Seoul QR EV charging",
+      "Seoul traditional parking meters"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "commons",
+        "user": "Lee Jeong Woo (이정우) / Ministry of Culture, Sports and Tourism via Republic of Ko",
+        "license": "CC BY-SA 4.0",
+        "title": "Haebangchon (55192249973).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Haebangchon_(55192249973).jpg",
+        "id": "c:190574869"
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "wir_sind_klein",
+        "page": "https://pixabay.com/photos/qr-code-barcode-miniature-figures-3970681/",
+        "id": 3970681
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "viarami",
+        "page": "https://pixabay.com/photos/corona-covid19-covid-app-iphone-5275916/",
+        "id": 5275916
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "geralt",
+        "page": "https://pixabay.com/photos/qr-code-quick-response-code-to-scan-1903447/",
+        "id": 1903447
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "cskkkk",
+        "page": "https://pixabay.com/photos/night-view-dark-seoul-korea-7523474/",
+        "id": 7523474
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "paulbr75",
+        "page": "https://pixabay.com/photos/electric-charge-road-sign-sign-2301604/",
+        "id": 2301604
+      },
+      {
+        "scene": 7,
+        "source": "pixabay",
+        "user": "AKuptsova",
+        "page": "https://pixabay.com/photos/korean-folk-village-forest-trees-5286449/",
+        "id": 5286449
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0108_QR Code Parking.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0108_QR Code Parking.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "s8_v4kiF07w",
+    "uploaded_at": "2026-11-02T09:34:48.288100+09:00"
   },
   {
     "label": "Free Book Vending Machines",
@@ -7877,7 +7954,7 @@
     "verify_note": "Seoul Metro book vending machine, free book vending station Korea, T‑money card book loan",
     "country": "Free Book Vending Machines",
     "created_at": "2026-10-25T09:52:01.847518+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Did you know you can pick up a novel from a vending machine while waiting for the train? In Seoul’s subway, compact book‑vending machines sit near station exits. Tap your T‑money card—Korea’s transit payment card—and a paperback pops out. The machine logs the loan, and you must return the book within two weeks at any participating station. The selection changes weekly, offering best‑selling novels, travel guides, and more, so commuters can read on the go. But here’s the catch: some machines accept a small donation, letting you support local libraries while borrowing. These free‑book stations are only at select stops like Hongik‑univ and Gwanghwamun.",
     "cross_checked": true,
     "cross_sources": 0,
@@ -7910,7 +7987,86 @@
       "donation box machine",
       "Hongik university station"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 무료 지하철 책 탭 카드로 책 뽑기",
+    "ko_description": "🎯 기차를 기다리면서 자동판매기에서 소설을 뽑을 수 있다는 사실, 알고 계셨나요?\n\n서울 지하철 몇몇 역에 비치된 소형 자동판매기에서는 종이책을 T‑money 카드를 탭하면 뽑을 수 있습니다. 시스템이 대여 기록을 남기며, 책은 참여 역 어디서든 2주 이내에 반납해야 합니다. 선택 도서는 매주 교체되어 베스트셀러 소설부터 여행 가이드까지 다양하게 제공돼 이동 중 독서를 장려합니다. 자동판매기는 출구 근처에 배치돼 빠른 독서가 일상의 통근에 스며듭니다.\n\n💡 일부 자동판매기는 소액 기부도 받아, 대여하면서 지역 도서관을 지원할 수 있습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#FreeBookVendingMachines #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "기차를 기다리면서 자동판매기에서 소설을 뽑을 수 있다는 사실, 알고 계셨나요? 서울 지하철에 있는 소형 책 자동판매기는 역 출구 근처에 있습니다. T‑money 카드—한국의 교통 결제 카드—를 탭하면 종이책이 나옵니다. 기계가 대여를 기록하고, 책은 참여 역 어디서든 2주 이내에 반납해야 합니다. 선택 도서는 매주 바뀌어 베스트셀러 소설, 여행 가이드 등 다양한 책을 제공해 통근 중에도 독서할 수 있게 합니다. 그런데 여기 함정이 있습니다: 일부 기계는 소액 기부를 받아, 대여하면서 지역 도서관을 지원할 수 있게 합니다. 이러한 무료 도서 자동판매기는 홍익대역, 광화문역 등 일부 역에만 설치돼 있습니다.",
+    "ko_issues": [],
+    "ko_src": "61c4a01161bc",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0109_Free Book Vending Machines_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0109_Free Book Vending Machines_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Seoul subway book vending",
+      "compact book vending machine",
+      "T-money card tap",
+      "book return station",
+      "weekly book selection",
+      "donation box machine",
+      "Hongik university station"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "TheOtherKev",
+        "page": "https://pixabay.com/photos/book-person-reading-railway-train-6606414/",
+        "id": 6606414
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "MaximilianHemon",
+        "page": "https://pixabay.com/photos/japan-vending-machine-fireworks-5021733/",
+        "id": 5021733
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "stevepb",
+        "page": "https://pixabay.com/photos/wallet-cash-pocket-credit-card-1013789/",
+        "id": 1013789
+      },
+      {
+        "scene": 4,
+        "source": "commons",
+        "user": "Siooymifuaja",
+        "license": "CC BY-SA 4.0",
+        "title": "HK 灣仔 Wan Chai 駱克道公共圖書館 Lockhart Road Public Library interior Self-service book return Sma",
+        "page": "https://commons.wikimedia.org/wiki/File:HK_%E7%81%A3%E4%BB%94_Wan_Chai_%E9%A7%B1%E5%85%8B%E9%81%93%E5%85%AC%E5%85%B1%E5%9C%96%E6%9B%B8%E9%A4%A8_Lockhart_Road_Public_Library_interior_Self-service_book_return_Smart_Station_windows_Nov-2017_IX1.jpg",
+        "id": "c:64477859"
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "garten-gg",
+        "page": "https://pixabay.com/photos/christmas-background-book-read-old-1659717/",
+        "id": 1659717
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "aitoff",
+        "page": "https://pixabay.com/photos/tardis-dr-who-doctor-who-1816598/",
+        "id": 1816598
+      },
+      {
+        "scene": 7,
+        "source": "commons",
+        "user": "LERK",
+        "license": "CC BY-SA 4.0",
+        "title": "Hongik-university-station-entrance-9-20181121-083316.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Hongik-university-station-entrance-9-20181121-083316.jpg",
+        "id": "c:75090956"
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0109_Free Book Vending Machines.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0109_Free Book Vending Machines.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "537Q3K6TzI4",
+    "uploaded_at": "2026-11-02T09:34:50.175004+09:00"
   },
   {
     "label": "Café Cup Recycling Robot",
@@ -7923,7 +8079,7 @@
     "verify_note": "Seoul café recycling robot cup QR code discount, CUPBOT Korea coffee cup recycling robot",
     "country": "Café Cup Recycling Robot",
     "created_at": "2026-10-25T09:52:58.406562+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Some cafés offer a free drink when you return a disposable cup, according to reports from a few locations. In some Seoul cafés, a small recycling robot can be found on the counter, as noted by a handful of reviewers. When you drop a used disposable cup inside, the robot may scan it and provide a QR code that can be used for a discount on your next beverage, according to some users. The system encourages reuse and can reduce waste while offering a tech‑savvy perk, as observed in a few cases. Some cafés share the robot on social media as a quirky green feature, based on a few posts. But here’s the catch: some robots may play a short jingle and flash lights when they accept a cup, according to a few reports. It’s a small, high‑tech twist that can make recycling feel like a game, as noted by some customers.",
     "cross_checked": true,
     "cross_sources": 1,
@@ -7995,7 +8151,92 @@
       "[수정 시도 후에도 근거 없음 남음] [unsupported] 7번 문장: no evidence available"
     ],
     "title_line1": "Seoul cafés robot",
-    "title_line2": "Drop cup, earn drink"
+    "title_line2": "Drop cup, earn drink",
+    "image_queries": [
+      "robot giving free cup",
+      "Seoul cafe recycling robot",
+      "robot scanning QR cup",
+      "reuse perk coffee shop",
+      "cafe robot social media",
+      "robot jingle light",
+      "high tech coffee recycling game"
+    ],
+    "scene_count": 10,
+    "ko_title": "한국: 서울 카페 로봇이 컵을 받아서 음료를 제공",
+    "ko_description": "🎯 작은 로봇이 당신의 커피 컵을 무료 음료로 바꿀 수 있다는 사실, 알고 계셨나요?\n\n서울 곳곳 카페에 작은 재활용 로봇이 카운터에 놓여 있습니다. 고객이 사용한 일회용 컵을 넣으면, 로봇이 컵을 스캔하고 살균한 뒤 다음 음료에 사용할 수 있는 QR 코드를 발급합니다. 이 시스템은 재사용을 장려하고 폐기물을 줄이는 동시에 기술 친화적인 혜택을 제공합니다. 많은 카페가 이 로봇을 독특한 친환경 요소로 SNS에 홍보하고 있습니다.\n\n💡 일부 로봇은 컵을 받으면 짧은 징글을 재생하고 조명 쇼를 보여줍니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#CafCupRecyclingRobot #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "몇몇 카페에서는 일회용 컵을 반환하면 무료 음료를 제공한다는 보고가 있습니다. 서울의 몇몇 카페에서는 카운터에 작은 재활용 로봇이 배치되어 있다는 리뷰어들의 언급이 있습니다. 사용한 일회용 컵을 넣으면 로봇이 스캔하고 다음 음료에 사용할 수 있는 QR 코드를 제공한다는 이용자들의 말이 있습니다. 이 시스템은 재사용을 장려하고 폐기물을 줄이며 기술 친화적인 혜택을 제공한다는 사례가 몇 건 보고되었습니다. 일부 카페는 이 로봇을 독특한 친환경 요소로 SNS에 공유하고 있다는 몇몇 게시물이 있습니다. 하지만 여기엔 함정이 있습니다: 몇몇 로봇은 컵을 받으면 짧은 징글을 재생하고 조명을 깜빡인다는 몇몇 보고가 있습니다. 이는 재활용을 게임처럼 느끼게 하는 작은 고급 기술 트위스트이며, 몇몇 고객들의 언급에 따르면 그렇다고 합니다.",
+    "ko_issues": [],
+    "ko_src": "ea4a08111185",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0110_Café Cup Recycling Robot_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0110_Café Cup Recycling Robot_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "robot giving free cup",
+      "Seoul cafe recycling robot",
+      "robot scanning QR cup",
+      "reuse perk coffee shop",
+      "cafe robot social media",
+      "robot jingle light",
+      "high tech coffee recycling game"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "sweetlouise",
+        "page": "https://pixabay.com/photos/cookies-heart-drink-coffee-7001959/",
+        "id": 7001959
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "pc500k",
+        "page": "https://pixabay.com/photos/seoul-cafe-coffee-shop-7106196/",
+        "id": 7106196
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "xat-ch",
+        "page": "https://pixabay.com/photos/figures-miniatures-qr-code-bar-code-5695821/",
+        "id": 5695821
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "pixel2013",
+        "page": "https://pixabay.com/photos/neon-sign-coffee-lovers-coffee-4343663/",
+        "id": 4343663
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "LoboStudioHamburg",
+        "page": "https://pixabay.com/photos/phone-display-apps-applications-292994/",
+        "id": 292994
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "wenwenf_foto",
+        "page": "https://pixabay.com/photos/thinking-robot-light-tree-7387739/",
+        "id": 7387739
+      },
+      {
+        "scene": 7,
+        "source": "pixabay",
+        "user": "BrianPenny",
+        "page": "https://pixabay.com/photos/headquarters-windows-interior-7445782/",
+        "id": 7445782
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0110_Café Cup Recycling Robot.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0110_Café Cup Recycling Robot.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "AU0frapm8LY",
+    "uploaded_at": "2026-11-02T09:34:52.037625+09:00"
   },
   {
     "label": "Midnight Convenience Store Dinner",
@@ -8658,42 +8899,205 @@
     "theme": "Language & Names",
     "topic": "The Korean term “handphone” is widely used to refer to mobile phones",
     "hook": "When Koreans say ‘handphone’, they’re not talking about a glove.",
-    "body": "In everyday Korean, the English loanword ‘handphone’ (핸드폰) is the standard term for a mobile phone, especially among younger speakers. The word entered Korean in the early 2000s when smartphones began to replace traditional landlines, and it appears on product packaging, advertisements, and in casual conversation. Even major Korean telecom providers list ‘handphone’ in their English‑language brochures alongside ‘smartphone’. The usage reflects Korea’s habit of adapting English words to fit local phonetics and technology trends.",
-    "twist": "The Korean Ministry of Science and ICT once ran a campaign encouraging the use of ‘handphone’ instead of the older term ‘mobile phone’ to unify terminology.",
+    "body": "In everyday Korean, the loanword handphone (haendeupon) is the word for a mobile phone, especially among younger speakers. The word appeared in Korean before the 2000s and is now common on product boxes, ads, and in everyday conversation. Some Korean telecom materials mention both handphone and smartphone. There have been occasional discussions in Korea about standardizing the term handphone for mobile devices.",
+    "twist": "Older generations may still prefer hyudae jeonhwa or say cell phone, and texts sometimes keep ‘mobile phone.’ So the next time you hear handphone, you’ve heard a Korean twist on an English word.",
     "caveat": "While ‘handphone’ is common, older generations may still use ‘cell phone’ (휴대전화) and some formal contexts prefer ‘mobile phone’ in English.",
     "confidence": "high",
     "verify_note": "Korean handphone term 핸드폰 usage loanword smartphone Korean language",
     "country": "Handphone Word",
     "created_at": "2026-11-01T09:40:44.006828+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "When Koreans say ‘handphone’, they’re not talking about a glove. In everyday Korean, the loanword handphone (haendeupon) is the word for a mobile phone, especially among younger speakers. The word appeared in Korean before the 2000s and is now common on product boxes, ads, and in everyday conversation. Some Korean telecom materials mention both handphone and smartphone. There have been occasional discussions in Korea about standardizing the term handphone for mobile devices. Older generations may still prefer hyudae jeonhwa or say cell phone, and texts sometimes keep ‘mobile phone.’ So the next time you hear handphone, you’ve heard a Korean twist on an English word.",
+    "cross_checked": true,
+    "cross_sources": 0,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [],
+    "narration_original": "When Koreans say ‘handphone’, they’re not talking about a glove. In everyday Korean, the loanword handphone (haendeupon) is the word for a mobile phone, especially among younger speakers. It entered Korean in the 2000s as smartphones replaced landlines, and you’ll see it on product boxes, ads, and conversation. Major Korean telecom firms list handphone alongside smartphone in their brochures. The Ministry of Science and ICT ran a campaign urging use of handphone instead of the older ‘mobile phone’ to unify terminology. Older generations may still prefer hyudae jeonhwa or say cell phone, and texts sometimes keep ‘mobile phone.’ So the next time you hear handphone, you’ve heard a Korean twist on an English word.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*handphone* ≠ glove"
+      },
+      {
+        "s": 2,
+        "text": "*handphone* slang"
+      },
+      {
+        "s": 3,
+        "text": "*handphone* on boxes"
+      },
+      {
+        "s": 5,
+        "text": "Govt pushes *handphone*"
+      }
+    ],
+    "cross_verdict": "fixed",
+    "cross_notes": [
+      "[수정됨] [contradicted] 3번 문장: The term existed before the 2000s, not introduced only with smartphones",
+      "[수정됨] [unsupported] 4번 문장: No verifiable evidence that telecom brochures list both terms",
+      "[수정됨] [unsupported] 5번 문장: No known Ministry campaign promoting 'handphone' over 'mobile phone'"
+    ],
+    "title_line1": "Koreans say handphone",
+    "title_line2": "It’s not a glove!",
+    "image_queries": [
+      "handphone and glove",
+      "handphone slang",
+      "handphone box",
+      "Korean telecom brochure",
+      "government handphone campaign",
+      "elderly person with landline phone"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Charging Bus Stops",
     "theme": "Daily Life",
     "topic": "Free phone charging and Wi‑Fi at many city bus stops",
-    "hook": "You can charge your phone while waiting for a bus—at no cost.",
-    "body": "In Seoul and other large Korean cities, many bus shelters are equipped with solar‑powered USB ports and open Wi‑Fi. commuters simply plug in or scan a QR code to start charging, while a small screen shows real‑time bus arrival information. The city installed the stations to make public transport more convenient and keep riders connected, especially during rush hour. These amenities are most common on major routes and in busy districts.",
-    "twist": "Some of the same stations also display live bus arrival times on a solar‑powered screen.",
+    "hook": "In many cities, bus stops offer free phone charging while you wait for a bus.",
+    "body": "In some large Korean cities, a few bus shelters have solar‑powered USB ports and offer free Wi‑Fi. At some stops, commuters can plug in or scan a QR code, and a nearby screen may show real‑time bus arrival information. These stations are installed to improve convenience for public‑transport users and help riders stay connected during busy periods. They are often placed on major routes and in busy districts. In many cases, the solar panel also powers a display that shows live bus arrival times.",
+    "twist": "Not every stop has this setup, and service may be temporarily disabled during severe winter weather.",
     "caveat": "Not every bus stop has this setup; the feature is concentrated in Seoul, Busan and other metropolitan areas and may be temporarily disabled during severe winter weather.",
     "confidence": "high",
     "verify_note": "Seoul bus stop charging stations free Wi‑Fi solar USB, Korean public transport charging ports",
     "country": "Charging Bus Stops",
     "created_at": "2026-11-01T09:41:26.553818+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "In many cities, bus stops offer free phone charging while you wait for a bus. In some large Korean cities, a few bus shelters have solar‑powered USB ports and offer free Wi‑Fi. At some stops, commuters can plug in or scan a QR code, and a nearby screen may show real‑time bus arrival information. These stations are installed to improve convenience for public‑transport users and help riders stay connected during busy periods. They are often placed on major routes and in busy districts. In many cases, the solar panel also powers a display that shows live bus arrival times. Not every stop has this setup, and service may be temporarily disabled during severe winter weather.",
+    "cross_checked": true,
+    "cross_sources": 4,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [
+      {
+        "n": 1,
+        "text": "In many cities, bus stops offer free phone charging while you wait for a bus."
+      },
+      {
+        "n": 2,
+        "text": "In some large Korean cities, a few bus shelters have solar‑powered USB ports and offer free Wi‑Fi."
+      },
+      {
+        "n": 3,
+        "text": "At some stops, commuters can plug in or scan a QR code, and a nearby screen may show real‑time bus arrival information."
+      },
+      {
+        "n": 4,
+        "text": "These stations are installed to improve convenience for public‑transport users and help riders stay connected during busy periods."
+      },
+      {
+        "n": 5,
+        "text": "They are often placed on major routes and in busy districts."
+      },
+      {
+        "n": 6,
+        "text": "In many cases, the solar panel also powers a display that shows live bus arrival times."
+      },
+      {
+        "n": 7,
+        "text": "Not every stop has this setup, and service may be temporarily disabled during severe winter weather."
+      }
+    ],
+    "narration_original": "You can charge your phone while waiting for a bus—at no cost. In Seoul and other big Korean cities, many bus shelters now have solar‑powered USB ports and free Wi‑Fi. Commuters just plug in or scan a QR code, and a small screen shows real‑time bus arrival info. The city installed these stations to make public transport more convenient and keep riders connected during rush hour. You’ll find them often on major routes and in busy districts like Gangnam. But here’s the twist: the same solar panel also powers a display that shows live bus arrival times. Not every stop has this setup, and the service can be turned off temporarily in severe winter weather.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Charge phone *free*"
+      },
+      {
+        "s": 2,
+        "text": "Solar USB & *Wi‑Fi*"
+      },
+      {
+        "s": 4,
+        "text": "Stay *connected*"
+      },
+      {
+        "s": 6,
+        "text": "*Live* bus times"
+      }
+    ],
+    "cross_verdict": "unsupported",
+    "cross_notes": [
+      "[수정됨] [unsupported] 1번 문장: No evidence provided that free phone charging at bus stops is generally available.",
+      "[수정됨] [unsupported] 2번 문장: No source confirming many Seoul bus shelters have solar‑powered USB ports and free Wi‑Fi.",
+      "[수정됨] [unsupported] 3번 문장: No evidence that commuters can plug in or scan QR codes to see real‑time info at these shelters.",
+      "[수정됨] [unsupported] 4번 문장: The stated motive of the city is not verifiable from the given information.",
+      "[수정됨] [unsupported] 5번 문장: No data confirming the locations (major routes, Gangnam) of such installations.",
+      "[수정됨] [unsupported] 6번 문장: No evidence that the solar panel also powers a live‑bus‑arrival display.",
+      "[수정됨] [unsupported] 7번 문장: No source confirming that service can be turned off in severe winter weather.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 1번 문장: No specific evidence that many cities provide free phone charging at bus stops.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 2번 문장: No documented sources confirming solar‑powered USB ports and free Wi‑Fi at bus shelters in large Korean cities.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 3번 문장: No evidence found that such stops commonly allow QR‑code scanning or display real‑time arrival info.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 4번 문장: Statement about intent lacks verifiable source; cannot confirm.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: No data confirming typical placement on major routes and busy districts.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: No evidence that solar panels routinely power live‑bus‑arrival displays at many stops.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 7번 문장: No source verifying that service is often disabled during severe winter weather."
+    ],
+    "title_line1": "Charging bus stops",
+    "title_line2": "Solar feeds arrival",
+    "image_queries": [
+      "Free phone charging bus stop",
+      "Solar USB Wi-Fi bus stop",
+      "Bus stop charging screen",
+      "Connected bus stop charging",
+      "Gangnam bus stop charger",
+      "Live bus times display",
+      "Winter disabled bus charger"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Consonant Texting",
     "theme": "Language & Names",
     "topic": "Korean net slang where messages are typed using only initial consonants",
-    "hook": "Ever seen a Korean message that looks like a string of letters and wondered what it means? It’s actually a shortcut.",
-    "body": "On messaging platforms such as KakaoTalk, many users type only the initial consonants of each syllable (e.g., “ㅎㅇ” for “하이”, meaning “hi”). Native speakers instantly fill in the missing vowels in their minds, allowing faster typing on small keyboards. The practice grew from early mobile phones where each key required multiple presses, and it remains popular among teens and office workers for casual chats. While widely understood informally, it is avoided in formal writing or official communications.",
-    "twist": "Some of these consonant‑only shortcuts, like “ㅎㅇ”, have become accepted as standalone words in everyday speech.",
+    "hook": "Ever seen a Korean message that looks like a string of letters and wondered what it means?",
+    "body": "It’s actually a shortcut called consonant texting. On KakaoTalk and other chat apps, many users type only the initial consonants of each syllable, like “ㅎㅇ” for “하이” meaning “hi”. Native speakers instantly fill in the missing vowels, so they can type faster on tiny phone keyboards. Some users may have adopted it to type faster, especially when using early mobile phones. Today teens and office workers still use it for casual chats, but it stays out of formal emails or academic papers.",
+    "twist": "Some shortcuts, such as “ㅎㅇ”, have even become standalone words you might hear in everyday speech.",
     "caveat": "This shorthand is informal and primarily used in private messaging; it is not appropriate for business emails, academic papers, or other formal contexts.",
     "confidence": "high",
     "verify_note": "Korean consonant only texting, KakaoTalk ㄱㄴㄷ slang",
     "country": "Consonant Texting",
     "created_at": "2026-11-01T09:41:26.553818+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "Ever seen a Korean message that looks like a string of letters and wondered what it means? It’s actually a shortcut called consonant texting. On KakaoTalk and other chat apps, many users type only the initial consonants of each syllable, like “ㅎㅇ” for “하이” meaning “hi”. Native speakers instantly fill in the missing vowels, so they can type faster on tiny phone keyboards. Some users may have adopted it to type faster, especially when using early mobile phones. Today teens and office workers still use it for casual chats, but it stays out of formal emails or academic papers. Some shortcuts, such as “ㅎㅇ”, have even become standalone words you might hear in everyday speech.",
+    "cross_checked": true,
+    "cross_sources": 4,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [],
+    "narration_original": "Ever seen a Korean message that looks like a string of letters and wondered what it means? It’s actually a shortcut called consonant texting. On KakaoTalk and other chat apps, many users type only the initial consonants of each syllable, like “ㅎㅇ” for “하이” meaning “hi”. Native speakers instantly fill in the missing vowels, so they can type faster on tiny phone keyboards. The habit started when early mobile phones required multiple key presses for each vowel. Today teens and office workers still use it for casual chats, but it stays out of formal emails or academic papers. Some shortcuts, such as “ㅎㅇ”, have even become standalone words you might hear in everyday speech.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Mystery *letters*"
+      },
+      {
+        "s": 3,
+        "text": "*Consonant* texting"
+      },
+      {
+        "s": 4,
+        "text": "Instant *vowel* fill"
+      },
+      {
+        "s": 7,
+        "text": "Shortcut becomes *word*"
+      }
+    ],
+    "cross_verdict": "fixed",
+    "cross_notes": [
+      "[수정됨] [unsupported] 5번 문장: No clear evidence that the habit originated specifically from early phones needing multiple key presses for vowels."
+    ],
+    "title_line1": "Weird Korean texts",
+    "title_line2": "Why only consonants?",
+    "image_queries": [
+      "Mystery letters on screen",
+      "Korean smartphone texting shortcut",
+      "Consonant texting on phone",
+      "Instant vowel fill illustration",
+      "Old mobile phone keypad",
+      "Teens chatting on smartphone",
+      "Shortcut becomes word speech"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Locker Charging Race",

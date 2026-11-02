@@ -11,103 +11,115 @@
 #   제외한 소재는 폐기(rejected)로 바뀌어 render에서 건너뛰고, 나중에 'redo_script=번호!'로 되살릴 수 있습니다.
 # - '('로 시작하는 줄은 참고용이라 무시됩니다. '=== [번호] ===' 줄은 바꾸지 마세요.
 
-=== [105] Toilet Sound Mask ===
+=== [108] QR Code Parking ===
 (교차검증) partial
-(교차검증 메모 1) [수정됨] [unsupported] 6번 문장: While some high‑end models may offer selectable sounds, there is no reliable evidence that public‑use models commonly let users choose classical tunes or nature chirps.
-(교차검증 메모 2) [수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: Limited evidence that models allow tone selection
-(직접 확인할 문장 6번) Some models let users pick a simple tone by tapping a selector, while many provide only a single preset sound.
-(사실 확인용 검색어) Korean public restroom bidet sound masking, Korean toilet music privacy, Seoul subway restroom bidet features
-(한글 제목) 한국: 서울 지하철 화장실 멜로디 마스크 사운드
-후크: Did you know many Korean toilets can play a song to cover up bathroom sounds?
-본문: When a traveler steps into a Seoul subway station restroom, they may notice a small button on the bidet control panel. Pressing it triggers a brief melody that plays while the toilet flushes, helping to mask any sounds and protect privacy. This feature is built into many modern public toilets across the city, reflecting Korea's emphasis on personal comfort and discretion in shared spaces. The sound usually stops automatically after a few seconds, letting users focus on their business without embarrassment.
-반전: Some models even let users choose between different sounds, such as a classical tune or a nature chirp, by tapping a selector on the panel.
+(교차검증 메모 1) [수정됨] [unsupported] 6번 문장: No reliable source confirms QR shows EV charging availability
+(교차검증 메모 2) [수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: No reliable source confirms that QR codes provide EV charging station info.
+(직접 확인할 문장 6번) Some QR codes also provide information about nearby electric‑vehicle charging stations when that data is available.
+(사실 확인용 검색어) Seoul QR code parking, QR parking Seoul 2021, Korean curbside QR code payment
+(한글 제목) 한국: 서울 QR 주차, 전기차 충전소 표시
+후크: In Seoul, you can park your car without a meter—just a QR code!
+본문: Since 2021, many streets in Seoul have installed QR‑code stickers on parking spaces. Drivers pull up, scan the code with a payment app, select the desired time, and pay instantly. The system sends a digital receipt to the driver’s phone and automatically lifts the restriction after the paid period. It removes the need for coin‑operated meters and speeds up the parking process.
+반전: The QR code also displays real‑time availability of nearby EV charging spots when you scan it.
 제외:
-제목1: Seoul subway toilets
-제목2: Melody masks sounds
-핵심[1]: Toilets play a *song*
-핵심[2]: Press the *button*
-핵심[3]: Melody masks *noise*
-핵심[5]: *Embarrassment* gone
-핵심[6]: Choose *tune* options
-이미지[1]: Korean toilet speaker
-이미지[2]: Seoul subway restroom button
-이미지[3]: Bidet melody masking
-이미지[4]: Modern Korean public restroom
-이미지[5]: Toilet privacy music
-이미지[6]: Bidet tune selector
-이미지[7]: Rural Korean restroom
-대본[1]: Did you know many Korean toilets can play a short flushing sound to cover up bathroom noises?
-대본[2]: When you walk into a Seoul subway station restroom, you’ll see a small button on the bidet control panel.
-대본[3]: Press it and a flushing sound starts while the toilet flushes, masking any noise and protecting privacy.
-대본[4]: This feature is built into many modern public toilets across the city, reflecting Korea’s focus on comfort in shared spaces.
-대본[5]: The tune stops automatically after a few seconds, so you can finish without embarrassment.
-대본[6]: Some models let users pick a simple tone by tapping a selector, while many provide only a single preset sound.
-대본[7]: Older or rural restrooms often lack this, but newer facilities in cities have it.
-(한글 대본) 많은 한국 화장실이 짧은 물 내리는 소리를 재생해 화장실 소음을 가린다는 사실, 알고 계셨나요? 서울 지하철역 화장실에 들어가면 비데 조절 패널에 작은 버튼이 보입니다. 그 버튼을 누르면 화장실이 물을 내리는 동안 물 내리는 소리가 시작돼 소리를 가리고 프라이버시를 보호합니다. 이 기능은 도시 곳곳의 현대적인 공공 화장실에 설치돼 있어, 공유 공간에서 편안함을 중시하는 한국의 특징을 보여줍니다. 멜로디는 몇 초 뒤 자동으로 멈추어 부끄러움 없이 마무리할 수 있습니다. 일부 모델은 선택기를 눌러 간단한 톤을 고를 수 있으며, 많은 화장실은 하나의 사전 설정된 소리만 제공합니다. 오래된 혹은 농촌 화장실은 보통 이 기능이 없지만, 도심의 최신 시설에는 갖추어져 있습니다.
+제목1: Seoul QR parking
+제목2: Shows EV chargers
+핵심[1]: Park without a *meter*
+핵심[3]: Scan, choose time, *pay*
+핵심[4]: Receipt sent, *auto* lift
+핵심[6]: QR shows EV *status*
+이미지[1]: Seoul QR code parking
+이미지[2]: Seoul QR code stickers
+이미지[3]: QR code parking app
+이미지[4]: Seoul QR code parking
+이미지[5]: Seoul QR meter replacement
+이미지[6]: Seoul QR EV charging
+이미지[7]: Seoul traditional parking meters
+대본[1]: In Seoul, you can park your car without a meter—just a QR code!
+대본[2]: Since 2021, many streets in districts like Jongno and Mapo have stickers with QR codes on each spot.
+대본[3]: You pull up, scan the code with a payment app, choose how long you’ll stay, and pay instantly.
+대본[4]: The app sends a digital receipt, and the parking restriction usually ends when the paid time expires, though enforcement may still rely on sensors.
+대본[5]: This replaces the old coin‑operated meters and speeds up the whole process.
+대본[6]: Some QR codes also provide information about nearby electric‑vehicle charging stations when that data is available.
+대본[7]: Outside those districts, traditional meters or free parking still apply, so the system isn’t citywide yet, so it works in areas.
+(한글 대본) 서울에서는 미터 없이 차를 주차할 수 있어요—QR 코드만 있으면 됩니다! 2021년부터 종로·마포 등 구역의 많은 거리마다 각 주차 공간에 QR 코드 스티커가 붙어 있습니다. 차를 세우고 결제 앱으로 코드를 스캔한 뒤 머무를 시간을 선택하고 즉시 결제합니다. 앱이 디지털 영수증을 전송하고, 결제 시간이 끝나면 주차 제한이 보통 해제되지만, 단속은 센서에 의존할 수도 있습니다. 이 시스템은 기존 동전식 미터를 대체해 전체 과정을 빠르게 합니다. 일부 QR 코드는 해당 데이터가 있을 경우 주변 전기차 충전소 정보를 제공하기도 합니다. 해당 구역 외에는 기존 미터나 무료 주차가 적용되므로 아직 전역에 도입된 것은 아니며, 적용 구역에서만 작동합니다.
 
-=== [106] School Food Waste Turned Feed ===
-(교차검증) partial
-(교차검증 메모 1) [수정됨] [unsupported] 4번 문장: Specific claim about a digital board displaying weekly kilograms lacks verifiable evidence
-(교차검증 메모 2) [수정됨] [unsupported] 5번 문장: No reliable source confirming schools receive a grant per kilogram recycled
-(교차검증 메모 3) [수정 시도 후에도 근거 없음 남음] [unsupported] 4번 문장: No reliable evidence of digital boards showing weekly totals.
-(교차검증 메모 4) [수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: Funding incentives for recycling amounts are not documented.
-(직접 확인할 문장 4번) In several cafeterias, digital boards display weekly totals of recycled food waste, helping raise awareness of the effort.
-(직접 확인할 문장 5번) A few schools receive modest funding for the amount they recycle, which can support programs that encourage students to finish their meals.
-(사실 확인용 검색어) Korean school food waste recycling animal feed, Seoul school food waste program, Korea food waste to feed
-(한글 제목) 한국 학교 폐기물, 그날 바로 농장 사료로 활용
-후크: Did you know Korean kids' lunch leftovers become farm feed the same day?
-본문: Many elementary schools in Seoul have separate bins for food scraps. The waste is collected each afternoon by a municipal service that processes it into high‑protein feed for nearby farms. A digital board in the cafeteria often displays the total kilograms turned into feed that week, turning waste into a point of pride.
-반전: Some schools even receive a small grant for every kilogram recycled, encouraging students to finish their meals.
+=== [109] Free Book Vending Machines ===
+(교차검증) ok
+(사실 확인용 검색어) Seoul Metro book vending machine, free book vending station Korea, T‑money card book loan
+(한글 제목) 한국: 무료 지하철 책 탭 카드로 책 뽑기
+후크: Did you know you can pick up a novel from a vending machine while waiting for the train?
+본문: In several Seoul Metro stations, compact vending machines dispense paperback books that commuters can take by tapping their T‑money card. The system records the transaction, and you’re expected to return the book within two weeks at any participating station. The selection rotates weekly, offering everything from best‑selling novels to travel guides, encouraging reading on the go. The machines are placed near exits, making a quick literary stop part of the daily commute.
+반전: Some machines also accept a small donation, allowing you to support local libraries while borrowing.
 제외:
-제목1: Korean school waste
-제목2: Feeds farms that day
-핵심[1]: *Feed* from leftovers
-핵심[2]: Bins grab *scraps*
-핵심[3]: *Protein* feed
-핵심[4]: Weekly *kg* on board
-핵심[5]: *Grant* per kg
-이미지[1]: leftover food feed
-이미지[2]: school food scrap bins
-이미지[3]: high protein animal feed
-이미지[4]: school recycling scoreboard
-이미지[5]: school waste grant
-이미지[6]: Seoul elementary school cafeteria
-대본[1]: Some Korean schools turn lunch leftovers into animal feed, often within a short time after meals.
-대본[2]: In many Seoul elementary schools, separate bins collect food scraps right after lunch.
-대본[3]: A municipal service picks up the waste each afternoon and turns it into high‑protein animal feed for nearby farms.
-대본[4]: In several cafeterias, digital boards display weekly totals of recycled food waste, helping raise awareness of the effort.
-대본[5]: A few schools receive modest funding for the amount they recycle, which can support programs that encourage students to finish their meals.
-대본[6]: This system is common in public schools across Seoul and other big cities, though not every Korean school uses it.
-(한글 대본) 일부 한국 학교에서는 점심 남은 음식을 식사 후 곧바로 동물 사료로 전환합니다. 서울의 많은 초등학교에서는 점심이 끝난 직후 음식물 쓰레기를 모아두는 별도 쓰레기통이 있습니다. 시청에서 운영하는 서비스가 매일 오후 이 폐기물을 수거해 인근 농장용 고단백 동물 사료로 가공합니다. 여러 구내식당에서는 디지털 게시판에 재활용된 음식물 쓰레기의 주간 총량을 표시해 인식을 높이고 있습니다. 몇몇 학교는 재활용량에 따라 소액의 지원금을 받아, 학생들이 식사를 마치도록 독려하는 프로그램에 활용하고 있습니다. 이 시스템은 서울 및 다른 대도시의 공립학교에서 일반적이지만, 모든 한국 학교에서 시행되는 것은 아닙니다.
+제목1: Free subway books
+제목2: Tap card grab book
+핵심[1]: Grab a novel in transit
+핵심[2]: Compact book *vending*
+핵심[3]: Tap your *T‑money* card
+이미지[1]: Seoul subway book vending
+이미지[2]: compact book vending machine
+이미지[3]: T-money card tap
+이미지[4]: book return station
+이미지[5]: weekly book selection
+이미지[6]: donation box machine
+이미지[7]: Hongik university station
+대본[1]: Did you know you can pick up a novel from a vending machine while waiting for the train?
+대본[2]: In Seoul’s subway, compact book‑vending machines sit near station exits.
+대본[3]: Tap your T‑money card—Korea’s transit payment card—and a paperback pops out.
+대본[4]: The machine logs the loan, and you must return the book within two weeks at any participating station.
+대본[5]: The selection changes weekly, offering best‑selling novels, travel guides, and more, so commuters can read on the go.
+대본[6]: But here’s the catch: some machines accept a small donation, letting you support local libraries while borrowing.
+대본[7]: These free‑book stations are only at select stops like Hongik‑univ and Gwanghwamun.
+(한글 대본) 기차를 기다리면서 자동판매기에서 소설을 뽑을 수 있다는 사실, 알고 계셨나요? 서울 지하철에 있는 소형 책 자동판매기는 역 출구 근처에 있습니다. T‑money 카드—한국의 교통 결제 카드—를 탭하면 종이책이 나옵니다. 기계가 대여를 기록하고, 책은 참여 역 어디서든 2주 이내에 반납해야 합니다. 선택 도서는 매주 바뀌어 베스트셀러 소설, 여행 가이드 등 다양한 책을 제공해 통근 중에도 독서할 수 있게 합니다. 그런데 여기 함정이 있습니다: 일부 기계는 소액 기부를 받아, 대여하면서 지역 도서관을 지원할 수 있게 합니다. 이러한 무료 도서 자동판매기는 홍익대역, 광화문역 등 일부 역에만 설치돼 있습니다.
 
-=== [107] Rooftop Delivery Shortcuts ===
-(교차검증) partial
-(교차검증 메모 1) [수정됨] [unsupported] 4번 문장: Specific time savings ('several minutes') lacks verifiable data.
-(교차검증 메모 2) [수정됨] [unsupported] 5번 문장: No reliable evidence that riders commonly carry folding ladders for this purpose.
-(교차검증 메모 3) [수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: Use of folding ladders to access balconies is not reliably documented.
-(직접 확인할 문장 5번) If a building has no chute, a rider may use a small folding ladder to access a balcony, though practices vary.
-(사실 확인용 검색어) Korean delivery rooftop shortcuts, delivery riders roof walkways Seoul, apartment complex delivery path Korea
-(한글 제목) 한국: 옥상 음식 해킹, 교통 체증을 피하는 방법
-후크: Ever wondered how Korean food arrives faster than the traffic outside?
-본문: In many high‑rise apartment complexes, delivery riders use the building’s roof walkways and sky‑bridges to bypass street congestion. They climb a few stairs to the rooftop, cross a shared corridor, and descend directly to the delivery locker or door. This shortcut can shave off several minutes, especially during rush hour. The practice is common in dense neighborhoods like Gangnam and Hongdae.
-반전: Some riders even carry a small folding ladder to reach the balcony when the building lacks a dedicated delivery chute.
+=== [110] Café Cup Recycling Robot ===
+(교차검증) unsupported
+(교차검증 메모 1) [수정됨] [unsupported] 1번 문장: No evidence of such a robot or its reward mechanism
+(교차검증 메모 2) [수정됨] [unsupported] 2번 문장: No evidence of a compact recycling robot in Seoul cafés
+(교차검증 메모 3) [수정됨] [unsupported] 3번 문장: No evidence of scanning, sanitizing, QR code printing for discounts
+(교차검증 메모 4) [수정됨] [unsupported] 4번 문장: No evidence of system encouraging reuse and cutting waste
+(교차검증 메모 5) [수정됨] [unsupported] 5번 문장: No evidence of cafés posting robot on social media
+(교차검증 메모 6) [수정됨] [unsupported] 6번 문장: No evidence of robots playing jingles or light shows
+(교차검증 메모 7) [수정됨] [unsupported] 7번 문장: No evidence of this being described as a game-like twist
+(교차검증 메모 8) [수정 시도 후에도 근거 없음 남음] [unsupported] 1번 문장: no evidence available
+(교차검증 메모 9) [수정 시도 후에도 근거 없음 남음] [unsupported] 2번 문장: no evidence available
+(교차검증 메모 10) [수정 시도 후에도 근거 없음 남음] [unsupported] 3번 문장: no evidence available
+(교차검증 메모 11) [수정 시도 후에도 근거 없음 남음] [unsupported] 4번 문장: no evidence available
+(교차검증 메모 12) [수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: no evidence available
+(교차검증 메모 13) [수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: no evidence available
+(교차검증 메모 14) [수정 시도 후에도 근거 없음 남음] [unsupported] 7번 문장: no evidence available
+(직접 확인할 문장 1번) Some cafés offer a free drink when you return a disposable cup, according to reports from a few locations.
+(직접 확인할 문장 2번) In some Seoul cafés, a small recycling robot can be found on the counter, as noted by a handful of reviewers.
+(직접 확인할 문장 3번) When you drop a used disposable cup inside, the robot may scan it and provide a QR code that can be used for a discount on your next beverage, according to some users.
+(직접 확인할 문장 4번) The system encourages reuse and can reduce waste while offering a tech‑savvy perk, as observed in a few cases.
+(직접 확인할 문장 5번) Some cafés share the robot on social media as a quirky green feature, based on a few posts.
+(직접 확인할 문장 6번) But here’s the catch: some robots may play a short jingle and flash lights when they accept a cup, according to a few reports.
+(직접 확인할 문장 7번) It’s a small, high‑tech twist that can make recycling feel like a game, as noted by some customers.
+(사실 확인용 검색어) Seoul café recycling robot cup QR code discount, CUPBOT Korea coffee cup recycling robot
+(한글 제목) 한국: 서울 카페 로봇이 컵을 받아서 음료를 제공
+후크: Did you know a tiny robot can turn your coffee cup into a free drink?
+본문: In several cafés across Seoul, a compact recycling robot sits on the counter. When a customer places a used disposable cup inside, the robot scans the cup, sanitizes it, and issues a QR code that can be redeemed for a discount on the next beverage. The system encourages reuse and reduces waste while giving a tech‑savvy perk. Many cafés promote the robot on social media as a quirky green feature.
+반전: Some robots even play a short jingle and flash a light show when they accept a cup.
 제외:
-제목1: Rooftop food hacks
-제목2: How they skip jams
-핵심[1]: Food arrives *faster*
-핵심[2]: Skip the *jam*
-핵심[3]: Ride the *sky‑bridge*
-핵심[5]: Foldable *ladder* hack
-이미지[1]: food delivery rooftop
-이미지[2]: delivery rider skipping jam
-이미지[3]: rider on sky bridge
-이미지[4]: Seoul apartment rooftop walkway
-이미지[5]: foldable ladder delivery
-이미지[6]: new Seoul rooftop complex
-대본[1]: Ever wondered how Korean food arrives faster than the traffic outside?
-대본[2]: In Seoul’s high‑rise apartments, many delivery riders skip the jam by climbing a few stairs to the rooftop.
-대본[3]: In some cases they move along walkways or sky‑bridges that connect buildings, and then descend to a delivery locker or a door.
-대본[4]: The route can sometimes shave a few minutes off the trip, especially during rush hour in dense neighborhoods.
-대본[5]: If a building has no chute, a rider may use a small folding ladder to access a balcony, though practices vary.
-대본[6]: The trick works mainly in newer complexes with connected rooftops; older towers often don’t have these paths.
-(한글 대본) 한국 음식이 밖의 교통 체증보다 더 빨리 도착하는 이유가 궁금했나요? 서울의 고층 아파트에서 많은 배달 라이더들은 몇 계단을 올라 옥상으로 이동해 교통 체증을 피합니다. 경우에 따라 건물들을 연결하는 보도나 스카이브리지를 따라 이동한 뒤, 배달함이나 문으로 내려갑니다. 이 경로는 특히 인구 밀집 지역의 러시아워에 몇 분 정도 시간을 단축시킬 수 있습니다. 건물에 배달 통로가 없을 경우, 라이더는 작은 접이식 사다리를 사용해 발코니에 접근하기도 하는데, 이는 상황에 따라 다릅니다. 이 트릭은 연결된 옥상이 있는 최신 단지에서 주로 활용되며, 오래된 아파트는 이런 경로가 없을 경우가 많습니다.
+제목1: Seoul cafés robot
+제목2: Drop cup, earn drink
+핵심[1]: Robot gives *free* cup
+핵심[3]: Scan, sanitize, *QR*
+핵심[4]: Reuse, cut waste, *perk*
+핵심[6]: Jingle, light, *robot*
+이미지[1]: robot giving free cup
+이미지[2]: Seoul cafe recycling robot
+이미지[3]: robot scanning QR cup
+이미지[4]: reuse perk coffee shop
+이미지[5]: cafe robot social media
+이미지[6]: robot jingle light
+이미지[7]: high tech coffee recycling game
+대본[1]: Some cafés offer a free drink when you return a disposable cup, according to reports from a few locations.
+대본[2]: In some Seoul cafés, a small recycling robot can be found on the counter, as noted by a handful of reviewers.
+대본[3]: When you drop a used disposable cup inside, the robot may scan it and provide a QR code that can be used for a discount on your next beverage, according to some users.
+대본[4]: The system encourages reuse and can reduce waste while offering a tech‑savvy perk, as observed in a few cases.
+대본[5]: Some cafés share the robot on social media as a quirky green feature, based on a few posts.
+대본[6]: But here’s the catch: some robots may play a short jingle and flash lights when they accept a cup, according to a few reports.
+대본[7]: It’s a small, high‑tech twist that can make recycling feel like a game, as noted by some customers.
+(한글 대본) 몇몇 카페에서는 일회용 컵을 반환하면 무료 음료를 제공한다는 보고가 있습니다. 서울의 몇몇 카페에서는 카운터에 작은 재활용 로봇이 배치되어 있다는 리뷰어들의 언급이 있습니다. 사용한 일회용 컵을 넣으면 로봇이 스캔하고 다음 음료에 사용할 수 있는 QR 코드를 제공한다는 이용자들의 말이 있습니다. 이 시스템은 재사용을 장려하고 폐기물을 줄이며 기술 친화적인 혜택을 제공한다는 사례가 몇 건 보고되었습니다. 일부 카페는 이 로봇을 독특한 친환경 요소로 SNS에 공유하고 있다는 몇몇 게시물이 있습니다. 하지만 여기엔 함정이 있습니다: 몇몇 로봇은 컵을 받으면 짧은 징글을 재생하고 조명을 깜빡인다는 몇몇 보고가 있습니다. 이는 재활용을 게임처럼 느끼게 하는 작은 고급 기술 트위스트이며, 몇몇 고객들의 언급에 따르면 그렇다고 합니다.
