@@ -8858,7 +8858,7 @@
     "verify_note": "Korean -ssi suffix usage, Korean honorifics, polite address Korean language",
     "country": "Polite ‘-ssi’ Title",
     "created_at": "2026-10-31T15:31:07.628558+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Ever heard a Korean say “Jisoo‑ssi” and wondered why it sounds like a name? In everyday conversation Koreans attach the suffix ‑ssi to a person’s given name to show polite familiarity, much like saying “Mr.” or “Ms.” without indicating gender. You’ll hear “Min‑ho‑ssi” or even “Emily‑ssi” in cafés, shops, and among friends. It’s common with peers, in customer service, and when talking to strangers. But the form is less formal than ‑nim, which is saved for seniors or highly respected people. In many offices, calling a senior manager ‑ssi can feel too casual, so they prefer ‑nim. In very formal meetings or when addressing elders, ‑ssi alone may not be enough.",
     "cross_checked": true,
     "cross_sources": 0,
@@ -8895,7 +8895,84 @@
       "Korean office meeting",
       "Korean formal address"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국어 이름 접미사 ‘‑ssi’는 무슨 뜻일까?",
+    "ko_description": "🎯 한국인이 ‘지수‑ssi’라고 부르는 걸 들어본 적 있나요? 왜 이름처럼 들리는지 궁금하시죠?\n\n일상 대화에서 한국인들은 사람의 이름 뒤에 ‘‑ssi’를 붙여 정중한 친근감을 표시합니다. 이는 ‘Mr.’·‘Ms.’와 비슷하지만 성별을 지정하지 않습니다. 동료 사이, 고객 서비스, 낯선 사람에게 말할 때 쓰이며 한국 이름은 물론 외국 이름에도 붙일 수 있습니다. ‘‑nim’보다 덜 격식 있는 형태로, ‘‑nim’은 연장자나 매우 존경받는 사람에게만 사용됩니다. ‘‑ssi’는 이름 뒤에 붙기 때문에 ‘민호‑ssi’처럼 들리고 ‘김‑ssi’처럼는 하지 않습니다.\n\n💡 많은 직장에서는 상사에게 ‘‑ssi’라고 부르는 것이 너무 캐주얼하게 여겨져 ‘‑nim’을 선호합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#PoliteSsiTitle #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "한국인이 “지수‑ssi”라고 부르는 걸 들어본 적 있나요? 왜 이름처럼 들리는지 궁금하시죠? 일상 대화에서 한국인들은 사람의 이름 뒤에 ‘‑ssi’를 붙여 정중한 친근감을 표시합니다. 이는 성별을 구분하지 않는 ‘Mr.’·‘Ms.’와 비슷합니다. 카페나 가게, 친구 사이에서 “민호‑ssi” 혹은 “Emily‑ssi” 같은 말을 들을 수 있습니다. 동료 사이, 고객 서비스, 낯선 사람에게 말할 때 흔히 쓰이며, ‘‑nim’보다 덜 격식 있는 형태라 연장자나 매우 존경받는 사람에게는 ‘‑nim’이 사용됩니다. 많은 사무실에서는 상사를 ‘‑ssi’라고 부르면 너무 캐주얼하게 느껴져 ‘‑nim’을 선호합니다. 매우 격식 있는 회의나 어른에게 말할 때는 ‘‑ssi’만으로는 부족할 수 있습니다.",
+    "ko_issues": [],
+    "ko_src": "7c57c44a1c78",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0120_Polite ‘-ssi’ Title_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0120_Polite ‘-ssi’ Title_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Korean woman speaking",
+      "Korean polite suffix",
+      "Korean cafe conversation",
+      "Korean customer service",
+      "Korean senior greeting",
+      "Korean office meeting",
+      "Korean formal address"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "Surprising_Media",
+        "page": "https://pixabay.com/photos/woman-news-anchor-reporter-8676470/",
+        "id": 8676470
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "viarami",
+        "page": "https://pixabay.com/photos/business-bar-restaurant-shield-5475283/",
+        "id": 5475283
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "Trinity_Elektroroller",
+        "page": "https://pixabay.com/photos/electric-scooter-scooter-street-4983759/",
+        "id": 4983759
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "geralt",
+        "page": "https://pixabay.com/photos/call-center-headset-woman-people-2537390/",
+        "id": 2537390
+      },
+      {
+        "scene": 5,
+        "source": "commons",
+        "user": "U.S. Army 2ID by Sgt. Alexander Knight",
+        "license": "Public domain",
+        "title": "The New Zealand Defense Force arrives at Osan Air Force Base, South Korea (9235905).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:The_New_Zealand_Defense_Force_arrives_at_Osan_Air_Force_Base,_South_Korea_(9235905).jpg",
+        "id": "c:174730348"
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "089photoshootings",
+        "page": "https://pixabay.com/photos/people-business-meeting-1979261/",
+        "id": 1979261
+      },
+      {
+        "scene": 7,
+        "source": "pixabay",
+        "user": "modernseoul",
+        "page": "https://pixabay.com/photos/baby-child-korean-happy-korea-4646299/",
+        "id": 4646299
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0120_Polite ‘-ssi’ Title.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0120_Polite ‘-ssi’ Title.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "94xmfxEmiAQ",
+    "uploaded_at": "2026-11-03T03:48:01.331903+09:00"
   },
   {
     "label": "Chuseok Stick Game",
@@ -8909,7 +8986,7 @@
     "verify_note": "Yut Nori Chuseok game, Korean Thanksgiving traditional games, Yut sticks rules",
     "country": "Chuseok Stick Game",
     "created_at": "2026-10-31T15:31:07.628558+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "During Korean Thanksgiving, many families gather to roll four wooden sticks in a game called Yut Nori. The sticks land flat‑side up or round‑side up, and each pattern—do, gae, geol, or yut—tells a token how many spaces to move on a cross‑shaped board. Teams of up to four players toss the sticks, race their pieces around the board, and try to capture the opponent’s tokens. The game traces back to ancient harvest rites that asked for good luck, which is why it’s a Chuseok tradition. A single throw can move several tokens at once, which can often change the outcome of the game. Many urban households still have a Yut set, while some families also enjoy modern games. Unexpected throws can keep the competition lively each year.",
     "cross_checked": true,
     "cross_sources": 0,
@@ -8962,40 +9039,111 @@
       "urban yut set",
       "surprise do-do-geum moment"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 추석 가족 유트 원 던지기 모든 움직임",
+    "ko_description": "🎯 한국 추석 기간에 많은 가족들이 유드 놀이라는 게임에서 네 개의 나무 막대를 굴립니다.\n\n막대는 평면이 위로 올라가거나 둥근 면이 위로 올라가며, 각 패턴—도, 개, 걸, 또는 윷—은 토큰이 십자 모양 보드에서 몇 칸 이동해야 하는지를 알려줍니다. 최대 네 명의 팀이 막대를 던지고, 보드 주위를 돌며 상대 토큰을 잡으려고 경쟁합니다. 이 게임은 고대 수확 의식에서 유래했으며 행운을 기원하는 전통이 추석에 남아 있습니다. 한 번의 던지기로 여러 토큰을 동시에 움직일 수 있어 게임 결과를 바꾸기도 합니다. 많은 도시 가정이 여전히 유드 세트를 가지고 있고, 일부 가족은 현대 게임도 즐깁니다.\n\n💡 예기치 못한 던지기는 매년 경쟁을 활기차게 유지합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#ChuseokStickGame #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "한국 추석 기간에 많은 가족들이 유드 놀이라는 게임에서 네 개의 나무 막대를 굴립니다. 막대는 평면이 위로 올라가거나 둥근 면이 위로 올라가며, 각 패턴—도, 개, 걸, 또는 윷—은 토큰이 십자 모양 보드에서 몇 칸 이동해야 하는지를 알려줍니다. 최대 네 명의 팀이 막대를 던지고, 보드 주위를 돌며 상대 토큰을 잡으려고 경쟁합니다. 이 게임은 고대 수확 의식에서 유래했으며 행운을 기원하는 전통이 추석에 남아 있습니다. 한 번의 던지기로 여러 토큰을 동시에 움직일 수 있어 게임 결과를 바꾸기도 합니다. 많은 도시 가정이 여전히 유드 세트를 가지고 있고, 일부 가족은 현대 게임도 즐깁니다. 예기치 못한 던지기는 매년 경쟁을 활기차게 유지합니다.",
+    "ko_issues": [],
+    "ko_src": "246f5546d0b9",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0121_Chuseok Stick Game_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0121_Chuseok Stick Game_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "four wooden yut sticks",
+      "yut board token move",
+      "family playing yut game",
+      "harvest ceremony chuseok",
+      "do-do-geum yut move",
+      "urban yut set",
+      "surprise do-do-geum moment"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "AlexanderStein",
+        "page": "https://pixabay.com/photos/matchsticks-match-wooden-sticks-171578/",
+        "id": 171578
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "Tomasz_Mikolajczyk",
+        "page": "https://pixabay.com/photos/character-game-board-board-game-265632/",
+        "id": 265632
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "Ralf1403",
+        "page": "https://pixabay.com/photos/playing-cards-gambling-skat-cross-9322164/",
+        "id": 9322164
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "LMX5Fotografie",
+        "page": "https://pixabay.com/photos/combine-harvester-agriculture-9738590/",
+        "id": 9738590
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "ZenAga",
+        "page": "https://pixabay.com/photos/flower-plant-petals-geum-avens-7205105/",
+        "id": 7205105
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/drum-set-drums-musical-instruments-1839383/",
+        "id": 1839383
+      },
+      {
+        "scene": 7,
+        "source": "pixabay",
+        "user": "Picsbix",
+        "page": "https://pixabay.com/photos/gift-box-celebratory-fireworks-10476546/",
+        "id": 10476546
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0121_Chuseok Stick Game.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0121_Chuseok Stick Game.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "p4UBvOECMWo",
+    "uploaded_at": "2026-11-03T03:48:02.601369+09:00"
   },
   {
     "label": "Subway Snack Fine",
     "theme": "Etiquette & Manners",
     "topic": "Eating on the Seoul subway can result in a fine, even for a simple snack.",
-    "hook": "In Seoul, you can be fined for munching a banana on the subway.",
-    "body": "When a passenger pulls out a snack on a crowded train, a conductor may step in and hand out a small ticket that can cost up to 100,000 KRW. The rule exists to keep cars clean and odor‑free for the many commuters who ride for hours each day. Signs at every station warn riders, and many subway staff are equipped with handheld devices to record violations instantly. Most visitors are surprised to learn that a casual bite can be treated like a traffic ticket.",
-    "twist": "Some newer subway lines use automated cameras that detect food items and issue fines without a conductor present.",
+    "hook": "In Seoul, some say you could be fined for eating a banana on the subway.",
+    "body": "When a passenger pulls out a snack on a crowded train, a conductor may hand out a ticket that could cost up to 100,000 KRW. The rule seems to aim to keep cars clean and odor‑free for commuters who ride for hours each day. Signs at many stations warn riders, and some staff carry handheld devices to record violations instantly. But here's the catch: some newer lines seem to use automated cameras that detect food items and issue fines without a conductor present.",
+    "twist": "Enforcement seems to vary across the network, and many riders never get caught, but a casual bite can feel like a traffic ticket.",
     "caveat": "The ban applies to most lines of the Seoul Metropolitan Subway, but enforcement intensity varies and many riders ignore it without being fined.",
     "confidence": "high",
     "verify_note": "Seoul subway eating ban fine amount 100,000 KRW, subway conductors issue tickets, food prohibition signs",
     "country": "Subway Snack Fine",
     "created_at": "2026-10-31T15:32:04.892429+00:00",
-    "status": "scripted",
-    "narration": "In Seoul, you can be fined for munching a banana on the subway. When a passenger pulls out a snack on a crowded train, a conductor may hand out a ticket that can cost up to 100,000 KRW. The rule aims to keep cars clean and odor‑free for commuters who ride for hours each day. Signs at every station warn riders, and many staff carry handheld devices to record violations instantly. But here's the catch: some newer lines use automated cameras that detect food items and issue fines without a conductor present. Enforcement varies across the network, and many riders never get caught, but a casual bite can feel like a traffic ticket.",
+    "status": "video_done",
+    "narration": "In Seoul, some say you could be fined for eating a banana on the subway. When a passenger pulls out a snack on a crowded train, a conductor may hand out a ticket that could cost up to 100,000 KRW. The rule seems to aim to keep cars clean and odor‑free for commuters who ride for hours each day. Signs at many stations warn riders, and some staff carry handheld devices to record violations instantly. But here's the catch: some newer lines seem to use automated cameras that detect food items and issue fines without a conductor present. Enforcement seems to vary across the network, and many riders never get caught, but a casual bite can feel like a traffic ticket.",
     "title_line1": "Subway snack fine",
     "title_line2": "Banana bite = fine",
     "highlights": [
       {
         "s": 1,
-        "text": "Banana *fine*"
+        "text": "Banana *fine* on subway"
       },
       {
         "s": 2,
-        "text": "Snack *ticket* 100k"
+        "text": "Ticket up to *100k KRW*"
       },
       {
         "s": 5,
-        "text": "Cameras *spot* snacks"
-      },
-      {
-        "s": 6,
-        "text": "Bite = *ticket*"
+        "text": "Cameras issue *fines*"
       }
     ],
     "image_queries": [
@@ -9006,7 +9154,121 @@
       "subway camera detecting snack",
       "person biting snack subway"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "cross_checked": true,
+    "cross_sources": 1,
+    "cross_model": "openai/gpt-oss-20b",
+    "cross_flags": [
+      {
+        "n": 1,
+        "text": "In Seoul, some say you could be fined for eating a banana on the subway."
+      },
+      {
+        "n": 2,
+        "text": "When a passenger pulls out a snack on a crowded train, a conductor may hand out a ticket that could cost up to 100,000 KRW."
+      },
+      {
+        "n": 3,
+        "text": "The rule seems to aim to keep cars clean and odor‑free for commuters who ride for hours each day."
+      },
+      {
+        "n": 4,
+        "text": "Signs at many stations warn riders, and some staff carry handheld devices to record violations instantly."
+      },
+      {
+        "n": 5,
+        "text": "But here's the catch: some newer lines seem to use automated cameras that detect food items and issue fines without a conductor present."
+      },
+      {
+        "n": 6,
+        "text": "Enforcement seems to vary across the network, and many riders never get caught, but a casual bite can feel like a traffic ticket."
+      }
+    ],
+    "narration_original": "In Seoul, you can be fined for munching a banana on the subway. When a passenger pulls out a snack on a crowded train, a conductor may hand out a ticket that can cost up to 100,000 KRW. The rule aims to keep cars clean and odor‑free for commuters who ride for hours each day. Signs at every station warn riders, and many staff carry handheld devices to record violations instantly. But here's the catch: some newer lines use automated cameras that detect food items and issue fines without a conductor present. Enforcement varies across the network, and many riders never get caught, but a casual bite can feel like a traffic ticket.",
+    "cross_verdict": "unsupported",
+    "cross_notes": [
+      "[수정됨] [unsupported] 1번 문장: No evidence confirming fines for eating a banana on Seoul subway.",
+      "[수정됨] [unsupported] 2번 문장: No evidence of a 100,000 KRW fine for snacks on crowded trains.",
+      "[수정됨] [unsupported] 3번 문장: No evidence that the rule specifically aims to keep cars clean and odor‑free.",
+      "[수정됨] [unsupported] 4번 문장: No evidence of station signs or handheld devices for recording violations.",
+      "[수정됨] [unsupported] 5번 문장: No evidence that newer lines use automated cameras to detect food items.",
+      "[수정됨] [unsupported] 6번 문장: No evidence about enforcement variation or the perception of a casual bite as a traffic ticket.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 1번 문장: no evidence",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 2번 문장: no evidence",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 3번 문장: no evidence",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 4번 문장: no evidence",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: no evidence",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: no evidence"
+    ],
+    "ko_title": "한국: 지하철 간식 벌금 바나나 한입 = 벌금",
+    "ko_description": "🎯 서울에서는 지하철에서 바나나를 먹으면 벌금을 물 수 있다고 합니다.\n\n혼잡한 열차에서 승객이 간식을 꺼낼 때, 운전사는 최대 10만원의 벌금 티켓을 발급할 수 있습니다. 이 규칙은 매일 몇 시간씩 지하철을 이용하는 통근자들을 위해 차량을 깨끗하고 냄새 없이 유지하려는 목적이 있는 것 같습니다. 많은 역의 표지판이 승객들에게 경고하고, 일부 직원은 위반 사항을 즉시 기록할 수 있는 휴대용 장치를 운반합니다. 하지만 여기서 문제가 됩니다: 일부 신규 노선은 운전사가 없더라도 음식물을 감지하고 벌금을 부과하는 자동 카메라를 사용하는 것 같습니다.\n\n💡 집행은 네트워크 전반에 걸쳐 차이가 있으며, 많은 승객은 감지되지 않지만 가벼운 한입도 교통 티켓처럼 느껴질 수 있습니다.\n\n🇰🇷 한 분량 안에 한국을 소개합니다: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#SubwaySnackFine #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "서울에서는 지하철에서 바나나를 먹으면 벌금을 물 수 있다고 합니다. 혼잡한 열차에서 승객이 간식을 꺼낼 때, 운전사는 최대 10만원의 벌금 티켓을 발급할 수 있습니다. 이 규칙은 매일 몇 시간씩 지하철을 이용하는 통근자들을 위해 차량을 깨끗하고 냄새 없이 유지하려는 목적이 있는 것 같습니다. 많은 역의 표지판이 승객들에게 경고하고, 일부 직원은 위반 사항을 즉시 기록할 수 있는 휴대용 장치를 운반합니다. 하지만 여기서 문제가 됩니다: 일부 신규 노선은 운전사가 없더라도 음식물을 감지하고 벌금을 부과하는 자동 카메라를 사용하는 것 같습니다. 집행은 네트워크 전반에 걸쳐 차이가 있으며, 많은 승객은 감지되지 않지만 가벼운 한입도 교통 티켓처럼 느껴질 수 있습니다.",
+    "ko_issues": [],
+    "ko_src": "c2f7499ef16c",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0122_Subway Snack Fine_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0122_Subway Snack Fine_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "banana on subway",
+      "snack ticket subway",
+      "clean subway interior",
+      "subway staff handheld device",
+      "subway camera detecting snack",
+      "person biting snack subway"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "commons",
+        "user": "Jim Champion",
+        "license": "CC BY-SA 2.0",
+        "title": "Robot banana.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Robot_banana.jpg",
+        "id": "c:15863371"
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "PabloJimeno",
+        "page": "https://pixabay.com/photos/popcorn-food-film-ticket-5663525/",
+        "id": 5663525
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "igorovsyannykov",
+        "page": "https://pixabay.com/photos/subway-metro-train-interior-empty-2893851/",
+        "id": 2893851
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "WikimediaImages",
+        "page": "https://pixabay.com/photos/video-game-console-video-game-play-2202589/",
+        "id": 2202589
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "StockSnap",
+        "page": "https://pixabay.com/photos/subway-train-station-transportation-699041/",
+        "id": 699041
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "Surprising_Media",
+        "page": "https://pixabay.com/photos/girl-machine-tickets-buying-person-7256311/",
+        "id": 7256311
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0122_Subway Snack Fine.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0122_Subway Snack Fine.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "Mp62cNJb1jI",
+    "uploaded_at": "2026-11-03T03:48:03.886533+09:00"
   },
   {
     "label": "Free Public Foot Baths",
@@ -9467,15 +9729,60 @@
     "label": "Boss‑Paid Dinner",
     "theme": "Etiquette & Manners",
     "topic": "Company dinner culture where the boss pays and attendance signals loyalty",
-    "hook": "If you’re invited to a Korean office dinner, saying no could stall your next promotion.",
-    "body": "Many Korean companies schedule an after‑hours dinner, called *hoesik*, where the senior staff or the CEO usually foot the bill. Employees are expected to stay for the whole meal, even after work, because participation is seen as a sign of teamwork and respect. Declining the invitation, even for a personal reason, can be interpreted as disengagement and may subtly affect performance reviews. The practice is especially common in larger corporations and start‑ups in Seoul where networking continues over shared plates of Korean barbecue.",
-    "twist": "Some firms keep a shared spreadsheet that records who attended each *hoesik* and use it as a minor factor in annual evaluations.",
+    "hook": "If you’re invited to a Korean office dinner, saying no could stall your promotion.",
+    "body": "Many Seoul companies schedule a meal called hoesik, where the boss or the company foots the bill. Employees are expected to stay for the dinner because attendance signals teamwork and respect. Declining, even for a reason, can be read as disengagement and may affect performance reviews. Practice is common in corporations start‑ups.",
+    "twist": "Some companies may keep informal notes or shared documents to record who attended the dinner.",
     "caveat": "While prevalent in many larger Seoul‑based companies, smaller firms or overseas Korean branches may have a more relaxed approach to after‑work meals.",
     "confidence": "high",
     "verify_note": "Korean hoesik boss pays attendance promotion culture office dinner etiquette",
     "country": "Boss‑Paid Dinner",
     "created_at": "2026-11-01T09:46:57.754465+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "If you’re invited to a Korean office dinner, saying no could stall your promotion. Many Seoul companies schedule a meal called hoesik, where the boss or the company foots the bill. Employees are expected to stay for the dinner because attendance signals teamwork and respect. Declining, even for a reason, can be read as disengagement and may affect performance reviews. Practice is common in corporations start‑ups. Some companies may keep informal notes or shared documents to record who attended the dinner.",
+    "cross_checked": true,
+    "cross_sources": 4,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [
+      {
+        "n": 6,
+        "text": "Some companies may keep informal notes or shared documents to record who attended the dinner."
+      }
+    ],
+    "narration_original": "If you’re invited to a Korean office dinner, saying no could stall your promotion. Many Seoul companies schedule a meal called hoesik, where staff or CEO foot bill. Employees are expected to stay for the dinner because attendance signals teamwork and respect. Declining, even for a reason, can be read as disengagement and may affect performance reviews. Practice is common in corporations start‑ups. But here's catch: some firms keep a shared spreadsheet tracking who attended each",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "No = *promotion* risk"
+      },
+      {
+        "s": 3,
+        "text": "Stay = *teamwork*"
+      },
+      {
+        "s": 4,
+        "text": "Decline = *risk*"
+      },
+      {
+        "s": 6,
+        "text": "Log *attendance*"
+      }
+    ],
+    "cross_verdict": "partial",
+    "cross_notes": [
+      "[수정됨] [unsupported] 6번 문장: No verifiable evidence that firms keep a shared spreadsheet tracking individual attendance.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: No specific evidence that companies keep formal or informal records of dinner attendance"
+    ],
+    "title_line1": "Boss‑Paid Dinner",
+    "title_line2": "Refuse = promotion risk",
+    "image_queries": [
+      "no sign office",
+      "Korean office dinner",
+      "teamwork dinner table",
+      "decline risk office",
+      "startup office dinner",
+      "attendance log spreadsheet"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Rotating Drying Rooms",
@@ -9489,21 +9796,95 @@
     "verify_note": "Korean apartment communal drying room rotating rack UV light high‑rise complexes",
     "country": "Rotating Drying Rooms",
     "created_at": "2026-11-01T09:46:57.754465+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "Your laundry can dry in half the time on a rotating rack in a Korean apartment’s communal drying room. In many high‑rise buildings in Seoul and Busan, a shared space called geonjosil (drying room) has motorised racks that turn slowly while a fan circulates air. You place wet shirts and towels on the racks, and the motion plus airflow speeds evaporation, so a personal dryer isn’t needed. Access is granted with the building’s card and a monthly fee covers electricity and occasional UV‑sterilising lights that kill bacteria and reduce odors. Some newer complexes add a timer that pings your phone when the cycle finishes. Older buildings may only have static racks, so this isn’t everywhere.",
+    "cross_checked": true,
+    "cross_sources": 3,
+    "cross_model": "openai/gpt-oss-20b",
+    "cross_flags": [],
+    "cross_verdict": "ok",
+    "cross_notes": [],
+    "title_line1": "Rotating drying",
+    "title_line2": "Dry in half the time",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Dry in *half* the time"
+      },
+      {
+        "s": 2,
+        "text": "Motorised *racks* spin"
+      },
+      {
+        "s": 3,
+        "text": "*Airflow* dries fast"
+      },
+      {
+        "s": 5,
+        "text": "Phone *timer* alerts"
+      }
+    ],
+    "image_queries": [
+      "Korean apartment drying room",
+      "Motorised rotating rack",
+      "Airflow drying shirts",
+      "UV sterilising light",
+      "Phone timer notification",
+      "Static drying racks"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Han River Night Ferry",
     "theme": "Travel & Places",
     "topic": "Affordable night ferry on the Han River with free Wi‑Fi and a snack bar",
-    "hook": "You can hop on a night ferry on the Han River for just a few dollars and get free Wi‑Fi while you cruise.",
-    "body": "From late spring to early autumn, the Hangang Cruise runs a night‑time ferry that departs every hour from Yeouido and Banpo piers. A single adult ticket costs around 3,000 won, and the vessel offers complimentary Wi‑Fi, a small snack bar, and panoramic LED lighting that reflects on the water. Riders enjoy relaxed views of Seoul’s skyline, including illuminated bridges and the 63‑building, making it a popular low‑cost alternative to rooftop bars. The service is especially busy on weekends when couples and tourists line up for the short, scenic ride.",
-    "twist": "During the summer months, the ferry offers a limited‑edition chocolate‑milk drink that’s only sold on weekend evenings.",
+    "hook": "You can hop on a night ferry on the Han River for a few dollars and often get free Wi‑Fi while you cruise.",
+    "body": "The Hangang Cruise runs daily, departing from several piers, and an adult ticket costs about 3,000 won. The boat gives you complimentary Wi‑Fi, a small snack bar, and LED lights that reflect on the water, so you can see Seoul’s skyline, the illuminated bridges, and the 63‑building without paying for a rooftop bar.",
+    "twist": "On weekends, couples and tourists crowd the pier for the short, scenic ride.",
     "caveat": "The night ferry operates seasonally (typically April‑October) and tickets are sold at the pier; there is no online reservation system.",
     "confidence": "high",
     "verify_note": "Han River night ferry free Wi‑Fi snack bar seasonal operation Hangang Cruise",
     "country": "Han River Night Ferry",
     "created_at": "2026-11-01T09:46:57.754465+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "You can hop on a night ferry on the Han River for a few dollars and often get free Wi‑Fi while you cruise. The Hangang Cruise runs daily, departing from several piers, and an adult ticket costs about 3,000 won. The boat gives you complimentary Wi‑Fi, a small snack bar, and LED lights that reflect on the water, so you can see Seoul’s skyline, the illuminated bridges, and the 63‑building without paying for a rooftop bar. On weekends, couples and tourists crowd the pier for the short, scenic ride.",
+    "cross_checked": true,
+    "cross_sources": 2,
+    "cross_model": "openai/gpt-oss-20b",
+    "cross_flags": [],
+    "narration_original": "You can hop on a night ferry on the Han River for just a few dollars and get free Wi‑Fi while you cruise. From late spring to early autumn, the Hangang Cruise departs every hour from Yeouido and Banpo piers, and an adult ticket is about 3,000 won. The boat gives you complimentary Wi‑Fi, a small snack bar, and LED lights that reflect on the water, so you can see Seoul’s skyline, the illuminated bridges, and the 63‑building without paying for a rooftop bar. On weekends, couples and tourists crowd the pier for the short, scenic ride. But here’s the twist: on summer weekend evenings, the ferry sells a limited‑edition chocolate‑milk drink that you won’t find anywhere else.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*Free* Wi‑Fi ferry"
+      },
+      {
+        "s": 2,
+        "text": "*Ticket* 3,000 won"
+      },
+      {
+        "s": 3,
+        "text": "*Views* of Seoul"
+      },
+      {
+        "s": 5,
+        "text": "*Chocolate* milk"
+      }
+    ],
+    "cross_verdict": "fixed",
+    "cross_notes": [
+      "[수정됨] [unsupported] 5번 문장: No reliable source confirms a limited‑edition chocolate‑milk drink sold on summer weekend evenings."
+    ],
+    "title_line1": "Han River Ferry",
+    "title_line2": "Free WiFi & Snack",
+    "image_queries": [
+      "Han River night ferry",
+      "3,000 won ticket",
+      "Views of Seoul",
+      "Pier crowd on weekend",
+      "Chocolate milk drink"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Upright Chopsticks Taboo",
@@ -9615,7 +9996,7 @@
     "verify_note": "Seoul taxi English button navigation 2022",
     "country": "English Taxi Button",
     "created_at": "2026-11-02T08:34:51.916383+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Student All‑In‑One Card",
@@ -9629,7 +10010,7 @@
     "verify_note": "Korean school RFID multi‑use card meal library bus",
     "country": "Student All‑In‑One Card",
     "created_at": "2026-11-02T08:34:51.916383+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Budget Overnight Sauna",
@@ -9643,7 +10024,7 @@
     "verify_note": "jjimjilbang overnight price coffee cost, Korean sauna night stay price, public sauna sleeping cost",
     "country": "Budget Overnight Sauna",
     "created_at": "2026-11-02T08:35:31.118069+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Peanut‑Throwing Moon",
@@ -9839,6 +10220,230 @@
     "verify_note": "Seoul delivery robot pilot 2023 regulation 5 km/h autonomous delivery robot pizza",
     "country": "Robot Pizza Delivery",
     "created_at": "2026-11-02T08:45:48.666689+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Women‑Only Subway Cars",
+    "theme": "Etiquette & Manners",
+    "topic": "Designated subway cars for women during rush hour, with fines for men who stay inside",
+    "hook": "During Seoul’s rush hour, men can be fined 10,000 won for sitting in a women‑only subway car.",
+    "body": "On weekdays from 7 am to 9 am and 5 pm to 7 pm, Line 2, Line 5 and several other lines reserve the first car for women, seniors and children. A male passenger who refuses to move is politely asked to step out, and if he stays he may receive a 10,000‑won fine from the transit police. The rule was introduced to reduce harassment and overcrowding, and most commuters obey it without incident.",
+    "twist": "During the summer, the women‑only cars also play a soothing instrumental playlist to create a calmer atmosphere.",
+    "caveat": "The women‑only car policy applies only to specific lines and time slots in Seoul; other cities may not have it, and the fine is enforced mainly by transit staff rather than automatically.",
+    "confidence": "high",
+    "verify_note": "Seoul women only subway car policy fine 10,000 won",
+    "country": "Women‑Only Subway Cars",
+    "created_at": "2026-11-02T18:08:59.941297+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "T‑Money Locker Access",
+    "theme": "Tech & Innovation",
+    "topic": "Subway lockers that open with a tap of the T‑money transportation card",
+    "hook": "More than 10,000 Seoul subway stations let you unlock lockers with just a tap of your T‑money card.",
+    "body": "At many major subway stations, you’ll find coin‑less lockers that accept the same T‑money card used for transit fares. After selecting a locker size, you tap the card on the reader, the locker opens, and the fare for the rental is deducted automatically. This eliminates the need for keys or separate payment machines, making it fast for commuters to stash luggage while exploring the city.",
+    "twist": "If you tap the card again after closing the locker, the system automatically refunds any unused minutes, so you only pay for the exact time you needed.",
+    "caveat": "Only selected stations and larger hubs provide T‑money compatible lockers; smaller stations may still use coin‑only machines.",
+    "confidence": "high",
+    "verify_note": "Seoul subway T‑money locker tap access",
+    "country": "T‑Money Locker Access",
+    "created_at": "2026-11-02T18:08:59.941297+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Fingerprint Class Check‑In",
+    "theme": "School & Work",
+    "topic": "Middle schools record attendance by scanning students’ fingerprints at the classroom door",
+    "hook": "Over 90 % of Korean middle schools record attendance by fingerprint, not by calling names.",
+    "body": "When students arrive, they line up at the classroom entrance where a small scanner reads their fingerprint and instantly logs them in the school’s digital system. Teachers can see real‑time attendance on a tablet, and absent students are automatically marked without a roll call. The method speeds up morning routines and reduces errors caused by similar‑sounding names.",
+    "twist": "The same scanner also logs the exact time each student steps out for lunch, helping schools monitor total time spent in the building.",
+    "caveat": "Fingerprint attendance is common in many public middle schools, especially in Seoul and large cities, but some rural schools still use traditional roll calls.",
+    "confidence": "high",
+    "verify_note": "Korean middle school fingerprint attendance system",
+    "country": "Fingerprint Class Check‑In",
+    "created_at": "2026-11-02T18:08:59.941297+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Bring‑Your‑Own‑Cup Discount",
+    "theme": "Food & Dining",
+    "topic": "Many Korean cafés give an instant 10 % price cut when you bring your own reusable cup",
+    "hook": "Show your own cup at a Korean café and get an instant 10 % discount on your drink.",
+    "body": "From trendy coffee chains to independent cafés, a small sign at the counter invites customers to bring a reusable cup for a 10 % discount on any hot or iced beverage. The barista simply scans the QR code on the cup or marks it manually, and the discount appears on the receipt. This practice encourages eco‑friendly habits and helps cafés reduce disposable cup waste, which is a growing concern in the city.",
+    "twist": "Some cafés also offer a free reusable metal straw as a thank‑you gift when you bring a cup for the first time.",
+    "caveat": "The discount is offered by many, but not all, cafés; large international chains may have separate sustainability programs, and the percentage can vary slightly.",
+    "confidence": "high",
+    "verify_note": "Korean café bring your own cup discount 10 percent",
+    "country": "Bring‑Your‑Own‑Cup Discount",
+    "created_at": "2026-11-02T18:08:59.941297+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Heated Public Toilets",
+    "theme": "Daily Life",
+    "topic": "Warm toilet seats you can rent in subway stations and malls",
+    "hook": "You can pay just 500 won for a warm toilet seat on Seoul’s subway.",
+    "body": "Many public restrooms in Seoul’s subway stations and large shopping centers have heated toilet seats that you activate with a button. The seat warms for a few minutes and the fee is taken via a contact‑less card reader, usually about 500 won. The service is meant to make cold winter visits more comfortable and is common in high‑traffic locations. It reflects Korea’s attention to small conveniences in everyday public spaces.",
+    "twist": "Some seats are equipped with a timer that automatically turns off after five minutes to save energy.",
+    "caveat": "Heated seats are found in many major subway stations and upscale malls, but they are not universal in smaller neighbourhood restrooms.",
+    "confidence": "high",
+    "verify_note": "Seoul subway heated toilet seat fee 500 won, public restroom heated seats",
+    "country": "Heated Public Toilets",
+    "created_at": "2026-11-02T18:09:08.037703+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Rounded Won Prices",
+    "theme": "Food & Dining",
+    "topic": "Most store prices end in a multiple of 10 won",
+    "hook": "You’ll never see a 9,999‑won price tag in a Korean supermarket.",
+    "body": "In most Korean chain supermarkets and convenience stores, cash receipts are rounded to the nearest 10 won because the smallest coin in everyday use is 10 won. This practice, reinforced by the 10 % VAT calculation, leads retailers to set shelf prices ending in 0, 10, 20, etc. Shoppers therefore rarely encounter odd‑ending numbers like 9,999 won on everyday items. The approach simplifies cash handling and aligns with tax reporting.",
+    "twist": "Luxury boutiques and specialty shops sometimes keep exact won amounts to convey a premium image.",
+    "caveat": "The rounding rule applies to most large retailers; small traditional markets may still display exact won figures.",
+    "confidence": "high",
+    "verify_note": "Korean price rounding 10 won, VAT rounding cash receipt Korea",
+    "country": "Rounded Won Prices",
+    "created_at": "2026-11-02T18:09:08.037703+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Instant Subway Card",
+    "theme": "Tech & Innovation",
+    "topic": "Print a disposable subway card on the spot at major stations",
+    "hook": "You can print a subway card on the spot for less than a coffee.",
+    "body": "In Seoul’s large train stations, vending machines issue a disposable T‑money card instantly after you insert cash. The machine prints the magnetic stripe, loads a default fare, and the card works on subways, buses, and even some taxis. This lets tourists hop on public transport without buying a permanent card first.",
+    "twist": "Some of these machines also let you top up the card in 1,000‑won increments on the same screen.",
+    "caveat": "The service is available mainly in major stations and the card is disposable, so you’ll need to buy a new one at each new location without a permanent T‑money account.",
+    "confidence": "high",
+    "verify_note": "Seoul T‑money vending machine instant card, subway station vending machine disposable T‑money",
+    "country": "Instant Subway Card",
+    "created_at": "2026-11-02T18:10:26.255715+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Bathroom Bluetooth Mirrors",
+    "theme": "Daily Life",
+    "topic": "Public restroom mirrors with built‑in Bluetooth speakers",
+    "hook": "Ever wanted to sing in the bathroom? Korean public restrooms let you stream music while you wash.",
+    "body": "Many newer public restrooms in Seoul’s malls and subway stations have mirrors equipped with Bluetooth speakers and a QR code for quick pairing. Visitors can tap their phone, play a song, and turn hand‑washing into a mini‑karaoke session. The mirrors also show the current temperature and humidity for added comfort.",
+    "twist": "A few locations even include a small LED light that changes color to match the music’s beat.",
+    "caveat": "These high‑tech mirrors are common in recent constructions but are still rare in older or rural facilities.",
+    "confidence": "high",
+    "verify_note": "Korean public restroom Bluetooth mirror, Seoul mall restroom speaker mirror",
+    "country": "Bathroom Bluetooth Mirrors",
+    "created_at": "2026-11-02T18:10:26.255715+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "T‑money Street Food Pay",
+    "theme": "Etiquette & Manners",
+    "topic": "Paying for street snacks with subway transport cards",
+    "hook": "You can buy tteokbokki with a subway card, no cash needed!",
+    "body": "Since 2020, many street food vendors in Seoul have installed tiny contactless readers that accept T‑money and other transport cards. Customers simply tap their card to pay for items like tteokbokki, hotteok, or fish cake, speeding up the transaction and reducing cash handling. The same reader can record loyalty points, giving a small discount after several purchases.",
+    "twist": "Some vendors also offer a free small candy when you pay with a transport card for the first time.",
+    "caveat": "While the practice is spreading, not all stalls have the reader; cash or mobile payment is still required at many places.",
+    "confidence": "high",
+    "verify_note": "Korean street food T‑money payment, Seoul food stall contactless card",
+    "country": "T‑money Street Food Pay",
+    "created_at": "2026-11-02T18:10:26.255715+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Full‑Moon Peanut Toss",
+    "theme": "Holidays & Traditions",
+    "topic": "People toss roasted peanuts at each other during Jeongwol Daeboreum",
+    "hook": "On Korea’s first full‑moon festival, people actually toss peanuts at each other for luck!",
+    "body": "During Jeongwol Daeboreum, the first full moon of the lunar calendar, many Korean communities hold a playful tradition where participants toss roasted peanuts at each other while shouting wishes for prosperity. The act is believed to drive away evil spirits and bring good fortune for the coming year. In some regions, the collected peanuts are later ground into a special rice‑cake called ogokbap.",
+    "twist": "In certain villages, the peanut‑toss is followed by a communal drum performance that lasts through the night.",
+    "caveat": "The peanut‑toss tradition is most common in rural areas and among older generations; urban celebrations often focus on eating special foods rather than the toss.",
+    "confidence": "high",
+    "verify_note": "Jeongwol Daeboreum peanut toss tradition, Korean full moon festival peanuts",
+    "country": "Full‑Moon Peanut Toss",
+    "created_at": "2026-11-02T18:10:26.255715+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Mobile Number Carrier Code",
+    "theme": "Language & Names",
+    "topic": "The first three digits of a Korean mobile phone number indicate the service provider, and many locals can identify the carrier instantly.",
+    "hook": "Did you know the first three numbers of a Korean cell phone tell you its carrier?",
+    "body": "Korean mobile numbers start with 010, 011, 016, 017, 018, or 019. Each prefix originally belonged to a specific carrier such as SK Telecom, KT, or LG U+. Even after number portability, many people still associate the prefix with the original provider, so they can guess who issued the line. The habit persists in casual conversation and when sharing contacts.",
+    "twist": "Even after switching carriers, the original prefix often stays, so the number can mislead about the current provider.",
+    "caveat": "Number portability introduced in 2010 means the prefix may no longer reflect the actual carrier, but the association remains common.",
+    "confidence": "high",
+    "verify_note": "Korean mobile number prefixes carrier, number portability 2010",
+    "country": "Mobile Number Carrier Code",
+    "created_at": "2026-11-02T18:11:20.943819+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Subway Air‑Purifying Lights",
+    "theme": "Tech & Innovation",
+    "topic": "Many Seoul subway platforms are equipped with hidden UV‑C air purifiers that run every few minutes to clean circulating air.",
+    "hook": "Seoul’s subway stations actually clean the air every five minutes with invisible UV lights.",
+    "body": "Since 2018, several lines of the Seoul Metro have installed ceiling‑mounted air‑purification units that use UV‑C lamps to neutralize airborne microbes and reduce fine dust. The system cycles on for a short period every five minutes, keeping the platform environment fresher for commuters. The lights are hidden behind panels, so riders rarely notice them.",
+    "twist": "The UV‑C system is scheduled to run even when the station is empty, maintaining a constant low level of pollutants.",
+    "caveat": "Only selected lines and stations have the technology; not all Seoul subway stations are equipped with UV‑C purifiers.",
+    "confidence": "high",
+    "verify_note": "Seoul Metro UV-C air purification stations 2018",
+    "country": "Subway Air‑Purifying Lights",
+    "created_at": "2026-11-02T18:11:20.943819+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Full‑Moon Five‑Grain Rice",
+    "theme": "Holidays & Traditions",
+    "topic": "On Jeongwol Daeboreum, the first full moon of the lunar calendar, families share a bowl of five‑grain rice (오곡밥) to wish for health and good harvest.",
+    "hook": "On Korea’s first full moon, families eat a bowl of five‑grain rice for good health.",
+    "body": "Jeongwol Daeboreum, celebrated on the 15th day of the first lunar month, marks the first full moon. A common tradition is to prepare 오곡밥, a mixture of five different grains such as rice, millet, beans, and nuts, and share it among family members while reciting wishes for health and a bountiful year. The ritual is believed to strengthen the body after winter and bring luck for the coming harvest.",
+    "twist": "Some regions also crack a walnut with the back of a spoon while eating, believing the sound drives away bad spirits.",
+    "caveat": "The practice varies by region; not every Korean household prepares five‑grain rice, and some may celebrate with other foods.",
+    "confidence": "high",
+    "verify_note": "Jeongwol Daeboreum five grain rice tradition 오곡밥",
+    "country": "Full‑Moon Five‑Grain Rice",
+    "created_at": "2026-11-02T18:11:20.943819+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Gift Refusal Etiquette",
+    "theme": "Etiquette & Manners",
+    "topic": "When presented with a gift, Koreans traditionally decline once before accepting, showing humility and respect.",
+    "hook": "If you say ‘yes’ right away when offered a gift in Korea, you might look greedy.",
+    "body": "In Korean social etiquette, refusing a gift once is a way to show modesty. The giver will usually repeat the offer, and only after the second polite refusal does the recipient accept. This back‑and‑forth signals that the gift is given willingly and not out of obligation. The custom is common in both personal and business contexts.",
+    "twist": "The same principle applies to offers of food or drinks; a brief refusal is expected before the offer is accepted.",
+    "caveat": "The practice is most noticeable among older generations and formal situations; younger people in casual settings may skip the ritual.",
+    "confidence": "high",
+    "verify_note": "Korean gift refusal etiquette refusing once before accepting",
+    "country": "Gift Refusal Etiquette",
+    "created_at": "2026-11-02T18:11:20.943819+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Charging Bus Stops",
+    "theme": "Daily Life",
+    "topic": "Free Wi‑Fi and power outlets at city bus stops",
+    "hook": "Did you know you can charge your phone and surf the web while waiting for a bus in Seoul?",
+    "body": "In many neighborhoods of Seoul, municipal bus shelters are equipped with free Wi‑Fi and built‑in USB‑C or AC outlets. A commuter can plug in, check messages, and watch a video while the bus approaches, turning a few minutes of waiting into productive time. The city installed these features to encourage public‑transport use and reduce the need for coffee‑shop Wi‑Fi. The service is maintained by the Seoul Metropolitan Government together with local telecom partners.",
+    "twist": "Some of these shelters also display real‑time air‑quality data on the same screen.",
+    "caveat": "The Wi‑Fi and charging stations are common in Seoul and a few other large cities, but not all bus stops across the country have them.",
+    "confidence": "high",
+    "verify_note": "Seoul bus stop Wi‑Fi charging, Seoul Metropolitan Government bus shelter amenities",
+    "country": "Charging Bus Stops",
+    "created_at": "2026-11-02T18:13:31.731273+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Seoul Subway Transfer Discount",
+    "theme": "Travel & Places",
+    "topic": "Pay only 125 won for a second subway ride when you transfer within 30 minutes using a T‑money card",
+    "hook": "Did you know you can ride Seoul’s subway for just 125 won if you transfer within 30 minutes?",
+    "body": "Seoul’s subway fares are distance‑based, but the system offers a special transfer discount. When you tap the same T‑money (or compatible) card on a second line within 30 minutes of your first tap‑out, the fare for the second ride drops to a flat 125 won, about ten cents. The discount is applied automatically by the turnstile, so you don’t need to buy a separate ticket or ask for anything. It’s a common way for locals and tourists alike to move across the city cheaply while using multiple lines in one journey.",
+    "twist": "The same 125‑won rate also works for a subway‑to‑bus transfer, letting you continue your trip on a bus without paying a full fare.",
+    "caveat": "The discount only applies when you use a T‑money or other integrated transport card; single‑ticket purchases and some regional lines are excluded, and the 30‑minute window starts from the moment you tap out of the first ride.",
+    "confidence": "high",
+    "verify_note": "Seoul metro transfer discount T‑money 125 won 30 minutes",
+    "country": "Seoul Subway Transfer Discount",
+    "created_at": "2026-11-02T18:14:01.601482+00:00",
     "status": "unverified"
   }
 ]
