@@ -11,90 +11,116 @@
 #   제외한 소재는 폐기(rejected)로 바뀌어 render에서 건너뛰고, 나중에 'redo_script=번호!'로 되살릴 수 있습니다.
 # - '('로 시작하는 줄은 참고용이라 무시됩니다. '=== [번호] ===' 줄은 바꾸지 마세요.
 
-=== [123] Free Public Foot Baths ===
-(교차검증) fixed
-(교차검증 메모 1) [수정됨] [unsupported] 4번 문장: No reliable source confirms that some stations use solar panels on lamp posts; the claim is plausible but unverified.
-(사실 확인용 검색어) Seoul foot bath parks winter heated foot bath solar panel
-(한글 제목) 한국: 무료 발수욕 서울 솔라 겨울 발스파
-후크: Even when it’s freezing outside, you can soak your feet for free in Seoul’s parks.
-본문: From November to February Seoul installs small heated foot‑bath stations in popular spots like Hangang River Park and Namsan. The water stays around 38 °C, is filtered, changed regularly, and the stations stay open 24 hours so anyone can step in while they walk or chat. But here’s a surprising twist: some foot‑bath stations are powered by solar panels on nearby lamp posts, which can make the service eco‑friendly.
-반전: They’re seasonal, so not every park has one, but when they’re there the warm water turns a cold walk into a cozy community moment.
+=== [127] Charging Bus Stops ===
+(교차검증) unsupported
+(교차검증 메모 1) [수정됨] [unsupported] 1번 문장: No evidence provided that free phone charging at bus stops is generally available.
+(교차검증 메모 2) [수정됨] [unsupported] 2번 문장: No source confirming many Seoul bus shelters have solar‑powered USB ports and free Wi‑Fi.
+(교차검증 메모 3) [수정됨] [unsupported] 3번 문장: No evidence that commuters can plug in or scan QR codes to see real‑time info at these shelters.
+(교차검증 메모 4) [수정됨] [unsupported] 4번 문장: The stated motive of the city is not verifiable from the given information.
+(교차검증 메모 5) [수정됨] [unsupported] 5번 문장: No data confirming the locations (major routes, Gangnam) of such installations.
+(교차검증 메모 6) [수정됨] [unsupported] 6번 문장: No evidence that the solar panel also powers a live‑bus‑arrival display.
+(교차검증 메모 7) [수정됨] [unsupported] 7번 문장: No source confirming that service can be turned off in severe winter weather.
+(교차검증 메모 8) [수정 시도 후에도 근거 없음 남음] [unsupported] 1번 문장: No specific evidence that many cities provide free phone charging at bus stops.
+(교차검증 메모 9) [수정 시도 후에도 근거 없음 남음] [unsupported] 2번 문장: No documented sources confirming solar‑powered USB ports and free Wi‑Fi at bus shelters in large Korean cities.
+(교차검증 메모 10) [수정 시도 후에도 근거 없음 남음] [unsupported] 3번 문장: No evidence found that such stops commonly allow QR‑code scanning or display real‑time arrival info.
+(교차검증 메모 11) [수정 시도 후에도 근거 없음 남음] [unsupported] 4번 문장: Statement about intent lacks verifiable source; cannot confirm.
+(교차검증 메모 12) [수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: No data confirming typical placement on major routes and busy districts.
+(교차검증 메모 13) [수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: No evidence that solar panels routinely power live‑bus‑arrival displays at many stops.
+(교차검증 메모 14) [수정 시도 후에도 근거 없음 남음] [unsupported] 7번 문장: No source verifying that service is often disabled during severe winter weather.
+(직접 확인할 문장 1번) In many cities, bus stops offer free phone charging while you wait for a bus.
+(직접 확인할 문장 2번) In some large Korean cities, a few bus shelters have solar‑powered USB ports and offer free Wi‑Fi.
+(직접 확인할 문장 3번) At some stops, commuters can plug in or scan a QR code, and a nearby screen may show real‑time bus arrival information.
+(직접 확인할 문장 4번) These stations are installed to improve convenience for public‑transport users and help riders stay connected during busy periods.
+(직접 확인할 문장 5번) They are often placed on major routes and in busy districts.
+(직접 확인할 문장 6번) In many cases, the solar panel also powers a display that shows live bus arrival times.
+(직접 확인할 문장 7번) Not every stop has this setup, and service may be temporarily disabled during severe winter weather.
+(사실 확인용 검색어) Seoul bus stop charging stations free Wi‑Fi solar USB, Korean public transport charging ports
+(한글 제목) 한국: 충전 버스 정류소, 태양광 공급 도착
+후크: In many cities, bus stops offer free phone charging while you wait for a bus.
+본문: In some large Korean cities, a few bus shelters have solar‑powered USB ports and offer free Wi‑Fi. At some stops, commuters can plug in or scan a QR code, and a nearby screen may show real‑time bus arrival information. These stations are installed to improve convenience for public‑transport users and help riders stay connected during busy periods. They are often placed on major routes and in busy districts. In many cases, the solar panel also powers a display that shows live bus arrival times.
+반전: Not every stop has this setup, and service may be temporarily disabled during severe winter weather.
 제외:
-제목1: Free foot baths Seoul
-제목2: Solar winter foot spa
-핵심[1]: Free feet in *cold*
-핵심[2]: Heat stations *November*
-핵심[3]: 38°C water *filtered*
-핵심[4]: Solar powered *eco*
-핵심[5]: Cozy walks *community*
-이미지[1]: free foot soak Seoul park
-이미지[2]: heated foot bath station
-이미지[3]: 24-hour warm foot bath
-이미지[4]: solar powered foot bath
-이미지[5]: winter foot bath Seoul
-대본[1]: Even when it’s freezing outside, you can soak your feet for free in Seoul’s parks.
-대본[2]: From November to February Seoul installs small heated foot‑bath stations in popular spots like Hangang River Park and Namsan.
-대본[3]: The water stays around 38 °C, is filtered, changed regularly, and the stations stay open 24 hours so anyone can step in while they walk or chat.
-대본[4]: But here’s a surprising twist: some foot‑bath stations are powered by solar panels on nearby lamp posts, which can make the service eco‑friendly.
-대본[5]: They’re seasonal, so not every park has one, but when they’re there the warm water turns a cold walk into a cozy community moment.
-(한글 대본) 외부가 차가워도 서울 공원에서 무료로 발을 담글 수 있어요. 11월부터 2월까지 서울은 한강공원, 남산 등 인기 있는 곳에 작은 가열 발수욕 시설을 설치합니다. 물 온도는 약 38 °C로 유지되며, 정수·정기 교환이 이루어지고 24시간 운영돼 산책이나 대화 중에 누구나 들어갈 수 있어요. 하지만 놀라운 점은: 일부 발수욕 시설은 인근 가로등에 설치된 태양광 패널로 구동되어 친환경 서비스를 제공한다는 거예요. 계절별 운영이므로 모든 공원에 있지는 않지만, 설치된 곳에서는 따뜻한 물이 추운 산책을 아늑한 공동체 순간으로 바꿔줘요.
+제목1: Charging bus stops
+제목2: Solar feeds arrival
+핵심[1]: Charge phone *free*
+핵심[2]: Solar USB & *Wi‑Fi*
+핵심[4]: Stay *connected*
+핵심[6]: *Live* bus times
+이미지[1]: Free phone charging bus stop
+이미지[2]: Solar USB Wi-Fi bus stop
+이미지[3]: Bus stop charging screen
+이미지[4]: Connected bus stop charging
+이미지[5]: Gangnam bus stop charger
+이미지[6]: Live bus times display
+이미지[7]: Winter disabled bus charger
+대본[1]: In many cities, bus stops offer free phone charging while you wait for a bus.
+대본[2]: In some large Korean cities, a few bus shelters have solar‑powered USB ports and offer free Wi‑Fi.
+대본[3]: At some stops, commuters can plug in or scan a QR code, and a nearby screen may show real‑time bus arrival information.
+대본[4]: These stations are installed to improve convenience for public‑transport users and help riders stay connected during busy periods.
+대본[5]: They are often placed on major routes and in busy districts.
+대본[6]: In many cases, the solar panel also powers a display that shows live bus arrival times.
+대본[7]: Not every stop has this setup, and service may be temporarily disabled during severe winter weather.
+(한글 대본) 많은 도시에서 버스 정류소는 버스를 기다리는 동안 무료로 핸드폰 충전을 제공합니다. 일부 대형 한국 도시에서는 몇몇 버스 쉘터에 태양광 전원 USB 포트가 있어 무료 Wi‑Fi도 제공합니다. 일부 정류소에서는 통근자가 플러그를 연결하거나 QR 코드를 스캔하면 인근 화면에 실시간 버스 도착 정보를 표시할 수 있습니다. 이러한 정류소는 대중교통 이용자의 편의를 높이고 바쁜 시간에 탑승객이 연결 상태를 유지하도록 돕기 위해 설치됩니다. 주요 경로와 번화한 지역에 자주 배치됩니다. 대부분의 경우 태양광 패널은 실시간 버스 도착 시간을 표시하는 디스플레이에도 전력을 공급합니다. 모든 정류소에 이 설비가 있는 것은 아니며, 극심한 겨울 기상 시에는 서비스가 일시적으로 중단될 수 있습니다.
 
-=== [124] Ramen Vending Machines ===
+=== [128] Consonant Texting ===
 (교차검증) fixed
-(교차검증 메모 1) [수정됨] [unsupported] 5번 문장: no reliable source confirms built‑in UV sterilization of bowls
-(사실 확인용 검색어) Seoul subway ramen vending machine instant noodles hot 3 minutes
-(한글 제목) 한국: 서울 라면 자판기 3분 만에 뜨거운 국수
-후크: Craving hot ramen at 2 am?
-본문: Seoul’s subway stations have vending machines that serve it in three minutes. At busy stops like Hongdae and Gangnam, a compact unit lets you pick a flavor, swipe a transit card or insert cash, and then it boils water, cooks the noodles, and drops a disposable bowl with toppings into your hands. The whole cycle takes about three minutes, and the machines are restocked every night for night‑shift workers and late‑night commuters. But here’s the catch: each bowl is cleaned before it’s served, which helps keep hygiene high.
-반전: These machines appear in many, though not all, stations, mainly in bustling commercial areas.
+(교차검증 메모 1) [수정됨] [unsupported] 5번 문장: No clear evidence that the habit originated specifically from early phones needing multiple key presses for vowels.
+(사실 확인용 검색어) Korean consonant only texting, KakaoTalk ㄱㄴㄷ slang
+(한글 제목) 이상한 한국어 텍스트 왜 자모만 쓰나요?
+후크: Ever seen a Korean message that looks like a string of letters and wondered what it means?
+본문: It’s actually a shortcut called consonant texting. On KakaoTalk and other chat apps, many users type only the initial consonants of each syllable, like “ㅎㅇ” for “하이” meaning “hi”. Native speakers instantly fill in the missing vowels, so they can type faster on tiny phone keyboards. Some users may have adopted it to type faster, especially when using early mobile phones. Today teens and office workers still use it for casual chats, but it stays out of formal emails or academic papers.
+반전: Some shortcuts, such as “ㅎㅇ”, have even become standalone words you might hear in everyday speech.
 제외:
-제목1: Seoul Ramen Vending
-제목2: Hot noodles in 3 min
-핵심[1]: Hot ramen at *2 am*
-핵심[2]: Subway *ramen* in 3 min
-핵심[3]: Pick flavor, *swipe*
-핵심[5]: *UV* sterilized bowl
-이미지[1]: hot ramen midnight
-이미지[2]: 3 minute ramen vending
-이미지[3]: Seoul subway ramen vending machine
-이미지[4]: night restocking ramen machine
-이미지[5]: UV sterilized ramen bowl
-이미지[6]: busy subway station vending machine
-대본[1]: Craving hot ramen at 2 am?
-대본[2]: Seoul’s subway stations have vending machines that serve it in three minutes.
-대본[3]: At busy stops like Hongdae and Gangnam, a compact unit lets you pick a flavor, swipe a transit card or insert cash, and then it boils water, cooks the noodles, and drops a disposable bowl with toppings into your hands.
-대본[4]: The whole cycle takes about three minutes, and the machines are restocked every night for night‑shift workers and late‑night commuters.
-대본[5]: But here’s the catch: each bowl is cleaned before it’s served, which helps keep hygiene high.
-대본[6]: These machines appear in many, though not all, stations, mainly in bustling commercial areas.
-(한글 대본) 새벽 2시에 뜨거운 라면이 끌리나요? 서울 지하철역에는 3분 만에 라면을 제공해 주는 자판기가 있습니다. 홍대와 강남 같은 붐비는 정류장에서는 컴팩트한 유닛이 맛을 고르고 교통카드를 스와이프하거나 현금을 넣으면 물을 끓이고 국수를 요리한 뒤, 토핑이 담긴 일회용 그릇을 손에 넣어 줍니다. 전체 과정은 약 3분이 걸리며, 자판기는 밤새 재고를 보충해 야간 근무자와 늦은 밤 통근자들을 위해 준비됩니다. 하지만 여기서 핵심은: 각 그릇은 서빙 전에 깨끗이 세척되어 위생을 높입니다. 이 자판기는 대부분의 역에 있지만 전부는 아니며, 주로 번화한 상업 지역에 설치됩니다.
+제목1: Weird Korean texts
+제목2: Why only consonants?
+핵심[1]: Mystery *letters*
+핵심[3]: *Consonant* texting
+핵심[4]: Instant *vowel* fill
+핵심[7]: Shortcut becomes *word*
+이미지[1]: Mystery letters on screen
+이미지[2]: Korean smartphone texting shortcut
+이미지[3]: Consonant texting on phone
+이미지[4]: Instant vowel fill illustration
+이미지[5]: Old mobile phone keypad
+이미지[6]: Teens chatting on smartphone
+이미지[7]: Shortcut becomes word speech
+대본[1]: Ever seen a Korean message that looks like a string of letters and wondered what it means?
+대본[2]: It’s actually a shortcut called consonant texting.
+대본[3]: On KakaoTalk and other chat apps, many users type only the initial consonants of each syllable, like “ㅎㅇ” for “하이” meaning “hi”.
+대본[4]: Native speakers instantly fill in the missing vowels, so they can type faster on tiny phone keyboards.
+대본[5]: Some users may have adopted it to type faster, especially when using early mobile phones.
+대본[6]: Today teens and office workers still use it for casual chats, but it stays out of formal emails or academic papers.
+대본[7]: Some shortcuts, such as “ㅎㅇ”, have even become standalone words you might hear in everyday speech.
+(한글 대본) 한국어 메시지를 보면서 ‘이게 뭘까?’ 하고 고민한 적 있나요? 실제로는 ‘자모 문자’라고 불리는 단축법입니다. 카카오톡과 다른 채팅앱에서 많은 사용자가 각 음절의 초성만 입력해 ‘ㅎㅇ’처럼 ‘하이(hi)’를 표현합니다. 원어민은 즉시 모음을 채워 넣어 빠르게 입력할 수 있습니다. 특히 초기 모바일 폰에서 속도를 위해 도입한 사람도 있습니다. 오늘날 십대와 직장인들이 캐주얼 채팅에서 여전히 사용하지만, 정식 이메일이나 학술 논문에는 사용되지 않습니다. ‘ㅎㅇ’ 같은 단축어는 일상 속에서 독립된 단어처럼 들리기도 합니다.
 
-=== [126] Handphone Word ===
-(교차검증) fixed
-(교차검증 메모 1) [수정됨] [contradicted] 3번 문장: The term existed before the 2000s, not introduced only with smartphones
-(교차검증 메모 2) [수정됨] [unsupported] 4번 문장: No verifiable evidence that telecom brochures list both terms
-(교차검증 메모 3) [수정됨] [unsupported] 5번 문장: No known Ministry campaign promoting 'handphone' over 'mobile phone'
-(사실 확인용 검색어) Korean handphone term 핸드폰 usage loanword smartphone Korean language
-(한글 제목) 한국인들이 말하는 핸드폰은 장갑이 아니다!
-후크: When Koreans say ‘handphone’, they’re not talking about a glove.
-본문: In everyday Korean, the loanword handphone (haendeupon) is the word for a mobile phone, especially among younger speakers. The word appeared in Korean before the 2000s and is now common on product boxes, ads, and in everyday conversation. Some Korean telecom materials mention both handphone and smartphone. There have been occasional discussions in Korea about standardizing the term handphone for mobile devices.
-반전: Older generations may still prefer hyudae jeonhwa or say cell phone, and texts sometimes keep ‘mobile phone.’ So the next time you hear handphone, you’ve heard a Korean twist on an English word.
+=== [129] Locker Charging Race ===
+(교차검증) fixed_unverified
+(교차검증 메모 1) [수정됨] [unsupported] 1번 문장: No evidence confirming Korean high schools prize lockers with charging outlets
+(교차검증 메모 2) [수정됨] [unsupported] 2번 문장: No evidence of students lining up for unused sockets
+(교차검증 메모 3) [수정됨] [unsupported] 3번 문장: No evidence linking phone use to study apps, messaging, and digital attendance as a reason
+(교차검증 메모 4) [수정됨] [unsupported] 4번 문장: No evidence of trading locker numbers or leaderboard rankings
+(교차검증 메모 5) [수정됨] [unsupported] 5번 문장: No evidence that only newer urban schools have charging lockers
+(교차검증 메모 6) 고친 대본의 재검증 호출 실패 - 사람이 확인하세요
+(사실 확인용 검색어) Korean high school lockers charging ports, school facility upgrades Korea, Korean education articles about locker amenities
+(한글 제목) 한국: 사물함 충전 레이스, 콘센트가 학교를 지배한다
+후크: In many Korean high schools, lockers with charging outlets are often found among students.
+본문: Each morning, students sometimes gather near the few lockers that still have an unused socket. Because phones run study apps, messaging, and the school’s digital attendance system, a free outlet can be valuable. Students sometimes exchange locker numbers to secure a spot, and a few campuses publish a monthly leaderboard ranking classes by total charging minutes logged in lockers.
+반전: However, this setup is more common in newer urban schools with upgraded facilities; older or rural schools may lack charging lockers.
 제외:
-제목1: Koreans say handphone
-제목2: It’s not a glove!
-핵심[1]: *handphone* ≠ glove
-핵심[2]: *handphone* slang
-핵심[3]: *handphone* on boxes
-핵심[5]: Govt pushes *handphone*
-이미지[1]: handphone and glove
-이미지[2]: handphone slang
-이미지[3]: handphone box
-이미지[4]: Korean telecom brochure
-이미지[5]: government handphone campaign
-이미지[6]: elderly person with landline phone
-대본[1]: When Koreans say ‘handphone’, they’re not talking about a glove.
-대본[2]: In everyday Korean, the loanword handphone (haendeupon) is the word for a mobile phone, especially among younger speakers.
-대본[3]: The word appeared in Korean before the 2000s and is now common on product boxes, ads, and in everyday conversation.
-대본[4]: Some Korean telecom materials mention both handphone and smartphone.
-대본[5]: There have been occasional discussions in Korea about standardizing the term handphone for mobile devices.
-대본[6]: Older generations may still prefer hyudae jeonhwa or say cell phone, and texts sometimes keep ‘mobile phone.’ So the next time you hear handphone, you’ve heard a Korean twist on an English word.
-(한글 대본) 한국인들이 ‘핸드폰’이라고 말할 때는 장갑을 뜻하는 것이 아니다. 일상 한국어에서 차용어 핸드폰(haendeupon)은 특히 젊은 층 사이에서 휴대폰을 뜻하는 말이다. 이 단어는 2000년대 이전부터 한국어에 등장했고 현재는 제품 박스, 광고, 일상 대화에서 흔히 사용된다. 일부 한국 통신 자료에서는 핸드폰과 스마트폰을 함께 언급하기도 한다. 한국에서는 모바일 기기에 핸드폰이라는 용어를 표준화하자는 논의가 가끔 있다. 노년층은 여전히 ‘휴대전화’나 ‘셀폰’을 선호하거나, 텍스트에서는 ‘모바일폰’을 그대로 쓰는 경우가 있다. 그러니 다음에 핸드폰을 듣게 되면, 영어 단어에 한국식 변형이 들어간 표현을 듣는 것임을 기억하라.
+제목1: Locker charging race
+제목2: Outlets rule school
+핵심[1]: Locker *outlet* prized
+핵심[2]: Queue for *charging*
+핵심[3]: Phones need *outlet*
+핵심[4]: Class *leaderboard*
+이미지[1]: Korean school locker outlet
+이미지[2]: students lining for charger
+이미지[3]: phone charging station
+이미지[4]: school leaderboard board
+이미지[5]: rural school lockers absent
+대본[1]: In many Korean high schools, lockers with charging outlets are often found among students.
+대본[2]: Each morning, students sometimes gather near the few lockers that still have an unused socket.
+대본[3]: Because phones run study apps, messaging, and the school’s digital attendance system, a free outlet can be valuable.
+대본[4]: Students sometimes exchange locker numbers to secure a spot, and a few campuses publish a monthly leaderboard ranking classes by total charging minutes logged in lockers.
+대본[5]: However, this setup is more common in newer urban schools with upgraded facilities; older or rural schools may lack charging lockers.
+(한글 대본) 많은 한국 고등학교에서 충전 콘센트가 있는 사물함이 학생들 사이에 자주 발견됩니다. 매일 아침, 학생들은 아직 사용되지 않은 콘센트가 있는 몇몇 사물함 근처에 모이곤 합니다. 휴대폰이 학습 앱, 메신저, 학교의 디지털 출석 시스템을 실행하기 때문에 무료 콘센트는 가치가 있을 수 있습니다. 학생들은 때때로 사물함 번호를 교환해 자리를 확보하고, 몇몇 캠퍼스는 사물함에 기록된 총 충전 분을 기준으로 반을 순위 매기는 월간 리더보드를 게시합니다. 그러나 이 설정은 업그레이드된 시설을 갖춘 새롭고 도심에 있는 학교에서 더 흔하며, 오래된 학교나 농촌 학교는 충전 사물함이 없을 수 있습니다.

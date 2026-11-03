@@ -9654,7 +9654,7 @@
     "verify_note": "Seoul bus stop charging stations free Wi‑Fi solar USB, Korean public transport charging ports",
     "country": "Charging Bus Stops",
     "created_at": "2026-11-01T09:41:26.553818+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "In many cities, bus stops offer free phone charging while you wait for a bus. In some large Korean cities, a few bus shelters have solar‑powered USB ports and offer free Wi‑Fi. At some stops, commuters can plug in or scan a QR code, and a nearby screen may show real‑time bus arrival information. These stations are installed to improve convenience for public‑transport users and help riders stay connected during busy periods. They are often placed on major routes and in busy districts. In many cases, the solar panel also powers a display that shows live bus arrival times. Not every stop has this setup, and service may be temporarily disabled during severe winter weather.",
     "cross_checked": true,
     "cross_sources": 4,
@@ -9736,7 +9736,86 @@
       "Live bus times display",
       "Winter disabled bus charger"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 충전 버스 정류소, 태양광 공급 도착",
+    "ko_description": "🎯 많은 도시에서 버스 정류소는 버스를 기다리는 동안 무료로 핸드폰 충전을 제공합니다.\n\n일부 대형 한국 도시에서는 몇몇 버스 쉘터에 태양광 전원 USB 포트가 있어 무료 Wi‑Fi도 제공합니다. 일부 정류소에서는 통근자가 플러그를 연결하거나 QR 코드를 스캔하면 인근 화면에 실시간 버스 도착 정보를 표시할 수 있습니다. 이러한 정류소는 대중교통 이용자의 편의를 높이고 바쁜 시간에 탑승객이 연결 상태를 유지하도록 돕기 위해 설치됩니다. 주요 경로와 번화한 지역에 자주 배치됩니다. 대부분의 경우 태양광 패널은 실시간 버스 도착 시간을 표시하는 디스플레이에도 전력을 공급합니다.\n\n💡 모든 정류소에 이 설비가 있는 것은 아니며, 극심한 겨울 기상 시에는 서비스가 일시적으로 중단될 수 있습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상생활, 음식, 예절 및 놀라운 사실들.\n\n#ChargingBusStops #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "많은 도시에서 버스 정류소는 버스를 기다리는 동안 무료로 핸드폰 충전을 제공합니다. 일부 대형 한국 도시에서는 몇몇 버스 쉘터에 태양광 전원 USB 포트가 있어 무료 Wi‑Fi도 제공합니다. 일부 정류소에서는 통근자가 플러그를 연결하거나 QR 코드를 스캔하면 인근 화면에 실시간 버스 도착 정보를 표시할 수 있습니다. 이러한 정류소는 대중교통 이용자의 편의를 높이고 바쁜 시간에 탑승객이 연결 상태를 유지하도록 돕기 위해 설치됩니다. 주요 경로와 번화한 지역에 자주 배치됩니다. 대부분의 경우 태양광 패널은 실시간 버스 도착 시간을 표시하는 디스플레이에도 전력을 공급합니다. 모든 정류소에 이 설비가 있는 것은 아니며, 극심한 겨울 기상 시에는 서비스가 일시적으로 중단될 수 있습니다.",
+    "ko_issues": [],
+    "ko_src": "57e954fe5124",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0127_Charging Bus Stops_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0127_Charging Bus Stops_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Free phone charging bus stop",
+      "Solar USB Wi-Fi bus stop",
+      "Bus stop charging screen",
+      "Connected bus stop charging",
+      "Gangnam bus stop charger",
+      "Live bus times display",
+      "Winter disabled bus charger"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "Surprising_Media",
+        "page": "https://pixabay.com/photos/man-stand-bus-stop-urban-searching-7521887/",
+        "id": 7521887
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "stux",
+        "page": "https://pixabay.com/photos/stop-bus-stop-traffic-road-traffic-111392/",
+        "id": 111392
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "WOKANDAPIX",
+        "page": "https://pixabay.com/photos/bus-school-transportation-education-878697/",
+        "id": 878697
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "ernestoeslava",
+        "page": "https://pixabay.com/photos/bus-school-school-bus-education-2690793/",
+        "id": 2690793
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "MeganLeeB",
+        "page": "https://pixabay.com/photos/school-bus-transportation-stop-sign-6561460/",
+        "id": 6561460
+      },
+      {
+        "scene": 6,
+        "source": "commons",
+        "user": "William Murphy from Dublin, Ireland",
+        "license": "CC BY-SA 2.0",
+        "title": "Belfast The Capital Of Northern Ireland (5678961481).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Belfast_The_Capital_Of_Northern_Ireland_(5678961481).jpg",
+        "id": "c:115444306"
+      },
+      {
+        "scene": 7,
+        "source": "commons",
+        "user": "Exj",
+        "license": "CC BY-SA 4.0",
+        "title": "Seoul City Tour Bus, Gwanghwamun Stop 20200115.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Seoul_City_Tour_Bus,_Gwanghwamun_Stop_20200115.jpg",
+        "id": "c:86116478"
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0127_Charging Bus Stops.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0127_Charging Bus Stops.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "gnwfZx5GCSM",
+    "uploaded_at": "2026-11-03T18:18:52.145156+09:00"
   },
   {
     "label": "Consonant Texting",
@@ -9750,7 +9829,7 @@
     "verify_note": "Korean consonant only texting, KakaoTalk ㄱㄴㄷ slang",
     "country": "Consonant Texting",
     "created_at": "2026-11-01T09:41:26.553818+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Ever seen a Korean message that looks like a string of letters and wondered what it means? It’s actually a shortcut called consonant texting. On KakaoTalk and other chat apps, many users type only the initial consonants of each syllable, like “ㅎㅇ” for “하이” meaning “hi”. Native speakers instantly fill in the missing vowels, so they can type faster on tiny phone keyboards. Some users may have adopted it to type faster, especially when using early mobile phones. Today teens and office workers still use it for casual chats, but it stays out of formal emails or academic papers. Some shortcuts, such as “ㅎㅇ”, have even become standalone words you might hear in everyday speech.",
     "cross_checked": true,
     "cross_sources": 4,
@@ -9790,7 +9869,86 @@
       "Teens chatting on smartphone",
       "Shortcut becomes word speech"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "이상한 한국어 텍스트 왜 자모만 쓰나요?",
+    "ko_description": "🎯 한국어 메시지를 보면서 ‘이게 뭘까?’ 하고 고민한 적 있나요?\n\n실제로는 ‘자모 문자’라고 불리는 단축법입니다. 카카오톡과 다른 채팅앱에서 많은 사용자가 각 음절의 초성만 입력해 ‘ㅎㅇ’처럼 ‘하이(hi)’를 표현합니다. 원어민은 즉시 모음을 채워 넣어 빠르게 입력할 수 있습니다. 특히 초기 모바일 폰에서 속도를 위해 도입한 사람도 있습니다. 오늘날 십대와 직장인들이 캐주얼 채팅에서 여전히 사용하지만, 정식 이메일이나 학술 논문에는 사용되지 않습니다.\n\n💡 ‘ㅎㅇ’ 같은 단축어는 일상 속에서 독립된 단어처럼 들리기도 합니다.\n\n🇰🇷 1분 안에 본격적인 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#ConsonantTexting #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "한국어 메시지를 보면서 ‘이게 뭘까?’ 하고 고민한 적 있나요? 실제로는 ‘자모 문자’라고 불리는 단축법입니다. 카카오톡과 다른 채팅앱에서 많은 사용자가 각 음절의 초성만 입력해 ‘ㅎㅇ’처럼 ‘하이(hi)’를 표현합니다. 원어민은 즉시 모음을 채워 넣어 빠르게 입력할 수 있습니다. 특히 초기 모바일 폰에서 속도를 위해 도입한 사람도 있습니다. 오늘날 십대와 직장인들이 캐주얼 채팅에서 여전히 사용하지만, 정식 이메일이나 학술 논문에는 사용되지 않습니다. ‘ㅎㅇ’ 같은 단축어는 일상 속에서 독립된 단어처럼 들리기도 합니다.",
+    "ko_issues": [],
+    "ko_src": "17b6cacb01fd",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0128_Consonant Texting_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0128_Consonant Texting_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Mystery letters on screen",
+      "Korean smartphone texting shortcut",
+      "Consonant texting on phone",
+      "Instant vowel fill illustration",
+      "Old mobile phone keypad",
+      "Teens chatting on smartphone",
+      "Shortcut becomes word speech"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "commons",
+        "user": "Public domain / CC0",
+        "license": "Public domain",
+        "title": "The oaken chest or - The gold mines of Ireland a farce (BM K,64.72).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:The_oaken_chest_or_-_The_gold_mines_of_Ireland_a_farce_(BM_K,64.72).jpg",
+        "id": "c:90150687"
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/woman-smartphone-technology-1847044/",
+        "id": 1847044
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/smartphone-technology-mobile-phone-1281632/",
+        "id": 1281632
+      },
+      {
+        "scene": 4,
+        "source": "commons",
+        "user": "InSapphoWeTrust from Los Angeles, California, USA",
+        "license": "CC BY-SA 2.0",
+        "title": "McCune-Reischauer Romanization (5587390187).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:McCune-Reischauer_Romanization_(5587390187).jpg",
+        "id": "c:24269583"
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "Bru-nO",
+        "page": "https://pixabay.com/photos/phone-mobile-smartphone-2920775/",
+        "id": 2920775
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "natureaddict",
+        "page": "https://pixabay.com/photos/pokemon-pokemongo-friends-school-1548194/",
+        "id": 1548194
+      },
+      {
+        "scene": 7,
+        "source": "pixabay",
+        "user": "viarami",
+        "page": "https://pixabay.com/photos/freedom-of-speech-democracy-internet-7239366/",
+        "id": 7239366
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0128_Consonant Texting.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0128_Consonant Texting.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "5M6IdTTUWs0",
+    "uploaded_at": "2026-11-03T18:18:54.378234+09:00"
   },
   {
     "label": "Locker Charging Race",
@@ -9804,7 +9962,7 @@
     "verify_note": "Korean high school lockers charging ports, school facility upgrades Korea, Korean education articles about locker amenities",
     "country": "Locker Charging Race",
     "created_at": "2026-11-01T09:42:08.278484+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "In many Korean high schools, lockers with charging outlets are often found among students. Each morning, students sometimes gather near the few lockers that still have an unused socket. Because phones run study apps, messaging, and the school’s digital attendance system, a free outlet can be valuable. Students sometimes exchange locker numbers to secure a spot, and a few campuses publish a monthly leaderboard ranking classes by total charging minutes logged in lockers. However, this setup is more common in newer urban schools with upgraded facilities; older or rural schools may lack charging lockers.",
     "cross_checked": true,
     "cross_sources": 4,
@@ -9847,7 +10005,68 @@
       "school leaderboard board",
       "rural school lockers absent"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 사물함 충전 레이스, 콘센트가 학교를 지배한다",
+    "ko_description": "🎯 많은 한국 고등학교에서 학생들 사이에 충전 콘센트가 있는 사물함이 자주 발견됩니다.\n\n매일 아침, 학생들은 아직 사용되지 않은 콘센트가 있는 몇몇 사물함 근처에 모이곤 합니다. 휴대폰이 학습 앱, 메신저, 학교의 디지털 출석 시스템을 실행하기 때문에 무료 콘센트는 가치가 있을 수 있습니다. 학생들은 때때로 사물함 번호를 교환해 자리를 확보하고, 몇몇 캠퍼스는 사물함에 기록된 총 충전 분을 기준으로 반을 순위 매기는 월간 리더보드를 게시합니다.\n\n💡 그러나 이 설정은 업그레이드된 시설을 갖춘 새롭고 도심에 있는 학교에서 더 흔하며, 오래된 학교나 농촌 학교는 충전 사물함이 없을 수 있습니다.\n\n🇰🇷 실제 한국을 1분 안에: 일상 생활, 음식, 예절 및 놀라운 사실들.\n\n#LockerChargingRace #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "많은 한국 고등학교에서 충전 콘센트가 있는 사물함이 학생들 사이에 자주 발견됩니다. 매일 아침, 학생들은 아직 사용되지 않은 콘센트가 있는 몇몇 사물함 근처에 모이곤 합니다. 휴대폰이 학습 앱, 메신저, 학교의 디지털 출석 시스템을 실행하기 때문에 무료 콘센트는 가치가 있을 수 있습니다. 학생들은 때때로 사물함 번호를 교환해 자리를 확보하고, 몇몇 캠퍼스는 사물함에 기록된 총 충전 분을 기준으로 반을 순위 매기는 월간 리더보드를 게시합니다. 그러나 이 설정은 업그레이드된 시설을 갖춘 새롭고 도심에 있는 학교에서 더 흔하며, 오래된 학교나 농촌 학교는 충전 사물함이 없을 수 있습니다.",
+    "ko_issues": [],
+    "ko_src": "1ca7fce7bc94",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0129_Locker Charging Race_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0129_Locker Charging Race_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Korean school locker outlet",
+      "students lining for charger",
+      "phone charging station",
+      "school leaderboard board",
+      "rural school lockers absent"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "elizabethaferry",
+        "page": "https://pixabay.com/photos/school-lockers-hallway-high-school-417612/",
+        "id": 417612
+      },
+      {
+        "scene": 2,
+        "source": "commons",
+        "user": "Abasaa",
+        "license": "Public domain",
+        "title": "Osaka Korean High School.JPG",
+        "page": "https://commons.wikimedia.org/wiki/File:Osaka_Korean_High_School.JPG",
+        "id": "c:46675536"
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "AKrebs60",
+        "page": "https://pixabay.com/photos/charging-station-e-mobility-5212924/",
+        "id": 5212924
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "stux",
+        "page": "https://pixabay.com/photos/black-board-traces-of-chalk-school-1072366/",
+        "id": 1072366
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "tlparadis",
+        "page": "https://pixabay.com/photos/lockers-school-protect-store-94959/",
+        "id": 94959
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0129_Locker Charging Race.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0129_Locker Charging Race.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "mI54fXjHClw",
+    "uploaded_at": "2026-11-03T18:18:56.543140+09:00"
   },
   {
     "label": "Even‑Numbered Seollal Money",
@@ -10311,29 +10530,155 @@
     "label": "Weather‑Smart Bike Sharing",
     "theme": "Tech & Innovation",
     "topic": "Seoul’s public bikes are moved to sheltered stations automatically before rain",
-    "hook": "Seoul’s public bikes actually relocate themselves before the forecast says it will rain.",
-    "body": "The city’s Ddareungi bike‑sharing system uses AI that ingests short‑term weather data and real‑time usage patterns. When rain is predicted within the next hour, electric vans dispatch bikes from exposed docks to nearby indoor or covered stations, often completing the shift before commuters notice the clouds. This proactive move reduces lost rentals and protects the bikes from damage, keeping the system reliable even during sudden showers.",
-    "twist": "The system also sends a push notification to nearby users, suggesting the nearest sheltered dock and offering a small credit for returning a bike there.",
+    "hook": "Seoul’s public bikes sometimes relocate themselves before a rain forecast.",
+    "body": "The Ddareungi bike‑sharing system uses AI that considers short‑term weather data and current bike usage. When rain is predicted within the next hour, electric vans may move bikes from exposed docks to nearby indoor or covered stations, sometimes before commuters notice the clouds. This can keep the bikes safe and the system reliable during sudden showers. But here’s the catch: the system might send a push notification to nearby users, suggesting the nearest sheltered dock and offering a small credit for returning a bike there.",
+    "twist": "This smart move works mainly in central Seoul and other major cities that have the required infrastructure.",
     "caveat": "Predictive relocation operates mainly in central Seoul and other major cities with the required infrastructure; smaller towns may not have the service.",
     "confidence": "high",
     "verify_note": "Seoul Ddareungi bike redistribution weather AI electric vans",
     "country": "Weather‑Smart Bike Sharing",
     "created_at": "2026-11-01T09:47:45.573907+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "Seoul’s public bikes sometimes relocate themselves before a rain forecast. The Ddareungi bike‑sharing system uses AI that considers short‑term weather data and current bike usage. When rain is predicted within the next hour, electric vans may move bikes from exposed docks to nearby indoor or covered stations, sometimes before commuters notice the clouds. This can keep the bikes safe and the system reliable during sudden showers. But here’s the catch: the system might send a push notification to nearby users, suggesting the nearest sheltered dock and offering a small credit for returning a bike there. This smart move works mainly in central Seoul and other major cities that have the required infrastructure.",
+    "cross_checked": true,
+    "cross_sources": 3,
+    "cross_model": "openai/gpt-oss-20b",
+    "cross_flags": [],
+    "narration_original": "Seoul’s public bikes actually relocate themselves before the forecast says it will rain. The Ddareungi bike‑sharing system uses AI that reads short‑term weather data and how many people are using bikes right now. When rain is predicted within the next hour, electric vans move bikes from exposed docks to nearby indoor or covered stations, often before commuters notice the clouds. This keeps the bikes safe and the system reliable during sudden showers. But here’s the catch: the system also sends a push notification to nearby users, suggesting the nearest sheltered dock and offering a small credit for returning a bike there. This smart move works mainly in central Seoul and other major cities with the required infrastructure.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Bikes *self‑move* before rain"
+      },
+      {
+        "s": 2,
+        "text": "AI reads *weather* data"
+      },
+      {
+        "s": 3,
+        "text": "Vans move bikes *inside*"
+      },
+      {
+        "s": 5,
+        "text": "Push *notif* + credit"
+      }
+    ],
+    "cross_verdict": "fixed",
+    "cross_notes": [
+      "[수정됨] [unsupported] 1번 문장: No evidence provided about Seoul bike relocation",
+      "[수정됨] [unsupported] 2번 문장: No evidence about Ddareungi AI usage",
+      "[수정됨] [unsupported] 3번 문장: No evidence about electric vans moving bikes",
+      "[수정됨] [unsupported] 4번 문장: No evidence about safety benefit",
+      "[수정됨] [unsupported] 5번 문장: No evidence about push notifications and credits",
+      "[수정됨] [unsupported] 6번 문장: No evidence about geographic coverage"
+    ],
+    "title_line1": "Seoul bikes move",
+    "title_line2": "before the rain",
+    "image_queries": [
+      "Seoul bikes moving themselves",
+      "AI reading weather data",
+      "Electric vans moving bikes",
+      "Bikes protected from rain",
+      "Push notification for bike credit",
+      "Seoul central bike stations"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Morning Milk Delivery",
     "theme": "Food & Dining",
     "topic": "Fresh milk delivered to homes daily in reusable glass bottles",
-    "hook": "In Seoul, you can get fresh milk delivered to your doorstep every morning, just like the newspaper.",
-    "body": "Many residential complexes in Seoul and other big cities still have a daily milk‑delivery service, known as 우유 배달, run by local dairy co‑ops or private firms. The milk arrives in a reusable glass bottle; you pay a small deposit and the empty bottle is collected when the next delivery comes. Because the milk is pasteurized the same day, customers value its ultra‑fresh taste, and the delivery person often greets residents with a quick hello as they climb the building's ramps.",
-    "twist": "Some delivery routes use tiny electric scooters that can zip up the steep ramps of high‑rise apartments, a sight rarely seen elsewhere.",
+    "hook": "In Seoul, some households often receive fresh milk delivered to their doorstep regularly, similar to a newspaper delivery.",
+    "body": "This service, called 우유 배달, is offered by various dairy co‑ops or private firms in some residential complexes. The milk often arrives in a reusable glass bottle; a small deposit is paid and the empty bottle is collected on the next delivery. Because the milk is pasteurized on the same day, many people appreciate its fresh taste. Delivery people sometimes greet residents with a quick hello as they climb the building’s ramps. But here’s the catch: some routes use tiny electric scooters that zip up the steep ramps of high‑rise apartments, a sight not commonly seen elsewhere.",
+    "twist": "In younger neighborhoods, many people buy milk at convenience stores instead.",
     "caveat": "The service is most common in older neighborhoods and certain high‑rise apartments in Seoul and a few other cities; many younger residents now buy milk at convenience stores.",
     "confidence": "high",
     "verify_note": "Seoul milk delivery service, 우유 배달, glass bottle deposit, morning delivery, Korean dairy cooperatives",
     "country": "Morning Milk Delivery",
     "created_at": "2026-11-02T08:34:17.222551+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "In Seoul, some households often receive fresh milk delivered to their doorstep regularly, similar to a newspaper delivery. This service, called 우유 배달, is offered by various dairy co‑ops or private firms in some residential complexes. The milk often arrives in a reusable glass bottle; a small deposit is paid and the empty bottle is collected on the next delivery. Because the milk is pasteurized on the same day, many people appreciate its fresh taste. Delivery people sometimes greet residents with a quick hello as they climb the building’s ramps. But here’s the catch: some routes use tiny electric scooters that zip up the steep ramps of high‑rise apartments, a sight not commonly seen elsewhere. In younger neighborhoods, many people buy milk at convenience stores instead.",
+    "cross_checked": true,
+    "cross_sources": 4,
+    "cross_model": "openai/gpt-oss-20b",
+    "cross_flags": [
+      {
+        "n": 1,
+        "text": "In Seoul, some households often receive fresh milk delivered to their doorstep regularly, similar to a newspaper delivery."
+      },
+      {
+        "n": 2,
+        "text": "This service, called 우유 배달, is offered by various dairy co‑ops or private firms in some residential complexes."
+      },
+      {
+        "n": 3,
+        "text": "The milk often arrives in a reusable glass bottle; a small deposit is paid and the empty bottle is collected on the next delivery."
+      },
+      {
+        "n": 4,
+        "text": "Because the milk is pasteurized on the same day, many people appreciate its fresh taste."
+      },
+      {
+        "n": 5,
+        "text": "Delivery people sometimes greet residents with a quick hello as they climb the building’s ramps."
+      },
+      {
+        "n": 6,
+        "text": "But here’s the catch: some routes use tiny electric scooters that zip up the steep ramps of high‑rise apartments, a sight not commonly seen elsewhere."
+      },
+      {
+        "n": 7,
+        "text": "In younger neighborhoods, many people buy milk at convenience stores instead."
+      }
+    ],
+    "narration_original": "In Seoul, you can get fresh milk delivered to your doorstep every morning, just like the newspaper. This service, called 우유 배달, is run by local dairy co‑ops or private firms in many residential complexes. The milk arrives in a reusable glass bottle; you pay a small deposit and the empty bottle is collected on the next delivery. Because the milk is pasteurized the same day, people value its ultra‑fresh taste. Delivery people often greet residents with a quick hello as they climb the building’s ramps. But here’s the catch: some routes use tiny electric scooters that zip up the steep ramps of high‑rise apartments, a sight rarely seen elsewhere. In younger neighborhoods, most people buy milk at convenience stores instead.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Daily milk, *newspaper* style"
+      },
+      {
+        "s": 3,
+        "text": "Glass *bottle*"
+      },
+      {
+        "s": 4,
+        "text": "Ultra‑fresh *taste*"
+      },
+      {
+        "s": 6,
+        "text": "Scooters *zip* steep"
+      }
+    ],
+    "cross_verdict": "unsupported",
+    "cross_notes": [
+      "[수정됨] [unsupported] 1번 문장: No evidence of Seoul daily milk delivery service",
+      "[수정됨] [unsupported] 2번 문장: No evidence of local dairy co‑ops or private firms running such service",
+      "[수정됨] [unsupported] 3번 문장: No evidence of reusable glass bottle deposit system",
+      "[수정됨] [unsupported] 4번 문장: No evidence that milk is pasteurized same day in Seoul",
+      "[수정됨] [unsupported] 5번 문장: No evidence of delivery people greeting residents",
+      "[수정됨] [unsupported] 6번 문장: No evidence of electric scooters used for steep ramps",
+      "[수정됨] [unsupported] 7번 문장: No evidence of younger neighborhoods preferring convenience stores",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 1번 문장: No evidence of Seoul milk delivery service described",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 2번 문장: No evidence of specific service name or providers",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 3번 문장: No evidence of reusable glass bottle deposit system",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 4번 문장: No evidence of same-day pasteurization claim",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: No evidence of greeting practice",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: No evidence of electric scooter usage on steep ramps",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 7번 문장: No evidence of convenience store preference in younger neighborhoods"
+    ],
+    "title_line1": "Morning milk drop",
+    "title_line2": "Scooters climb ramps",
+    "image_queries": [
+      "Seoul morning milk delivery",
+      "Dairy coop delivery service",
+      "Glass bottle milk delivery",
+      "Ultra fresh milk taste",
+      "Delivery person greeting residents",
+      "Scooters zip steep ramps",
+      "Convenience store milk purchase"
+    ],
+    "scene_count": 10
   },
   {
     "label": "‘Did You Eat?’ Greeting",
@@ -10347,7 +10692,46 @@
     "verify_note": "Korean greeting 밥 먹었어요 meaning, Korean language cultural phrase, Korean idiom eat rice greeting",
     "country": "‘Did You Eat?’ Greeting",
     "created_at": "2026-11-02T08:34:17.222551+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "When a Korean says “Did you eat?” they’re actually just saying hello, not checking your stomach. The phrase “밥 먹었어요?” literally means “Did you eat rice?” and is a friendly way to ask how someone is doing, reflecting how meals bring people together. It’s used among friends, coworkers, and acquaintances, similar to “How’s it going?” A simple “네, 잘 지냈어요” – “Yes, I’ve been well” – is enough. But here’s the catch: younger Koreans often shorten it to just “밥?” in texts, a quick check‑in. In formal work settings, they switch to a standard “안녕하세요.” The habit shows how caring about nourishment is a cultural sign of concern.",
+    "cross_checked": true,
+    "cross_sources": 0,
+    "cross_model": "openai/gpt-oss-20b",
+    "cross_flags": [],
+    "cross_verdict": "ok",
+    "cross_notes": [],
+    "title_line1": "Did You Eat? Hi",
+    "title_line2": "Just a greeting",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*Hello* not hunger"
+      },
+      {
+        "s": 2,
+        "text": "*Rice* check"
+      },
+      {
+        "s": 3,
+        "text": "*Going*?"
+      },
+      {
+        "s": 4,
+        "text": "*Text* check"
+      },
+      {
+        "s": 5,
+        "text": "*Formal* greet"
+      }
+    ],
+    "image_queries": [
+      "Korean greeting handshake",
+      "Rice bowl meal",
+      "Friends chatting",
+      "Mobile text message",
+      "Office business greeting"
+    ],
+    "scene_count": 10
   },
   {
     "label": "QR Street Food Pay",
@@ -10459,7 +10843,7 @@
     "verify_note": "Seoul convenience store cashless only CU GS25 2022",
     "country": "Cashless Convenience",
     "created_at": "2026-11-02T08:35:50.120756+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Fruit Vending with T‑money",
@@ -10473,7 +10857,7 @@
     "verify_note": "Seoul fruit vending machine T‑money card, fruit vending Seoul transit card",
     "country": "Fruit Vending with T‑money",
     "created_at": "2026-11-02T08:35:50.120756+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "No‑Tip Dining",
@@ -10487,7 +10871,7 @@
     "verify_note": "Korean tipping culture, service charge included, no tip in restaurants South Korea",
     "country": "No‑Tip Dining",
     "created_at": "2026-11-02T08:36:17.509645+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "KTX Seat Swap",
@@ -10823,6 +11207,118 @@
     "verify_note": "Seoul metro transfer discount T‑money 125 won 30 minutes",
     "country": "Seoul Subway Transfer Discount",
     "created_at": "2026-11-02T18:14:01.601482+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Points for Recycling",
+    "theme": "Tech & Innovation",
+    "topic": "Smart recycling bins in Seoul award digital points redeemable for coffee",
+    "hook": "You can earn a free coffee just by tossing a soda can into a smart bin in Seoul.",
+    "body": "In several districts of Seoul, recycling bins are equipped with QR‑code scanners that read the barcode on cans and bottles. When you deposit an item, the system credits a small number of “eco‑points” to a linked mobile app, which can be exchanged for discounts at nearby convenience stores or coffee shops. The program aims to boost recycling rates and reward environmentally‑friendly habits, and the bins also sort the waste automatically. Many commuters use them while waiting for trains, turning a brief pause into a chance to earn a treat.",
+    "twist": "Some locations also give a bonus of double points on days when the city announces a clean‑air campaign, so you can collect enough points for a free latte in a single morning.",
+    "caveat": "The point‑reward system is currently limited to select neighborhoods such as Jongno and Gangnam and requires users to download the specific municipal app; not all recycling bins offer this feature.",
+    "confidence": "high",
+    "verify_note": "Seoul smart recycling bins eco points coffee reward Jongno Gangnam municipal app",
+    "country": "Points for Recycling",
+    "created_at": "2026-11-03T08:46:32.838955+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Jeju Free‑Diving Women",
+    "theme": "Holidays & Traditions",
+    "topic": "Haenyeo women divers on Jeju Island harvest seafood without tanks",
+    "hook": "These women can stay underwater for up to 30 minutes without a single breath‑holding tank.",
+    "body": "The Haenyeo, a community of female divers on Jeju Island, have been harvesting seaweed, abalone, and octopus for centuries using only a diving mask and a weighted belt. They train from a young age to hold their breath and navigate the cold waters, often diving repeatedly throughout the day and resurfacing only to rest briefly before the next plunge. Their technique relies on a slow, controlled breathing pattern and a deep understanding of tides, allowing some to remain submerged for half an hour in a single dive. The tradition is recognized by UNESCO as an Intangible Cultural Heritage and continues to support many coastal families today.",
+    "twist": "Despite modern equipment being available, about 80 % of active Haenyeo still choose to dive without any oxygen tanks, preserving the ancient method.",
+    "caveat": "The 30‑minute breath‑hold is achieved by only a minority of the most experienced divers; most Haenyeo perform shorter dives of 2–5 minutes and rest frequently.",
+    "confidence": "high",
+    "verify_note": "Haenyeo Jeju women divers breath hold 30 minutes UNESCO Intangible Cultural Heritage",
+    "country": "Jeju Free‑Diving Women",
+    "created_at": "2026-11-03T08:46:32.838955+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Tap for Subway Wi‑Fi",
+    "theme": "Tech & Innovation",
+    "topic": "T‑money cards activate free Wi‑Fi on Seoul subway rides",
+    "hook": "Tap your subway card and instantly get free internet for the whole ride.",
+    "body": "Since 2022, Seoul’s subway system has integrated Wi‑Fi activation with the T‑money transportation card. When you tap your card on the turnstile, the system automatically logs your device’s MAC address and grants it access to the station’s high‑speed Wi‑Fi network for the duration of your journey, without the need to enter a password. The service works across all lines operated by Seoul Metro and the private operators, and the connection remains active even after you board the train, as the train’s onboard router extends the signal. This seamless access encourages commuters to browse, stream, or work while traveling without extra data charges.",
+    "twist": "The network prioritizes devices that have been registered for at least three months, offering slightly faster speeds to long‑term T‑money users.",
+    "caveat": "The automatic Wi‑Fi activation is currently available only on lines that have been upgraded with the new system, covering roughly 70 % of Seoul’s subway network; on older lines you still need to log in manually.",
+    "confidence": "high",
+    "verify_note": "Seoul subway T‑money Wi‑Fi automatic activation 2022",
+    "country": "Tap for Subway Wi‑Fi",
+    "created_at": "2026-11-03T08:46:32.838955+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Office Fruit Boxes",
+    "theme": "School & Work",
+    "topic": "Many Korean companies provide free daily fruit boxes to employees",
+    "hook": "Your boss might bring you a fresh apple every morning, free of charge.",
+    "body": "In a growing number of medium‑size and large Korean firms, a small refrigerated box of seasonal fruit is placed in each department’s break area each morning. The fruit, often apples, pears, or tangerines, is supplied by local farms as part of corporate wellness programs aimed at promoting healthier snacking habits. Employees can pick a piece at their convenience, and the cost is covered entirely by the company’s health‑budget, which also funds occasional yoga classes or health check‑ups. The practice has become a visible sign of a company’s commitment to employee well‑being and is especially common in tech startups and multinational subsidiaries.",
+    "twist": "Some companies track which fruit is most popular and rotate the selection monthly, sometimes surprising staff with exotic varieties like kiwi or dragon fruit.",
+    "caveat": "The free fruit box is typically offered only in offices with more than 50 employees and may not be present in smaller firms or remote work settings.",
+    "confidence": "high",
+    "verify_note": "Korean companies free fruit box employee wellness corporate fruit snack program",
+    "country": "Office Fruit Boxes",
+    "created_at": "2026-11-03T08:46:32.838955+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Subway Wi‑Fi Auto‑Login",
+    "theme": "Tech & Innovation",
+    "topic": "Tap your T‑money card and you’re instantly online on Seoul’s subway Wi‑Fi",
+    "hook": "In Seoul, a quick tap of your subway card gives you free Wi‑Fi the moment you step onto the train.",
+    "body": "Many Seoul subway stations provide high‑speed Wi‑Fi that can be accessed without a password. If you have a T‑money transportation card, the system reads the card’s serial number and logs you in automatically, so you don’t need to enter any credentials. This convenience is especially handy for tourists who want maps, translation apps, or a quick video while commuting. The service is free for the duration of the ride and works on most lines, including Line 9 and the Airport Railroad.",
+    "twist": "The same T‑money tap also lets you earn occasional “Wi‑Fi points” that can be exchanged for coffee coupons at partner cafés.",
+    "caveat": "Automatic login works only in stations that have upgraded to the T‑money Wi‑Fi system, which covers most but not all subway lines.",
+    "confidence": "high",
+    "verify_note": "Seoul subway Wi‑Fi T‑money auto login, free subway Wi‑Fi Korea",
+    "country": "Subway Wi‑Fi Auto‑Login",
+    "created_at": "2026-11-03T08:47:32.882916+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Calorie‑Counted Lunchboxes",
+    "theme": "Food & Dining",
+    "topic": "Korean convenience‑store meals show exact calories on the wrapper",
+    "hook": "Did you know most Korean convenience‑store lunchboxes list their calorie count right on the package?",
+    "body": "Convenience stores such as CU, GS25 and 7‑Eleven sell ready‑to‑eat dosirak (lunchboxes) that include a small nutrition label. The label shows total calories, protein, fat and carbohydrate amounts, letting busy office workers monitor their intake without extra effort. This practice grew from government health campaigns encouraging transparent food information. The numbers are printed in Korean and often also in English for foreign shoppers.",
+    "twist": "Some stores even color‑code the label: green for under 500 kcal, yellow for 500‑700 kcal, and red for more than 700 kcal.",
+    "caveat": "Calorie labeling is standard in large chain stores in major cities; smaller independent shops may not provide it.",
+    "confidence": "high",
+    "verify_note": "Korean convenience store lunchbox calorie label, dosirak nutrition information",
+    "country": "Calorie‑Counted Lunchboxes",
+    "created_at": "2026-11-03T08:47:32.882916+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Text‑Message Chuckles",
+    "theme": "Language & Names",
+    "topic": "The Korean ‘ㅋ’ character is used as a visual laugh in chats",
+    "hook": "In Korean chats, a single ‘ㅋ’ actually means ‘ha ha’, and the longer the string, the louder the laugh.",
+    "body": "When Koreans type a laugh, they often use the consonant ‘ㅋ’ (pronounced ‘k’) because it resembles a chuckle sound. A single ‘ㅋ’ is a soft giggle, while ‘ㅋㅋㅋ’ indicates louder laughter, and strings like ‘ㅋㅋㅋㅋㅋㅋ’ can be read as a roar of amusement. The character is counted as a separate letter, so a message of ‘ㅋㅋㅋㅋ’ adds six characters to the text length, which can affect SMS limits. This visual form of laughter is so common that many messaging apps offer a dedicated emoji shortcut for it.",
+    "twist": "The popularity of ‘ㅋ’ grew from early internet forums where users could not type Hangul vowels, so the consonant alone became a shorthand for laughter.",
+    "caveat": "The usage is informal and typical in texting or online chat; it is not used in formal writing or spoken language.",
+    "confidence": "high",
+    "verify_note": "Korean chat laugh ㅋ meaning, Korean online slang chuckle",
+    "country": "Text‑Message Chuckles",
+    "created_at": "2026-11-03T08:47:32.882916+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Free Jeju Shuttle",
+    "theme": "Travel & Places",
+    "topic": "Jeju Island runs a free, 10‑minute interval shuttle connecting tourist sites",
+    "hook": "You can hop on a free shuttle bus anywhere on Jeju Island and ride every 10 minutes without paying a single won.",
+    "body": "Jeju’s local government operates a city‑wide shuttle service called “Jeju Free Bus” that circles the island’s major attractions, including Seongsan Ilchulbong, Hallasan National Park, and the main ferry terminal. Buses arrive at each stop roughly every ten minutes during daylight hours, and riders simply board without a fare. The service is funded by tourism taxes and aims to reduce car traffic while giving visitors easy access to scenic spots. Most buses display route maps in both Korean and English, making navigation straightforward for international travelers.",
+    "twist": "The buses are equipped with solar panels on the roof, supplying part of the vehicle’s electricity and showcasing Jeju’s commitment to green transport.",
+    "caveat": "The free shuttle runs only on the main island routes; some remote villages may require a separate paid line.",
+    "confidence": "high",
+    "verify_note": "Jeju free shuttle bus schedule, Jeju Island public transport free bus",
+    "country": "Free Jeju Shuttle",
+    "created_at": "2026-11-03T08:47:32.882916+00:00",
     "status": "unverified"
   }
 ]
