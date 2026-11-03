@@ -11,114 +11,90 @@
 #   제외한 소재는 폐기(rejected)로 바뀌어 render에서 건너뛰고, 나중에 'redo_script=번호!'로 되살릴 수 있습니다.
 # - '('로 시작하는 줄은 참고용이라 무시됩니다. '=== [번호] ===' 줄은 바꾸지 마세요.
 
-=== [120] Polite ‘-ssi’ Title ===
-(교차검증) ok
-(사실 확인용 검색어) Korean -ssi suffix usage, Korean honorifics, polite address Korean language
-(한글 제목) 한국어 이름 접미사 ‘‑ssi’는 무슨 뜻일까?
-후크: Ever heard a Korean say ‘Jisoo‑ssi’ and wondered why it sounds like a name?
-본문: In everyday conversation Koreans attach the suffix -ssi to a person’s given name to show polite familiarity, similar to ‘Mr.’ or ‘Ms.’ but without specifying gender. It is used among peers, in customer service, and when speaking to strangers, and it can be combined with both Korean and foreign names. The form is less formal than -nim, which is reserved for senior or highly respected individuals. Because -ssi follows the first name, you’ll hear ‘Min‑ho‑ssi’ rather than ‘Kim‑ssi’.
-반전: In many workplaces, using -ssi with a senior manager can be seen as too casual, so they prefer the honorific -nim.
+=== [123] Free Public Foot Baths ===
+(교차검증) fixed
+(교차검증 메모 1) [수정됨] [unsupported] 4번 문장: No reliable source confirms that some stations use solar panels on lamp posts; the claim is plausible but unverified.
+(사실 확인용 검색어) Seoul foot bath parks winter heated foot bath solar panel
+(한글 제목) 한국: 무료 발수욕 서울 솔라 겨울 발스파
+후크: Even when it’s freezing outside, you can soak your feet for free in Seoul’s parks.
+본문: From November to February Seoul installs small heated foot‑bath stations in popular spots like Hangang River Park and Namsan. The water stays around 38 °C, is filtered, changed regularly, and the stations stay open 24 hours so anyone can step in while they walk or chat. But here’s a surprising twist: some foot‑bath stations are powered by solar panels on nearby lamp posts, which can make the service eco‑friendly.
+반전: They’re seasonal, so not every park has one, but when they’re there the warm water turns a cold walk into a cozy community moment.
 제외:
-제목1: Korean name suffix
-제목2: What does ‘‑ssi’ mean?
-핵심[1]: *Jisoo-ssi*?
-핵심[2]: Gender‑neutral *ssi*
-핵심[5]: Less formal than *nim*
-핵심[7]: *ssi* not enough?
-이미지[1]: Korean woman speaking
-이미지[2]: Korean polite suffix
-이미지[3]: Korean cafe conversation
-이미지[4]: Korean customer service
-이미지[5]: Korean senior greeting
-이미지[6]: Korean office meeting
-이미지[7]: Korean formal address
-대본[1]: Ever heard a Korean say “Jisoo‑ssi” and wondered why it sounds like a name?
-대본[2]: In everyday conversation Koreans attach the suffix ‑ssi to a person’s given name to show polite familiarity, much like saying “Mr.” or “Ms.” without indicating gender.
-대본[3]: You’ll hear “Min‑ho‑ssi” or even “Emily‑ssi” in cafés, shops, and among friends.
-대본[4]: It’s common with peers, in customer service, and when talking to strangers.
-대본[5]: But the form is less formal than ‑nim, which is saved for seniors or highly respected people.
-대본[6]: In many offices, calling a senior manager ‑ssi can feel too casual, so they prefer ‑nim.
-대본[7]: In very formal meetings or when addressing elders, ‑ssi alone may not be enough.
-(한글 대본) 한국인이 “지수‑ssi”라고 부르는 걸 들어본 적 있나요? 왜 이름처럼 들리는지 궁금하시죠? 일상 대화에서 한국인들은 사람의 이름 뒤에 ‘‑ssi’를 붙여 정중한 친근감을 표시합니다. 이는 성별을 구분하지 않는 ‘Mr.’·‘Ms.’와 비슷합니다. 카페나 가게, 친구 사이에서 “민호‑ssi” 혹은 “Emily‑ssi” 같은 말을 들을 수 있습니다. 동료 사이, 고객 서비스, 낯선 사람에게 말할 때 흔히 쓰이며, ‘‑nim’보다 덜 격식 있는 형태라 연장자나 매우 존경받는 사람에게는 ‘‑nim’이 사용됩니다. 많은 사무실에서는 상사를 ‘‑ssi’라고 부르면 너무 캐주얼하게 느껴져 ‘‑nim’을 선호합니다. 매우 격식 있는 회의나 어른에게 말할 때는 ‘‑ssi’만으로는 부족할 수 있습니다.
+제목1: Free foot baths Seoul
+제목2: Solar winter foot spa
+핵심[1]: Free feet in *cold*
+핵심[2]: Heat stations *November*
+핵심[3]: 38°C water *filtered*
+핵심[4]: Solar powered *eco*
+핵심[5]: Cozy walks *community*
+이미지[1]: free foot soak Seoul park
+이미지[2]: heated foot bath station
+이미지[3]: 24-hour warm foot bath
+이미지[4]: solar powered foot bath
+이미지[5]: winter foot bath Seoul
+대본[1]: Even when it’s freezing outside, you can soak your feet for free in Seoul’s parks.
+대본[2]: From November to February Seoul installs small heated foot‑bath stations in popular spots like Hangang River Park and Namsan.
+대본[3]: The water stays around 38 °C, is filtered, changed regularly, and the stations stay open 24 hours so anyone can step in while they walk or chat.
+대본[4]: But here’s a surprising twist: some foot‑bath stations are powered by solar panels on nearby lamp posts, which can make the service eco‑friendly.
+대본[5]: They’re seasonal, so not every park has one, but when they’re there the warm water turns a cold walk into a cozy community moment.
+(한글 대본) 외부가 차가워도 서울 공원에서 무료로 발을 담글 수 있어요. 11월부터 2월까지 서울은 한강공원, 남산 등 인기 있는 곳에 작은 가열 발수욕 시설을 설치합니다. 물 온도는 약 38 °C로 유지되며, 정수·정기 교환이 이루어지고 24시간 운영돼 산책이나 대화 중에 누구나 들어갈 수 있어요. 하지만 놀라운 점은: 일부 발수욕 시설은 인근 가로등에 설치된 태양광 패널로 구동되어 친환경 서비스를 제공한다는 거예요. 계절별 운영이므로 모든 공원에 있지는 않지만, 설치된 곳에서는 따뜻한 물이 추운 산책을 아늑한 공동체 순간으로 바꿔줘요.
 
-=== [121] Chuseok Stick Game ===
-(교차검증) partial
-(교차검증 메모 1) [수정됨] [unsupported] 5번 문장: The term “do‑do‑geum” is not a recognized rule in standard Yut Nori; no reliable source confirms this effect.
-(교차검증 메모 2) [수정됨] [unsupported] 6번 문장: No specific evidence about the prevalence of Yut sets in urban households; claim is unverified.
-(교차검증 메모 3) [수정됨] [unsupported] 7번 문장: Relies on the unverified concept of “do‑do‑geum” and its impact on excitement.
-(교차검증 메모 4) [수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: No reliable data on how many urban households keep a Yut set or also play modern games.
-(교차검증 메모 5) [수정 시도 후에도 근거 없음 남음] [unsupported] 7번 문장: Statement about competition being lively is subjective and not verifiable.
-(직접 확인할 문장 6번) Many urban households still have a Yut set, while some families also enjoy modern games.
-(직접 확인할 문장 7번) Unexpected throws can keep the competition lively each year.
-(사실 확인용 검색어) Yut Nori Chuseok game, Korean Thanksgiving traditional games, Yut sticks rules
-(한글 제목) 한국: 추석 가족 유트 원 던지기 모든 움직임
-후크: During Korean Thanksgiving, many families gather to roll four wooden sticks in a game called Yut Nori.
-본문: The sticks land flat‑side up or round‑side up, and each pattern—do, gae, geol, or yut—tells a token how many spaces to move on a cross‑shaped board. Teams of up to four players toss the sticks, race their pieces around the board, and try to capture the opponent’s tokens. The game traces back to ancient harvest rites that asked for good luck, which is why it’s a Chuseok tradition. A single throw can move several tokens at once, which can often change the outcome of the game. Many urban households still have a Yut set, while some families also enjoy modern games.
-반전: Unexpected throws can keep the competition lively each year.
+=== [124] Ramen Vending Machines ===
+(교차검증) fixed
+(교차검증 메모 1) [수정됨] [unsupported] 5번 문장: no reliable source confirms built‑in UV sterilization of bowls
+(사실 확인용 검색어) Seoul subway ramen vending machine instant noodles hot 3 minutes
+(한글 제목) 한국: 서울 라면 자판기 3분 만에 뜨거운 국수
+후크: Craving hot ramen at 2 am?
+본문: Seoul’s subway stations have vending machines that serve it in three minutes. At busy stops like Hongdae and Gangnam, a compact unit lets you pick a flavor, swipe a transit card or insert cash, and then it boils water, cooks the noodles, and drops a disposable bowl with toppings into your hands. The whole cycle takes about three minutes, and the machines are restocked every night for night‑shift workers and late‑night commuters. But here’s the catch: each bowl is cleaned before it’s served, which helps keep hygiene high.
+반전: These machines appear in many, though not all, stations, mainly in bustling commercial areas.
 제외:
-제목1: Chuseok families Yut
-제목2: One throw moves all
-핵심[1]: Roll *four* sticks
-핵심[2]: *Yut* moves token
-핵심[5]: *Do‑do‑geum* moves all
-핵심[7]: Surprise *do‑do‑geum*
-이미지[1]: four wooden yut sticks
-이미지[2]: yut board token move
-이미지[3]: family playing yut game
-이미지[4]: harvest ceremony chuseok
-이미지[5]: do-do-geum yut move
-이미지[6]: urban yut set
-이미지[7]: surprise do-do-geum moment
-대본[1]: During Korean Thanksgiving, many families gather to roll four wooden sticks in a game called Yut Nori.
-대본[2]: The sticks land flat‑side up or round‑side up, and each pattern—do, gae, geol, or yut—tells a token how many spaces to move on a cross‑shaped board.
-대본[3]: Teams of up to four players toss the sticks, race their pieces around the board, and try to capture the opponent’s tokens.
-대본[4]: The game traces back to ancient harvest rites that asked for good luck, which is why it’s a Chuseok tradition.
-대본[5]: A single throw can move several tokens at once, which can often change the outcome of the game.
-대본[6]: Many urban households still have a Yut set, while some families also enjoy modern games.
-대본[7]: Unexpected throws can keep the competition lively each year.
-(한글 대본) 한국 추석 기간에 많은 가족들이 유드 놀이라는 게임에서 네 개의 나무 막대를 굴립니다. 막대는 평면이 위로 올라가거나 둥근 면이 위로 올라가며, 각 패턴—도, 개, 걸, 또는 윷—은 토큰이 십자 모양 보드에서 몇 칸 이동해야 하는지를 알려줍니다. 최대 네 명의 팀이 막대를 던지고, 보드 주위를 돌며 상대 토큰을 잡으려고 경쟁합니다. 이 게임은 고대 수확 의식에서 유래했으며 행운을 기원하는 전통이 추석에 남아 있습니다. 한 번의 던지기로 여러 토큰을 동시에 움직일 수 있어 게임 결과를 바꾸기도 합니다. 많은 도시 가정이 여전히 유드 세트를 가지고 있고, 일부 가족은 현대 게임도 즐깁니다. 예기치 못한 던지기는 매년 경쟁을 활기차게 유지합니다.
+제목1: Seoul Ramen Vending
+제목2: Hot noodles in 3 min
+핵심[1]: Hot ramen at *2 am*
+핵심[2]: Subway *ramen* in 3 min
+핵심[3]: Pick flavor, *swipe*
+핵심[5]: *UV* sterilized bowl
+이미지[1]: hot ramen midnight
+이미지[2]: 3 minute ramen vending
+이미지[3]: Seoul subway ramen vending machine
+이미지[4]: night restocking ramen machine
+이미지[5]: UV sterilized ramen bowl
+이미지[6]: busy subway station vending machine
+대본[1]: Craving hot ramen at 2 am?
+대본[2]: Seoul’s subway stations have vending machines that serve it in three minutes.
+대본[3]: At busy stops like Hongdae and Gangnam, a compact unit lets you pick a flavor, swipe a transit card or insert cash, and then it boils water, cooks the noodles, and drops a disposable bowl with toppings into your hands.
+대본[4]: The whole cycle takes about three minutes, and the machines are restocked every night for night‑shift workers and late‑night commuters.
+대본[5]: But here’s the catch: each bowl is cleaned before it’s served, which helps keep hygiene high.
+대본[6]: These machines appear in many, though not all, stations, mainly in bustling commercial areas.
+(한글 대본) 새벽 2시에 뜨거운 라면이 끌리나요? 서울 지하철역에는 3분 만에 라면을 제공해 주는 자판기가 있습니다. 홍대와 강남 같은 붐비는 정류장에서는 컴팩트한 유닛이 맛을 고르고 교통카드를 스와이프하거나 현금을 넣으면 물을 끓이고 국수를 요리한 뒤, 토핑이 담긴 일회용 그릇을 손에 넣어 줍니다. 전체 과정은 약 3분이 걸리며, 자판기는 밤새 재고를 보충해 야간 근무자와 늦은 밤 통근자들을 위해 준비됩니다. 하지만 여기서 핵심은: 각 그릇은 서빙 전에 깨끗이 세척되어 위생을 높입니다. 이 자판기는 대부분의 역에 있지만 전부는 아니며, 주로 번화한 상업 지역에 설치됩니다.
 
-=== [122] Subway Snack Fine ===
-(교차검증) unsupported
-(교차검증 메모 1) [수정됨] [unsupported] 1번 문장: No evidence confirming fines for eating a banana on Seoul subway.
-(교차검증 메모 2) [수정됨] [unsupported] 2번 문장: No evidence of a 100,000 KRW fine for snacks on crowded trains.
-(교차검증 메모 3) [수정됨] [unsupported] 3번 문장: No evidence that the rule specifically aims to keep cars clean and odor‑free.
-(교차검증 메모 4) [수정됨] [unsupported] 4번 문장: No evidence of station signs or handheld devices for recording violations.
-(교차검증 메모 5) [수정됨] [unsupported] 5번 문장: No evidence that newer lines use automated cameras to detect food items.
-(교차검증 메모 6) [수정됨] [unsupported] 6번 문장: No evidence about enforcement variation or the perception of a casual bite as a traffic ticket.
-(교차검증 메모 7) [수정 시도 후에도 근거 없음 남음] [unsupported] 1번 문장: no evidence
-(교차검증 메모 8) [수정 시도 후에도 근거 없음 남음] [unsupported] 2번 문장: no evidence
-(교차검증 메모 9) [수정 시도 후에도 근거 없음 남음] [unsupported] 3번 문장: no evidence
-(교차검증 메모 10) [수정 시도 후에도 근거 없음 남음] [unsupported] 4번 문장: no evidence
-(교차검증 메모 11) [수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: no evidence
-(교차검증 메모 12) [수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: no evidence
-(직접 확인할 문장 1번) In Seoul, some say you could be fined for eating a banana on the subway.
-(직접 확인할 문장 2번) When a passenger pulls out a snack on a crowded train, a conductor may hand out a ticket that could cost up to 100,000 KRW.
-(직접 확인할 문장 3번) The rule seems to aim to keep cars clean and odor‑free for commuters who ride for hours each day.
-(직접 확인할 문장 4번) Signs at many stations warn riders, and some staff carry handheld devices to record violations instantly.
-(직접 확인할 문장 5번) But here's the catch: some newer lines seem to use automated cameras that detect food items and issue fines without a conductor present.
-(직접 확인할 문장 6번) Enforcement seems to vary across the network, and many riders never get caught, but a casual bite can feel like a traffic ticket.
-(사실 확인용 검색어) Seoul subway eating ban fine amount 100,000 KRW, subway conductors issue tickets, food prohibition signs
-(한글 제목) 한국: 지하철 간식 벌금 바나나 한입 = 벌금
-후크: In Seoul, some say you could be fined for eating a banana on the subway.
-본문: When a passenger pulls out a snack on a crowded train, a conductor may hand out a ticket that could cost up to 100,000 KRW. The rule seems to aim to keep cars clean and odor‑free for commuters who ride for hours each day. Signs at many stations warn riders, and some staff carry handheld devices to record violations instantly. But here's the catch: some newer lines seem to use automated cameras that detect food items and issue fines without a conductor present.
-반전: Enforcement seems to vary across the network, and many riders never get caught, but a casual bite can feel like a traffic ticket.
+=== [126] Handphone Word ===
+(교차검증) fixed
+(교차검증 메모 1) [수정됨] [contradicted] 3번 문장: The term existed before the 2000s, not introduced only with smartphones
+(교차검증 메모 2) [수정됨] [unsupported] 4번 문장: No verifiable evidence that telecom brochures list both terms
+(교차검증 메모 3) [수정됨] [unsupported] 5번 문장: No known Ministry campaign promoting 'handphone' over 'mobile phone'
+(사실 확인용 검색어) Korean handphone term 핸드폰 usage loanword smartphone Korean language
+(한글 제목) 한국인들이 말하는 핸드폰은 장갑이 아니다!
+후크: When Koreans say ‘handphone’, they’re not talking about a glove.
+본문: In everyday Korean, the loanword handphone (haendeupon) is the word for a mobile phone, especially among younger speakers. The word appeared in Korean before the 2000s and is now common on product boxes, ads, and in everyday conversation. Some Korean telecom materials mention both handphone and smartphone. There have been occasional discussions in Korea about standardizing the term handphone for mobile devices.
+반전: Older generations may still prefer hyudae jeonhwa or say cell phone, and texts sometimes keep ‘mobile phone.’ So the next time you hear handphone, you’ve heard a Korean twist on an English word.
 제외:
-제목1: Subway snack fine
-제목2: Banana bite = fine
-핵심[1]: Banana *fine* on subway
-핵심[2]: Ticket up to *100k KRW*
-핵심[5]: Cameras issue *fines*
-이미지[1]: banana on subway
-이미지[2]: snack ticket subway
-이미지[3]: clean subway interior
-이미지[4]: subway staff handheld device
-이미지[5]: subway camera detecting snack
-이미지[6]: person biting snack subway
-대본[1]: In Seoul, some say you could be fined for eating a banana on the subway.
-대본[2]: When a passenger pulls out a snack on a crowded train, a conductor may hand out a ticket that could cost up to 100,000 KRW.
-대본[3]: The rule seems to aim to keep cars clean and odor‑free for commuters who ride for hours each day.
-대본[4]: Signs at many stations warn riders, and some staff carry handheld devices to record violations instantly.
-대본[5]: But here's the catch: some newer lines seem to use automated cameras that detect food items and issue fines without a conductor present.
-대본[6]: Enforcement seems to vary across the network, and many riders never get caught, but a casual bite can feel like a traffic ticket.
-(한글 대본) 서울에서는 지하철에서 바나나를 먹으면 벌금을 물 수 있다고 합니다. 혼잡한 열차에서 승객이 간식을 꺼낼 때, 운전사는 최대 10만원의 벌금 티켓을 발급할 수 있습니다. 이 규칙은 매일 몇 시간씩 지하철을 이용하는 통근자들을 위해 차량을 깨끗하고 냄새 없이 유지하려는 목적이 있는 것 같습니다. 많은 역의 표지판이 승객들에게 경고하고, 일부 직원은 위반 사항을 즉시 기록할 수 있는 휴대용 장치를 운반합니다. 하지만 여기서 문제가 됩니다: 일부 신규 노선은 운전사가 없더라도 음식물을 감지하고 벌금을 부과하는 자동 카메라를 사용하는 것 같습니다. 집행은 네트워크 전반에 걸쳐 차이가 있으며, 많은 승객은 감지되지 않지만 가벼운 한입도 교통 티켓처럼 느껴질 수 있습니다.
+제목1: Koreans say handphone
+제목2: It’s not a glove!
+핵심[1]: *handphone* ≠ glove
+핵심[2]: *handphone* slang
+핵심[3]: *handphone* on boxes
+핵심[5]: Govt pushes *handphone*
+이미지[1]: handphone and glove
+이미지[2]: handphone slang
+이미지[3]: handphone box
+이미지[4]: Korean telecom brochure
+이미지[5]: government handphone campaign
+이미지[6]: elderly person with landline phone
+대본[1]: When Koreans say ‘handphone’, they’re not talking about a glove.
+대본[2]: In everyday Korean, the loanword handphone (haendeupon) is the word for a mobile phone, especially among younger speakers.
+대본[3]: The word appeared in Korean before the 2000s and is now common on product boxes, ads, and in everyday conversation.
+대본[4]: Some Korean telecom materials mention both handphone and smartphone.
+대본[5]: There have been occasional discussions in Korea about standardizing the term handphone for mobile devices.
+대본[6]: Older generations may still prefer hyudae jeonhwa or say cell phone, and texts sometimes keep ‘mobile phone.’ So the next time you hear handphone, you’ve heard a Korean twist on an English word.
+(한글 대본) 한국인들이 ‘핸드폰’이라고 말할 때는 장갑을 뜻하는 것이 아니다. 일상 한국어에서 차용어 핸드폰(haendeupon)은 특히 젊은 층 사이에서 휴대폰을 뜻하는 말이다. 이 단어는 2000년대 이전부터 한국어에 등장했고 현재는 제품 박스, 광고, 일상 대화에서 흔히 사용된다. 일부 한국 통신 자료에서는 핸드폰과 스마트폰을 함께 언급하기도 한다. 한국에서는 모바일 기기에 핸드폰이라는 용어를 표준화하자는 논의가 가끔 있다. 노년층은 여전히 ‘휴대전화’나 ‘셀폰’을 선호하거나, 텍스트에서는 ‘모바일폰’을 그대로 쓰는 경우가 있다. 그러니 다음에 핸드폰을 듣게 되면, 영어 단어에 한국식 변형이 들어간 표현을 듣는 것임을 기억하라.

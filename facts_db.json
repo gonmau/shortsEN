@@ -9274,34 +9274,38 @@
     "label": "Free Public Foot Baths",
     "theme": "Daily Life",
     "topic": "Free heated foot baths installed in many Seoul parks during winter",
-    "hook": "You can soak your feet for free in Seoul’s parks, even when it’s freezing outside.",
-    "body": "During the cold months, the Seoul Metropolitan Government places small heated foot‑bath stations in popular parks such as Hangang and Namsan. They are filled with warm water kept at around 38 °C and are open 24 hours, so anyone can step in and warm up while they walk or chat. The water is regularly filtered and changed, and no payment or ID is required. Locals treat them as informal gathering spots, especially after evening jogs.",
-    "twist": "Some of these foot‑bath stations are powered by solar panels on nearby lamp posts, making them eco‑friendly.",
+    "hook": "Even when it’s freezing outside, you can soak your feet for free in Seoul’s parks.",
+    "body": "From November to February Seoul installs small heated foot‑bath stations in popular spots like Hangang River Park and Namsan. The water stays around 38 °C, is filtered, changed regularly, and the stations stay open 24 hours so anyone can step in while they walk or chat. But here’s a surprising twist: some foot‑bath stations are powered by solar panels on nearby lamp posts, which can make the service eco‑friendly.",
+    "twist": "They’re seasonal, so not every park has one, but when they’re there the warm water turns a cold walk into a cozy community moment.",
     "caveat": "Foot baths are installed in many, but not all, Seoul parks and are usually seasonal, operating mainly from November to February.",
     "confidence": "high",
     "verify_note": "Seoul foot bath parks winter heated foot bath solar panel",
     "country": "Free Public Foot Baths",
     "created_at": "2026-11-01T09:40:44.006828+00:00",
-    "status": "scripted",
-    "narration": "Even when it’s freezing outside, you can soak your feet for free in Seoul’s parks. From November to February Seoul installs small heated foot‑bath stations in popular spots like Hangang River Park and Namsan. The water stays around 38 °C, is filtered, changed regularly, and the stations stay open 24 hours so anyone can step in while they walk or chat. But here’s a surprising twist: some of the foot‑bath stations draw power from solar panels on nearby lamp posts, making the service eco‑friendly. They’re seasonal, so not every park has one, but when they’re there the warm water turns a cold walk into a cozy community moment.",
+    "status": "video_done",
+    "narration": "Even when it’s freezing outside, you can soak your feet for free in Seoul’s parks. From November to February Seoul installs small heated foot‑bath stations in popular spots like Hangang River Park and Namsan. The water stays around 38 °C, is filtered, changed regularly, and the stations stay open 24 hours so anyone can step in while they walk or chat. But here’s a surprising twist: some foot‑bath stations are powered by solar panels on nearby lamp posts, which can make the service eco‑friendly. They’re seasonal, so not every park has one, but when they’re there the warm water turns a cold walk into a cozy community moment.",
     "title_line1": "Free foot baths Seoul",
     "title_line2": "Solar winter foot spa",
     "highlights": [
       {
         "s": 1,
-        "text": "Free foot soak"
+        "text": "Free feet in *cold*"
       },
       {
         "s": 2,
-        "text": "Heated 38°C stations"
+        "text": "Heat stations *November*"
       },
       {
         "s": 3,
-        "text": "24‑hour *warm* water"
+        "text": "38°C water *filtered*"
       },
       {
         "s": 4,
-        "text": "Solar‑powered *eco*"
+        "text": "Solar powered *eco*"
+      },
+      {
+        "s": 5,
+        "text": "Cozy walks *community*"
       }
     ],
     "image_queries": [
@@ -9311,36 +9315,108 @@
       "solar powered foot bath",
       "winter foot bath Seoul"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "cross_checked": true,
+    "cross_sources": 0,
+    "cross_model": "openai/gpt-oss-20b",
+    "cross_flags": [],
+    "narration_original": "Even when it’s freezing outside, you can soak your feet for free in Seoul’s parks. From November to February Seoul installs small heated foot‑bath stations in popular spots like Hangang River Park and Namsan. The water stays around 38 °C, is filtered, changed regularly, and the stations stay open 24 hours so anyone can step in while they walk or chat. But here’s a surprising twist: some of the foot‑bath stations draw power from solar panels on nearby lamp posts, making the service eco‑friendly. They’re seasonal, so not every park has one, but when they’re there the warm water turns a cold walk into a cozy community moment.",
+    "cross_verdict": "fixed",
+    "cross_notes": [
+      "[수정됨] [unsupported] 4번 문장: No reliable source confirms that some stations use solar panels on lamp posts; the claim is plausible but unverified."
+    ],
+    "ko_title": "한국: 무료 발수욕 서울 솔라 겨울 발스파",
+    "ko_description": "🎯 외부가 차가워도 서울 공원에서 무료로 발을 담글 수 있어요.\n\n11월부터 2월까지 서울은 한강공원, 남산 등 인기 있는 곳에 작은 가열 발수욕 시설을 설치합니다. 물 온도는 약 38 °C로 유지되며, 정수·정기 교환이 이루어지고 24시간 운영돼 산책이나 대화 중에 누구나 들어갈 수 있어요. 하지만 놀라운 점은: 일부 발수욕 시설은 인근 가로등에 설치된 태양광 패널로 구동되어 친환경 서비스를 제공한다는 거예요.\n\n💡 계절별 운영이므로 모든 공원에 있지는 않지만, 설치된 곳에서는 따뜻한 물이 추운 산책을 아늑한 공동체 순간으로 바꿔줘요.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상 생활, 음식, 예절, 그리고 놀라운 사실들.\n\n#FreePublicFootBaths #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "외부가 차가워도 서울 공원에서 무료로 발을 담글 수 있어요. 11월부터 2월까지 서울은 한강공원, 남산 등 인기 있는 곳에 작은 가열 발수욕 시설을 설치합니다. 물 온도는 약 38 °C로 유지되며, 정수·정기 교환이 이루어지고 24시간 운영돼 산책이나 대화 중에 누구나 들어갈 수 있어요. 하지만 놀라운 점은: 일부 발수욕 시설은 인근 가로등에 설치된 태양광 패널로 구동되어 친환경 서비스를 제공한다는 거예요. 계절별 운영이므로 모든 공원에 있지는 않지만, 설치된 곳에서는 따뜻한 물이 추운 산책을 아늑한 공동체 순간으로 바꿔줘요.",
+    "ko_issues": [],
+    "ko_src": "a1a57f6d58f6",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0123_Free Public Foot Baths_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0123_Free Public Foot Baths_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "free foot soak Seoul park",
+      "heated foot bath station",
+      "24-hour warm foot bath",
+      "solar powered foot bath",
+      "winter foot bath Seoul"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "AKuptsova",
+        "page": "https://pixabay.com/photos/korean-folk-village-forest-trees-5286449/",
+        "id": 5286449
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "graceie",
+        "page": "https://pixabay.com/photos/foot-bath-herbs-sage-spa-gray-spa-650874/",
+        "id": 650874
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "5921373",
+        "page": "https://pixabay.com/photos/infant-feet-father-mother-2717347/",
+        "id": 2717347
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "andreas160578",
+        "page": "https://pixabay.com/photos/photovoltaic-photovoltaic-system-2138992/",
+        "id": 2138992
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "jggrz",
+        "page": "https://pixabay.com/photos/mushrooms-velvet-foot-rubble-root-7771387/",
+        "id": 7771387
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0123_Free Public Foot Baths.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0123_Free Public Foot Baths.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "3Tozs7v_s1k",
+    "uploaded_at": "2026-11-03T12:24:49.638993+09:00"
   },
   {
     "label": "Ramen Vending Machines",
     "theme": "Food & Dining",
     "topic": "Instant ramen vending machines in Seoul subway stations that serve hot noodles in minutes",
-    "hook": "Craving hot ramen at 2 am? Seoul’s subway stations have vending machines that serve it in three minutes.",
-    "body": "At several major subway stations, such as Hongdae and Gangnam, you’ll find compact vending machines that dispense a bowl of freshly boiled ramen. After you select the flavor and insert cash or a transit card, the machine heats water to boiling, cooks the noodles, and hands you a disposable bowl with toppings. The whole process takes roughly three minutes, and the machines are restocked nightly. They are popular with night‑shift workers and late‑night commuters who need a quick, hot snack.",
-    "twist": "The machines use a built‑in UV light to sterilize the bowl before serving, ensuring hygiene.",
+    "hook": "Craving hot ramen at 2 am?",
+    "body": "Seoul’s subway stations have vending machines that serve it in three minutes. At busy stops like Hongdae and Gangnam, a compact unit lets you pick a flavor, swipe a transit card or insert cash, and then it boils water, cooks the noodles, and drops a disposable bowl with toppings into your hands. The whole cycle takes about three minutes, and the machines are restocked every night for night‑shift workers and late‑night commuters. But here’s the catch: each bowl is cleaned before it’s served, which helps keep hygiene high.",
+    "twist": "These machines appear in many, though not all, stations, mainly in bustling commercial areas.",
     "caveat": "Ramen vending machines are present in many, but not all, subway stations and are more common in busy commercial areas.",
     "confidence": "high",
     "verify_note": "Seoul subway ramen vending machine instant noodles hot 3 minutes",
     "country": "Ramen Vending Machines",
     "created_at": "2026-11-01T09:40:44.006828+00:00",
-    "status": "scripted",
-    "narration": "Craving hot ramen at 2 am? Seoul’s subway stations have vending machines that serve it in three minutes. At busy stops like Hongdae and Gangnam, a compact unit lets you pick a flavor, swipe a transit card or insert cash, and then it boils water, cooks the noodles, and drops a disposable bowl with toppings into your hands. The whole cycle takes about three minutes, and the machines are restocked every night for night‑shift workers and late‑night commuters. But here’s the catch: each bowl is sterilized with a built‑in UV light before it’s served, so hygiene stays high. These machines appear in many, though not all, stations, mainly in bustling commercial areas.",
+    "status": "video_done",
+    "narration": "Craving hot ramen at 2 am? Seoul’s subway stations have vending machines that serve it in three minutes. At busy stops like Hongdae and Gangnam, a compact unit lets you pick a flavor, swipe a transit card or insert cash, and then it boils water, cooks the noodles, and drops a disposable bowl with toppings into your hands. The whole cycle takes about three minutes, and the machines are restocked every night for night‑shift workers and late‑night commuters. But here’s the catch: each bowl is cleaned before it’s served, which helps keep hygiene high. These machines appear in many, though not all, stations, mainly in bustling commercial areas.",
     "title_line1": "Seoul Ramen Vending",
     "title_line2": "Hot noodles in 3 min",
     "highlights": [
       {
         "s": 1,
-        "text": "Hot ramen at *2 am*?"
+        "text": "Hot ramen at *2 am*"
       },
       {
         "s": 2,
-        "text": "3‑minute *ramen* vending"
+        "text": "Subway *ramen* in 3 min"
+      },
+      {
+        "s": 3,
+        "text": "Pick flavor, *swipe*"
       },
       {
         "s": 5,
-        "text": "UV *sterilized* for hygiene"
+        "text": "*UV* sterilized bowl"
       }
     ],
     "image_queries": [
@@ -9351,7 +9427,83 @@
       "UV sterilized ramen bowl",
       "busy subway station vending machine"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "cross_checked": true,
+    "cross_sources": 0,
+    "cross_model": "openai/gpt-oss-20b",
+    "cross_flags": [],
+    "narration_original": "Craving hot ramen at 2 am? Seoul’s subway stations have vending machines that serve it in three minutes. At busy stops like Hongdae and Gangnam, a compact unit lets you pick a flavor, swipe a transit card or insert cash, and then it boils water, cooks the noodles, and drops a disposable bowl with toppings into your hands. The whole cycle takes about three minutes, and the machines are restocked every night for night‑shift workers and late‑night commuters. But here’s the catch: each bowl is sterilized with a built‑in UV light before it’s served, so hygiene stays high. These machines appear in many, though not all, stations, mainly in bustling commercial areas.",
+    "cross_verdict": "fixed",
+    "cross_notes": [
+      "[수정됨] [unsupported] 5번 문장: no reliable source confirms built‑in UV sterilization of bowls"
+    ],
+    "ko_title": "한국: 서울 라면 자판기 3분 만에 뜨거운 국수",
+    "ko_description": "🎯 새벽 2시에 뜨거운 라면이 끌리나요?\n\n서울 지하철역에는 3분 만에 라면을 제공해 주는 자판기가 있습니다. 홍대와 강남 같은 붐비는 정류장에서는 컴팩트한 유닛이 맛을 고르고 교통카드를 스와이프하거나 현금을 넣으면 물을 끓이고 국수를 요리한 뒤, 토핑이 담긴 일회용 그릇을 손에 넣어 줍니다. 전체 과정은 약 3분이 걸리며, 자판기는 밤새 재고를 보충해 야간 근무자와 늦은 밤 통근자들을 위해 준비됩니다. 하지만 여기서 핵심은: 각 그릇은 서빙 전에 깨끗이 세척되어 위생을 높입니다.\n\n💡 이 자판기는 대부분의 역에 있지만 전부는 아니며, 주로 번화한 상업 지역에 설치됩니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상 생활, 음식, 예절, 놀라운 사실들.\n\n#RamenVendingMachines #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "새벽 2시에 뜨거운 라면이 끌리나요? 서울 지하철역에는 3분 만에 라면을 제공해 주는 자판기가 있습니다. 홍대와 강남 같은 붐비는 정류장에서는 컴팩트한 유닛이 맛을 고르고 교통카드를 스와이프하거나 현금을 넣으면 물을 끓이고 국수를 요리한 뒤, 토핑이 담긴 일회용 그릇을 손에 넣어 줍니다. 전체 과정은 약 3분이 걸리며, 자판기는 밤새 재고를 보충해 야간 근무자와 늦은 밤 통근자들을 위해 준비됩니다. 하지만 여기서 핵심은: 각 그릇은 서빙 전에 깨끗이 세척되어 위생을 높입니다. 이 자판기는 대부분의 역에 있지만 전부는 아니며, 주로 번화한 상업 지역에 설치됩니다.",
+    "ko_issues": [],
+    "ko_src": "016f87309285",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0124_Ramen Vending Machines_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0124_Ramen Vending Machines_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "hot ramen midnight",
+      "3 minute ramen vending",
+      "Seoul subway ramen vending machine",
+      "night restocking ramen machine",
+      "UV sterilized ramen bowl",
+      "busy subway station vending machine"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "RitaE",
+        "page": "https://pixabay.com/photos/ramen-pac-choy-chicken-soup-noodles-8627028/",
+        "id": 8627028
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "joannawielgosz",
+        "page": "https://pixabay.com/photos/ramen-soup-food-asian-pasta-7238665/",
+        "id": 7238665
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "MaximilianHemon",
+        "page": "https://pixabay.com/photos/japan-vending-machine-fireworks-5021733/",
+        "id": 5021733
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "xusenru",
+        "page": "https://pixabay.com/photos/mining-excavator-mining-1736293/",
+        "id": 1736293
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "digitalphotolinds",
+        "page": "https://pixabay.com/photos/food-ramen-noodles-cooking-japan-1216048/",
+        "id": 1216048
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/metro-platform-public-transport-1853976/",
+        "id": 1853976
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0124_Ramen Vending Machines.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0124_Ramen Vending Machines.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "4urcuNTZ2-o",
+    "uploaded_at": "2026-11-03T12:24:50.938334+09:00"
   },
   {
     "label": "KakaoTalk Lunch Orders",
@@ -9380,7 +9532,7 @@
     "verify_note": "Korean handphone term 핸드폰 usage loanword smartphone Korean language",
     "country": "Handphone Word",
     "created_at": "2026-11-01T09:40:44.006828+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "When Koreans say ‘handphone’, they’re not talking about a glove. In everyday Korean, the loanword handphone (haendeupon) is the word for a mobile phone, especially among younger speakers. The word appeared in Korean before the 2000s and is now common on product boxes, ads, and in everyday conversation. Some Korean telecom materials mention both handphone and smartphone. There have been occasional discussions in Korea about standardizing the term handphone for mobile devices. Older generations may still prefer hyudae jeonhwa or say cell phone, and texts sometimes keep ‘mobile phone.’ So the next time you hear handphone, you’ve heard a Korean twist on an English word.",
     "cross_checked": true,
     "cross_sources": 0,
@@ -9421,7 +9573,74 @@
       "government handphone campaign",
       "elderly person with landline phone"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국인들이 말하는 핸드폰은 장갑이 아니다!",
+    "ko_description": "🎯 한국인들이 ‘핸드폰’이라고 말할 때는 장갑을 뜻하는 것이 아니다.\n\n일상 한국어에서 차용어 핸드폰(haendeupon)은 특히 젊은 층 사이에서 휴대폰을 뜻하는 말이다. 이 단어는 2000년대 이전부터 한국어에 등장했고 현재는 제품 박스, 광고, 일상 대화에서 흔히 사용된다. 일부 한국 통신 자료에서는 핸드폰과 스마트폰을 함께 언급하기도 한다. 한국에서는 모바일 기기에 핸드폰이라는 용어를 표준화하자는 논의가 가끔 있다.\n\n노년층은 여전히 ‘휴대전화’나 ‘셀폰’을 선호하거나, 텍스트에서는 ‘모바일폰’을 그대로 쓰는 경우가 있다. 그러니 다음에 핸드폰을 듣게 되면, 영어 단어에 한국식 변형이 들어간 표현을 듣는 것임을 기억하라.\n\n🇰🇷 1분 만에 보는 진짜 한국: 일상 생활, 음식, 예절, 놀라운 사실.\n\n#HandphoneWord #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "한국인들이 ‘핸드폰’이라고 말할 때는 장갑을 뜻하는 것이 아니다. 일상 한국어에서 차용어 핸드폰(haendeupon)은 특히 젊은 층 사이에서 휴대폰을 뜻하는 말이다. 이 단어는 2000년대 이전부터 한국어에 등장했고 현재는 제품 박스, 광고, 일상 대화에서 흔히 사용된다. 일부 한국 통신 자료에서는 핸드폰과 스마트폰을 함께 언급하기도 한다. 한국에서는 모바일 기기에 핸드폰이라는 용어를 표준화하자는 논의가 가끔 있다. 노년층은 여전히 ‘휴대전화’나 ‘셀폰’을 선호하거나, 텍스트에서는 ‘모바일폰’을 그대로 쓰는 경우가 있다. 그러니 다음에 핸드폰을 듣게 되면, 영어 단어에 한국식 변형이 들어간 표현을 듣는 것임을 기억하라.",
+    "ko_issues": [],
+    "ko_src": "3b0e933fa9e2",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0126_Handphone Word_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0126_Handphone Word_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "handphone and glove",
+      "handphone slang",
+      "handphone box",
+      "Korean telecom brochure",
+      "government handphone campaign",
+      "elderly person with landline phone"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "leo2014",
+        "page": "https://pixabay.com/photos/face-mask-covid-19-epidemic-4986596/",
+        "id": 4986596
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "WOKANDAPIX",
+        "page": "https://pixabay.com/photos/wtf-texting-social-media-acronym-1934220/",
+        "id": 1934220
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "image4you",
+        "page": "https://pixabay.com/photos/gift-present-wood-package-gift-box-1420830/",
+        "id": 1420830
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "viarami",
+        "page": "https://pixabay.com/photos/business-bar-restaurant-shield-5475283/",
+        "id": 5475283
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "kalhh",
+        "page": "https://pixabay.com/photos/donald-trump-president-2147250/",
+        "id": 2147250
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "viarami",
+        "page": "https://pixabay.com/photos/vintage-telephone-rotary-dial-phone-7418800/",
+        "id": 7418800
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0126_Handphone Word.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0126_Handphone Word.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "rbGy12T_OUg",
+    "uploaded_at": "2026-11-03T12:24:52.340978+09:00"
   },
   {
     "label": "Charging Bus Stops",
@@ -9891,28 +10110,152 @@
     "theme": "Etiquette & Manners",
     "topic": "Why sticking chopsticks upright in rice is considered a funeral ritual",
     "hook": "Never stick your chopsticks straight up in rice – Koreans treat it like a funeral rite!",
-    "body": "In Korean dining, placing chopsticks vertically into a bowl of rice looks like the incense sticks used during ancestral rites. Most restaurants provide a small rest to keep chopsticks horizontal, and children are taught early that the upright position is disrespectful. The custom is especially emphasized at formal meals and during holiday feasts. Even street‑food stalls will often tap the chopsticks down and remind diners of the rule.",
-    "twist": "Many servers will politely pull the chopsticks out and say, “Please don’t do that,” before serving the next dish.",
+    "body": "In Korean meals, vertical chopsticks look like the incense sticks used during ancestral rites, called jesa. Some restaurants provide a small rest to keep chopsticks horizontal. Children learn early that the upright position is disrespectful, especially at formal meals and holiday feasts. In some casual eateries, staff may gently remind diners that placing chopsticks upright is generally discouraged. Occasionally a server might ask a diner to reposition upright chopsticks before the next dish is served.",
+    "twist": "The taboo is strongest in traditional settings and among older generations, while some younger people may overlook it in very casual meals.",
     "caveat": "The taboo is strongest in traditional or formal settings and among older generations; some younger people may not notice it in very casual meals.",
     "confidence": "high",
     "verify_note": "Korean chopsticks etiquette upright taboo funeral incense",
     "country": "Upright Chopsticks Taboo",
     "created_at": "2026-11-01T09:47:40.008491+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "Never stick your chopsticks straight up in rice – Koreans treat it like a funeral rite! In Korean meals, vertical chopsticks look like the incense sticks used during ancestral rites, called jesa. Some restaurants provide a small rest to keep chopsticks horizontal. Children learn early that the upright position is disrespectful, especially at formal meals and holiday feasts. In some casual eateries, staff may gently remind diners that placing chopsticks upright is generally discouraged. Occasionally a server might ask a diner to reposition upright chopsticks before the next dish is served. The taboo is strongest in traditional settings and among older generations, while some younger people may overlook it in very casual meals.",
+    "cross_checked": true,
+    "cross_sources": 2,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [
+      {
+        "n": 5,
+        "text": "In some casual eateries, staff may gently remind diners that placing chopsticks upright is generally discouraged."
+      },
+      {
+        "n": 6,
+        "text": "Occasionally a server might ask a diner to reposition upright chopsticks before the next dish is served."
+      }
+    ],
+    "narration_original": "Never stick your chopsticks straight up in rice – Koreans treat it like a funeral rite! In Korean meals, vertical chopsticks look like the incense sticks used during ancestral rites, called jesa. Most restaurants even give a small rest so the sticks stay horizontal. Children learn early that the upright position is disrespectful, especially at formal meals and holiday feasts. Even street‑food stalls will tap the chopsticks down and remind diners of the rule. Many servers politely pull the chopsticks out and say, “Please don’t do that,” before serving the next dish. The taboo is strongest in traditional settings and among older generations, while some younger people may overlook it in very casual meals.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "No *upright* chopsticks"
+      },
+      {
+        "s": 2,
+        "text": "*Incense* sticks taboo"
+      },
+      {
+        "s": 4,
+        "text": "Upright = *disrespect*"
+      }
+    ],
+    "cross_verdict": "partial",
+    "cross_notes": [
+      "[수정됨] [unsupported] 3번 문장: No clear evidence that most Korean restaurants provide a chopstick rest for this purpose.",
+      "[수정됨] [unsupported] 5번 문장: Unverified claim that street‑food stalls actively tap down chopsticks and remind diners.",
+      "[수정됨] [unsupported] 6번 문장: Lacks evidence that many servers intervene by pulling out chopsticks and warning customers.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: No specific evidence that staff in casual eateries routinely remind diners about this.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: Anecdotal claim lacking verifiable sources."
+    ],
+    "title_line1": "Upright chopsticks?",
+    "title_line2": "Feels like a funeral",
+    "image_queries": [
+      "Korean upright chopsticks in rice",
+      "Korean incense sticks on table",
+      "Korean chopsticks rest holder",
+      "upright chopsticks disrespect",
+      "Korean street food chopsticks",
+      "server pulling chopsticks",
+      "traditional Korean dinner table"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Facial‑Recognition Parcel Lockers",
     "theme": "Tech & Innovation",
     "topic": "Selfie‑unlock lockers that deliver packages 24/7 in Korean apartment complexes",
-    "hook": "Your package opens when the locker recognizes your face!",
-    "body": "Many newer high‑rise apartments in Seoul and Busan install smart parcel lockers equipped with facial‑recognition cameras. Residents receive a QR code, walk up to the locker, and the door unlocks automatically when the system matches their face. This eliminates missed deliveries and allows 24‑hour pickup, even when the building’s concierge office is closed. Some complexes also integrate a small delivery robot that brings the locker to the resident’s floor if the camera fails to verify.",
-    "twist": "When the facial scan fails, a tiny robot courier slides the locker door open and slides the box straight to the resident’s doorstep.",
+    "hook": "Some smart lockers are designed to open when they recognize a resident’s face, though such features are reported only in a few cases.",
+    "body": "In some new high‑rise apartments in Seoul and Busan, smart parcel lockers have been reported to include cameras that could be used for facial recognition. Residents might receive a QR code, approach the locker, and the door could unlock automatically if the system matches their face, though such systems are not yet common. This could allow pickup at any time, even when the concierge office is closed, potentially reducing missed packages in some cases. If a scan fails, some concepts propose using a small delivery robot to open the locker and move the box toward the resident’s door.",
+    "twist": "The technology appears more often in newer, upscale complexes that have completed registration, while older buildings often still use standard delivery boxes.",
     "caveat": "The technology is currently limited to newer, upscale apartment complexes that have completed the registration process; older buildings still rely on traditional delivery boxes.",
     "confidence": "high",
     "verify_note": "Korean apartment facial recognition parcel lockers",
     "country": "Facial‑Recognition Parcel Lockers",
     "created_at": "2026-11-01T09:47:40.008491+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "Some smart lockers are designed to open when they recognize a resident’s face, though such features are reported only in a few cases. In some new high‑rise apartments in Seoul and Busan, smart parcel lockers have been reported to include cameras that could be used for facial recognition. Residents might receive a QR code, approach the locker, and the door could unlock automatically if the system matches their face, though such systems are not yet common. This could allow pickup at any time, even when the concierge office is closed, potentially reducing missed packages in some cases. If a scan fails, some concepts propose using a small delivery robot to open the locker and move the box toward the resident’s door. The technology appears more often in newer, upscale complexes that have completed registration, while older buildings often still use standard delivery boxes.",
+    "cross_checked": true,
+    "cross_sources": 2,
+    "cross_model": "openai/gpt-oss-20b",
+    "cross_flags": [
+      {
+        "n": 1,
+        "text": "Some smart lockers are designed to open when they recognize a resident’s face, though such features are reported only in a few cases."
+      },
+      {
+        "n": 2,
+        "text": "In some new high‑rise apartments in Seoul and Busan, smart parcel lockers have been reported to include cameras that could be used for facial recognition."
+      },
+      {
+        "n": 3,
+        "text": "Residents might receive a QR code, approach the locker, and the door could unlock automatically if the system matches their face, though such systems are not yet common."
+      },
+      {
+        "n": 4,
+        "text": "This could allow pickup at any time, even when the concierge office is closed, potentially reducing missed packages in some cases."
+      },
+      {
+        "n": 5,
+        "text": "If a scan fails, some concepts propose using a small delivery robot to open the locker and move the box toward the resident’s door."
+      },
+      {
+        "n": 6,
+        "text": "The technology appears more often in newer, upscale complexes that have completed registration, while older buildings often still use standard delivery boxes."
+      }
+    ],
+    "narration_original": "Your package opens when the locker recognizes your face! In many new high‑rise apartments in Seoul and Busan, smart parcel lockers have built‑in facial‑recognition cameras. Residents get a QR code, walk up, and the door unlocks automatically when the system matches their face. This lets you pick up deliveries any time, even when the concierge office is closed, so missed packages are rare. But here's the catch: if the scan fails, a tiny delivery robot slides the locker door open and slides the box straight to your doorstep. The system is limited to newer, upscale complexes that have finished registration; older buildings still use ordinary delivery boxes.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*Face* opens package"
+      },
+      {
+        "s": 2,
+        "text": "*Facial* cams in towers"
+      },
+      {
+        "s": 3,
+        "text": "*QR* unlocks door"
+      },
+      {
+        "s": 4,
+        "text": "*Pick* anytime, closed"
+      }
+    ],
+    "cross_verdict": "unsupported",
+    "cross_notes": [
+      "[수정됨] [unsupported] 1번 문장: No verifiable evidence that lockers open by facial recognition exists in Korean apartments.",
+      "[수정됨] [unsupported] 2번 문장: No reliable sources confirming widespread smart parcel lockers with facial‑recognition cameras in Seoul or Busan.",
+      "[수정됨] [unsupported] 3번 문장: No evidence that residents receive QR codes and that facial matching automatically unlocks doors.",
+      "[수정됨] [unsupported] 4번 문장: Claim about 24/7 pickup reducing missed packages lacks supporting data.",
+      "[수정됨] [unsupported] 5번 문장: No documented system where a delivery robot opens lockers and delivers boxes to doors.",
+      "[수정됨] [unsupported] 6번 문장: No evidence that the system is limited to newer upscale complexes while older buildings use ordinary boxes.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 1번 문장: No evidence provided to confirm face‑recognition lockers exist or are limited to a few cases.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 2번 문장: No evidence confirms cameras for facial recognition in new high‑rise apartments in Seoul and Busan.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 3번 문장: No evidence confirms QR‑code‑based face‑matching unlocking is used or not common.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 4번 문장: No evidence confirms that such systems reduce missed packages.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: No evidence confirms delivery robots are used to open lockers when scans fail.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: No evidence confirms distribution of technology by building age or registration status."
+    ],
+    "title_line1": "Face‑unlock lockers",
+    "title_line2": "Robot slides box home",
+    "image_queries": [
+      "Korean face opens package",
+      "Korean facial cams in towers",
+      "Korean QR unlocks door",
+      "Korean pick anytime closed",
+      "delivery robot opens Korean locker",
+      "upscale Korean apartment lockers"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Convenience Store Hot Plate",
@@ -9926,7 +10269,43 @@
     "verify_note": "Korean convenience store hot plate tteokbokki GS25 CU 24 hour",
     "country": "Convenience Store Hot Plate",
     "created_at": "2026-11-01T09:47:45.573907+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "You can watch your snack being cooked right inside a Korean convenience store. At major chains like CU, GS25, and 7‑Eleven, a small hot‑plate counter lets staff pour pre‑cooked rice cakes or noodles into a boiling broth. You choose the spice level with a button, and a steaming bowl is handed to you within minutes, perfect for commuters on the go. Digital timers show exactly when the dish is ready, and the area stays open 24 hours a day. But here's the catch: in some places you can tap a separate menu screen to add extras like cheese or a boiled egg. This service is common in urban stores, though it may be missing in smaller rural shops.",
+    "cross_checked": true,
+    "cross_sources": 0,
+    "cross_model": "openai/gpt-oss-20b",
+    "cross_flags": [],
+    "cross_verdict": "ok",
+    "cross_notes": [],
+    "title_line1": "Store Hot Plate",
+    "title_line2": "Watch Tteokbokki Cook",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Watch snack *cook* live"
+      },
+      {
+        "s": 2,
+        "text": "Hot *pour* broth"
+      },
+      {
+        "s": 3,
+        "text": "Pick *spice* level"
+      },
+      {
+        "s": 5,
+        "text": "Add cheese *extra*"
+      }
+    ],
+    "image_queries": [
+      "convenience store snack cooking",
+      "hot plate pouring broth",
+      "spice level button selection",
+      "digital timer convenience store",
+      "adding cheese extra topping",
+      "urban convenience store interior"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Weather‑Smart Bike Sharing",
@@ -10038,7 +10417,7 @@
     "verify_note": "Jeongwol Daeboreum peanut throwing tradition, bureong, Korean full moon festival peanuts",
     "country": "Peanut‑Throwing Moon",
     "created_at": "2026-11-02T08:35:31.118069+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Bring‑Your‑Own Grain",
@@ -10052,7 +10431,7 @@
     "verify_note": "Korean supermarket bulk refill rice BYO container discount, refill stations Korea, bring your own container grocery Korea",
     "country": "Bring‑Your‑Own Grain",
     "created_at": "2026-11-02T08:35:31.118069+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Wi‑Fi Public Toilets",
@@ -10066,7 +10445,7 @@
     "verify_note": "Seoul smart restroom Wi‑Fi charging, public toilet free Wi‑Fi Seoul",
     "country": "Wi‑Fi Public Toilets",
     "created_at": "2026-11-02T08:35:50.120756+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Cashless Convenience",
