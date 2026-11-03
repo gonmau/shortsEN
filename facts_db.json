@@ -10080,7 +10080,7 @@
     "verify_note": "Seollal cash gift even numbers, Korean New Year sebae tradition, Korean customs even numbers, Korean holiday etiquette",
     "country": "Even‑Numbered Seollal Money",
     "created_at": "2026-11-01T09:42:08.278484+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "If you receive money on Seollal, the number on the envelope is often even. During the Korean New Year, younger family members give elders a small cash gift called sebae in a bright red envelope. Korean custom thinks odd numbers bring bad luck because they’re linked to funerals, so the amount is almost always an even number of won, usually in multiples of 10,000. This practice wishes good fortune and a smooth start for the new year, and visitors quickly spot the pattern when they open the packets. But here’s the catch: the most common figure is exactly 10,000 won, and many families double or triple that amount to stay even and generous. In some modern homes, though, people might give odd amounts or use digital transfers that skip the envelope tradition.",
     "cross_checked": true,
     "cross_sources": 2,
@@ -10115,7 +10115,76 @@
       "10,000 won coin",
       "Digital money transfer"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 설날 빨간 봉투 안 돈은 항상 짝수, 1만원",
+    "ko_description": "🎯 설날에 돈을 받으면 봉투에 적힌 금액이 보통 짝수입니다.\n\n한국 설날에 어린 세대가 어른에게 ‘세뱃돈’이라 불리는 작은 현금을 밝은 빨간 봉투에 넣어 줍니다. 한국 전통에서는 홀수는 장례와 연관돼 불길하다고 여기기 때문에 금액은 거의 항상 짝수 원, 주로 1만원 단위로 줍니다. 이 관습은 새해에 행운과 순조로운 시작을 기원하는 뜻이며, 봉투를 열어볼 때 이 패턴을 금방 알아차릴 수 있습니다. 하지만 여기 함정이 있습니다: 가장 흔한 금액은 바로 1만원이며, 많은 가정이 짝수를 유지하고 관대함을 표현하기 위해 그 금액을 두 배·세 배로 늘리기도 합니다.\n\n💡 현대 가정에서는 홀수 금액을 주거나 봉투 대신 디지털 송금을 이용하는 경우도 있습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#EvenNumberedSeollalMoney #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "설날에 돈을 받으면 봉투에 적힌 금액이 보통 짝수입니다. 한국 설날에 어린 세대가 어른에게 ‘세뱃돈’이라 불리는 작은 현금을 밝은 빨간 봉투에 넣어 줍니다. 한국 전통에서는 홀수가 장례와 연관돼 불길하다고 여기기 때문에 금액은 거의 항상 짝수 원, 주로 1만원 단위로 줍니다. 이 관습은 새해에 행운과 순조로운 시작을 기원하는 뜻이며, 봉투를 열어볼 때 이 패턴을 금방 알아차릴 수 있습니다. 하지만 여기 함정이 있습니다: 가장 흔한 금액은 바로 1만원이며, 많은 가정이 짝수를 유지하고 관대함을 표현하기 위해 그 금액을 두 배·세 배로 늘리기도 합니다. 현대 가정에서는 홀수 금액을 주거나 봉투 대신 디지털 송금을 이용하는 경우도 있습니다.",
+    "ko_issues": [],
+    "ko_src": "2be4b2b7999d",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0130_Even‐Numbered Seollal Money_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0130_Even‐Numbered Seollal Money_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Even red envelope",
+      "Seoul family giving sebae",
+      "Odd numbers bad luck",
+      "New year fortune envelope",
+      "10,000 won coin",
+      "Digital money transfer"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "commons",
+        "user": "Kitabc12345",
+        "license": "CC0",
+        "title": "One yuan red envelope.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:One_yuan_red_envelope.jpg",
+        "id": "c:145501572"
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "Sujitmanna78",
+        "page": "https://pixabay.com/photos/child-gift-christmas-girl-present-8393660/",
+        "id": 8393660
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "ClickerHappy",
+        "page": "https://pixabay.com/photos/bingo-luck-game-play-fun-win-1044718/",
+        "id": 1044718
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "ignartonosbg",
+        "page": "https://pixabay.com/photos/happy-chinese-lunar-year-rabbit-year-7710979/",
+        "id": 7710979
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "manseok_Kim",
+        "page": "https://pixabay.com/photos/coin-money-don-korea-1117993/",
+        "id": 1117993
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "viarami",
+        "page": "https://pixabay.com/photos/alipay-qrcode-alibaba-5417265/",
+        "id": 5417265
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0130_Even‐Numbered Seollal Money.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0130_Even‐Numbered Seollal Money.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "h0kIepJauK0",
+    "uploaded_at": "2026-11-04T01:21:31.932704+09:00"
   },
   {
     "label": "Reward Recycling Bins",
@@ -10129,7 +10198,7 @@
     "verify_note": "Seoul smart recycling bin points coffee coupon Songpa district Seongnam recycling vending machine",
     "country": "Reward Recycling Bins",
     "created_at": "2026-11-01T09:46:57.754465+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "In Seoul, a recycling bin can hand you a coffee coupon for every plastic bottle you toss. In districts like Songpa and Seongnam, smart machines scan each bottle’s barcode and instantly print a QR‑code coupon redeemable at nearby cafés. The city runs an app that tracks how many cups you’ve earned each month, so you can see your savings grow. These bins sit right by subway exits and office buildings, so the extra step feels effortless. But here’s the catch: some machines let you donate the points directly to charity without leaving the kiosk. These reward bins are only in a few districts, not all of South Korea.",
     "cross_checked": true,
     "cross_sources": 0,
@@ -10161,7 +10230,74 @@
       "Charity donation kiosk",
       "Seongnam limited reward bins"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 서울 쓰레기통이 컵을 주고, 병·컵을 받는다",
+    "ko_description": "🎯 서울에서는 재활용 쓰레기통에 플라스틱 병을 버릴 때마다 커피 쿠폰을 받을 수 있다.\n\n송파·성남 등 여러 구에서는 스마트 재활용 기계가 병마다 바코드를 스캔하고 즉시 QR코드 쿠폰을 발행한다. 이 쿠폰은 인근 카페에서 무료 커피로 교환할 수 있다. 시스템은 시에서 운영하는 앱과 연동돼 사용자가 한 달 동안 얼마나 절약했는지 추적할 수 있다. 올바른 쓰레기 분리를 장려하면서도 많은 통근자들이 좋아하는 작고 즉각적인 보상을 제공한다. 기계는 지하철 출구와 사무실 건물 근처에 배치돼 추가적인 행동이 부담없이 느껴진다.\n\n💡 일부 쓰레기통은 기계에서 바로 적립된 포인트를 자선단체에 기부할 수도 있다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#RewardRecyclingBins #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "서울에서는 재활용 쓰레기통에 플라스틱 병을 버릴 때마다 커피 쿠폰을 받을 수 있다. 송파·성남 등 구에서는 스마트 기계가 각 병의 바코드를 스캔하고 즉시 인근 카페에서 사용할 수 있는 QR코드 쿠폰을 출력한다. 시에서 운영하는 앱이 매달 적립된 컵 수를 추적해 절약량을 확인할 수 있게 해준다. 이 쓰레기통은 지하철 출구와 사무실 건물 바로 옆에 있어 추가적인 단계가 부담없이 느껴진다. 하지만 여기엔 한 가지 함정이 있다: 일부 기계는 포인트를 기기에서 바로 자선단체에 기부하도록 할 수 있다. 이 보상 쓰레기통은 몇몇 구에만 설치돼 있으며, 한국 전체에 있는 것은 아니다.",
+    "ko_issues": [],
+    "ko_src": "3520d94961e7",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0131_Reward Recycling Bins_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0131_Reward Recycling Bins_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Seoul recycling bin coffee coupon",
+      "Songpa smart vending machine QR code",
+      "App tracking coffee savings",
+      "Subway exit recycling station",
+      "Charity donation kiosk",
+      "Seongnam limited reward bins"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "anaterate",
+        "page": "https://pixabay.com/photos/garbage-can-waste-container-2652779/",
+        "id": 2652779
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "MaximilianHemon",
+        "page": "https://pixabay.com/photos/japan-vending-machine-fireworks-5021733/",
+        "id": 5021733
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "cocoparisienne",
+        "page": "https://pixabay.com/photos/coffee-coffee-cup-cup-drink-beans-2714970/",
+        "id": 2714970
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "zj900430",
+        "page": "https://pixabay.com/photos/subway-stairs-stair-handrail-4950141/",
+        "id": 4950141
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "HeatherPaque",
+        "page": "https://pixabay.com/photos/money-donation-donate-profit-give-652560/",
+        "id": 652560
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "Hans",
+        "page": "https://pixabay.com/photos/garbage-can-garbage-1260832/",
+        "id": 1260832
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0131_Reward Recycling Bins.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0131_Reward Recycling Bins.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "FyWzxvsTHi0",
+    "uploaded_at": "2026-11-04T01:21:33.533074+09:00"
   },
   {
     "label": "Boss‑Paid Dinner",
@@ -10175,7 +10311,7 @@
     "verify_note": "Korean hoesik boss pays attendance promotion culture office dinner etiquette",
     "country": "Boss‑Paid Dinner",
     "created_at": "2026-11-01T09:46:57.754465+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "If you’re invited to a Korean office dinner, saying no could stall your promotion. Many Seoul companies schedule a meal called hoesik, where the boss or the company foots the bill. Employees are expected to stay for the dinner because attendance signals teamwork and respect. Declining, even for a reason, can be read as disengagement and may affect performance reviews. Practice is common in corporations start‑ups. Some companies may keep informal notes or shared documents to record who attended the dinner.",
     "cross_checked": true,
     "cross_sources": 4,
@@ -10220,7 +10356,78 @@
       "startup office dinner",
       "attendance log spreadsheet"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 사장비 식사 거절 = 승진 위험",
+    "ko_description": "🎯 한국 사무실 회식에 초대받았다면, 거절하면 승진이 지연될 수 있습니다.\n\n많은 서울 기업들은 회식이라는 식사를 잡으며, 사장이나 회사가 비용을 부담합니다. 직원들은 회식에 남아 있어야 하는데, 참석은 팀워크와 존경을 나타내기 때문입니다. 이유가 있더라도 거절하면 무관심으로 해석될 수 있고, 성과 평가에 영향을 미칠 수 있습니다. 이 관행은 대기업·스타트업 모두에서 흔합니다.\n\n💡 일부 기업은 회식 참석자를 기록하기 위해 비공식 메모나 공유 문서를 유지하기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#BossPaidDinner #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "한국 사무실 회식에 초대받았다면, 거절하면 승진이 지연될 수 있습니다. 많은 서울 기업들은 회식이라는 식사를 잡으며, 사장이나 회사가 비용을 부담합니다. 직원들은 회식에 남아 있어야 하는데, 참석은 팀워크와 존경을 나타내기 때문입니다. 이유가 있더라도 거절하면 무관심으로 해석될 수 있고, 성과 평가에 영향을 미칠 수 있습니다. 이 관행은 대기업·스타트업 모두에서 흔합니다. 일부 기업은 회식 참석자를 기록하기 위해 비공식 메모나 공유 문서를 유지하기도 합니다.",
+    "ko_issues": [],
+    "ko_src": "f53053c4f2c2",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0132_Boss‐Paid Dinner_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0132_Boss‐Paid Dinner_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "no sign office",
+      "Korean office dinner",
+      "teamwork dinner table",
+      "decline risk office",
+      "startup office dinner",
+      "attendance log spreadsheet"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "commons",
+        "user": "Oast House Archive",
+        "license": "CC BY-SA 2.0",
+        "title": "The Booking Office sign - geograph.org.uk - 6230591.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Booking_Office_sign_-_geograph.org.uk_-_6230591.jpg",
+        "id": "c:144823505"
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "sharonang",
+        "page": "https://pixabay.com/photos/pork-meat-fried-korean-food-dinner-1582916/",
+        "id": 1582916
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "karriezhu",
+        "page": "https://pixabay.com/photos/food-dishes-restaurant-meal-menu-1050813/",
+        "id": 1050813
+      },
+      {
+        "scene": 4,
+        "source": "commons",
+        "user": "U.S. Government Accountability Office from Washington, DC, United States",
+        "license": "Public domain",
+        "title": "Figure 1- Federal Crop Insurance Costs, Fiscal Years 2003 through 2012 (15203879001).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Figure_1-_Federal_Crop_Insurance_Costs,_Fiscal_Years_2003_through_2012_(15203879001).jpg",
+        "id": "c:52098004"
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "StartupStockPhotos",
+        "page": "https://pixabay.com/photos/startup-start-up-people-593341/",
+        "id": 593341
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/notebook-typing-coffee-computer-1850613/",
+        "id": 1850613
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0132_Boss‐Paid Dinner.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0132_Boss‐Paid Dinner.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "dwyy7usCq1g",
+    "uploaded_at": "2026-11-04T01:21:34.698990+09:00"
   },
   {
     "label": "Rotating Drying Rooms",
@@ -10737,43 +10944,182 @@
     "label": "QR Street Food Pay",
     "theme": "Food & Dining",
     "topic": "Street food stalls now accept QR code payments, letting you pay for tteokbokki with a scan in seconds.",
-    "hook": "You can buy a steaming bowl of tteokbokki by scanning a QR code in under five seconds.",
-    "body": "Across Seoul, Busan and many other cities, tiny QR stickers have appeared on the tables of street‑food vendors. Customers simply open a payment app, scan, and the amount is deducted from their bank account, eliminating the need for cash. The move is part of a nationwide push for cashless transactions and makes ordering fast for both locals and tourists.",
-    "twist": "Some stalls even let you tip through the same QR code, and the tip amount appears as a cute dancing‑kimchi animation on the screen.",
+    "hook": "You can buy a steaming bowl of tteokbokki by scanning a QR code, which usually takes only a few seconds.",
+    "body": "Across Seoul, Busan and other cities, QR stickers sit on street‑food tables. You open a payment app, scan, and the amount is deducted from your bank account—no cash needed. But many rural stalls still operate cash‑only, so the QR option isn’t universal. Some vendors may let you add a tip through the QR code, and a small animation can appear on the screen.",
+    "twist": "The cashless payment often makes ordering smoother for locals and tourists while you enjoy the classic spicy rice‑cake.",
     "caveat": "The QR‑payment system is common in major urban areas, but many rural or very small stalls still operate cash‑only.",
     "confidence": "high",
     "verify_note": "Korean street food QR code payment 2023 Seoul Busan",
     "country": "QR Street Food Pay",
     "created_at": "2026-11-02T08:34:51.916383+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "You can buy a steaming bowl of tteokbokki by scanning a QR code, which usually takes only a few seconds. Across Seoul, Busan and other cities, QR stickers sit on street‑food tables. You open a payment app, scan, and the amount is deducted from your bank account—no cash needed. But many rural stalls still operate cash‑only, so the QR option isn’t universal. Some vendors may let you add a tip through the QR code, and a small animation can appear on the screen. The cashless payment often makes ordering smoother for locals and tourists while you enjoy the classic spicy rice‑cake.",
+    "cross_checked": true,
+    "cross_sources": 0,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [],
+    "narration_original": "You can buy a steaming bowl of tteokbokki by scanning a QR code in under five seconds. Across Seoul, Busan and other cities, QR stickers sit on street‑food tables. You open a payment app, scan, and the amount is deducted from your bank account—no cash needed. But many rural stalls still operate cash‑only, so the QR option isn’t universal. Some vendors even let you tip through the same code, and a cute dancing‑kimchi animation pops up on the screen. The fast, cashless payment keeps ordering smooth for locals and tourists while you still enjoy the classic spicy rice‑cake.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*tteokbokki* in 5 sec"
+      },
+      {
+        "s": 2,
+        "text": "QR stickers on *tables*"
+      },
+      {
+        "s": 3,
+        "text": "*Cashless* in seconds"
+      },
+      {
+        "s": 5,
+        "text": "Tip QR, *kimchi* dance"
+      },
+      {
+        "s": 6,
+        "text": "Smooth for *tourists*"
+      }
+    ],
+    "cross_verdict": "fixed",
+    "cross_notes": [
+      "[수정됨] [unsupported] 1번 문장: Exact scan time of under five seconds cannot be verified",
+      "[수정됨] [unsupported] 5번 문장: Tip‑through‑QR is possible but the specific dancing‑kimchi animation is not generally documented",
+      "[수정됨] [unsupported] 6번 문장: Claim about improving ordering smoothness is an unverified effect, not a verifiable fact"
+    ],
+    "title_line1": "QR code street food",
+    "title_line2": "Scan, eat tteokbokki",
+    "image_queries": [
+      "tteokbokki with QR code",
+      "QR code stickers on street food table",
+      "mobile phone scanning QR payment",
+      "rural Korean street food stall cash",
+      "phone showing kimchi animation QR tip",
+      "tourists ordering tteokbokki cashless"
+    ],
+    "scene_count": 10
   },
   {
     "label": "English Taxi Button",
     "theme": "Travel & Places",
     "topic": "Seoul taxis have an ‘ENG’ button that switches the navigation system to English and displays the address in the Latin alphabet.",
     "hook": "Press a button in a Seoul taxi and the driver’s GPS instantly switches to English.",
-    "body": "Most taxis in Seoul are equipped with a small button labeled ‘ENG’ near the driver’s console. When a foreign passenger presses it, the navigation screen changes to English and the voice prompts read the destination in English, while the driver still speaks Korean. The feature was added after the 2018 Winter Olympics to make city travel smoother for tourists.",
-    "twist": "A few newer models also include a translation button that repeats the passenger’s spoken address in Korean, helping avoid miscommunication.",
+    "body": "Most Seoul cabs have a small “ENG” button on the driver’s console. When a foreign passenger taps it, the navigation screen switches to Latin letters, but the voice prompts stay in Korean. The button was added in recent years and is intended to help tourists navigate the city more easily. Some newer models can repeat the spoken address in Korean, which may help reduce miscommunication.",
+    "twist": "The button is common in Seoul taxis, though many taxis in other Korean cities do not have it.",
     "caveat": "The English button is standard in Seoul and other large cities, but many taxis in smaller towns and provinces still lack it.",
     "confidence": "high",
     "verify_note": "Seoul taxi English button navigation 2022",
     "country": "English Taxi Button",
     "created_at": "2026-11-02T08:34:51.916383+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "Press a button in a Seoul taxi and the driver’s GPS instantly switches to English. Most Seoul cabs have a small “ENG” button on the driver’s console. When a foreign passenger taps it, the navigation screen switches to Latin letters, but the voice prompts stay in Korean. The button was added in recent years and is intended to help tourists navigate the city more easily. Some newer models can repeat the spoken address in Korean, which may help reduce miscommunication. The button is common in Seoul taxis, though many taxis in other Korean cities do not have it.",
+    "cross_checked": true,
+    "cross_sources": 1,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [
+      {
+        "n": 5,
+        "text": "Some newer models can repeat the spoken address in Korean, which may help reduce miscommunication."
+      }
+    ],
+    "narration_original": "Press a button in a Seoul taxi and the driver’s GPS instantly switches to English. Most Seoul cabs have a small “ENG” button on the driver’s console. When a foreign passenger taps it, the navigation screen changes to Latin letters and the voice prompts announce the destination in English, while the driver talks in Korean. The feature was added after the 2018 Winter Olympics to help tourists move around the city more easily. But here’s the twist: newer models also include a translation button that repeats the passenger’s spoken address in Korean, cutting down miscommunication. Keep in mind the button is common in Seoul and other cities, but many taxis outside the capital lack it.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Press *ENG* button"
+      },
+      {
+        "s": 2,
+        "text": "Small *ENG* on console"
+      },
+      {
+        "s": 3,
+        "text": "Navigation in *Latin*"
+      },
+      {
+        "s": 5,
+        "text": "*Repeats* address"
+      }
+    ],
+    "cross_verdict": "partial",
+    "cross_notes": [
+      "[수정됨] [unsupported] 3번 문장: While the display changes to Latin letters, evidence that voice prompts switch to English while the driver continues speaking Korean is lacking.",
+      "[수정됨] [unsupported] 4번 문장: No reliable source confirms the feature was added specifically after the 2018 Winter Olympics.",
+      "[수정됨] [unsupported] 5번 문장: There is no documented evidence of a translation button that repeats the passenger’s spoken address in Korean.",
+      "[수정됨] [unsupported] 6번 문장: The claim about prevalence in other cities versus lack in many taxis outside the capital is vague and not substantiated by sources.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: No clear evidence that newer models repeat the spoken address in Korean."
+    ],
+    "title_line1": "Seoul taxis have ENG",
+    "title_line2": "Driver hears English",
+    "image_queries": [
+      "press ENG button taxi",
+      "small ENG button console",
+      "navigation screen Latin letters",
+      "Seoul taxi after Olympics",
+      "translation button repeats address",
+      "Seoul taxi navigation button"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Student All‑In‑One Card",
     "theme": "School & Work",
     "topic": "Korean students use a single smart card for meals, library borrowing, and public‑transport fares.",
-    "hook": "One card lets a Korean middle‑schooler eat lunch, borrow books, and ride the bus—all with a tap.",
-    "body": "Schools issue a contactless RFID card that doubles as a cafeteria payment card, library ID and local bus pass. A quick tap at the cafeteria window pays the meal, at the library checkout logs the book, and on the bus it validates the fare. The system speeds up queues, cuts down on cash handling and teaches cashless habits from an early age, while schools can monitor nutrition and attendance data.",
-    "twist": "Some districts also embed a tiny emergency‑medical file on the card that can be read by first‑responders in case of an accident.",
+    "hook": "In many Korean schools, a single smart card can be used for meals, library borrowing, and bus fares with a tap.",
+    "body": "Some schools issue a contactless RFID card that serves as a cafeteria payment card, a library ID, and a local bus pass. A tap at the cafeteria window pays for the meal, another tap at the library checkout records the book, and a tap on the bus validates the fare. This can help shorten queues, reduce cash handling, and encourage cashless habits, while schools may be able to collect data on usage.",
+    "twist": "In some rural schools, separate cards or cash are still used for certain services.",
     "caveat": "The multi‑use card is widespread in urban public schools and many private schools, but a few rural schools still rely on separate cards or cash.",
     "confidence": "high",
     "verify_note": "Korean school RFID multi‑use card meal library bus",
     "country": "Student All‑In‑One Card",
     "created_at": "2026-11-02T08:34:51.916383+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "In many Korean schools, a single smart card can be used for meals, library borrowing, and bus fares with a tap. Some schools issue a contactless RFID card that serves as a cafeteria payment card, a library ID, and a local bus pass. A tap at the cafeteria window pays for the meal, another tap at the library checkout records the book, and a tap on the bus validates the fare. This can help shorten queues, reduce cash handling, and encourage cashless habits, while schools may be able to collect data on usage. In some rural schools, separate cards or cash are still used for certain services.",
+    "cross_checked": true,
+    "cross_sources": 2,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [
+      {
+        "n": 5,
+        "text": "In some rural schools, separate cards or cash are still used for certain services."
+      }
+    ],
+    "narration_original": "One card lets a Korean middle‑schooler eat lunch, borrow books, and ride the bus—all with a tap. Schools hand out a contactless RFID card that works as a cafeteria payment card, a library ID and a local bus pass. A quick tap at the cafeteria window pays the meal, another tap at the library checkout logs the book, and a tap on the bus validates the fare. This speeds up queues, reduces cash handling and builds cashless habits early, while schools can track nutrition and attendance data. Some districts even embed a tiny emergency‑medical file that first‑responders can read. Rural schools may still use separate cards or cash.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "One card *feeds* all"
+      },
+      {
+        "s": 3,
+        "text": "Tap to *pay* meals"
+      },
+      {
+        "s": 5,
+        "text": "*Medical* file"
+      }
+    ],
+    "cross_verdict": "fixed",
+    "cross_notes": [
+      "[수정됨] [unsupported] 1번 문장: No general evidence that all Korean middle‑schoolers use a single RFID card for meals, library, and bus.",
+      "[수정됨] [unsupported] 2번 문장: Specific practice of schools issuing a contactless RFID card for all three functions is not documented widely.",
+      "[수정됨] [unsupported] 3번 문장: Depends on the existence of the card described in claim 2, which lacks verification.",
+      "[수정됨] [unsupported] 4번 문장: Benefits claimed are plausible but not substantiated by reliable sources.",
+      "[수정됨] [unsupported] 5번 문장: No evidence that districts embed emergency‑medical files readable by first‑responders on student cards.",
+      "[수정됨] [unsupported] 6번 문장: No specific data confirming that rural Korean schools still use separate cards or cash.",
+      "[수정됨] [삭제] 근거 없는 건강/기원 문장 1개 (5번)"
+    ],
+    "title_line1": "Korean tap card",
+    "title_line2": "Lunch, books, bus tap",
+    "image_queries": [
+      "Korean student tapping card",
+      "Korean school RFID card",
+      "Tap to pay meals",
+      "Korean school cafeteria line",
+      "Korean emergency medical card",
+      "Rural school cash register"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Budget Overnight Sauna",
@@ -10885,7 +11231,7 @@
     "verify_note": "KTX seat change app Korail, real‑time seat map, seat swap feature",
     "country": "KTX Seat Swap",
     "created_at": "2026-11-02T08:36:17.509645+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Fast Lunch Countdown",
@@ -10899,7 +11245,7 @@
     "verify_note": "Korean elementary school lunch self‑service 15 minutes timer, school cafeteria schedule",
     "country": "Fast Lunch Countdown",
     "created_at": "2026-11-02T08:36:17.509645+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Free 30‑Minute Bike",
@@ -10913,7 +11259,7 @@
     "verify_note": "Seoul Ddareungi bike share free 30 minutes, T‑money bike rental, public bike pricing",
     "country": "Free 30‑Minute Bike",
     "created_at": "2026-11-02T08:36:17.509645+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Kimchi Refrigerator",
