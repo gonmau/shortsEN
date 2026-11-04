@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-11-05 06:15:28 (KST) · 기록 254건 · 소재 199개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-11-05 06:16:40 (KST) · 기록 255건 · 소재 199개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -28,7 +28,7 @@
 | upload_to_youtube | 1 | 0 | 9초 |
 | 롱폼 | 22 | 0 | 27분 42초 |
 | 쇼츠 | 45 | 3 | 4시간 14분 |
-| 코드업데이트 | 19 | 0 | 0초 |
+| 코드업데이트 | 20 | 0 | 0초 |
 
 ## 날짜별 작업 (최근 30일)
 
@@ -36,6 +36,7 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 06:15 | PC | 코드업데이트 | gonmau/shortsEN: 3개 (dashboard.py, local_ui.py, pipeline_settings.py) | ✅ |  |  |
 | 01:25 | Actions | 쇼츠 | korea-shorts-pipeline #48 | ✅ |  | https://github.com/gonmau/shortsEN/actions/runs/41864378720 |
 
 ### 2026-11-04
