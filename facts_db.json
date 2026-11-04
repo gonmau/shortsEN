@@ -10441,7 +10441,7 @@
     "verify_note": "Korean apartment communal drying room rotating rack UV light high‑rise complexes",
     "country": "Rotating Drying Rooms",
     "created_at": "2026-11-01T09:46:57.754465+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Your laundry can dry in half the time on a rotating rack in a Korean apartment’s communal drying room. In many high‑rise buildings in Seoul and Busan, a shared space called geonjosil (drying room) has motorised racks that turn slowly while a fan circulates air. You place wet shirts and towels on the racks, and the motion plus airflow speeds evaporation, so a personal dryer isn’t needed. Access is granted with the building’s card and a monthly fee covers electricity and occasional UV‑sterilising lights that kill bacteria and reduce odors. Some newer complexes add a timer that pings your phone when the cycle finishes. Older buildings may only have static racks, so this isn’t everywhere.",
     "cross_checked": true,
     "cross_sources": 3,
@@ -10477,7 +10477,76 @@
       "Phone timer notification",
       "Static drying racks"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 반시간에 회전 건조",
+    "ko_description": "🎯 한국 아파트 공동 건조실에서 회전 선반을 사용하면 세탁물이 반시간에 건조됩니다.\n\n서울과 부산의 현대 고층 아파트는 종종 회전하는 모터식 선반이 설치된 공동 건조실(건조실)을 갖추고 있습니다. 부드러운 선풍기가 공기를 순환시키면서 선반이 천천히 회전합니다. 거주자는 젖은 옷을 선반에 올려 두면 움직임과 공기 흐름이 증발을 가속화해 개인 건조기가 필요 없습니다. 건물 접근 카드로 잠금이 해제되며 사용자는 소액의 월 유지비를 지불합니다. 일부 단지에서는 방 안에 UV 살균등을 설치해 박테리아를 죽이고 냄새를 줄이기도 합니다.\n\n💡 몇몇 최신 단지에는 세탁물이 마르면 휴대폰으로 알림을 주는 디지털 타이머가 추가되었습니다.\n\n🇰🇷 한국을 1분 만에 실감: 일상 생활, 음식, 예절, 그리고 놀라운 사실들.\n\n#RotatingDryingRooms #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "한국 아파트 공동 건조실에서 회전 선반을 사용하면 세탁물이 반시간에 건조됩니다. 서울과 부산의 많은 고층 건물에서 건조실(건조실)이라는 공유 공간이 있으며, 모터식 선반이 천천히 회전하면서 선풍기가 공기를 순환시킵니다. 젖은 셔츠와 수건을 선반에 올려 두면 움직임과 공기 흐름이 증발을 가속화해 개인 건조기가 필요 없습니다. 건물 카드로 접근이 허용되고 월 요금은 전기와 가끔 UV 살균등이 박테리아를 죽이고 냄새를 줄이는 비용을 포함합니다. 일부 최신 단지에는 사이클이 끝날 때 휴대폰으로 알림을 주는 타이머가 추가됩니다. 오래된 건물은 정적 선반만 있을 수 있으므로 이 방식이 모든 곳에 있는 것은 아닙니다.",
+    "ko_issues": [],
+    "ko_src": "6c53fedfcdc3",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0133_Rotating Drying Rooms_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0133_Rotating Drying Rooms_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Korean apartment drying room",
+      "Motorised rotating rack",
+      "Airflow drying shirts",
+      "UV sterilising light",
+      "Phone timer notification",
+      "Static drying racks"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "jeanvdmeulen",
+        "page": "https://pixabay.com/photos/dining-room-living-room-modern-3108037/",
+        "id": 3108037
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "Pexels",
+        "page": "https://pixabay.com/photos/archive-boxes-shelf-folders-1850170/",
+        "id": 1850170
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "JayMantri",
+        "page": "https://pixabay.com/photos/laundry-clothes-line-clothesline-405878/",
+        "id": 405878
+      },
+      {
+        "scene": 4,
+        "source": "commons",
+        "user": "Uvkleen",
+        "license": "CC BY-SA 4.0",
+        "title": "Uv light air purifier.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Uv_light_air_purifier.jpg",
+        "id": "c:105913554"
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "tranmautritam",
+        "page": "https://pixabay.com/photos/iphone-hand-phone-mobile-phone-5537230/",
+        "id": 5537230
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "art_of_pboesken",
+        "page": "https://pixabay.com/photos/norway-cod-fishes-drying-norwegian-4592359/",
+        "id": 4592359
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0133_Rotating Drying Rooms.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0133_Rotating Drying Rooms.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "kD23G7iNGR8",
+    "uploaded_at": "2026-11-04T10:33:21.619975+09:00"
   },
   {
     "label": "Han River Night Ferry",
@@ -10491,7 +10560,7 @@
     "verify_note": "Han River night ferry free Wi‑Fi snack bar seasonal operation Hangang Cruise",
     "country": "Han River Night Ferry",
     "created_at": "2026-11-01T09:46:57.754465+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "You can hop on a night ferry on the Han River for a few dollars and often get free Wi‑Fi while you cruise. The Hangang Cruise runs daily, departing from several piers, and an adult ticket costs about 3,000 won. The boat gives you complimentary Wi‑Fi, a small snack bar, and LED lights that reflect on the water, so you can see Seoul’s skyline, the illuminated bridges, and the 63‑building without paying for a rooftop bar. On weekends, couples and tourists crowd the pier for the short, scenic ride.",
     "cross_checked": true,
     "cross_sources": 2,
@@ -10529,7 +10598,68 @@
       "Pier crowd on weekend",
       "Chocolate milk drink"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 한강 페리 무료 WiFi & 스낵",
+    "ko_description": "🎯 한강 밤 페리에 몇 달러만 내면, 종종 무료 Wi‑Fi를 이용할 수 있어요.\n\n한강 크루즈는 매일 운영되며 여러 부두에서 출발합니다. 성인 티켓은 약 3,000원 정도입니다. 보트는 무료 Wi‑Fi, 작은 스낵 바, 물에 반사되는 LED 조명을 제공해, 옥상 바를 이용하지 않고도 서울 스카이라인, 조명된 다리, 63빌딩을 감상할 수 있어요.\n\n💡 주말에는 커플과 관광객이 짧고 경치 좋은 라이드 때문에 부두에 몰려들어요.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#HanRiverNightFerry #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "한강 밤 페리에 몇 달러만 내면, 종종 무료 Wi‑Fi를 이용할 수 있어요. 한강 크루즈는 매일 운영되며 여러 부두에서 출발합니다. 성인 티켓은 약 3,000원 정도입니다. 보트는 무료 Wi‑Fi, 작은 스낵 바, 물에 반사되는 LED 조명을 제공해, 옥상 바를 이용하지 않고도 서울 스카이라인, 조명된 다리, 63빌딩을 감상할 수 있어요. 주말에는 커플과 관광객이 짧고 경치 좋은 라이드 때문에 부두에 몰려들어요.",
+    "ko_issues": [],
+    "ko_src": "6b5629aae0e8",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0134_Han River Night Ferry_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0134_Han River Night Ferry_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Han River night ferry",
+      "3,000 won ticket",
+      "Views of Seoul",
+      "Pier crowd on weekend",
+      "Chocolate milk drink"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "cskkkk",
+        "page": "https://pixabay.com/photos/night-view-bridge-river-building-7603847/",
+        "id": 7603847
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "manseok_Kim",
+        "page": "https://pixabay.com/photos/money-don-10000-won-1308823/",
+        "id": 1308823
+      },
+      {
+        "scene": 3,
+        "source": "commons",
+        "user": "Basile Morin",
+        "license": "CC BY-SA 4.0",
+        "title": "Front view of Jibokjae Hall under blue sky at Gyeongbokgung Palace in Seoul.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Front_view_of_Jibokjae_Hall_under_blue_sky_at_Gyeongbokgung_Palace_in_Seoul.jpg",
+        "id": "c:150950387"
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "Surprising_Media",
+        "page": "https://pixabay.com/photos/people-crowd-casual-walk-promenade-7965738/",
+        "id": 7965738
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "stevepb",
+        "page": "https://pixabay.com/photos/hot-chocolate-drink-dairy-winter-1058197/",
+        "id": 1058197
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0134_Han River Night Ferry.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0134_Han River Night Ferry.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "DUc0UFgpWXQ",
+    "uploaded_at": "2026-11-04T10:33:23.692022+09:00"
   },
   {
     "label": "Upright Chopsticks Taboo",
@@ -10543,7 +10673,7 @@
     "verify_note": "Korean chopsticks etiquette upright taboo funeral incense",
     "country": "Upright Chopsticks Taboo",
     "created_at": "2026-11-01T09:47:40.008491+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Never stick your chopsticks straight up in rice – Koreans treat it like a funeral rite! In Korean meals, vertical chopsticks look like the incense sticks used during ancestral rites, called jesa. Some restaurants provide a small rest to keep chopsticks horizontal. Children learn early that the upright position is disrespectful, especially at formal meals and holiday feasts. In some casual eateries, staff may gently remind diners that placing chopsticks upright is generally discouraged. Occasionally a server might ask a diner to reposition upright chopsticks before the next dish is served. The taboo is strongest in traditional settings and among older generations, while some younger people may overlook it in very casual meals.",
     "cross_checked": true,
     "cross_sources": 2,
@@ -10592,7 +10722,82 @@
       "server pulling chopsticks",
       "traditional Korean dinner table"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 수직 젓가락? 장례식처럼 느껴져",
+    "ko_description": "🎯 밥에 젓가락을 세워두지 마세요 – 한국인들은 이를 장례식 의식처럼 여기거든요!\n\n한국 식사에서는 수직 젓가락이 조상 제사에 쓰이는 향로와 닮아 있어요. 일부 식당에서는 젓가락이 가로로 놓이도록 작은 받침을 제공하기도 해요. 아이들은 어릴 때부터 수직 위치가 무례하다는 것을 배우고, 특히 격식 있는 식사나 명절 연회에서는 더욱 그렇습니다. 가벼운 식당에서는 직원이 손님에게 젓가락을 세우는 것을 일반적으로 삼가야 한다고 부드럽게 상기시킬 수 있어요. 가끔 서버가 다음 반찬이 나오기 전에 손님에게 수직 젓가락을 다시 놓으라고 요청하기도 합니다.\n\n💡 이 금기는 전통적인 환경과 노년층에서 가장 강하며, 일부 젊은 사람들은 아주 가벼운 식사에서는 무시할 수 있어요.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#UprightChopsticksTaboo #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "밥에 젓가락을 세워두지 마세요 – 한국인들은 이를 장례식 의식처럼 여기거든요! 한국 식사에서는 수직 젓가락이 조상 제사에 쓰이는 향로와 닮아 있어요. 일부 식당에서는 젓가락이 가로로 놓이도록 작은 받침을 제공하기도 해요. 아이들은 어릴 때부터 수직 위치가 무례하다는 것을 배우고, 특히 격식 있는 식사나 명절 연회에서는 더욱 그렇습니다. 가벼운 식당에서는 직원이 손님에게 젓가락을 세우는 것을 일반적으로 삼가야 한다고 부드럽게 상기시킬 수 있어요. 가끔 서버가 다음 반찬이 나오기 전에 손님에게 수직 젓가락을 다시 놓으라고 요청하기도 합니다. 이 금기는 전통적인 환경과 노년층에서 가장 강하며, 일부 젊은 사람들은 아주 가벼운 식사에서는 무시할 수 있어요.",
+    "ko_issues": [],
+    "ko_src": "78d39b709f6e",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0135_Upright Chopsticks Taboo_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0135_Upright Chopsticks Taboo_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Korean upright chopsticks in rice",
+      "Korean incense sticks on table",
+      "Korean chopsticks rest holder",
+      "upright chopsticks disrespect",
+      "Korean street food chopsticks",
+      "server pulling chopsticks",
+      "traditional Korean dinner table"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "joannawielgosz",
+        "page": "https://pixabay.com/photos/chicken-asian-cuisine-food-7249273/",
+        "id": 7249273
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "xuanduongvan87",
+        "page": "https://pixabay.com/photos/incense-sticks-drying-hung-yen-6537298/",
+        "id": 6537298
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "PublicDomainPictures",
+        "page": "https://pixabay.com/photos/chopsticks-holder-utensil-wood-15588/",
+        "id": 15588
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "joannawielgosz",
+        "page": "https://pixabay.com/photos/ramen-soup-food-asian-pasta-7238665/",
+        "id": 7238665
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "cegoh",
+        "page": "https://pixabay.com/photos/kimchi-pizza-korean-spicy-vegetable-1346290/",
+        "id": 1346290
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "karriezhu",
+        "page": "https://pixabay.com/photos/food-dishes-restaurant-meal-menu-1050813/",
+        "id": 1050813
+      },
+      {
+        "scene": 7,
+        "source": "pixabay",
+        "user": "sharonang",
+        "page": "https://pixabay.com/photos/delicious-korean-food-dinner-hot-1534207/",
+        "id": 1534207
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0135_Upright Chopsticks Taboo.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0135_Upright Chopsticks Taboo.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "Et5DbAqs8fw",
+    "uploaded_at": "2026-11-04T10:33:25.445940+09:00"
   },
   {
     "label": "Facial‑Recognition Parcel Lockers",
@@ -11125,43 +11330,205 @@
     "label": "Budget Overnight Sauna",
     "theme": "Travel & Places",
     "topic": "Stay overnight in a Korean jjimjilbang for the price of a coffee",
-    "hook": "Did you know you can spend a night in a Korean sauna for less than a latte?",
-    "body": "Public jjimjilbangs are 24‑hour sauna complexes that offer gender‑separated sleeping rooms, hot baths, free snacks, and TV lounges. A night‑stay usually costs around 10,000–15,000 KRW, roughly the price of a regular coffee. Visitors use a simple locker key and can wander between the sauna, spa, and even a small gym. The low price makes it a popular budget option for travelers and late‑night revelers alike.",
-    "twist": "Many jjimjilbangs also house a 24‑hour PC bang (internet gaming room) right next to the sleeping floor.",
+    "hook": "You can spend a night in a Korean sauna for a price comparable to a simple coffee.",
+    "body": "Public jjimjilbangs are 24‑hour complexes where you rent a simple locker key and sleep in gender‑separated rooms. For about 8,000 KRW—around the cost of a basic coffee—you get access to hot baths, a sauna, a TV lounge and a small gym, while snacks are usually sold separately. Some travelers and night‑time visitors often choose this budget option in Seoul and other cities. Some jjimjilbangs also have a 24‑hour PC bang, an internet gaming room, near the sleeping area.",
+    "twist": "That means a cheap night of steam could also give you the chance to game late into the night.",
     "caveat": "Prices and facilities apply mainly to public jjimjilbangs in major cities; boutique spas may charge more and require reservations.",
     "confidence": "high",
     "verify_note": "jjimjilbang overnight price coffee cost, Korean sauna night stay price, public sauna sleeping cost",
     "country": "Budget Overnight Sauna",
     "created_at": "2026-11-02T08:35:31.118069+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "You can spend a night in a Korean sauna for a price comparable to a simple coffee. Public jjimjilbangs are 24‑hour complexes where you rent a simple locker key and sleep in gender‑separated rooms. For about 8,000 KRW—around the cost of a basic coffee—you get access to hot baths, a sauna, a TV lounge and a small gym, while snacks are usually sold separately. Some travelers and night‑time visitors often choose this budget option in Seoul and other cities. Some jjimjilbangs also have a 24‑hour PC bang, an internet gaming room, near the sleeping area. That means a cheap night of steam could also give you the chance to game late into the night.",
+    "cross_checked": true,
+    "cross_sources": 0,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [],
+    "narration_original": "Did you know you can spend a night in a Korean sauna for less than a latte? Public jjimjilbangs are 24‑hour complexes where you rent a simple locker key and sleep in gender‑separated rooms. For about 10,000 to 15,000 KRW—roughly the price of a regular coffee—you get hot baths, free snacks, a TV lounge and even a small gym. Travelers and late‑night revelers love this budget option across Seoul and other major cities. But here's the catch: many jjimjilbangs also hide a 24‑hour PC bang, an internet gaming room, right next to the sleeping floor. So a cheap night of steam can turn into an all‑night gaming marathon.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*Night* < latte"
+      },
+      {
+        "s": 3,
+        "text": "Coffee‑price *sauna*"
+      },
+      {
+        "s": 5,
+        "text": "*PC bang* hidden"
+      },
+      {
+        "s": 6,
+        "text": "*Gaming* marathon"
+      }
+    ],
+    "cross_verdict": "fixed",
+    "cross_notes": [
+      "[수정됨] [unsupported] 1번 문장: Price comparison to a latte is vague and likely inaccurate",
+      "[수정됨] [contradicted] 3번 문장: 10,000‑15,000 KRW exceeds typical coffee price in Korea",
+      "[수정됨] [unsupported] 4번 문장: No specific evidence for popularity claim",
+      "[수정됨] [unsupported] 5번 문장: Unclear how many jjimjilbangs have attached PC bangs",
+      "[수정됨] [unsupported] 6번 문장: Statement about possible gaming marathon lacks verifiable evidence"
+    ],
+    "title_line1": "Budget sauna night",
+    "title_line2": "Costs like a latte",
+    "image_queries": [
+      "latte coffee next to sauna",
+      "jjimjilbang locker room interior",
+      "coffee price sauna bathroom",
+      "Seoul budget sauna travelers",
+      "hidden PC bang room",
+      "nighttime gaming marathon"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Peanut‑Throwing Moon",
     "theme": "Holidays & Traditions",
     "topic": "During Korea’s first full‑moon festival, people toss peanuts at each other for luck",
     "hook": "Ever been hit by a flying peanut for good fortune?",
-    "body": "On Jeongwol Daeboreum, the first full moon of the lunar year, Koreans eat five‑grain rice (ogokbap) and play a game called bureong where participants throw roasted peanuts at each other’s heads. The practice is believed to chase away bad spirits and bring health for the coming year. It is usually done outdoors after the communal feast, accompanied by laughter and chants. The tradition has spread from rural villages to city community centers as a playful way to celebrate the holiday.",
-    "twist": "In some regions the peanuts are first boiled in soy sauce, giving them a salty, extra‑crunchy flavor before the toss.",
+    "body": "On Jeongwol Daeboreum, the first full moon of the lunar year, Koreans share five‑grain rice called ogokbap. After the feast many play bureong, tossing roasted peanuts at each other’s heads. The toss is meant to chase away bad spirits and invite health for new year, and it’s accompanied by laughter and chants. In some areas, people may marinate peanuts in soy sauce before tossing them, adding a salty flavor. The custom continues in rural villages and community centers, and it is less common in high‑rise apartments in large cities.",
+    "twist": "So when a peanut flies your way, it’s a wish for wellness.",
     "caveat": "The peanut‑throwing game is most common in community gatherings and rural areas; it is less frequently seen in high‑rise apartment complexes in big cities.",
     "confidence": "high",
     "verify_note": "Jeongwol Daeboreum peanut throwing tradition, bureong, Korean full moon festival peanuts",
     "country": "Peanut‑Throwing Moon",
     "created_at": "2026-11-02T08:35:31.118069+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "Ever been hit by a flying peanut for good fortune? On Jeongwol Daeboreum, the first full moon of the lunar year, Koreans share five‑grain rice called ogokbap. After the feast many play bureong, tossing roasted peanuts at each other’s heads. The toss is meant to chase away bad spirits and invite health for new year, and it’s accompanied by laughter and chants. In some areas, people may marinate peanuts in soy sauce before tossing them, adding a salty flavor. The custom continues in rural villages and community centers, and it is less common in high‑rise apartments in large cities. So when a peanut flies your way, it’s a wish for wellness.",
+    "cross_checked": true,
+    "cross_sources": 1,
+    "cross_model": "openai/gpt-oss-20b",
+    "cross_flags": [],
+    "narration_original": "Ever been hit by a flying peanut for good fortune? On Jeongwol Daeboreum, the first full moon of the lunar year, Koreans share five‑grain rice called ogokbap. After the feast many play bureong, tossing roasted peanuts at each other’s heads. The toss is meant to chase away bad spirits and invite health for new year, and it’s accompanied by laughter and chants. In some regions the peanuts are boiled in soy sauce first, giving them a salty, extra‑crunchy flavor before the throw. The custom lives on in villages and community centers, but you’ll see it less often in high‑rise apartments in big cities. So when a peanut flies your way, it’s a wish for wellness.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Flying *peanut* luck"
+      },
+      {
+        "s": 3,
+        "text": "Toss roasted *peanuts*"
+      },
+      {
+        "s": 5,
+        "text": "*Boiled* soy peanuts"
+      },
+      {
+        "s": 7,
+        "text": "*Wellness* wish peanut"
+      }
+    ],
+    "cross_verdict": "fixed",
+    "cross_notes": [
+      "[수정됨] [unsupported] 5번 문장: No reliable sources found describing peanuts boiled in soy sauce before throwing.",
+      "[수정됨] [unsupported] 6번 문장: Claim about prevalence in villages vs high‑rise apartments lacks verifiable evidence."
+    ],
+    "title_line1": "Peanut‑Throwing Moon",
+    "title_line2": "Lucky peanut hits",
+    "image_queries": [
+      "Flying peanut Korea",
+      "Korean five grain rice",
+      "Tossed roasted peanuts Korea",
+      "Group laughing with peanuts",
+      "Boiled soy peanuts Korea",
+      "Village festival outdoors",
+      "Wellness wish peanut"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Bring‑Your‑Own Grain",
     "theme": "Food & Dining",
     "topic": "Supermarkets let you refill rice and beans in your own containers, often cheaper than packaged",
-    "hook": "Can you save money on rice by filling your own jar at a Korean supermarket?",
-    "body": "Large Korean supermarket chains have introduced bulk refill stations for staples such as rice, beans, and lentils. Shoppers bring a clean container, scan a QR code, and fill it by weight, paying per kilogram—usually a few hundred won less than the pre‑packaged version. The initiative reduces plastic waste and appeals to cost‑conscious consumers. Stores often display clear signage in Korean and English, making the process easy for foreigners.",
-    "twist": "Several stores offer an extra discount if the container is made of reusable metal rather than plastic.",
+    "hook": "You may save money on rice by filling your own jar at some Korean supermarkets.",
+    "body": "Some big‑chain stores in Seoul sometimes offer bulk refill stations for rice, beans, and lentils. Bring a clean container, scan a QR code, and the machine may weigh your fill; you pay per kilogram. The price is sometimes a few hundred won less than the pre‑packaged version, so you get a discount. But some stores may give a discount if your container is reusable metal instead of plastic. The bulk refill option is mainly in large chains; smaller local markets may not offer it.",
+    "twist": "So when you shop in Seoul, try filling your jar—your wallet and the planet might thank you.",
     "caveat": "Bulk refill stations are primarily found in big‑chain supermarkets in urban areas; smaller local markets may not provide this service.",
     "confidence": "high",
     "verify_note": "Korean supermarket bulk refill rice BYO container discount, refill stations Korea, bring your own container grocery Korea",
     "country": "Bring‑Your‑Own Grain",
     "created_at": "2026-11-02T08:35:31.118069+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "You may save money on rice by filling your own jar at some Korean supermarkets. Some big‑chain stores in Seoul sometimes offer bulk refill stations for rice, beans, and lentils. Bring a clean container, scan a QR code, and the machine may weigh your fill; you pay per kilogram. The price is sometimes a few hundred won less than the pre‑packaged version, so you get a discount. But some stores may give a discount if your container is reusable metal instead of plastic. The bulk refill option is mainly in large chains; smaller local markets may not offer it. So when you shop in Seoul, try filling your jar—your wallet and the planet might thank you.",
+    "cross_checked": true,
+    "cross_sources": 2,
+    "cross_model": "openai/gpt-oss-20b",
+    "cross_flags": [
+      {
+        "n": 1,
+        "text": "You may save money on rice by filling your own jar at some Korean supermarkets."
+      },
+      {
+        "n": 2,
+        "text": "Some big‑chain stores in Seoul sometimes offer bulk refill stations for rice, beans, and lentils."
+      },
+      {
+        "n": 3,
+        "text": "Bring a clean container, scan a QR code, and the machine may weigh your fill; you pay per kilogram."
+      },
+      {
+        "n": 4,
+        "text": "The price is sometimes a few hundred won less than the pre‑packaged version, so you get a discount."
+      },
+      {
+        "n": 5,
+        "text": "But some stores may give a discount if your container is reusable metal instead of plastic."
+      },
+      {
+        "n": 6,
+        "text": "The bulk refill option is mainly in large chains; smaller local markets may not offer it."
+      },
+      {
+        "n": 7,
+        "text": "So when you shop in Seoul, try filling your jar—your wallet and the planet might thank you."
+      }
+    ],
+    "narration_original": "Can you save money on rice by filling your own jar at a Korean supermarket? Many big‑chain stores in Seoul now have bulk refill stations for rice, beans, and lentils. Bring a clean container, scan a QR code, and the machine weighs your fill; you pay per kilogram. The price is usually a few hundred won less than the pre‑packaged version, so you get a discount. But here's the catch: some stores give a discount if your container is reusable metal instead of plastic. The bulk refill option is mainly in large chains; smaller local markets don’t offer it. So when you shop in Seoul, try filling your jar—your wallet and the planet might thank you.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Save on *rice*"
+      },
+      {
+        "s": 3,
+        "text": "Scan QR, pay per *kg*"
+      },
+      {
+        "s": 4,
+        "text": "Get a *discount*"
+      }
+    ],
+    "cross_verdict": "unsupported",
+    "cross_notes": [
+      "[수정됨] [unsupported] 1번 문장: no evidence of bulk refill at Korean supermarkets",
+      "[수정됨] [unsupported] 2번 문장: no evidence of bulk refill stations in Seoul",
+      "[수정됨] [unsupported] 3번 문장: no evidence of QR code scanning and weighing system",
+      "[수정됨] [unsupported] 4번 문장: no evidence of price difference",
+      "[수정됨] [unsupported] 5번 문장: no evidence of metal container discount",
+      "[수정됨] [unsupported] 6번 문장: no evidence of availability in small markets",
+      "[수정됨] [unsupported] 7번 문장: no evidence of wallet/planet benefit",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 1번 문장: no evidence",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 2번 문장: no evidence",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 3번 문장: no evidence",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 4번 문장: no evidence",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: no evidence",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: no evidence",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 7번 문장: no evidence"
+    ],
+    "title_line1": "Bring Your Own Grain",
+    "title_line2": "Save money with jars",
+    "image_queries": [
+      "Rice jar filling Korean store",
+      "Bulk refill station Seoul",
+      "QR code scanning bulk machine",
+      "Discounted bulk rice price",
+      "Reusable metal container bulk",
+      "Small market no bulk refill",
+      "Jar refill Seoul shopping"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Wi‑Fi Public Toilets",
@@ -11273,7 +11640,7 @@
     "verify_note": "kimchi refrigerator market Korea, Samsung kimchi fridge, LG kimchi refrigerator specifications, Korean home appliance trends",
     "country": "Kimchi Refrigerator",
     "created_at": "2026-11-02T08:38:44.251786+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Subway Smoking Fine",
@@ -11287,7 +11654,7 @@
     "verify_note": "Seoul subway smoking fine 100,000 won, Seoul Metro smoking policy",
     "country": "Subway Smoking Fine",
     "created_at": "2026-11-02T08:40:23.393907+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "KTX Quiet Car",
@@ -11301,7 +11668,7 @@
     "verify_note": "KTX quiet car, KTX silent car policy, Korean high-speed rail quiet zone",
     "country": "KTX Quiet Car",
     "created_at": "2026-11-02T08:40:23.393907+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "KakaoTalk Auto‑Translate",
@@ -11665,6 +12032,230 @@
     "verify_note": "Jeju free shuttle bus schedule, Jeju Island public transport free bus",
     "country": "Free Jeju Shuttle",
     "created_at": "2026-11-03T08:47:32.882916+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Gram‑by‑Gram Shopping",
+    "theme": "Daily Life",
+    "topic": "Korean supermarkets let you weigh produce and pay per gram at self‑service stations.",
+    "hook": "Did you know you can buy a single strawberry for exactly its weight at Korean supermarkets?",
+    "body": "Large chains such as E‑Mart and Homeplus install digital scales with built‑in barcode scanners. You place the item, the screen shows the price per gram, and you scan the barcode yourself before heading to checkout. This lets shoppers purchase only the amount they need, reducing waste and cost. The system is linked to the cash register so the exact price appears on the receipt.",
+    "twist": "Some stores even display the total price on a small LED screen attached to the scale, so you can compare prices of different weights instantly.",
+    "caveat": "The self‑service weighing is common in big supermarkets in cities, but many small grocery stores still use traditional weigh‑and‑pay counters.",
+    "confidence": "high",
+    "verify_note": "Korean supermarket self service weighing scale price per gram E-Mart Homeplus",
+    "country": "Gram‑by‑Gram Shopping",
+    "created_at": "2026-11-04T01:03:43.384066+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Black Day Noodles",
+    "theme": "Holidays & Traditions",
+    "topic": "Singles in Korea eat black bean noodles on April 14 as a tongue‑in‑cheek celebration.",
+    "hook": "If you’re single on April 14, you might be eating black noodles on purpose!",
+    "body": "April 14th is known as ‘Black Day’ (흑색의 날) where unmarried people gather to eat jajangmyeon, a noodle dish topped with dark bean sauce. The day was popularized in the early 2000s by a marketing campaign and has since become a pop‑culture tradition, especially among university students and young professionals. Restaurants often offer special deals or extra toppings for groups celebrating together.",
+    "twist": "Some cafés even serve ‘black coffee’ alongside the noodles to keep the monochrome theme.",
+    "caveat": "Black Day is mainly observed in urban areas and among younger generations; many older Koreans are unaware of the holiday.",
+    "confidence": "high",
+    "verify_note": "Korean Black Day April 14 jajangmyeon tradition origin marketing campaign",
+    "country": "Black Day Noodles",
+    "created_at": "2026-11-04T01:03:43.384066+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Smart Home Panels",
+    "theme": "Tech & Innovation",
+    "topic": "New Korean apartments feature wall‑mounted tablets that control lighting, blinds, heating, and appliances.",
+    "hook": "Your apartment could have a wall tablet that controls lights, blinds, and even the washing machine with a tap!",
+    "body": "Since 2020, many high‑rise complexes in Seoul and Busan have installed IoT control panels, often called ‘Smart Home Hub,’ on a central wall. Residents can adjust room temperature, open or close automatic curtains, turn on LED lighting, and start the washing machine from the same interface, sometimes using voice commands in Korean or English. The system is linked to the building’s energy‑management network, helping reduce electricity consumption.",
+    "twist": "The panel can also display real‑time air‑quality data and suggest when to ventilate the room.",
+    "caveat": "These panels are typical in new luxury apartments and some public housing projects, but older buildings and many rental units still rely on separate switches.",
+    "confidence": "high",
+    "verify_note": "Korean apartment smart home wall panel IoT control Seoul 2021",
+    "country": "Smart Home Panels",
+    "created_at": "2026-11-04T01:03:43.384066+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Solar Charging Benches",
+    "theme": "Travel & Places",
+    "topic": "Seoul’s public parks install solar‑powered benches that charge phones and provide Wi‑Fi.",
+    "hook": "You can recharge your phone while you sit on a park bench in Seoul – the bench itself is a solar charger.",
+    "body": "The Seoul Metropolitan Government has placed solar‑panel benches in locations such as Hangang River parks and Namsan Tower plaza. Each bench has built‑in USB ports and a wireless charging pad, powered by the sun‑facing panels on the back. Visitors can also connect to free Wi‑Fi by scanning a QR code printed on the bench, which often links to an audio guide of nearby attractions.",
+    "twist": "The benches store excess energy in a small battery, allowing charging even after sunset.",
+    "caveat": "These benches are currently limited to major tourist parks and some downtown squares; most neighborhood parks still have ordinary seating.",
+    "confidence": "high",
+    "verify_note": "Seoul solar charging bench park free Wi-Fi QR code Hangang Namsan",
+    "country": "Solar Charging Benches",
+    "created_at": "2026-11-04T01:03:43.384066+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Seoul Subway Shock",
+    "theme": "Travel & Places",
+    "topic": "Seoul's subway moves more people daily than the entire population of Norway",
+    "hook": "Did you know Seoul’s subway carries more riders each day than the whole population of Norway?",
+    "body": "The Seoul Metropolitan Subway transports roughly 7 million passengers per day across 23 lines and over 700 stations. This makes it one of the world’s busiest urban rail systems, driven by high population density and extensive coverage that reaches suburbs and satellite cities. Trains run from about 5:30 am to midnight, with short intervals during rush hour. The massive volume is a daily routine for commuters, shoppers, and tourists alike.",
+    "twist": "During peak hours a single train can hold up to 1,800 passengers, enough to fill a small stadium.",
+    "caveat": "The figure refers to the Seoul Metro network; other Korean cities have lower daily ridership.",
+    "confidence": "high",
+    "verify_note": "Seoul subway daily ridership 7 million Norway population 5.4 million statistics",
+    "country": "Seoul Subway Shock",
+    "created_at": "2026-11-04T01:04:16.541462+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Fingerprint ATM Cash",
+    "theme": "Tech & Innovation",
+    "topic": "Withdraw cash from many Korean ATMs using only a fingerprint",
+    "hook": "You can pull out cash from a Korean ATM with just your fingerprint—no card needed.",
+    "body": "Major banks such as Shinhan, KEB Hana, and Woori have installed biometric ATMs in cities and large malls. After registering your fingerprint at the bank, you can authenticate at the machine by placing your finger on the scanner, and the ATM dispenses cash without requiring a card. This speeds up the transaction and reduces the risk of card‑skimming. The service is offered to account holders of Korean domestic accounts; foreign visitors must use a regular card.",
+    "twist": "Some of these ATMs also let you deposit cash by simply placing a bill on the scanner, eliminating the need for envelopes.",
+    "caveat": "Fingerprint withdrawal works only for Korean‑issued bank accounts; it is not available for most foreign cards or visitors without a local account.",
+    "confidence": "high",
+    "verify_note": "Korean biometric ATM fingerprint withdrawal Shinhan Hana Woori",
+    "country": "Fingerprint ATM Cash",
+    "created_at": "2026-11-04T01:04:16.541462+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Subway Snack Fine",
+    "theme": "Etiquette & Manners",
+    "topic": "Eating on the subway can cost you a hefty fine",
+    "hook": "Did you know you can be fined 100,000 won for eating on the subway in Seoul?",
+    "body": "Seoul Metro classifies eating or drinking on trains as a violation of public‑order rules. If an officer catches you, the standard penalty is a fine of about 100,000 won (≈ $75). The rule aims to keep seats clean and prevent spills that could delay service. Many commuters still bring a discreet snack, but they try to hide it or eat only during transfers.",
+    "twist": "Even though the fine exists, some stations quietly provide free water dispensers to encourage hydration without food.",
+    "caveat": "The fine applies mainly to Seoul’s subway system and other major city lines; some regional trains have no such rule.",
+    "confidence": "high",
+    "verify_note": "Seoul Metro fine eating on subway 100,000 won rule",
+    "country": "Subway Snack Fine",
+    "created_at": "2026-11-04T01:04:30.251707+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Office Nap Rooms",
+    "theme": "School & Work",
+    "topic": "Companies provide dedicated nap rooms for quick power naps",
+    "hook": "Some Korean offices actually have a nap room you can book for a 20‑minute power nap.",
+    "body": "Large corporations and many start‑ups in Seoul have set up small ‘rest pods’ equipped with reclining chairs, dim lighting and a timer. Employees can reserve a slot via an internal app and take a short nap to boost afternoon productivity. The practice became popular after research showed a 15 % increase in alertness after a brief rest. The rooms are often kept quiet with soft rain sounds playing in the background.",
+    "twist": "A few companies even log nap duration and offer extra points in their internal wellness program.",
+    "caveat": "Nap rooms are common in big tech firms and multinational headquarters, but many smaller businesses and government offices do not provide them.",
+    "confidence": "high",
+    "verify_note": "Korean office nap rooms power nap research 15% alertness",
+    "country": "Office Nap Rooms",
+    "created_at": "2026-11-04T01:04:30.251707+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Hangul Mouth Shapes",
+    "theme": "Language & Names",
+    "topic": "Hangul letters were designed to match mouth shapes",
+    "hook": "Hangul letters actually look like the shape of your mouth when you say them.",
+    "body": "When King Sejong created Hangul in the 15th century, each consonant was drawn to resemble the position of the tongue, teeth or lips used to pronounce it. For example, the letter ‘ㄱ’ mirrors the shape of the back of the tongue touching the soft palate for the ‘k’ sound. Vowel symbols are based on three basic elements representing heaven, earth and humanity. This visual logic is still taught in Korean schools as a way to remember pronunciation.",
+    "twist": "Even the modern ‘ㅍ’ and ‘ㅊ’ retain the original shape despite the sounds evolving over centuries.",
+    "caveat": "The mouth‑shape explanation is the traditional teaching narrative; some scholars note that later refinements altered the original designs.",
+    "confidence": "high",
+    "verify_note": "Hangul consonant shapes tongue mouth Sejong design",
+    "country": "Hangul Mouth Shapes",
+    "created_at": "2026-11-04T01:04:30.251707+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Subway Parcel Lockers",
+    "theme": "Travel & Places",
+    "topic": "24/7 lockers at subway stations let you pick up online deliveries at any hour",
+    "hook": "You can grab a package from a Seoul subway station locker at 2 am, even when stores are closed.",
+    "body": "Many major subway stations in Seoul host automated parcel lockers operated by logistics firms. After an online order arrives, you receive a QR code or numeric password via text, and the locker opens for you any time, day or night. The service is free for the first 24 hours of storage, and you can retrieve items even on holidays when post offices are shut. It’s a convenient way to avoid missed deliveries in the city’s fast‑paced life.",
+    "twist": "Some lockers even have a small refrigerated compartment for temperature‑sensitive items like cosmetics.",
+    "caveat": "The lockers are available only in larger stations and may require a Korean mobile number for the notification.",
+    "confidence": "high",
+    "verify_note": "Seoul subway parcel lockers CJ Logistics, GS25 locker, QR code pickup",
+    "country": "Subway Parcel Lockers",
+    "created_at": "2026-11-04T01:05:27.961739+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Office Fruit Boxes",
+    "theme": "School & Work",
+    "topic": "Many Korean companies place a free fruit box on each desk each morning",
+    "hook": "In dozens of Korean offices, a fresh apple appears on your desk before you start work.",
+    "body": "Employee‑welfare programs in South Korean firms often include a daily fruit service, where a small box of seasonal fruit—usually an apple, banana, or tangerine—is delivered to each workstation each morning. The fruit is meant to promote health and boost morale, and workers are encouraged to eat it during their break. The practice is most common in larger corporations and government offices, though the exact fruit type can vary by season.",
+    "twist": "If the fruit isn’t taken by the end of the day, many offices donate it to nearby shelters.",
+    "caveat": "Not all companies provide this perk; it’s typical in medium‑to‑large organizations but rare in small startups.",
+    "confidence": "high",
+    "verify_note": "Korean corporate welfare fruit box, employee health program, office fruit delivery",
+    "country": "Office Fruit Boxes",
+    "created_at": "2026-11-04T01:05:27.961739+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "No‑Tip, Service‑Charge Norm",
+    "theme": "Food & Dining",
+    "topic": "Tipping is not customary; many restaurants add a 10 % service fee automatically for larger parties",
+    "hook": "You’ll never see a tip jar in a Korean restaurant—instead, a 10 % fee appears on the bill for groups of four or more.",
+    "body": "In South Korea, leaving a tip is uncommon and can even be refused. To compensate, many mid‑range and upscale eateries automatically add a 10 % service charge when the party size reaches four diners or when you order through a delivery app. The fee covers staff wages and is included in the total, so the final price you see already includes the service cost. Small family restaurants usually omit any extra charge, keeping the bill exactly as shown on the menu.",
+    "twist": "If you do leave extra cash, servers often return it to you with a polite thank you.",
+    "caveat": "The automatic service charge is not universal; it varies by restaurant type and location.",
+    "confidence": "high",
+    "verify_note": "Korean tipping culture, service charge automatic, Korean restaurant etiquette",
+    "country": "No‑Tip, Service‑Charge Norm",
+    "created_at": "2026-11-04T01:05:27.961739+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Seollal Walnut Luck",
+    "theme": "Holidays & Traditions",
+    "topic": "During Lunar New Year, a hidden walnut in songpyeon predicts good fortune",
+    "hook": "Find the walnut hidden in your New Year rice cake, and tradition says you’ll have luck all year.",
+    "body": "On Seollal, families make and share songpyeon, small half‑moon rice cakes filled with sweet beans or sesame. One walnut is secretly placed in a single cake; the person who bites into it is said to receive good health and wealth for the coming year. The tradition dates back to the Joseon era and is still practiced in many households, especially in rural areas. The walnut is usually peeled and lightly roasted before being hidden.",
+    "twist": "If no one finds the walnut, it’s considered a sign that the year will be calm and uneventful.",
+    "caveat": "The walnut‑finding custom is common but not observed in every family, and some modern versions use a piece of chestnut instead.",
+    "confidence": "high",
+    "verify_note": "Seollal songpyeon walnut tradition, Korean New Year rice cake luck, walnut hidden in songpyeon",
+    "country": "Seollal Walnut Luck",
+    "created_at": "2026-11-04T01:05:27.961739+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Budget Bathhouse Night",
+    "theme": "Daily Life",
+    "topic": "Spend a night in a public jjimjilbang for the cost of a cheap snack",
+    "hook": "You can sleep overnight in a Korean public bath for just 5,000 won.",
+    "body": "Jjimjilbangs are 24‑hour public bath complexes that include showers, saunas, heated floors and a communal sleeping area. For about 5,000 won you get a locker, a towel, free pajamas and access to all the facilities, making it a popular budget‑friendly option for travelers and night‑owls. Many locations also serve simple meals and have TV rooms, so you can relax until the morning trains arrive. The low price is set by the owners to attract long‑stay guests and is widely advertised at the front desk.",
+    "twist": "Some jjimjilbangs let you add a personal mattress for an extra 1,000 won, turning the sleeping floor into a true dormitory.",
+    "caveat": "The price applies to most large jjimjilbang in major cities; smaller or boutique locations may charge more, and lockers or extra services often require a small additional fee.",
+    "confidence": "high",
+    "verify_note": "jjimjilbang overnight price 5,000 won, Korean public bath night stay cost",
+    "country": "Budget Bathhouse Night",
+    "created_at": "2026-11-04T01:06:15.133108+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "“Did you eat?” Greeting",
+    "theme": "Language & Names",
+    "topic": "The phrase “밥 먹었어요?” is a casual way to say hello, not a literal meal inquiry",
+    "hook": "When a Korean asks ‘Did you eat?’, they’re actually just saying ‘Hey, how’s it going?’",
+    "body": "In Korean culture food is linked to wellbeing, so asking “밥 먹었어요?” (Did you eat?) has become a friendly shorthand for checking in on someone’s health. Friends, classmates and coworkers use it as a casual greeting, and the expected reply is often a brief “yes, thanks” or “not yet, but I’m fine.” The question isn’t meant to start a dinner plan; it simply acknowledges the person’s presence. This habit mirrors English small talk like “How are you?” where a literal answer isn’t required.",
+    "twist": "You’ll even find the same line opening corporate emails in Korea as a polite way to start the message before the main content.",
+    "caveat": "It is most common among peers and acquaintances; in very formal business settings a more neutral greeting is preferred, and older generations may still expect a short answer about the meal.",
+    "confidence": "high",
+    "verify_note": "Korean phrase 밥 먹었어요 greeting meaning",
+    "country": "“Did you eat?” Greeting",
+    "created_at": "2026-11-04T01:06:15.133108+00:00",
+    "status": "unverified"
+  },
+  {
+    "label": "Solar Bus‑Stop Chargers",
+    "theme": "Tech & Innovation",
+    "topic": "Many Seoul bus stops have free solar‑powered USB chargers for passengers",
+    "hook": "Every Seoul bus stop now lets you charge your phone for free using solar power.",
+    "body": "Starting in 2021, the Seoul Metropolitan Government equipped dozens of bus‑stop shelters with small solar panels that feed USB charging ports. Commuters can plug in their phones while waiting for a bus without paying or inserting a card, helping them stay connected during long waits. The solar units also power an LED display that shows real‑time bus arrival information, blending convenience with green energy. The initiative is part of the city’s broader push to make public transport more user‑friendly and environmentally sustainable.",
+    "twist": "The same solar panels also run a tiny air‑purifier inside the shelter, improving air quality for waiting passengers.",
+    "caveat": "The chargers are installed at many, but not all, bus stops in Seoul; older or less‑busy stops may still lack the feature.",
+    "confidence": "high",
+    "verify_note": "Seoul bus stop solar charger USB free",
+    "country": "Solar Bus‑Stop Chargers",
+    "created_at": "2026-11-04T01:06:15.133108+00:00",
     "status": "unverified"
   }
 ]

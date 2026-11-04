@@ -11,88 +11,92 @@
 #   제외한 소재는 폐기(rejected)로 바뀌어 render에서 건너뛰고, 나중에 'redo_script=번호!'로 되살릴 수 있습니다.
 # - '('로 시작하는 줄은 참고용이라 무시됩니다. '=== [번호] ===' 줄은 바꾸지 마세요.
 
-=== [130] Even‑Numbered Seollal Money ===
-(교차검증) fixed
-(교차검증 메모 1) [수정됨] [contradicted] 1번 문장: Not all Seollal money envelopes are even; odd amounts are occasionally given.
-(사실 확인용 검색어) Seollal cash gift even numbers, Korean New Year sebae tradition, Korean customs even numbers, Korean holiday etiquette
-(한글 제목) 한국: 설날 빨간 봉투 안 돈은 항상 짝수, 1만원
-후크: If you receive money on Seollal, the number on the envelope is often even.
-본문: During the Korean New Year, younger family members give elders a small cash gift called sebae in a bright red envelope. Korean custom thinks odd numbers bring bad luck because they’re linked to funerals, so the amount is almost always an even number of won, usually in multiples of 10,000. This practice wishes good fortune and a smooth start for the new year, and visitors quickly spot the pattern when they open the packets. But here’s the catch: the most common figure is exactly 10,000 won, and many families double or triple that amount to stay even and generous.
-반전: In some modern homes, though, people might give odd amounts or use digital transfers that skip the envelope tradition.
-제외:
-제목1: Seollal money in red
-제목2: Always even, 10k won
-핵심[1]: *Even* envelope
-핵심[3]: odd = *bad* luck
-핵심[5]: 10,000 won *common*
-이미지[1]: Even red envelope
-이미지[2]: Seoul family giving sebae
-이미지[3]: Odd numbers bad luck
-이미지[4]: New year fortune envelope
-이미지[5]: 10,000 won coin
-이미지[6]: Digital money transfer
-대본[1]: If you receive money on Seollal, the number on the envelope is often even.
-대본[2]: During the Korean New Year, younger family members give elders a small cash gift called sebae in a bright red envelope.
-대본[3]: Korean custom thinks odd numbers bring bad luck because they’re linked to funerals, so the amount is almost always an even number of won, usually in multiples of 10,000.
-대본[4]: This practice wishes good fortune and a smooth start for the new year, and visitors quickly spot the pattern when they open the packets.
-대본[5]: But here’s the catch: the most common figure is exactly 10,000 won, and many families double or triple that amount to stay even and generous.
-대본[6]: In some modern homes, though, people might give odd amounts or use digital transfers that skip the envelope tradition.
-(한글 대본) 설날에 돈을 받으면 봉투에 적힌 금액이 보통 짝수입니다. 한국 설날에 어린 세대가 어른에게 ‘세뱃돈’이라 불리는 작은 현금을 밝은 빨간 봉투에 넣어 줍니다. 한국 전통에서는 홀수가 장례와 연관돼 불길하다고 여기기 때문에 금액은 거의 항상 짝수 원, 주로 1만원 단위로 줍니다. 이 관습은 새해에 행운과 순조로운 시작을 기원하는 뜻이며, 봉투를 열어볼 때 이 패턴을 금방 알아차릴 수 있습니다. 하지만 여기 함정이 있습니다: 가장 흔한 금액은 바로 1만원이며, 많은 가정이 짝수를 유지하고 관대함을 표현하기 위해 그 금액을 두 배·세 배로 늘리기도 합니다. 현대 가정에서는 홀수 금액을 주거나 봉투 대신 디지털 송금을 이용하는 경우도 있습니다.
-
-=== [131] Reward Recycling Bins ===
+=== [133] Rotating Drying Rooms ===
 (교차검증) ok
-(사실 확인용 검색어) Seoul smart recycling bin points coffee coupon Songpa district Seongnam recycling vending machine
-(한글 제목) 한국: 서울 쓰레기통이 컵을 주고, 병·컵을 받는다
-후크: In Seoul, a recycling bin can hand you a coffee coupon for every plastic bottle you toss.
-본문: In several districts such as Songpa and Seongnam, smart recycling machines scan the barcode of each bottle and instantly issue a QR‑code coupon that can be redeemed for a free coffee at nearby cafés. The system is linked to a city‑run app, so users can track how much they have saved over a month. It encourages proper waste sorting while giving a small, immediate reward that many commuters love. The machines are placed near subway exits and office buildings, making the extra step feel effortless.
-반전: Some of the bins also let you donate the earned points directly to a charity without leaving the machine.
+(사실 확인용 검색어) Korean apartment communal drying room rotating rack UV light high‑rise complexes
+(한글 제목) 한국: 반시간에 회전 건조
+후크: Your laundry can dry in half the time on a rotating rack in a Korean apartment’s communal drying room.
+본문: Modern high‑rise apartments in Seoul and Busan often include a communal drying room (건조실) equipped with motorised racks that slowly rotate while a gentle fan circulates air. Residents place their wet clothes on the racks, and the motion reduces drying time compared to static racks, eliminating the need for a personal dryer. The rooms are usually unlocked with a building access card, and users pay a small monthly maintenance fee. Some complexes also install UV‑sterilising lights inside the room to kill bacteria and reduce odors.
+반전: A few newer complexes have added a digital timer that notifies you on your phone when your laundry is dry.
 제외:
-제목1: Seoul bins give cups
-제목2: Drop bottle, cup
-핵심[1]: *Coupon* per bottle
-핵심[2]: Scan → *QR* coupon
-핵심[5]: *Charity* donation
-이미지[1]: Seoul recycling bin coffee coupon
-이미지[2]: Songpa smart vending machine QR code
-이미지[3]: App tracking coffee savings
-이미지[4]: Subway exit recycling station
-이미지[5]: Charity donation kiosk
-이미지[6]: Seongnam limited reward bins
-대본[1]: In Seoul, a recycling bin can hand you a coffee coupon for every plastic bottle you toss.
-대본[2]: In districts like Songpa and Seongnam, smart machines scan each bottle’s barcode and instantly print a QR‑code coupon redeemable at nearby cafés.
-대본[3]: The city runs an app that tracks how many cups you’ve earned each month, so you can see your savings grow.
-대본[4]: These bins sit right by subway exits and office buildings, so the extra step feels effortless.
-대본[5]: But here’s the catch: some machines let you donate the points directly to charity without leaving the kiosk.
-대본[6]: These reward bins are only in a few districts, not all of South Korea.
-(한글 대본) 서울에서는 재활용 쓰레기통에 플라스틱 병을 버릴 때마다 커피 쿠폰을 받을 수 있다. 송파·성남 등 구에서는 스마트 기계가 각 병의 바코드를 스캔하고 즉시 인근 카페에서 사용할 수 있는 QR코드 쿠폰을 출력한다. 시에서 운영하는 앱이 매달 적립된 컵 수를 추적해 절약량을 확인할 수 있게 해준다. 이 쓰레기통은 지하철 출구와 사무실 건물 바로 옆에 있어 추가적인 단계가 부담없이 느껴진다. 하지만 여기엔 한 가지 함정이 있다: 일부 기계는 포인트를 기기에서 바로 자선단체에 기부하도록 할 수 있다. 이 보상 쓰레기통은 몇몇 구에만 설치돼 있으며, 한국 전체에 있는 것은 아니다.
+제목1: Rotating drying
+제목2: Dry in half the time
+핵심[1]: Dry in *half* the time
+핵심[2]: Motorised *racks* spin
+핵심[3]: *Airflow* dries fast
+핵심[5]: Phone *timer* alerts
+이미지[1]: Korean apartment drying room
+이미지[2]: Motorised rotating rack
+이미지[3]: Airflow drying shirts
+이미지[4]: UV sterilising light
+이미지[5]: Phone timer notification
+이미지[6]: Static drying racks
+대본[1]: Your laundry can dry in half the time on a rotating rack in a Korean apartment’s communal drying room.
+대본[2]: In many high‑rise buildings in Seoul and Busan, a shared space called geonjosil (drying room) has motorised racks that turn slowly while a fan circulates air.
+대본[3]: You place wet shirts and towels on the racks, and the motion plus airflow speeds evaporation, so a personal dryer isn’t needed.
+대본[4]: Access is granted with the building’s card and a monthly fee covers electricity and occasional UV‑sterilising lights that kill bacteria and reduce odors.
+대본[5]: Some newer complexes add a timer that pings your phone when the cycle finishes.
+대본[6]: Older buildings may only have static racks, so this isn’t everywhere.
+(한글 대본) 한국 아파트 공동 건조실에서 회전 선반을 사용하면 세탁물이 반시간에 건조됩니다. 서울과 부산의 많은 고층 건물에서 건조실(건조실)이라는 공유 공간이 있으며, 모터식 선반이 천천히 회전하면서 선풍기가 공기를 순환시킵니다. 젖은 셔츠와 수건을 선반에 올려 두면 움직임과 공기 흐름이 증발을 가속화해 개인 건조기가 필요 없습니다. 건물 카드로 접근이 허용되고 월 요금은 전기와 가끔 UV 살균등이 박테리아를 죽이고 냄새를 줄이는 비용을 포함합니다. 일부 최신 단지에는 사이클이 끝날 때 휴대폰으로 알림을 주는 타이머가 추가됩니다. 오래된 건물은 정적 선반만 있을 수 있으므로 이 방식이 모든 곳에 있는 것은 아닙니다.
 
-=== [132] Boss‑Paid Dinner ===
-(교차검증) partial
-(교차검증 메모 1) [수정됨] [unsupported] 6번 문장: No verifiable evidence that firms keep a shared spreadsheet tracking individual attendance.
-(교차검증 메모 2) [수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: No specific evidence that companies keep formal or informal records of dinner attendance
-(직접 확인할 문장 6번) Some companies may keep informal notes or shared documents to record who attended the dinner.
-(사실 확인용 검색어) Korean hoesik boss pays attendance promotion culture office dinner etiquette
-(한글 제목) 한국: 사장비 식사 거절 = 승진 위험
-후크: If you’re invited to a Korean office dinner, saying no could stall your promotion.
-본문: Many Seoul companies schedule a meal called hoesik, where the boss or the company foots the bill. Employees are expected to stay for the dinner because attendance signals teamwork and respect. Declining, even for a reason, can be read as disengagement and may affect performance reviews. Practice is common in corporations start‑ups.
-반전: Some companies may keep informal notes or shared documents to record who attended the dinner.
+=== [134] Han River Night Ferry ===
+(교차검증) fixed
+(교차검증 메모 1) [수정됨] [unsupported] 5번 문장: No reliable source confirms a limited‑edition chocolate‑milk drink sold on summer weekend evenings.
+(사실 확인용 검색어) Han River night ferry free Wi‑Fi snack bar seasonal operation Hangang Cruise
+(한글 제목) 한국: 한강 페리 무료 WiFi & 스낵
+후크: You can hop on a night ferry on the Han River for a few dollars and often get free Wi‑Fi while you cruise.
+본문: The Hangang Cruise runs daily, departing from several piers, and an adult ticket costs about 3,000 won. The boat gives you complimentary Wi‑Fi, a small snack bar, and LED lights that reflect on the water, so you can see Seoul’s skyline, the illuminated bridges, and the 63‑building without paying for a rooftop bar.
+반전: On weekends, couples and tourists crowd the pier for the short, scenic ride.
 제외:
-제목1: Boss‑Paid Dinner
-제목2: Refuse = promotion risk
-핵심[1]: No = *promotion* risk
-핵심[3]: Stay = *teamwork*
-핵심[4]: Decline = *risk*
-핵심[6]: Log *attendance*
-이미지[1]: no sign office
-이미지[2]: Korean office dinner
-이미지[3]: teamwork dinner table
-이미지[4]: decline risk office
-이미지[5]: startup office dinner
-이미지[6]: attendance log spreadsheet
-대본[1]: If you’re invited to a Korean office dinner, saying no could stall your promotion.
-대본[2]: Many Seoul companies schedule a meal called hoesik, where the boss or the company foots the bill.
-대본[3]: Employees are expected to stay for the dinner because attendance signals teamwork and respect.
-대본[4]: Declining, even for a reason, can be read as disengagement and may affect performance reviews.
-대본[5]: Practice is common in corporations start‑ups.
-대본[6]: Some companies may keep informal notes or shared documents to record who attended the dinner.
-(한글 대본) 한국 사무실 회식에 초대받았다면, 거절하면 승진이 지연될 수 있습니다. 많은 서울 기업들은 회식이라는 식사를 잡으며, 사장이나 회사가 비용을 부담합니다. 직원들은 회식에 남아 있어야 하는데, 참석은 팀워크와 존경을 나타내기 때문입니다. 이유가 있더라도 거절하면 무관심으로 해석될 수 있고, 성과 평가에 영향을 미칠 수 있습니다. 이 관행은 대기업·스타트업 모두에서 흔합니다. 일부 기업은 회식 참석자를 기록하기 위해 비공식 메모나 공유 문서를 유지하기도 합니다.
+제목1: Han River Ferry
+제목2: Free WiFi & Snack
+핵심[1]: *Free* Wi‑Fi ferry
+핵심[2]: *Ticket* 3,000 won
+핵심[3]: *Views* of Seoul
+핵심[5]: *Chocolate* milk
+이미지[1]: Han River night ferry
+이미지[2]: 3,000 won ticket
+이미지[3]: Views of Seoul
+이미지[4]: Pier crowd on weekend
+이미지[5]: Chocolate milk drink
+대본[1]: You can hop on a night ferry on the Han River for a few dollars and often get free Wi‑Fi while you cruise.
+대본[2]: The Hangang Cruise runs daily, departing from several piers, and an adult ticket costs about 3,000 won.
+대본[3]: The boat gives you complimentary Wi‑Fi, a small snack bar, and LED lights that reflect on the water, so you can see Seoul’s skyline, the illuminated bridges, and the 63‑building without paying for a rooftop bar.
+대본[4]: On weekends, couples and tourists crowd the pier for the short, scenic ride.
+(한글 대본) 한강 밤 페리에 몇 달러만 내면, 종종 무료 Wi‑Fi를 이용할 수 있어요. 한강 크루즈는 매일 운영되며 여러 부두에서 출발합니다. 성인 티켓은 약 3,000원 정도입니다. 보트는 무료 Wi‑Fi, 작은 스낵 바, 물에 반사되는 LED 조명을 제공해, 옥상 바를 이용하지 않고도 서울 스카이라인, 조명된 다리, 63빌딩을 감상할 수 있어요. 주말에는 커플과 관광객이 짧고 경치 좋은 라이드 때문에 부두에 몰려들어요.
+
+=== [135] Upright Chopsticks Taboo ===
+(교차검증) partial
+(교차검증 메모 1) [수정됨] [unsupported] 3번 문장: No clear evidence that most Korean restaurants provide a chopstick rest for this purpose.
+(교차검증 메모 2) [수정됨] [unsupported] 5번 문장: Unverified claim that street‑food stalls actively tap down chopsticks and remind diners.
+(교차검증 메모 3) [수정됨] [unsupported] 6번 문장: Lacks evidence that many servers intervene by pulling out chopsticks and warning customers.
+(교차검증 메모 4) [수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: No specific evidence that staff in casual eateries routinely remind diners about this.
+(교차검증 메모 5) [수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: Anecdotal claim lacking verifiable sources.
+(직접 확인할 문장 5번) In some casual eateries, staff may gently remind diners that placing chopsticks upright is generally discouraged.
+(직접 확인할 문장 6번) Occasionally a server might ask a diner to reposition upright chopsticks before the next dish is served.
+(사실 확인용 검색어) Korean chopsticks etiquette upright taboo funeral incense
+(한글 제목) 한국: 수직 젓가락? 장례식처럼 느껴져
+후크: Never stick your chopsticks straight up in rice – Koreans treat it like a funeral rite!
+본문: In Korean meals, vertical chopsticks look like the incense sticks used during ancestral rites, called jesa. Some restaurants provide a small rest to keep chopsticks horizontal. Children learn early that the upright position is disrespectful, especially at formal meals and holiday feasts. In some casual eateries, staff may gently remind diners that placing chopsticks upright is generally discouraged. Occasionally a server might ask a diner to reposition upright chopsticks before the next dish is served.
+반전: The taboo is strongest in traditional settings and among older generations, while some younger people may overlook it in very casual meals.
+제외:
+제목1: Upright chopsticks?
+제목2: Feels like a funeral
+핵심[1]: No *upright* chopsticks
+핵심[2]: *Incense* sticks taboo
+핵심[4]: Upright = *disrespect*
+이미지[1]: Korean upright chopsticks in rice
+이미지[2]: Korean incense sticks on table
+이미지[3]: Korean chopsticks rest holder
+이미지[4]: upright chopsticks disrespect
+이미지[5]: Korean street food chopsticks
+이미지[6]: server pulling chopsticks
+이미지[7]: traditional Korean dinner table
+대본[1]: Never stick your chopsticks straight up in rice – Koreans treat it like a funeral rite!
+대본[2]: In Korean meals, vertical chopsticks look like the incense sticks used during ancestral rites, called jesa.
+대본[3]: Some restaurants provide a small rest to keep chopsticks horizontal.
+대본[4]: Children learn early that the upright position is disrespectful, especially at formal meals and holiday feasts.
+대본[5]: In some casual eateries, staff may gently remind diners that placing chopsticks upright is generally discouraged.
+대본[6]: Occasionally a server might ask a diner to reposition upright chopsticks before the next dish is served.
+대본[7]: The taboo is strongest in traditional settings and among older generations, while some younger people may overlook it in very casual meals.
+(한글 대본) 밥에 젓가락을 세워두지 마세요 – 한국인들은 이를 장례식 의식처럼 여기거든요! 한국 식사에서는 수직 젓가락이 조상 제사에 쓰이는 향로와 닮아 있어요. 일부 식당에서는 젓가락이 가로로 놓이도록 작은 받침을 제공하기도 해요. 아이들은 어릴 때부터 수직 위치가 무례하다는 것을 배우고, 특히 격식 있는 식사나 명절 연회에서는 더욱 그렇습니다. 가벼운 식당에서는 직원이 손님에게 젓가락을 세우는 것을 일반적으로 삼가야 한다고 부드럽게 상기시킬 수 있어요. 가끔 서버가 다음 반찬이 나오기 전에 손님에게 수직 젓가락을 다시 놓으라고 요청하기도 합니다. 이 금기는 전통적인 환경과 노년층에서 가장 강하며, 일부 젊은 사람들은 아주 가벼운 식사에서는 무시할 수 있어요.
