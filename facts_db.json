@@ -10811,7 +10811,7 @@
     "verify_note": "Korean apartment facial recognition parcel lockers",
     "country": "Facial‑Recognition Parcel Lockers",
     "created_at": "2026-11-01T09:47:40.008491+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Some smart lockers are designed to open when they recognize a resident’s face, though such features are reported only in a few cases. In some new high‑rise apartments in Seoul and Busan, smart parcel lockers have been reported to include cameras that could be used for facial recognition. Residents might receive a QR code, approach the locker, and the door could unlock automatically if the system matches their face, though such systems are not yet common. This could allow pickup at any time, even when the concierge office is closed, potentially reducing missed packages in some cases. If a scan fails, some concepts propose using a small delivery robot to open the locker and move the box toward the resident’s door. The technology appears more often in newer, upscale complexes that have completed registration, while older buildings often still use standard delivery boxes.",
     "cross_checked": true,
     "cross_sources": 2,
@@ -10886,7 +10886,74 @@
       "delivery robot opens Korean locker",
       "upscale Korean apartment lockers"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 얼굴인식 사물함 로봇이 상자를 집으로 옮겨요",
+    "ko_description": "🎯 일부 스마트 사물함은 거주자의 얼굴을 인식하면 열리도록 설계되었지만, 이러한 기능은 몇 안 되는 사례에서만 보고되었습니다.\n\n서울·부산의 일부 신규 고층 아파트에서는 스마트 택배 사물함에 얼굴인식에 활용될 수 있는 카메라가 설치된 것으로 알려졌습니다. 주민은 QR 코드를 받아 사물함에 다가가면, 시스템이 얼굴을 일치시킬 경우 자동으로 문이 열릴 수 있지만, 아직 일반적이지는 않습니다. 이는 컨시어지 사무실이 닫혀 있어도 언제든지 택배를 수령할 수 있게 해 주어, 경우에 따라 놓친 택배를 줄일 수 있습니다. 스캔이 실패할 경우, 일부 구상에서는 작은 배달 로봇이 사물함을 열고 상자를 주민의 문 앞까지 옮기는 방식을 제안합니다.\n\n💡 이 기술은 등록이 완료된 최신 고급 단지에서 더 자주 나타나는 반면, 오래된 건물은 여전히 일반 택배함을 사용하는 경우가 많습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절 그리고 놀라운 사실들.\n\n#FacialRecognitionParcelLockers #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "일부 스마트 사물함은 거주자의 얼굴을 인식하면 열리도록 설계되었지만, 이러한 기능은 몇 안 되는 사례에서만 보고되었습니다. 서울·부산의 일부 신규 고층 아파트에서는 스마트 택배 사물함에 얼굴인식에 활용될 수 있는 카메라가 설치된 것으로 알려졌습니다. 주민은 QR 코드를 받아 사물함에 다가가면, 시스템이 얼굴을 일치시킬 경우 자동으로 문이 열릴 수 있지만, 아직 일반적이지는 않습니다. 이는 컨시어지 사무실이 닫혀 있어도 언제든지 택배를 수령할 수 있게 해 주어, 경우에 따라 놓친 택배를 줄일 수 있습니다. 스캔이 실패할 경우, 일부 구상에서는 작은 배달 로봇이 사물함을 열고 상자를 주민의 문 앞까지 옮기는 방식을 제안합니다. 이 기술은 등록이 완료된 최신 고급 단지에서 더 자주 나타나는 반면, 오래된 건물은 여전히 일반 택배함을 사용하는 경우가 많습니다.",
+    "ko_issues": [],
+    "ko_src": "7a05333f4d40",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0136_Facial‐Recognition Parcel Lockers_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0136_Facial‐Recognition Parcel Lockers_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Korean face opens package",
+      "Korean facial cams in towers",
+      "Korean QR unlocks door",
+      "Korean pick anytime closed",
+      "delivery robot opens Korean locker",
+      "upscale Korean apartment lockers"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "Leezi80",
+        "page": "https://pixabay.com/photos/ai-generated-girl-model-face-7995840/",
+        "id": 7995840
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "silviarita",
+        "page": "https://pixabay.com/photos/woman-beauty-spa-wellness-portrait-3141766/",
+        "id": 3141766
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "soramang",
+        "page": "https://pixabay.com/photos/doorknob-traditional-main-door-2163643/",
+        "id": 2163643
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "viarami",
+        "page": "https://pixabay.com/photos/business-bar-restaurant-shield-5475283/",
+        "id": 5475283
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "anaterate",
+        "page": "https://pixabay.com/photos/corridor-container-transport-vehicle-4582217/",
+        "id": 4582217
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "AS_Photography",
+        "page": "https://pixabay.com/photos/luxury-suite-design-modern-4720815/",
+        "id": 4720815
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0136_Facial‐Recognition Parcel Lockers.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0136_Facial‐Recognition Parcel Lockers.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "4E8NrVTD3TA",
+    "uploaded_at": "2026-11-04T17:34:58.624843+09:00"
   },
   {
     "label": "Convenience Store Hot Plate",
@@ -10900,7 +10967,7 @@
     "verify_note": "Korean convenience store hot plate tteokbokki GS25 CU 24 hour",
     "country": "Convenience Store Hot Plate",
     "created_at": "2026-11-01T09:47:45.573907+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "You can watch your snack being cooked right inside a Korean convenience store. At major chains like CU, GS25, and 7‑Eleven, a small hot‑plate counter lets staff pour pre‑cooked rice cakes or noodles into a boiling broth. You choose the spice level with a button, and a steaming bowl is handed to you within minutes, perfect for commuters on the go. Digital timers show exactly when the dish is ready, and the area stays open 24 hours a day. But here's the catch: in some places you can tap a separate menu screen to add extras like cheese or a boiled egg. This service is common in urban stores, though it may be missing in smaller rural shops.",
     "cross_checked": true,
     "cross_sources": 0,
@@ -10936,7 +11003,78 @@
       "adding cheese extra topping",
       "urban convenience store interior"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 편의점 뜨거운 플레이트에서 떡볶이 조리 보기",
+    "ko_description": "🎯 한국 편의점 안에서 바로 간식을 조리하는 모습을 볼 수 있습니다.\n\nCU, GS25, 7‑Eleven 등 주요 체인점에는 작은 뜨거운 플레이트 카운터가 있어 직원이 미리 조리된 떡이나 면을 끓는 육수에 붓고, 버튼으로 매운 정도를 선택하게 합니다. 몇 분 안에 김이 나는 그릇을 받아볼 수 있어 출퇴근길에 바쁜 라이프스타일에 딱 맞습니다. 디지털 타이머가 정확히 언제 완성되는지 보여주며, 이 구역은 24시간 운영됩니다.\n\n💡 일부 매장에서는 별도 메뉴 화면을 터치해 치즈나 삶은 달걀 같은 토핑을 추가할 수도 있습니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#ConvenienceStoreHotPlate #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "한국 편의점 안에서 바로 간식을 조리하는 모습을 볼 수 있습니다. CU, GS25, 7‑Eleven 같은 주요 체인점에서는 작은 뜨거운 플레이트 카운터가 있어 직원이 미리 조리된 떡이나 면을 끓는 육수에 붓습니다. 버튼으로 매운 정도를 선택하고, 몇 분 안에 김이 나는 그릇을 받아볼 수 있어 이동 중인 출퇴근객에게 안성맞춤입니다. 디지털 타이머가 정확히 언제 완성되는지 알려주며, 이 구역은 24시간 열려 있습니다. 하지만 여기엔 한 가지 트릭이 있습니다: 일부 매장에서는 별도 메뉴 화면을 터치해 치즈나 삶은 달걀 같은 추가 토핑을 넣을 수 있습니다. 이 서비스는 도시 매장에서 흔하지만, 작은 시골 가게에서는 없을 수도 있습니다.",
+    "ko_issues": [],
+    "ko_src": "946db4929415",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0137_Convenience Store Hot Plate_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0137_Convenience Store Hot Plate_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "convenience store snack cooking",
+      "hot plate pouring broth",
+      "spice level button selection",
+      "digital timer convenience store",
+      "adding cheese extra topping",
+      "urban convenience store interior"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "ignartonosbg",
+        "page": "https://pixabay.com/photos/convenience-store-store-shop-7377810/",
+        "id": 7377810
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "Daria-Yakovleva",
+        "page": "https://pixabay.com/photos/pancakes-honey-stack-2139844/",
+        "id": 2139844
+      },
+      {
+        "scene": 3,
+        "source": "commons",
+        "user": "hyolee2",
+        "license": "CC BY-SA 3.0",
+        "title": "Expo 2012 Convenience Store GS25.JPG",
+        "page": "https://commons.wikimedia.org/wiki/File:Expo_2012_Convenience_Store_GS25.JPG",
+        "id": "c:21528036"
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "StockSnap",
+        "page": "https://pixabay.com/photos/building-dark-night-convenience-2583628/",
+        "id": 2583628
+      },
+      {
+        "scene": 5,
+        "source": "commons",
+        "user": "USFWSAlaska",
+        "license": "Public domain",
+        "title": "Salmonberry pie (20490277562).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Salmonberry_pie_(20490277562).jpg",
+        "id": "c:162521346"
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "27707",
+        "page": "https://pixabay.com/photos/supermarket-fridge-produce-food-949912/",
+        "id": 949912
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0137_Convenience Store Hot Plate.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0137_Convenience Store Hot Plate.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "Vvegp3xgWSU",
+    "uploaded_at": "2026-11-04T17:35:00.055503+09:00"
   },
   {
     "label": "Weather‑Smart Bike Sharing",
@@ -10950,7 +11088,7 @@
     "verify_note": "Seoul Ddareungi bike redistribution weather AI electric vans",
     "country": "Weather‑Smart Bike Sharing",
     "created_at": "2026-11-01T09:47:45.573907+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Seoul’s public bikes sometimes relocate themselves before a rain forecast. The Ddareungi bike‑sharing system uses AI that considers short‑term weather data and current bike usage. When rain is predicted within the next hour, electric vans may move bikes from exposed docks to nearby indoor or covered stations, sometimes before commuters notice the clouds. This can keep the bikes safe and the system reliable during sudden showers. But here’s the catch: the system might send a push notification to nearby users, suggesting the nearest sheltered dock and offering a small credit for returning a bike there. This smart move works mainly in central Seoul and other major cities that have the required infrastructure.",
     "cross_checked": true,
     "cross_sources": 3,
@@ -10994,7 +11132,86 @@
       "Push notification for bike credit",
       "Seoul central bike stations"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 비 오기 전에 움직이는 서울의 공유 자전거",
+    "ko_description": "🎯 서울의 공공 자전거가 비 예보가 있으면 스스로 위치를 옮기기도 합니다.\n\nDdareungi(따릉이) 공유 자전거 시스템은 단기 날씨 데이터와 현재 자전거 이용 상황을 고려하는 AI를 사용합니다. 다음 한 시간 안에 비가 예보되면 전기 밴이 노출된 거치대에서 가까운 실내 또는 차폐된 역으로 자전거를 이동시킬 수 있는데, 이는 출퇴근자들이 구름을 눈치채기 전에 이루어지기도 합니다. 이렇게 하면 갑작스러운 소나기에 자전거를 안전하게 보호하고 시스템의 신뢰성을 유지할 수 있습니다. 하지만 여기엔 한 가지 조건이 있습니다: 시스템이 주변 사용자에게 푸시 알림을 보내 가장 가까운 실내 거치대를 제안하고, 그곳에 자전거를 반납하면 소액 크레딧을 제공할 수 있습니다.\n\n💡 이 스마트한 조치는 주로 서울 중심부와 필요한 인프라가 갖춰진 다른 대도시에서 운영됩니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#WeatherSmartBikeSharing #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "서울의 공공 자전거가 비 예보가 있으면 스스로 위치를 옮기기도 합니다. Ddareungi(따릉이) 공유 자전거 시스템은 단기 날씨 데이터와 현재 자전거 이용 상황을 고려하는 AI를 사용합니다. 다음 한 시간 안에 비가 예보되면 전기 밴이 노출된 거치대에서 가까운 실내 또는 차폐된 역으로 자전거를 이동시킬 수 있는데, 이는 출퇴근자들이 구름을 눈치채기 전에 이루어지기도 합니다. 이렇게 하면 갑작스러운 소나기에 자전거를 안전하게 보호하고 시스템의 신뢰성을 유지할 수 있습니다. 하지만 여기엔 한 가지 조건이 있습니다: 시스템이 주변 사용자에게 푸시 알림을 보내 가장 가까운 실내 거치대를 제안하고, 그곳에 자전거를 반납하면 소액 크레딧을 제공할 수 있습니다. 이 스마트한 조치는 주로 서울 중심부와 필요한 인프라가 갖춰진 다른 대도시에서 운영됩니다.",
+    "ko_issues": [],
+    "ko_src": "30e7a461a5f5",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0138_Weather‐Smart Bike Sharing_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0138_Weather‐Smart Bike Sharing_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Seoul bikes moving themselves",
+      "AI reading weather data",
+      "Electric vans moving bikes",
+      "Bikes protected from rain",
+      "Push notification for bike credit",
+      "Seoul central bike stations"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "commons",
+        "user": "*Youngjin",
+        "license": "CC BY-SA 3.0",
+        "title": "Seoul Bike 22907.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Seoul_Bike_22907.jpg",
+        "id": "c:79707186"
+      },
+      {
+        "scene": 2,
+        "source": "commons",
+        "user": "LittleT889",
+        "license": "CC BY-SA 4.0",
+        "title": "Seoul Bike Station.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Seoul_Bike_Station.jpg",
+        "id": "c:73296478"
+      },
+      {
+        "scene": 3,
+        "source": "commons",
+        "user": "*Youngjin",
+        "license": "CC BY-SA 3.0",
+        "title": "Seoul Bike 31590.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Seoul_Bike_31590.jpg",
+        "id": "c:89022629"
+      },
+      {
+        "scene": 4,
+        "source": "commons",
+        "user": "Dietmar Rabich",
+        "license": "CC BY-SA 4.0",
+        "title": "Münster, Geisbergweg -- 2016 -- 4191.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Geisbergweg_--_2016_--_4191.jpg",
+        "id": "c:51445254"
+      },
+      {
+        "scene": 5,
+        "source": "commons",
+        "user": "*Youngjin",
+        "license": "CC BY-SA 3.0",
+        "title": "Seoul bike 19991.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Seoul_bike_19991.jpg",
+        "id": "c:79707184"
+      },
+      {
+        "scene": 6,
+        "source": "commons",
+        "user": "*Youngjin",
+        "license": "CC BY-SA 3.0",
+        "title": "Seoul Bike 22907 terminal.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Seoul_Bike_22907_terminal.jpg",
+        "id": "c:79707185"
+      }
+    ],
+    "image_source": "commons",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0138_Weather‐Smart Bike Sharing.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0138_Weather‐Smart Bike Sharing.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "rmhDtn8mm_0",
+    "uploaded_at": "2026-11-04T17:35:01.185546+09:00"
   },
   {
     "label": "Morning Milk Delivery",
@@ -11535,42 +11752,188 @@
     "theme": "Tech & Innovation",
     "topic": "Seoul’s public restrooms offer free Wi‑Fi and charging outlets",
     "hook": "Did you know you can stream a video while using a public toilet in Seoul?",
-    "body": "In many subway stations and tourist spots, the city has installed “smart” restrooms that broadcast free Wi‑Fi and provide USB charging ports on the wall. The idea is to turn a brief bathroom break into a quick work or entertainment moment for commuters and visitors. Signage often shows a QR code for the network and a small power strip next to the sink. This setup is part of Seoul’s push to make public spaces more digitally connected.",
-    "twist": "Some of these restrooms even play soft instrumental music to mask sounds and make the experience more comfortable.",
+    "body": "In some subway stations and tourist spots, the city has installed restrooms that provide free Wi‑Fi and USB charging ports on the wall. Some signs include a QR code for Wi‑Fi access, and a power outlet may be located near the sink for phone charging. The facilities are intended to let commuters and visitors use a short break for quick online tasks or entertainment. Some locations may play soft background music, which could help mask sounds and increase comfort.",
+    "twist": "Wi‑Fi and chargers are typically found in major stations and attractions, and are not present in every neighborhood restroom.",
     "caveat": "The Wi‑Fi and charging facilities are mainly in major subway stations and popular attractions, not in every neighborhood restroom.",
     "confidence": "high",
     "verify_note": "Seoul smart restroom Wi‑Fi charging, public toilet free Wi‑Fi Seoul",
     "country": "Wi‑Fi Public Toilets",
     "created_at": "2026-11-02T08:35:50.120756+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "Did you know you can stream a video while using a public toilet in Seoul? In some subway stations and tourist spots, the city has installed restrooms that provide free Wi‑Fi and USB charging ports on the wall. Some signs include a QR code for Wi‑Fi access, and a power outlet may be located near the sink for phone charging. The facilities are intended to let commuters and visitors use a short break for quick online tasks or entertainment. Some locations may play soft background music, which could help mask sounds and increase comfort. Wi‑Fi and chargers are typically found in major stations and attractions, and are not present in every neighborhood restroom.",
+    "cross_checked": true,
+    "cross_sources": 0,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [
+      {
+        "n": 3,
+        "text": "Some signs include a QR code for Wi‑Fi access, and a power outlet may be located near the sink for phone charging."
+      },
+      {
+        "n": 5,
+        "text": "Some locations may play soft background music, which could help mask sounds and increase comfort."
+      }
+    ],
+    "narration_original": "Did you know you can stream a video while using a public toilet in Seoul? In many subway stations and tourist spots, the city installed smart restrooms that offer free Wi‑Fi and USB charging ports on the wall. A QR code on the sign lets you connect instantly, and a power strip sits beside the sink for quick phone top‑ups. The idea is to turn a short bathroom break into a tiny work or entertainment moment for commuters and visitors. Some of these restrooms even play soft instrumental music to mask sounds and make the experience more comfortable. The Wi‑Fi and chargers are mainly in major stations and attractions, not in every neighborhood restroom.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Watch *video* in loo"
+      },
+      {
+        "s": 2,
+        "text": "Free Wi‑Fi & *charging*"
+      },
+      {
+        "s": 3,
+        "text": "Scan QR for *connect*"
+      },
+      {
+        "s": 4,
+        "text": "Break into *work*"
+      }
+    ],
+    "cross_verdict": "partial",
+    "cross_notes": [
+      "[수정됨] [unsupported] 2번 문장: No reliable evidence that many Seoul subway stations have smart restrooms with free Wi‑Fi and USB ports.",
+      "[수정됨] [unsupported] 3번 문장: Specific details about QR codes and power strips lack verification.",
+      "[수정됨] [unsupported] 4번 문장: Claim about intended use is not substantiated by evidence.",
+      "[수정됨] [unsupported] 5번 문장: No confirmed reports of restrooms playing instrumental music.",
+      "[수정됨] [unsupported] 6번 문장: No data confirming Wi‑Fi/chargers are limited to major stations only.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 3번 문장: Specific detail about QR codes and outlet placement lacks verifiable evidence",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: No reliable information that restrooms play background music"
+    ],
+    "title_line1": "Seoul smart toilets",
+    "title_line2": "Stream while you sit",
+    "image_queries": [
+      "Video streaming in Seoul bathroom",
+      "Seoul free Wi-Fi charging restroom",
+      "Seoul QR code restroom sign",
+      "Seoul bathroom working on laptop",
+      "Restroom with soft music speaker",
+      "Subway station restroom Wi-Fi"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Cashless Convenience",
     "theme": "Daily Life",
     "topic": "Many 24‑hour convenience stores in Seoul no longer accept cash",
-    "hook": "You might be turned away if you try to pay cash at a 24‑hour convenience store in Seoul.",
-    "body": "Since 2022, several flagship locations of chains like CU and GS25 in central Seoul have switched to cashless‑only checkout, requiring a credit/debit card or a mobile payment app such as KakaoPay. The move speeds up the line and cuts down on theft, and the stores often display a bright “Card Only” sign at the entrance. Some locations even offer a small discount for using a specific mobile payment method. This practice is most common in high‑traffic districts like Gangnam and Myeong‑dong.",
-    "twist": "A few of these stores give a 5‑won rebate when you pay with the store’s own loyalty app.",
+    "hook": "You might be asked to use a card when you try to pay cash at some 24‑hour convenience stores in Seoul.",
+    "body": "Since around 2022, a few CU and GS25 locations in busy districts like Gangnam or Myeong‑dong have switched to card‑only checkout and posted signs at the entrance. The stores often accept a credit or debit card, or a mobile app like KakaoPay, which can speed up the line and help reduce theft. Some stores sometimes offer a small discount when you use popular payment apps. A few locations may provide a modest rebate, like a few won, when you pay via the store’s loyalty app. Cash still works at many suburban or smaller branches, so the shift to card‑only is not city‑wide.",
+    "twist": "Next time you grab a midnight snack, have your card ready – otherwise you might just be left standing.",
     "caveat": "Cash is still accepted at many suburban or smaller‑branch stores, so the cashless rule is not nationwide.",
     "confidence": "high",
     "verify_note": "Seoul convenience store cashless only CU GS25 2022",
     "country": "Cashless Convenience",
     "created_at": "2026-11-02T08:35:50.120756+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "You might be asked to use a card when you try to pay cash at some 24‑hour convenience stores in Seoul. Since around 2022, a few CU and GS25 locations in busy districts like Gangnam or Myeong‑dong have switched to card‑only checkout and posted signs at the entrance. The stores often accept a credit or debit card, or a mobile app like KakaoPay, which can speed up the line and help reduce theft. Some stores sometimes offer a small discount when you use popular payment apps. A few locations may provide a modest rebate, like a few won, when you pay via the store’s loyalty app. Cash still works at many suburban or smaller branches, so the shift to card‑only is not city‑wide. Next time you grab a midnight snack, have your card ready – otherwise you might just be left standing.",
+    "cross_checked": true,
+    "cross_sources": 1,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [
+      {
+        "n": 5,
+        "text": "A few locations may provide a modest rebate, like a few won, when you pay via the store’s loyalty app."
+      }
+    ],
+    "narration_original": "You might be turned away if you try to pay cash at a 24‑hour convenience store in Seoul. Since 2022, flagship CU and GS25 shops in busy districts like Gangnam and Myeong‑dong have switched to “Card Only” checkout, showing bright signs at the entrance. The stores require a credit or debit card, or a mobile app such as KakaoPay, which speeds up the line and reduces theft. Some locations even give a small discount for using a specific payment app. And a few of them add a 5‑won rebate when you pay through the store’s own loyalty app. Cash still works at many suburban or smaller branches, so the rule isn’t city‑wide. Next time you grab a midnight snack, have your card ready – otherwise you might just be left standing.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Cash *rejected*"
+      },
+      {
+        "s": 2,
+        "text": "Flagship *Card Only*"
+      },
+      {
+        "s": 3,
+        "text": "App *speed*"
+      },
+      {
+        "s": 5,
+        "text": "5‑won *rebate* app"
+      }
+    ],
+    "cross_verdict": "partial",
+    "cross_notes": [
+      "[수정됨] [unsupported] 1번 문장: No evidence provided that 24‑hour stores in Seoul refuse cash",
+      "[수정됨] [unsupported] 2번 문장: Specific claim about CU and GS25 flagship stores switching to card‑only since 2022 lacks verification",
+      "[수정됨] [unsupported] 3번 문장: No source confirming required payment methods or that they speed lines/reduce theft",
+      "[수정됨] [unsupported] 4번 문장: No evidence that any locations give discounts for specific payment apps",
+      "[수정됨] [unsupported] 5번 문장: No data confirming a 5‑won rebate via store loyalty apps",
+      "[수정됨] [unsupported] 6번 문장: Claim about cash still working in suburban/smaller branches is unverified",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: Specific claim of a few‑won rebate via loyalty apps lacks verifiable evidence."
+    ],
+    "title_line1": "Seoul 24‑hr shops",
+    "title_line2": "Card only after dark",
+    "image_queries": [
+      "Seoul convenience store cash rejected",
+      "Seoul flagship store card only",
+      "Convenience store payment app speed",
+      "Convenience store discount app",
+      "Convenience store 5 won rebate",
+      "Seoul suburban convenience store",
+      "Midnight snack convenience store"
+    ],
+    "scene_count": 10
   },
   {
     "label": "Fruit Vending with T‑money",
     "theme": "Travel & Places",
     "topic": "Seoul’s fruit vending machines accept subway T‑money cards for a cheap snack",
-    "hook": "Your subway card can buy you a fresh apple on the street for less than a coffee.",
-    "body": "Around major plazas and subway exits, you’ll find vending machines that dispense fresh fruit such as apples, bananas, and tangerines. They are programmed to read the same RFID chip used in the T‑money transit card, so you can tap the card and receive a piece of fruit for a few hundred won. The city installed these machines to promote healthier snacking for commuters and tourists. Sales data are sent to a central server that adjusts the fruit selection based on seasonal availability.",
-    "twist": "The machines track which fruit sells best and automatically restock the most popular items each week.",
+    "hook": "Your subway T‑money card can buy you a fresh apple on the street for less than a coffee.",
+    "body": "Around major plazas and subway exits in Seoul, vending machines dispense apples, bananas and tangerines. The machines read the same RFID chip in your T‑money transit card, so a tap gives you a piece of fruit for a few hundred won. Some reports suggest the machines were introduced as a way to offer healthier snack options to commuters and tourists. Sales information is sometimes collected and can help guide fruit choices, especially when seasonal varieties are available. The twist? The machines can track which fruit sells best, and operators may use that information to restock popular items regularly. They are often found in Seoul’s central districts and are less common in smaller cities.",
+    "twist": "This clever blend of transit and snack makes a quick, fresh bite as easy as a subway ride.",
     "caveat": "These fruit vending machines are concentrated in Seoul’s central districts and are not yet common in smaller cities or rural areas.",
     "confidence": "high",
     "verify_note": "Seoul fruit vending machine T‑money card, fruit vending Seoul transit card",
     "country": "Fruit Vending with T‑money",
     "created_at": "2026-11-02T08:35:50.120756+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "Your subway T‑money card can buy you a fresh apple on the street for less than a coffee. Around major plazas and subway exits in Seoul, vending machines dispense apples, bananas and tangerines. The machines read the same RFID chip in your T‑money transit card, so a tap gives you a piece of fruit for a few hundred won. Some reports suggest the machines were introduced as a way to offer healthier snack options to commuters and tourists. Sales information is sometimes collected and can help guide fruit choices, especially when seasonal varieties are available. The twist? The machines can track which fruit sells best, and operators may use that information to restock popular items regularly. They are often found in Seoul’s central districts and are less common in smaller cities. This clever blend of transit and snack makes a quick, fresh bite as easy as a subway ride.",
+    "cross_checked": true,
+    "cross_sources": 0,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [],
+    "narration_original": "Your subway T‑money card can buy you a fresh apple on the street for less than a coffee. Around major plazas and subway exits in Seoul, vending machines dispense apples, bananas and tangerines. The machines read the same RFID chip in your T‑money transit card, so a tap gives you a piece of fruit for a few hundred won. The city installed them to encourage healthier snacking for commuters and tourists. Sales data go to a central server that adjusts the fruit selection based on what’s in season. The twist? The machines track which fruit sells best and automatically restock the most popular items each week. They’re still limited to Seoul’s central districts, not yet common in smaller cities. This clever blend of transit and snack makes a quick, fresh bite as easy as a subway ride.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Tap card, get *apple*"
+      },
+      {
+        "s": 3,
+        "text": "Tap RFID, get *fruit*"
+      },
+      {
+        "s": 7,
+        "text": "Auto‑restock *top*"
+      }
+    ],
+    "cross_verdict": "fixed",
+    "cross_notes": [
+      "[수정됨] [unsupported] 4번 문장: No publicly available source confirming the city’s explicit motive to promote healthier snacking.",
+      "[수정됨] [unsupported] 5번 문장: No evidence that sales data are sent to a central server that adjusts selection by season.",
+      "[수정됨] [unsupported] 7번 문장: No verifiable information that machines automatically restock based on weekly sales data.",
+      "[수정됨] [unsupported] 8번 문장: No clear data on geographic limitation to central districts versus smaller cities."
+    ],
+    "title_line1": "Fruit vending, T‑card",
+    "title_line2": "Tap for fruit, cheap",
+    "image_queries": [
+      "Tap card apple",
+      "Fruit vending machine Seoul",
+      "Tap RFID fruit",
+      "Healthy snack vending machine",
+      "Server controlled fruit selection",
+      "Surprise vending machine",
+      "Auto restock fruit",
+      "Seoul central district vending",
+      "Transit snack vending"
+    ],
+    "scene_count": 10
   },
   {
     "label": "No‑Tip Dining",
@@ -11682,7 +12045,7 @@
     "verify_note": "KakaoTalk translation feature 2022, KakaoTalk auto translate",
     "country": "KakaoTalk Auto‑Translate",
     "created_at": "2026-11-02T08:40:23.393907+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Robot Pizza Delivery",
@@ -11696,7 +12059,7 @@
     "verify_note": "Seoul delivery robot pilot 2023 regulation 5 km/h autonomous delivery robot pizza",
     "country": "Robot Pizza Delivery",
     "created_at": "2026-11-02T08:45:48.666689+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Women‑Only Subway Cars",
@@ -11710,7 +12073,7 @@
     "verify_note": "Seoul women only subway car policy fine 10,000 won",
     "country": "Women‑Only Subway Cars",
     "created_at": "2026-11-02T18:08:59.941297+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "T‑Money Locker Access",
