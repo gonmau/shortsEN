@@ -1,0 +1,9 @@
+{
+ "voice": "M1",
+ "rate": 8,
+ "edge": "en-US-AndrewNeural",
+ "caption": "highlight",
+ "engine": "edge",
+ "scenes": 8,
+ "target_sec": 40
+}
