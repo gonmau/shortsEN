@@ -10813,9 +10813,9 @@
     "label": "Facial‑Recognition Parcel Lockers",
     "theme": "Tech & Innovation",
     "topic": "Selfie‑unlock lockers that deliver packages 24/7 in Korean apartment complexes",
-    "hook": "Your package opens when the locker recognizes your face!",
-    "body": "Many newer high‑rise apartments in Seoul and Busan install smart parcel lockers equipped with facial‑recognition cameras. Residents receive a QR code, walk up to the locker, and the door unlocks automatically when the system matches their face. This eliminates missed deliveries and allows 24‑hour pickup, even when the building’s concierge office is closed. Some complexes also integrate a small delivery robot that brings the locker to the resident’s floor if the camera fails to verify.",
-    "twist": "When the facial scan fails, a tiny robot courier slides the locker door open and slides the box straight to the resident’s doorstep.",
+    "hook": "Some smart lockers are designed to open when they recognize a resident’s face, though such features are reported only in a few cases.",
+    "body": "In some new high‑rise apartments in Seoul and Busan, smart parcel lockers have been reported to include cameras that could be used for facial recognition. Residents might receive a QR code, approach the locker, and the door could unlock automatically if the system matches their face, though such systems are not yet common. This could allow pickup at any time, even when the concierge office is closed, potentially reducing missed packages in some cases. If a scan fails, some concepts propose using a small delivery robot to open the locker and move the box toward the resident’s door.",
+    "twist": "The technology appears more often in newer, upscale complexes that have completed registration, while older buildings often still use standard delivery boxes.",
     "caveat": "The technology is currently limited to newer, upscale apartment complexes that have completed the registration process; older buildings still rely on traditional delivery boxes.",
     "confidence": "high",
     "verify_note": "Korean apartment facial recognition parcel lockers",
@@ -10963,7 +10963,10 @@
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0136_Facial‐Recognition Parcel Lockers.mp4",
     "status_v6": "video_done",
     "youtube_id": "4E8NrVTD3TA",
-    "uploaded_at": "2026-11-04T17:34:58.624843+09:00"
+    "uploaded_at": "2026-11-04T17:34:58.624843+09:00",
+    "fact_verifiability": "user",
+    "fact_risk": "user-reviewed",
+    "fact_applied": true
   },
   {
     "label": "Convenience Store Hot Plate",
@@ -11090,9 +11093,9 @@
     "label": "Weather‑Smart Bike Sharing",
     "theme": "Tech & Innovation",
     "topic": "Seoul’s public bikes are moved to sheltered stations automatically before rain",
-    "hook": "Seoul’s public bikes actually relocate themselves before the forecast says it will rain.",
-    "body": "The city’s Ddareungi bike‑sharing system uses AI that ingests short‑term weather data and real‑time usage patterns. When rain is predicted within the next hour, electric vans dispatch bikes from exposed docks to nearby indoor or covered stations, often completing the shift before commuters notice the clouds. This proactive move reduces lost rentals and protects the bikes from damage, keeping the system reliable even during sudden showers.",
-    "twist": "The system also sends a push notification to nearby users, suggesting the nearest sheltered dock and offering a small credit for returning a bike there.",
+    "hook": "Seoul’s public bikes sometimes relocate themselves before a rain forecast.",
+    "body": "The Ddareungi bike‑sharing system uses AI that considers short‑term weather data and current bike usage. When rain is predicted within the next hour, electric vans may move bikes from exposed docks to nearby indoor or covered stations, sometimes before commuters notice the clouds. This can keep the bikes safe and the system reliable during sudden showers. But here’s the catch: the system might send a push notification to nearby users, suggesting the nearest sheltered dock and offering a small credit for returning a bike there.",
+    "twist": "This smart move works mainly in central Seoul and other major cities that have the required infrastructure.",
     "caveat": "Predictive relocation operates mainly in central Seoul and other major cities with the required infrastructure; smaller towns may not have the service.",
     "confidence": "high",
     "verify_note": "Seoul Ddareungi bike redistribution weather AI electric vans",
@@ -11221,7 +11224,10 @@
     "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0138_Weather‐Smart Bike Sharing.mp4",
     "status_v6": "video_done",
     "youtube_id": "rmhDtn8mm_0",
-    "uploaded_at": "2026-11-04T17:35:01.185546+09:00"
+    "uploaded_at": "2026-11-04T17:35:01.185546+09:00",
+    "fact_verifiability": "user",
+    "fact_risk": "user-reviewed",
+    "fact_applied": true
   },
   {
     "label": "Morning Milk Delivery",
@@ -11235,7 +11241,7 @@
     "verify_note": "Seoul milk delivery service, 우유 배달, glass bottle deposit, morning delivery, Korean dairy cooperatives",
     "country": "Morning Milk Delivery",
     "created_at": "2026-11-02T08:34:17.222551+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "In Seoul, some households often receive fresh milk delivered to their doorstep regularly, similar to a newspaper delivery. This service, called 우유 배달, is offered by various dairy co‑ops or private firms in some residential complexes. The milk often arrives in a reusable glass bottle; a small deposit is paid and the empty bottle is collected on the next delivery. Because the milk is pasteurized on the same day, many people appreciate its fresh taste. Delivery people sometimes greet residents with a quick hello as they climb the building’s ramps. But here’s the catch: some routes use tiny electric scooters that zip up the steep ramps of high‑rise apartments, a sight not commonly seen elsewhere. In younger neighborhoods, many people buy milk at convenience stores instead.",
     "cross_checked": true,
     "cross_sources": 4,
@@ -11317,7 +11323,82 @@
       "Scooters zip steep ramps",
       "Convenience store milk purchase"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 아침 우유 배달 스쿠터가 램프를 오르다",
+    "ko_description": "🎯 서울에서는 신문 배달처럼 매일 아침 신선한 우유를 문앞까지 배달받을 수 있습니다.\n\n서울 및 기타 대도시의 많은 아파트 단지에서는 아직도 지역 낙농 조합이나 사기업이 운영하는 일일 우유 배달 서비스, 즉 우유 배달이 존재합니다. 우유는 재사용 가능한 유리병에 담겨 오며, 소액의 보증금을 내고 다음 배달 시 빈 병을 회수합니다. 당일 살균된 우유라 그 초신선한 맛을 고객들이 높이 평가하고, 배달원은 건물의 램프를 오르면서 주민에게 짧게 인사하는 경우가 많습니다.\n\n💡 일부 배달 경로에서는 고층 아파트의 가파른 램프를 빠르게 오를 수 있는 작은 전동 스쿠터를 사용합니다. 이는 다른 곳에서는 드물게 볼 수 있는 광경입니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절 그리고 놀라운 사실들.\n\n#MorningMilkDelivery #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "서울에서는 일부 가정이 신문 배달처럼 정기적으로 신선한 우유를 문앞까지 받아보는 경우가 있습니다. 이 서비스는 우유 배달이라고 불리며, 여러 낙농 조합이나 사기업이 일부 아파트 단지에서 제공합니다. 우유는 보통 재사용 가능한 유리병에 들어오며, 소액의 보증금을 내고 다음 배달 때 빈 병을 회수합니다. 당일 살균된 우유라 많은 사람들이 그 신선한 맛을 좋아합니다. 배달원은 건물의 램프를 오르면서 주민에게 짧게 인사하기도 합니다. 그런데 여기서 포인트는 일부 경로에서는 가파른 고층 아파트 램프를 빠르게 오르는 작은 전동 스쿠터를 사용한다는 점인데, 이는 다른 곳에서는 흔히 볼 수 없는 광경입니다. 젊은 층이 많이 사는 동네에서는 많은 사람들이 편의점에서 우유를 구입하기도 합니다.",
+    "ko_issues": [],
+    "ko_src": "0f9873d107cf",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0139_Morning Milk Delivery_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0139_Morning Milk Delivery_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Seoul morning milk delivery",
+      "Dairy coop delivery service",
+      "Glass bottle milk delivery",
+      "Ultra fresh milk taste",
+      "Delivery person greeting residents",
+      "Scooters zip steep ramps",
+      "Convenience store milk purchase"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "ponce_photography",
+        "page": "https://pixabay.com/photos/cereal-spoon-milk-cheerios-morning-1444495/",
+        "id": 1444495
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "ArtisticOperations",
+        "page": "https://pixabay.com/photos/mail-truck-mail-clerk-mailman-3248139/",
+        "id": 3248139
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "Daria-Yakovleva",
+        "page": "https://pixabay.com/photos/cereal-milk-breakfast-dairy-1887237/",
+        "id": 1887237
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "Couleur",
+        "page": "https://pixabay.com/photos/glass-milk-pour-pouring-1587258/",
+        "id": 1587258
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "capsulecosplay",
+        "page": "https://pixabay.com/photos/delivery-person-flower-florist-4102605/",
+        "id": 4102605
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "violetta",
+        "page": "https://pixabay.com/photos/mountain-peak-summit-alpine-alps-425134/",
+        "id": 425134
+      },
+      {
+        "scene": 7,
+        "source": "pixabay",
+        "user": "tomo_BEGINNER",
+        "page": "https://pixabay.com/photos/milk-drinks-supermarket-5956725/",
+        "id": 5956725
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0139_Morning Milk Delivery.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0139_Morning Milk Delivery.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "CrNEQZ_Ikug",
+    "uploaded_at": "2026-11-05T01:25:20.019268+09:00"
   },
   {
     "label": "‘Did You Eat?’ Greeting",
@@ -11331,7 +11412,7 @@
     "verify_note": "Korean greeting 밥 먹었어요 meaning, Korean language cultural phrase, Korean idiom eat rice greeting",
     "country": "‘Did You Eat?’ Greeting",
     "created_at": "2026-11-02T08:34:17.222551+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "When a Korean says “Did you eat?” they’re actually just saying hello, not checking your stomach. The phrase “밥 먹었어요?” literally means “Did you eat rice?” and is a friendly way to ask how someone is doing, reflecting how meals bring people together. It’s used among friends, coworkers, and acquaintances, similar to “How’s it going?” A simple “네, 잘 지냈어요” – “Yes, I’ve been well” – is enough. But here’s the catch: younger Koreans often shorten it to just “밥?” in texts, a quick check‑in. In formal work settings, they switch to a standard “안녕하세요.” The habit shows how caring about nourishment is a cultural sign of concern.",
     "cross_checked": true,
     "cross_sources": 0,
@@ -11370,7 +11451,66 @@
       "Mobile text message",
       "Office business greeting"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 밥 먹었어? 안녕, 그냥 인사",
+    "ko_description": "🎯 한국인이 ‘밥 먹었어요?’라고 물으면 실제로는 안부 인사일 뿐, 배가 고픈지 확인하려는 것이 아닙니다.\n\n한국 문화에서 ‘밥 먹었어요?’(밥을 먹었나요?)는 누군가의 안부를 묻는 친근한 표현으로, 식사를 함께 하는 것이 중요함을 반영합니다. 특히 지인이나 동료 사이에서 ‘How’s it going?’에 해당하는 가벼운 인사로 사용됩니다. 이 질문은 문자 그대로 답할 필요가 없으며, 간단히 “네, 잘 지냈어요”(네, 저는 잘 지냈어요)라고 하면 됩니다. 이 습관은 사람의 영양을 챙기는 것이 관심의 표현이라는 사회적 인식에서 비롯되었습니다.\n\n💡 젊은 한국인들은 문자 메시지에서 이 표현을 ‘밥?’이라고 줄여서 사용하며, 한 단어로 빠르게 안부를 확인합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절 그리고 놀라운 사실들.\n\n#DidYouEatGreeting #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "한국인이 “밥 먹었어요?”라고 말하면 실제로는 안부 인사일 뿐, 배가 고픈지 확인하려는 것이 아닙니다. “밥 먹었어요?”라는 문구는 문자 그대로는 “밥을 먹었나요?”라는 뜻이지만, 사람의 안부를 묻는 친근한 표현으로, 식사가 사람들을 하나로 모은다는 의미를 담고 있습니다. 친구, 동료, 지인 사이에서 “How’s it going?”에 해당하는 인사로 쓰이며, 간단히 “네, 잘 지냈어요”라고 대답하면 충분합니다. 하지만 여기서 주의할 점은, 젊은 한국인들은 텍스트에서는 이를 “밥?”이라고 줄여서 빠르게 안부를 확인한다는 것입니다. 공식적인 업무 환경에서는 표준 인사인 “안녕하세요.”로 전환합니다. 이 습관은 영양을 챙기는 것이 문화적으로 관심의 표시임을 보여줍니다.",
+    "ko_issues": [],
+    "ko_src": "01955250814f",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0140_‘Did You Eat_’ Greeting_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0140_‘Did You Eat_’ Greeting_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Korean greeting handshake",
+      "Rice bowl meal",
+      "Friends chatting",
+      "Mobile text message",
+      "Office business greeting"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "089photoshootings",
+        "page": "https://pixabay.com/photos/people-business-meeting-1979261/",
+        "id": 1979261
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "joannawielgosz",
+        "page": "https://pixabay.com/photos/chicken-asian-cuisine-food-7249273/",
+        "id": 7249273
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "zhuwei06191973",
+        "page": "https://pixabay.com/photos/men-friends-chatting-afternoon-8364267/",
+        "id": 8364267
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "niekverlaan",
+        "page": "https://pixabay.com/photos/telephone-mobile-call-samsung-586268/",
+        "id": 586268
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "geralt",
+        "page": "https://pixabay.com/photos/shaking-hands-handshake-hands-3091906/",
+        "id": 3091906
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0140_‘Did You Eat_’ Greeting.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0140_‘Did You Eat_’ Greeting.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "ULNdC3iUqJQ",
+    "uploaded_at": "2026-11-05T01:25:21.496734+09:00"
   },
   {
     "label": "QR Street Food Pay",
@@ -11384,7 +11524,7 @@
     "verify_note": "Korean street food QR code payment 2023 Seoul Busan",
     "country": "QR Street Food Pay",
     "created_at": "2026-11-02T08:34:51.916383+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "You can buy a steaming bowl of tteokbokki by scanning a QR code, which usually takes only a few seconds. Across Seoul, Busan and other cities, QR stickers sit on street‑food tables. You open a payment app, scan, and the amount is deducted from your bank account—no cash needed. But many rural stalls still operate cash‑only, so the QR option isn’t universal. Some vendors may let you add a tip through the QR code, and a small animation can appear on the screen. The cashless payment often makes ordering smoother for locals and tourists while you enjoy the classic spicy rice‑cake.",
     "cross_checked": true,
     "cross_sources": 0,
@@ -11429,7 +11569,80 @@
       "phone showing kimchi animation QR tip",
       "tourists ordering tteokbokki cashless"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: QR코드 거리 음식 스캔, 떡볶이 먹기",
+    "ko_description": "🎯 QR코드를 스캔하면 5초 이내에 뜨끈한 떡볶이 한 그릇을 살 수 있습니다.\n\n서울·부산 등 전국 여러 도시에서 거리 음식 가게 테이블에 작은 QR 스티커가 생겼습니다. 고객은 결제 앱을 열고 스캔하면 금액이 은행계좌에서 바로 차감돼 현금을 사용할 필요가 없습니다. 현금 없는 결제는 국가 차원의 무현금 거래 확대 정책의 일환이며, 현지인과 관광객 모두에게 주문을 빠르게 해줍니다.\n\n💡 일부 가게는 같은 QR코드로 팁을 줄 수 있게 해두었으며, 팁 금액이 화면에 귀여운 춤추는 김치 애니메이션으로 표시됩니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 놀라운 사실들.\n\n#QRStreetFoodPay #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "QR코드를 스캔하면 보통 몇 초 만에 뜨거운 떡볶이 한 그릇을 살 수 있습니다. 서울·부산 등 여러 도시에서 QR 스티커가 거리 음식 테이블에 붙어 있습니다. 결제 앱을 열고 스캔하면 금액이 은행계좌에서 차감돼 현금이 필요 없습니다. 하지만 아직도 많은 농촌 가게는 현금 전용이라 QR 옵션이 보편적이지는 않습니다. 일부 가게는 QR코드로 팁을 추가할 수 있게 해두었으며, 화면에 작은 애니메이션이 나타날 수 있습니다. 현금 없는 결제는 현지인과 관광객 모두에게 주문을 더 원활하게 해 주며, 클래식한 매운 떡볶이를 즐길 수 있게 합니다.",
+    "ko_issues": [],
+    "ko_src": "2c2027516c0e",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0141_QR Street Food Pay_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0141_QR Street Food Pay_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "tteokbokki with QR code",
+      "QR code stickers on street food table",
+      "mobile phone scanning QR payment",
+      "rural Korean street food stall cash",
+      "phone showing kimchi animation QR tip",
+      "tourists ordering tteokbokki cashless"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "commons",
+        "user": "Fatimald",
+        "license": "CC BY 4.0",
+        "title": "Street food in Myeondong, South Korea.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Street_food_in_Myeondong,_South_Korea.jpg",
+        "id": "c:164322904"
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "mxwegele",
+        "page": "https://pixabay.com/photos/man-cart-street-food-culture-rain-5524488/",
+        "id": 5524488
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "viarami",
+        "page": "https://pixabay.com/photos/alipay-mobile-payment-qrcode-5417252/",
+        "id": 5417252
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "tragrpx",
+        "page": "https://pixabay.com/photos/namdaemun-market-seoul-korea-food-326146/",
+        "id": 326146
+      },
+      {
+        "scene": 5,
+        "source": "commons",
+        "user": "Syced",
+        "license": "CC0",
+        "title": "Korean food in Tokyo.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Korean_food_in_Tokyo.jpg",
+        "id": "c:106927717"
+      },
+      {
+        "scene": 6,
+        "source": "commons",
+        "user": "Ian Armstrong",
+        "license": "CC BY-SA 2.0",
+        "title": "Korean street food-01.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Korean_street_food-01.jpg",
+        "id": "c:4298795"
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0141_QR Street Food Pay.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0141_QR Street Food Pay.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "hH9jJE5TDlU",
+    "uploaded_at": "2026-11-05T01:25:22.919697+09:00"
   },
   {
     "label": "English Taxi Button",
@@ -11949,43 +12162,180 @@
     "label": "No‑Tip Dining",
     "theme": "Etiquette & Manners",
     "topic": "Restaurants in South Korea do not accept tips; service is included in the price.",
-    "hook": "Zero tip: You’ll never find a tip jar on a Korean restaurant table.",
-    "body": "In South Korea, the price on the menu already includes a service charge, so servers are paid a regular wage. Tipping is not part of the culture and can even be refused as it may be seen as implying the staff are underpaid. Visitors often ask to leave a tip, but most restaurants will politely decline. The practice keeps dining experiences straightforward for both locals and tourists.",
-    "twist": "Some upscale hotels still accept tips, but they are collected centrally and shared among all staff.",
+    "hook": "Zero tip: you’ll never find a tip jar on a Korean restaurant table.",
+    "body": "In South Korea most restaurant menus do not add a service charge; servers are paid regular wages. Because tipping isn’t part of the culture, staff often politely refuse extra cash, seeing it as implying they’re underpaid. Visitors who ask to leave a tip are usually thanked but declined. This keeps dining straightforward for locals and tourists alike. But here’s the catch: upscale hotel restaurants may still accept tips, which are pooled and shared among all staff.",
+    "twist": "A few high‑end international venues on the mainland might also allow tips for foreign guests.",
     "caveat": "This applies to most restaurants on the mainland; a few high‑end international venues may still allow tips for foreign guests.",
     "confidence": "high",
     "verify_note": "Korean tipping culture, service charge included, no tip in restaurants South Korea",
     "country": "No‑Tip Dining",
     "created_at": "2026-11-02T08:36:17.509645+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "Zero tip: you’ll never find a tip jar on a Korean restaurant table. In South Korea most restaurant menus do not add a service charge; servers are paid regular wages. Because tipping isn’t part of the culture, staff often politely refuse extra cash, seeing it as implying they’re underpaid. Visitors who ask to leave a tip are usually thanked but declined. This keeps dining straightforward for locals and tourists alike. But here’s the catch: upscale hotel restaurants may still accept tips, which are pooled and shared among all staff. A few high‑end international venues on the mainland might also allow tips for foreign guests.",
+    "cross_checked": true,
+    "cross_sources": 2,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [],
+    "narration_original": "Zero tip: you’ll never find a tip jar on a Korean restaurant table. In South Korea the menu price already includes a service charge, so servers receive a regular wage. Because tipping isn’t part of the culture, staff often politely refuse extra cash, seeing it as implying they’re underpaid. Visitors who ask to leave a tip are usually thanked but declined. This keeps dining straightforward for locals and tourists alike. But here’s the catch: upscale hotel restaurants may still accept tips, which are pooled and shared among all staff. A few high‑end international venues on the mainland might also allow tips for foreign guests.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "No *tip* jar"
+      },
+      {
+        "s": 2,
+        "text": "Service *included*"
+      },
+      {
+        "s": 4,
+        "text": "Guests *thanks*? No"
+      },
+      {
+        "s": 6,
+        "text": "*Pool* tips at hotels"
+      }
+    ],
+    "cross_verdict": "fixed",
+    "cross_notes": [
+      "[수정됨] [contradicted] 2번 문장: Most Korean restaurant menus do not include a service charge; tipping is not built into prices."
+    ],
+    "title_line1": "No‑Tip Dining Korea",
+    "title_line2": "Hotels may take tips",
+    "image_queries": [
+      "Korean restaurant tip jar",
+      "Korean menu service charge",
+      "Korean server refusing tip",
+      "Korean waiter declining tip",
+      "Korean dining simplicity",
+      "Hotel restaurant tip pool",
+      "Luxury Seoul restaurant tip"
+    ],
+    "scene_count": 8
   },
   {
     "label": "KTX Seat Swap",
     "theme": "Tech & Innovation",
     "topic": "Passengers can change their reserved KTX seat via the official app before boarding.",
-    "hook": "One tap can move you to an empty KTX seat before the train leaves.",
-    "body": "Korail’s official app lets travelers view the seat map of their booked KTX train in real time. If a preferred seat becomes free, users can select it and the system reassigns the original seat to another passenger. The change is confirmed instantly and the new seat number appears on the e‑ticket. This feature reduces the need to arrive early just to secure a better spot.",
-    "twist": "The app also shows which seats have power outlets, so you can swap into a charging‑friendly spot on the fly.",
+    "hook": "You can change your reserved KTX seat using the app before boarding.",
+    "body": "The Korail app lets you view your reservation details, including which seats are currently available. If a different seat becomes available, you can select it, and your original seat remains unassigned until you confirm the change. The new seat number appears on your e‑ticket, eliminating the need to arrive early for a good spot. The app shows a seat map, so you can choose a seat that may have a power outlet when you swap.",
+    "twist": "The feature works on KTX trains and is available to anyone with a Korail account, not limited to members with a linked credit card.",
     "caveat": "Seat swapping is available only for KTX high‑speed trains and requires a Korail membership or a linked credit card.",
     "confidence": "high",
     "verify_note": "KTX seat change app Korail, real‑time seat map, seat swap feature",
     "country": "KTX Seat Swap",
     "created_at": "2026-11-02T08:36:17.509645+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "You can change your reserved KTX seat using the app before boarding. The Korail app lets you view your reservation details, including which seats are currently available. If a different seat becomes available, you can select it, and your original seat remains unassigned until you confirm the change. The new seat number appears on your e‑ticket, eliminating the need to arrive early for a good spot. The app shows a seat map, so you can choose a seat that may have a power outlet when you swap. The feature works on KTX trains and is available to anyone with a Korail account, not limited to members with a linked credit card.",
+    "cross_checked": true,
+    "cross_sources": 0,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [
+      {
+        "n": 2,
+        "text": "The Korail app lets you view your reservation details, including which seats are currently available."
+      }
+    ],
+    "narration_original": "One tap can move you to an empty KTX seat before the train leaves. The Korail app shows a live seat map for your reserved KTX train, so you can see every open spot in time. If a better seat frees up, select it and the system instantly reassigns your original seat to another passenger. The new seat number appears on your e‑ticket, eliminating the need to arrive early for a good spot. But here's the catch: the app also marks which seats have power outlets, letting you swap into a charging‑friendly spot on the fly. This works only on KTX trains and requires a Korail membership or linked credit card.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Tap to *move* seats"
+      },
+      {
+        "s": 2,
+        "text": "Live map shows *open*"
+      },
+      {
+        "s": 3,
+        "text": "Pick *better* seat"
+      },
+      {
+        "s": 4,
+        "text": "New seat on *e‑ticket*"
+      },
+      {
+        "s": 5,
+        "text": "Swap to *power* seat"
+      }
+    ],
+    "cross_verdict": "partial",
+    "cross_notes": [
+      "[수정됨] [unsupported] 1번 문장: No reliable evidence that a one‑tap seat move feature exists for KTX before departure",
+      "[수정됨] [unsupported] 2번 문장: The Korail app does not provide a live seat‑map showing every open spot in real time",
+      "[수정됨] [unsupported] 3번 문장: There is no known system that automatically reassigns your original seat to another passenger when you select a new one",
+      "[수정됨] [unsupported] 5번 문장: The app does not indicate which seats have power outlets for on‑the‑fly swapping",
+      "[수정됨] [unsupported] 6번 문장: The feature is not limited to KTX only and does not strictly require a Korail membership or linked credit card",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 2번 문장: App shows seat map but real‑time availability not confirmed"
+    ],
+    "title_line1": "KTX seat swap in app",
+    "title_line2": "Snag a power seat",
+    "image_queries": [
+      "hand tapping KTX seat app",
+      "live KTX seat map phone",
+      "choose better KTX seat app",
+      "e-ticket KTX seat number",
+      "power outlet seat swap",
+      "KTX train interior seats"
+    ],
+    "scene_count": 8
   },
   {
     "label": "Fast Lunch Countdown",
     "theme": "School & Work",
     "topic": "Elementary schools serve lunch buffet style, and students must finish within a set time.",
-    "hook": "Kids have just 15 minutes to finish their school lunch before the bell rings.",
-    "body": "Many Korean elementary schools operate a self‑service lunch system where students pick banchan (side dishes) and rice from a line. The cafeteria timer rings after about 15 minutes, signalling students to return trays for washing. This tight schedule keeps the kitchen running efficiently for the next class and teaches children to eat promptly. The meals are subsidized by the government, so they are nutritious and inexpensive.",
-    "twist": "Students earn extra points for finishing every bite, which can be exchanged for small school supplies.",
+    "hook": "Kids usually have about 30 minutes to finish their school lunch before the next class starts.",
+    "body": "In many Korean elementary schools, the cafeteria works like a self‑service buffet: students line up, pick rice and banchan—small side dishes—and sit down. A bell signals the end of lunch, and students return trays so the kitchen can prepare for the next class. The government subsidizes these meals, making them nutritious and cheap. Some schools may use a reward system, such as giving stickers, for students who finish their lunch quickly.",
+    "twist": "In some public schools, lunch periods are relatively short, whereas certain private schools may allow a longer break.",
     "caveat": "The 15‑minute rule is common in public schools in Seoul and some provinces, but private schools may have longer lunch periods.",
     "confidence": "high",
     "verify_note": "Korean elementary school lunch self‑service 15 minutes timer, school cafeteria schedule",
     "country": "Fast Lunch Countdown",
     "created_at": "2026-11-02T08:36:17.509645+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "Kids usually have about 30 minutes to finish their school lunch before the next class starts. In many Korean elementary schools, the cafeteria works like a self‑service buffet: students line up, pick rice and banchan—small side dishes—and sit down. A bell signals the end of lunch, and students return trays so the kitchen can prepare for the next class. The government subsidizes these meals, making them nutritious and cheap. Some schools may use a reward system, such as giving stickers, for students who finish their lunch quickly. In some public schools, lunch periods are relatively short, whereas certain private schools may allow a longer break.",
+    "cross_checked": true,
+    "cross_sources": 1,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [
+      {
+        "n": 5,
+        "text": "Some schools may use a reward system, such as giving stickers, for students who finish their lunch quickly."
+      }
+    ],
+    "narration_original": "Kids have just 15 minutes to finish their school lunch before the bell rings. In many Korean elementary schools, the cafeteria works like a self‑service buffet: students line up, pick rice and banchan—small side dishes—and sit down. A timer sounds after about fifteen minutes, and everyone must return trays for washing so the kitchen can serve the next class. The government subsidizes these meals, making them nutritious and cheap. But here's the catch: finishing every bite earns extra points that can be traded for tiny school supplies. Private schools may allow longer lunches, but the fast‑track rule is common in Seoul’s public schools.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "*15*‑minute lunch dash"
+      },
+      {
+        "s": 3,
+        "text": "*Timer* sounds, trays"
+      },
+      {
+        "s": 5,
+        "text": "*Points* for bite"
+      }
+    ],
+    "cross_verdict": "partial",
+    "cross_notes": [
+      "[수정됨] [contradicted] 1번 문장: Korean elementary schools typically allocate around 30 minutes for lunch, not a strict 15‑minute limit.",
+      "[수정됨] [unsupported] 3번 문장: No reliable evidence that a timer forces tray return after fifteen minutes.",
+      "[수정됨] [unsupported] 5번 문장: No documented practice of awarding points for finishing meals to trade for supplies.",
+      "[수정됨] [unsupported] 6번 문장: Claim about private schools' lunch length and a common fast‑track rule lacks verifiable evidence.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: No reliable evidence that schools routinely give stickers for finishing lunch quickly; such reward systems are not documented."
+    ],
+    "title_line1": "5‑Minute Lunch Rush",
+    "title_line2": "Fast finish = rewards",
+    "image_queries": [
+      "15 minute lunch dash",
+      "Korean school cafeteria buffet",
+      "timer sounds trays",
+      "school lunch subsidy",
+      "points for bite",
+      "Seoul public school lunch"
+    ],
+    "scene_count": 8
   },
   {
     "label": "Free 30‑Minute Bike",
@@ -12097,7 +12447,7 @@
     "verify_note": "Seoul subway T‑money locker tap access",
     "country": "T‑Money Locker Access",
     "created_at": "2026-11-02T18:08:59.941297+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Fingerprint Class Check‑In",
@@ -12111,7 +12461,7 @@
     "verify_note": "Korean middle school fingerprint attendance system",
     "country": "Fingerprint Class Check‑In",
     "created_at": "2026-11-02T18:08:59.941297+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Bring‑Your‑Own‑Cup Discount",
@@ -12125,7 +12475,7 @@
     "verify_note": "Korean café bring your own cup discount 10 percent",
     "country": "Bring‑Your‑Own‑Cup Discount",
     "created_at": "2026-11-02T18:08:59.941297+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Heated Public Toilets",

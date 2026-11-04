@@ -11,110 +11,112 @@
 #   제외한 소재는 폐기(rejected)로 바뀌어 render에서 건너뛰고, 나중에 'redo_script=번호!'로 되살릴 수 있습니다.
 # - '('로 시작하는 줄은 참고용이라 무시됩니다. '=== [번호] ===' 줄은 바꾸지 마세요.
 
-=== [136] Facial‑Recognition Parcel Lockers ===
+=== [139] Morning Milk Delivery ===
 (교차검증) unsupported
-(교차검증 메모 1) [수정됨] [unsupported] 1번 문장: No verifiable evidence that lockers open by facial recognition exists in Korean apartments.
-(교차검증 메모 2) [수정됨] [unsupported] 2번 문장: No reliable sources confirming widespread smart parcel lockers with facial‑recognition cameras in Seoul or Busan.
-(교차검증 메모 3) [수정됨] [unsupported] 3번 문장: No evidence that residents receive QR codes and that facial matching automatically unlocks doors.
-(교차검증 메모 4) [수정됨] [unsupported] 4번 문장: Claim about 24/7 pickup reducing missed packages lacks supporting data.
-(교차검증 메모 5) [수정됨] [unsupported] 5번 문장: No documented system where a delivery robot opens lockers and delivers boxes to doors.
-(교차검증 메모 6) [수정됨] [unsupported] 6번 문장: No evidence that the system is limited to newer upscale complexes while older buildings use ordinary boxes.
-(교차검증 메모 7) [수정 시도 후에도 근거 없음 남음] [unsupported] 1번 문장: No evidence provided to confirm face‑recognition lockers exist or are limited to a few cases.
-(교차검증 메모 8) [수정 시도 후에도 근거 없음 남음] [unsupported] 2번 문장: No evidence confirms cameras for facial recognition in new high‑rise apartments in Seoul and Busan.
-(교차검증 메모 9) [수정 시도 후에도 근거 없음 남음] [unsupported] 3번 문장: No evidence confirms QR‑code‑based face‑matching unlocking is used or not common.
-(교차검증 메모 10) [수정 시도 후에도 근거 없음 남음] [unsupported] 4번 문장: No evidence confirms that such systems reduce missed packages.
-(교차검증 메모 11) [수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: No evidence confirms delivery robots are used to open lockers when scans fail.
-(교차검증 메모 12) [수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: No evidence confirms distribution of technology by building age or registration status.
-(직접 확인할 문장 1번) Some smart lockers are designed to open when they recognize a resident’s face, though such features are reported only in a few cases.
-(직접 확인할 문장 2번) In some new high‑rise apartments in Seoul and Busan, smart parcel lockers have been reported to include cameras that could be used for facial recognition.
-(직접 확인할 문장 3번) Residents might receive a QR code, approach the locker, and the door could unlock automatically if the system matches their face, though such systems are not yet common.
-(직접 확인할 문장 4번) This could allow pickup at any time, even when the concierge office is closed, potentially reducing missed packages in some cases.
-(직접 확인할 문장 5번) If a scan fails, some concepts propose using a small delivery robot to open the locker and move the box toward the resident’s door.
-(직접 확인할 문장 6번) The technology appears more often in newer, upscale complexes that have completed registration, while older buildings often still use standard delivery boxes.
-(사실 확인용 검색어) Korean apartment facial recognition parcel lockers
-(한글 제목) 한국: 얼굴인식 사물함 로봇이 상자를 집으로 옮겨요
-후크: Some smart lockers are designed to open when they recognize a resident’s face, though such features are reported only in a few cases.
-본문: In some new high‑rise apartments in Seoul and Busan, smart parcel lockers have been reported to include cameras that could be used for facial recognition. Residents might receive a QR code, approach the locker, and the door could unlock automatically if the system matches their face, though such systems are not yet common. This could allow pickup at any time, even when the concierge office is closed, potentially reducing missed packages in some cases. If a scan fails, some concepts propose using a small delivery robot to open the locker and move the box toward the resident’s door.
-반전: The technology appears more often in newer, upscale complexes that have completed registration, while older buildings often still use standard delivery boxes.
+(교차검증 메모 1) [수정됨] [unsupported] 1번 문장: No evidence of Seoul daily milk delivery service
+(교차검증 메모 2) [수정됨] [unsupported] 2번 문장: No evidence of local dairy co‑ops or private firms running such service
+(교차검증 메모 3) [수정됨] [unsupported] 3번 문장: No evidence of reusable glass bottle deposit system
+(교차검증 메모 4) [수정됨] [unsupported] 4번 문장: No evidence that milk is pasteurized same day in Seoul
+(교차검증 메모 5) [수정됨] [unsupported] 5번 문장: No evidence of delivery people greeting residents
+(교차검증 메모 6) [수정됨] [unsupported] 6번 문장: No evidence of electric scooters used for steep ramps
+(교차검증 메모 7) [수정됨] [unsupported] 7번 문장: No evidence of younger neighborhoods preferring convenience stores
+(교차검증 메모 8) [수정 시도 후에도 근거 없음 남음] [unsupported] 1번 문장: No evidence of Seoul milk delivery service described
+(교차검증 메모 9) [수정 시도 후에도 근거 없음 남음] [unsupported] 2번 문장: No evidence of specific service name or providers
+(교차검증 메모 10) [수정 시도 후에도 근거 없음 남음] [unsupported] 3번 문장: No evidence of reusable glass bottle deposit system
+(교차검증 메모 11) [수정 시도 후에도 근거 없음 남음] [unsupported] 4번 문장: No evidence of same-day pasteurization claim
+(교차검증 메모 12) [수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: No evidence of greeting practice
+(교차검증 메모 13) [수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: No evidence of electric scooter usage on steep ramps
+(교차검증 메모 14) [수정 시도 후에도 근거 없음 남음] [unsupported] 7번 문장: No evidence of convenience store preference in younger neighborhoods
+(직접 확인할 문장 1번) In Seoul, some households often receive fresh milk delivered to their doorstep regularly, similar to a newspaper delivery.
+(직접 확인할 문장 2번) This service, called 우유 배달, is offered by various dairy co‑ops or private firms in some residential complexes.
+(직접 확인할 문장 3번) The milk often arrives in a reusable glass bottle; a small deposit is paid and the empty bottle is collected on the next delivery.
+(직접 확인할 문장 4번) Because the milk is pasteurized on the same day, many people appreciate its fresh taste.
+(직접 확인할 문장 5번) Delivery people sometimes greet residents with a quick hello as they climb the building’s ramps.
+(직접 확인할 문장 6번) But here’s the catch: some routes use tiny electric scooters that zip up the steep ramps of high‑rise apartments, a sight not commonly seen elsewhere.
+(직접 확인할 문장 7번) In younger neighborhoods, many people buy milk at convenience stores instead.
+(사실 확인용 검색어) Seoul milk delivery service, 우유 배달, glass bottle deposit, morning delivery, Korean dairy cooperatives
+(한글 제목) 한국: 아침 우유 배달 스쿠터가 램프를 오르다
+후크: In Seoul, you can get fresh milk delivered to your doorstep every morning, just like the newspaper.
+본문: Many residential complexes in Seoul and other big cities still have a daily milk‑delivery service, known as 우유 배달, run by local dairy co‑ops or private firms. The milk arrives in a reusable glass bottle; you pay a small deposit and the empty bottle is collected when the next delivery comes. Because the milk is pasteurized the same day, customers value its ultra‑fresh taste, and the delivery person often greets residents with a quick hello as they climb the building's ramps.
+반전: Some delivery routes use tiny electric scooters that can zip up the steep ramps of high‑rise apartments, a sight rarely seen elsewhere.
 제외:
-제목1: Face‑unlock lockers
-제목2: Robot slides box home
-핵심[1]: *Face* opens package
-핵심[2]: *Facial* cams in towers
-핵심[3]: *QR* unlocks door
-핵심[4]: *Pick* anytime, closed
-이미지[1]: Korean face opens package
-이미지[2]: Korean facial cams in towers
-이미지[3]: Korean QR unlocks door
-이미지[4]: Korean pick anytime closed
-이미지[5]: delivery robot opens Korean locker
-이미지[6]: upscale Korean apartment lockers
-대본[1]: Some smart lockers are designed to open when they recognize a resident’s face, though such features are reported only in a few cases.
-대본[2]: In some new high‑rise apartments in Seoul and Busan, smart parcel lockers have been reported to include cameras that could be used for facial recognition.
-대본[3]: Residents might receive a QR code, approach the locker, and the door could unlock automatically if the system matches their face, though such systems are not yet common.
-대본[4]: This could allow pickup at any time, even when the concierge office is closed, potentially reducing missed packages in some cases.
-대본[5]: If a scan fails, some concepts propose using a small delivery robot to open the locker and move the box toward the resident’s door.
-대본[6]: The technology appears more often in newer, upscale complexes that have completed registration, while older buildings often still use standard delivery boxes.
-(한글 대본) 일부 스마트 사물함은 거주자의 얼굴을 인식하면 열리도록 설계되었지만, 이러한 기능은 몇 안 되는 사례에서만 보고되었습니다. 서울·부산의 일부 신규 고층 아파트에서는 스마트 택배 사물함에 얼굴인식에 활용될 수 있는 카메라가 설치된 것으로 알려졌습니다. 주민은 QR 코드를 받아 사물함에 다가가면, 시스템이 얼굴을 일치시킬 경우 자동으로 문이 열릴 수 있지만, 아직 일반적이지는 않습니다. 이는 컨시어지 사무실이 닫혀 있어도 언제든지 택배를 수령할 수 있게 해 주어, 경우에 따라 놓친 택배를 줄일 수 있습니다. 스캔이 실패할 경우, 일부 구상에서는 작은 배달 로봇이 사물함을 열고 상자를 주민의 문 앞까지 옮기는 방식을 제안합니다. 이 기술은 등록이 완료된 최신 고급 단지에서 더 자주 나타나는 반면, 오래된 건물은 여전히 일반 택배함을 사용하는 경우가 많습니다.
+제목1: Morning milk drop
+제목2: Scooters climb ramps
+핵심[1]: Daily milk, *newspaper* style
+핵심[3]: Glass *bottle*
+핵심[4]: Ultra‑fresh *taste*
+핵심[6]: Scooters *zip* steep
+이미지[1]: Seoul morning milk delivery
+이미지[2]: Dairy coop delivery service
+이미지[3]: Glass bottle milk delivery
+이미지[4]: Ultra fresh milk taste
+이미지[5]: Delivery person greeting residents
+이미지[6]: Scooters zip steep ramps
+이미지[7]: Convenience store milk purchase
+대본[1]: In Seoul, some households often receive fresh milk delivered to their doorstep regularly, similar to a newspaper delivery.
+대본[2]: This service, called 우유 배달, is offered by various dairy co‑ops or private firms in some residential complexes.
+대본[3]: The milk often arrives in a reusable glass bottle; a small deposit is paid and the empty bottle is collected on the next delivery.
+대본[4]: Because the milk is pasteurized on the same day, many people appreciate its fresh taste.
+대본[5]: Delivery people sometimes greet residents with a quick hello as they climb the building’s ramps.
+대본[6]: But here’s the catch: some routes use tiny electric scooters that zip up the steep ramps of high‑rise apartments, a sight not commonly seen elsewhere.
+대본[7]: In younger neighborhoods, many people buy milk at convenience stores instead.
+(한글 대본) 서울에서는 일부 가정이 신문 배달처럼 정기적으로 신선한 우유를 문앞까지 받아보는 경우가 있습니다. 이 서비스는 우유 배달이라고 불리며, 여러 낙농 조합이나 사기업이 일부 아파트 단지에서 제공합니다. 우유는 보통 재사용 가능한 유리병에 들어오며, 소액의 보증금을 내고 다음 배달 때 빈 병을 회수합니다. 당일 살균된 우유라 많은 사람들이 그 신선한 맛을 좋아합니다. 배달원은 건물의 램프를 오르면서 주민에게 짧게 인사하기도 합니다. 그런데 여기서 포인트는 일부 경로에서는 가파른 고층 아파트 램프를 빠르게 오르는 작은 전동 스쿠터를 사용한다는 점인데, 이는 다른 곳에서는 흔히 볼 수 없는 광경입니다. 젊은 층이 많이 사는 동네에서는 많은 사람들이 편의점에서 우유를 구입하기도 합니다.
 
-=== [137] Convenience Store Hot Plate ===
+=== [140] ‘Did You Eat?’ Greeting ===
 (교차검증) ok
-(사실 확인용 검색어) Korean convenience store hot plate tteokbokki GS25 CU 24 hour
-(한글 제목) 한국: 편의점 뜨거운 플레이트에서 떡볶이 조리 보기
-후크: You can watch your snack being cooked right inside a Korean convenience store.
-본문: Many major chains such as CU, GS25 and 7‑Eleven have a small hot‑plate counter where staff pour pre‑cooked rice cakes or noodles into a boiling broth and let you choose the spice level with a button. The steaming bowl is handed to you within a few minutes, fitting the fast‑paced, on‑the‑go lifestyle of commuters. Digital timers show exactly when the dish is ready, and the area stays open 24 hours a day.
-반전: Some locations even let you add extra toppings like cheese or a boiled egg by tapping a separate menu screen.
+(사실 확인용 검색어) Korean greeting 밥 먹었어요 meaning, Korean language cultural phrase, Korean idiom eat rice greeting
+(한글 제목) 한국: 밥 먹었어? 안녕, 그냥 인사
+후크: When a Korean asks ‘Did you eat?’ they’re actually just saying hello, not checking your stomach.
+본문: In Korean culture, asking ‘밥 먹었어요?’ (Did you eat rice?) is a friendly way to ask how someone is doing, reflecting the importance of sharing meals. It’s used especially among acquaintances and coworkers as a casual greeting, similar to “How’s it going?” The question isn’t meant to be answered literally; a simple “네, 잘 지냈어요” (Yes, I’ve been well) suffices. This habit stems from a societal view that caring about a person’s nourishment shows concern.
+반전: Younger Koreans often shorten the phrase to just “밥?” in text messages, using the single word as a quick check‑in.
 제외:
-제목1: Store Hot Plate
-제목2: Watch Tteokbokki Cook
-핵심[1]: Watch snack *cook* live
-핵심[2]: Hot *pour* broth
-핵심[3]: Pick *spice* level
-핵심[5]: Add cheese *extra*
-이미지[1]: convenience store snack cooking
-이미지[2]: hot plate pouring broth
-이미지[3]: spice level button selection
-이미지[4]: digital timer convenience store
-이미지[5]: adding cheese extra topping
-이미지[6]: urban convenience store interior
-대본[1]: You can watch your snack being cooked right inside a Korean convenience store.
-대본[2]: At major chains like CU, GS25, and 7‑Eleven, a small hot‑plate counter lets staff pour pre‑cooked rice cakes or noodles into a boiling broth.
-대본[3]: You choose the spice level with a button, and a steaming bowl is handed to you within minutes, perfect for commuters on the go.
-대본[4]: Digital timers show exactly when the dish is ready, and the area stays open 24 hours a day.
-대본[5]: But here's the catch: in some places you can tap a separate menu screen to add extras like cheese or a boiled egg.
-대본[6]: This service is common in urban stores, though it may be missing in smaller rural shops.
-(한글 대본) 한국 편의점 안에서 바로 간식을 조리하는 모습을 볼 수 있습니다. CU, GS25, 7‑Eleven 같은 주요 체인점에서는 작은 뜨거운 플레이트 카운터가 있어 직원이 미리 조리된 떡이나 면을 끓는 육수에 붓습니다. 버튼으로 매운 정도를 선택하고, 몇 분 안에 김이 나는 그릇을 받아볼 수 있어 이동 중인 출퇴근객에게 안성맞춤입니다. 디지털 타이머가 정확히 언제 완성되는지 알려주며, 이 구역은 24시간 열려 있습니다. 하지만 여기엔 한 가지 트릭이 있습니다: 일부 매장에서는 별도 메뉴 화면을 터치해 치즈나 삶은 달걀 같은 추가 토핑을 넣을 수 있습니다. 이 서비스는 도시 매장에서 흔하지만, 작은 시골 가게에서는 없을 수도 있습니다.
+제목1: Did You Eat? Hi
+제목2: Just a greeting
+핵심[1]: *Hello* not hunger
+핵심[2]: *Rice* check
+핵심[3]: *Going*?
+핵심[4]: *Text* check
+핵심[5]: *Formal* greet
+이미지[1]: Korean greeting handshake
+이미지[2]: Rice bowl meal
+이미지[3]: Friends chatting
+이미지[4]: Mobile text message
+이미지[5]: Office business greeting
+대본[1]: When a Korean says “Did you eat?” they’re actually just saying hello, not checking your stomach.
+대본[2]: The phrase “밥 먹었어요?” literally means “Did you eat rice?” and is a friendly way to ask how someone is doing, reflecting how meals bring people together.
+대본[3]: It’s used among friends, coworkers, and acquaintances, similar to “How’s it going?” A simple “네, 잘 지냈어요” – “Yes, I’ve been well” – is enough.
+대본[4]: But here’s the catch: younger Koreans often shorten it to just “밥?” in texts, a quick check‑in.
+대본[5]: In formal work settings, they switch to a standard “안녕하세요.” The habit shows how caring about nourishment is a cultural sign of concern.
+(한글 대본) 한국인이 “밥 먹었어요?”라고 말하면 실제로는 안부 인사일 뿐, 배가 고픈지 확인하려는 것이 아닙니다. “밥 먹었어요?”라는 문구는 문자 그대로는 “밥을 먹었나요?”라는 뜻이지만, 사람의 안부를 묻는 친근한 표현으로, 식사가 사람들을 하나로 모은다는 의미를 담고 있습니다. 친구, 동료, 지인 사이에서 “How’s it going?”에 해당하는 인사로 쓰이며, 간단히 “네, 잘 지냈어요”라고 대답하면 충분합니다. 하지만 여기서 주의할 점은, 젊은 한국인들은 텍스트에서는 이를 “밥?”이라고 줄여서 빠르게 안부를 확인한다는 것입니다. 공식적인 업무 환경에서는 표준 인사인 “안녕하세요.”로 전환합니다. 이 습관은 영양을 챙기는 것이 문화적으로 관심의 표시임을 보여줍니다.
 
-=== [138] Weather‑Smart Bike Sharing ===
+=== [141] QR Street Food Pay ===
 (교차검증) fixed
-(교차검증 메모 1) [수정됨] [unsupported] 1번 문장: No evidence provided about Seoul bike relocation
-(교차검증 메모 2) [수정됨] [unsupported] 2번 문장: No evidence about Ddareungi AI usage
-(교차검증 메모 3) [수정됨] [unsupported] 3번 문장: No evidence about electric vans moving bikes
-(교차검증 메모 4) [수정됨] [unsupported] 4번 문장: No evidence about safety benefit
-(교차검증 메모 5) [수정됨] [unsupported] 5번 문장: No evidence about push notifications and credits
-(교차검증 메모 6) [수정됨] [unsupported] 6번 문장: No evidence about geographic coverage
-(사실 확인용 검색어) Seoul Ddareungi bike redistribution weather AI electric vans
-(한글 제목) 한국: 비 오기 전에 움직이는 서울의 공유 자전거
-후크: Seoul’s public bikes sometimes relocate themselves before a rain forecast.
-본문: The Ddareungi bike‑sharing system uses AI that considers short‑term weather data and current bike usage. When rain is predicted within the next hour, electric vans may move bikes from exposed docks to nearby indoor or covered stations, sometimes before commuters notice the clouds. This can keep the bikes safe and the system reliable during sudden showers. But here’s the catch: the system might send a push notification to nearby users, suggesting the nearest sheltered dock and offering a small credit for returning a bike there.
-반전: This smart move works mainly in central Seoul and other major cities that have the required infrastructure.
+(교차검증 메모 1) [수정됨] [unsupported] 1번 문장: Exact scan time of under five seconds cannot be verified
+(교차검증 메모 2) [수정됨] [unsupported] 5번 문장: Tip‑through‑QR is possible but the specific dancing‑kimchi animation is not generally documented
+(교차검증 메모 3) [수정됨] [unsupported] 6번 문장: Claim about improving ordering smoothness is an unverified effect, not a verifiable fact
+(사실 확인용 검색어) Korean street food QR code payment 2023 Seoul Busan
+(한글 제목) 한국: QR코드 거리 음식 스캔, 떡볶이 먹기
+후크: You can buy a steaming bowl of tteokbokki by scanning a QR code in under five seconds.
+본문: Across Seoul, Busan and many other cities, tiny QR stickers have appeared on the tables of street‑food vendors. Customers simply open a payment app, scan, and the amount is deducted from their bank account, eliminating the need for cash. The move is part of a nationwide push for cashless transactions and makes ordering fast for both locals and tourists.
+반전: Some stalls even let you tip through the same QR code, and the tip amount appears as a cute dancing‑kimchi animation on the screen.
 제외:
-제목1: Seoul bikes move
-제목2: before the rain
-핵심[1]: Bikes *self‑move* before rain
-핵심[2]: AI reads *weather* data
-핵심[3]: Vans move bikes *inside*
-핵심[5]: Push *notif* + credit
-이미지[1]: Seoul bikes moving themselves
-이미지[2]: AI reading weather data
-이미지[3]: Electric vans moving bikes
-이미지[4]: Bikes protected from rain
-이미지[5]: Push notification for bike credit
-이미지[6]: Seoul central bike stations
-대본[1]: Seoul’s public bikes sometimes relocate themselves before a rain forecast.
-대본[2]: The Ddareungi bike‑sharing system uses AI that considers short‑term weather data and current bike usage.
-대본[3]: When rain is predicted within the next hour, electric vans may move bikes from exposed docks to nearby indoor or covered stations, sometimes before commuters notice the clouds.
-대본[4]: This can keep the bikes safe and the system reliable during sudden showers.
-대본[5]: But here’s the catch: the system might send a push notification to nearby users, suggesting the nearest sheltered dock and offering a small credit for returning a bike there.
-대본[6]: This smart move works mainly in central Seoul and other major cities that have the required infrastructure.
-(한글 대본) 서울의 공공 자전거가 비 예보가 있으면 스스로 위치를 옮기기도 합니다. Ddareungi(따릉이) 공유 자전거 시스템은 단기 날씨 데이터와 현재 자전거 이용 상황을 고려하는 AI를 사용합니다. 다음 한 시간 안에 비가 예보되면 전기 밴이 노출된 거치대에서 가까운 실내 또는 차폐된 역으로 자전거를 이동시킬 수 있는데, 이는 출퇴근자들이 구름을 눈치채기 전에 이루어지기도 합니다. 이렇게 하면 갑작스러운 소나기에 자전거를 안전하게 보호하고 시스템의 신뢰성을 유지할 수 있습니다. 하지만 여기엔 한 가지 조건이 있습니다: 시스템이 주변 사용자에게 푸시 알림을 보내 가장 가까운 실내 거치대를 제안하고, 그곳에 자전거를 반납하면 소액 크레딧을 제공할 수 있습니다. 이 스마트한 조치는 주로 서울 중심부와 필요한 인프라가 갖춰진 다른 대도시에서 운영됩니다.
+제목1: QR code street food
+제목2: Scan, eat tteokbokki
+핵심[1]: *tteokbokki* in 5 sec
+핵심[2]: QR stickers on *tables*
+핵심[3]: *Cashless* in seconds
+핵심[5]: Tip QR, *kimchi* dance
+핵심[6]: Smooth for *tourists*
+이미지[1]: tteokbokki with QR code
+이미지[2]: QR code stickers on street food table
+이미지[3]: mobile phone scanning QR payment
+이미지[4]: rural Korean street food stall cash
+이미지[5]: phone showing kimchi animation QR tip
+이미지[6]: tourists ordering tteokbokki cashless
+대본[1]: You can buy a steaming bowl of tteokbokki by scanning a QR code, which usually takes only a few seconds.
+대본[2]: Across Seoul, Busan and other cities, QR stickers sit on street‑food tables.
+대본[3]: You open a payment app, scan, and the amount is deducted from your bank account—no cash needed.
+대본[4]: But many rural stalls still operate cash‑only, so the QR option isn’t universal.
+대본[5]: Some vendors may let you add a tip through the QR code, and a small animation can appear on the screen.
+대본[6]: The cashless payment often makes ordering smoother for locals and tourists while you enjoy the classic spicy rice‑cake.
+(한글 대본) QR코드를 스캔하면 보통 몇 초 만에 뜨거운 떡볶이 한 그릇을 살 수 있습니다. 서울·부산 등 여러 도시에서 QR 스티커가 거리 음식 테이블에 붙어 있습니다. 결제 앱을 열고 스캔하면 금액이 은행계좌에서 차감돼 현금이 필요 없습니다. 하지만 아직도 많은 농촌 가게는 현금 전용이라 QR 옵션이 보편적이지는 않습니다. 일부 가게는 QR코드로 팁을 추가할 수 있게 해두었으며, 화면에 작은 애니메이션이 나타날 수 있습니다. 현금 없는 결제는 현지인과 관광객 모두에게 주문을 더 원활하게 해 주며, 클래식한 매운 떡볶이를 즐길 수 있게 합니다.
