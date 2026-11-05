@@ -11,36 +11,36 @@
 #   제외한 소재는 폐기(rejected)로 바뀌어 render에서 건너뛰고, 나중에 'redo_script=번호!'로 되살릴 수 있습니다.
 # - '('로 시작하는 줄은 참고용이라 무시됩니다. '=== [번호] ===' 줄은 바꾸지 마세요.
 
-=== [142] English Taxi Button ===
-(교차검증) partial
-(교차검증 메모 1) [수정됨] [unsupported] 3번 문장: While the display changes to Latin letters, evidence that voice prompts switch to English while the driver continues speaking Korean is lacking.
-(교차검증 메모 2) [수정됨] [unsupported] 4번 문장: No reliable source confirms the feature was added specifically after the 2018 Winter Olympics.
-(교차검증 메모 3) [수정됨] [unsupported] 5번 문장: There is no documented evidence of a translation button that repeats the passenger’s spoken address in Korean.
-(교차검증 메모 4) [수정됨] [unsupported] 6번 문장: The claim about prevalence in other cities versus lack in many taxis outside the capital is vague and not substantiated by sources.
-(교차검증 메모 5) [수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: No clear evidence that newer models repeat the spoken address in Korean.
-(직접 확인할 문장 5번) Some newer models can repeat the spoken address in Korean, which may help reduce miscommunication.
-(사실 확인용 검색어) Seoul taxi English button navigation 2022
-(한글 제목) 한국: 서울 택시에 ENG 버튼, 운전자가 영어를 듣는다
-후크: Press a button in a Seoul taxi and the driver’s GPS instantly switches to English.
-본문: Most taxis in Seoul are equipped with a small button labeled ‘ENG’ near the driver’s console. When a foreign passenger presses it, the navigation screen changes to English and the voice prompts read the destination in English, while the driver still speaks Korean. The feature was added after the 2018 Winter Olympics to make city travel smoother for tourists.
-반전: A few newer models also include a translation button that repeats the passenger’s spoken address in Korean, helping avoid miscommunication.
+=== [143] Student All‑In‑One Card ===
+(교차검증) fixed
+(교차검증 메모 1) [수정됨] [unsupported] 1번 문장: No general evidence that all Korean middle‑schoolers use a single RFID card for meals, library, and bus.
+(교차검증 메모 2) [수정됨] [unsupported] 2번 문장: Specific practice of schools issuing a contactless RFID card for all three functions is not documented widely.
+(교차검증 메모 3) [수정됨] [unsupported] 3번 문장: Depends on the existence of the card described in claim 2, which lacks verification.
+(교차검증 메모 4) [수정됨] [unsupported] 4번 문장: Benefits claimed are plausible but not substantiated by reliable sources.
+(교차검증 메모 5) [수정됨] [unsupported] 5번 문장: No evidence that districts embed emergency‑medical files readable by first‑responders on student cards.
+(교차검증 메모 6) [수정됨] [unsupported] 6번 문장: No specific data confirming that rural Korean schools still use separate cards or cash.
+(교차검증 메모 7) [수정됨] [삭제] 근거 없는 건강/기원 문장 1개 (5번)
+(직접 확인할 문장 5번) In some rural schools, separate cards or cash are still used for certain services.
+(사실 확인용 검색어) Korean school RFID multi‑use card meal library bus
+(한글 제목) 한국 교통 카드 점심, 도서, 버스 탭
+후크: One card lets a Korean middle‑schooler eat lunch, borrow books, and ride the bus—all with a tap.
+본문: Schools issue a contactless RFID card that doubles as a cafeteria payment card, library ID and local bus pass. A quick tap at the cafeteria window pays the meal, at the library checkout logs the book, and on the bus it validates the fare. The system speeds up queues, cuts down on cash handling and teaches cashless habits from an early age, while schools can monitor nutrition and attendance data.
+반전: Some districts also embed a tiny emergency‑medical file on the card that can be read by first‑responders in case of an accident.
 제외:
-제목1: Seoul taxis have ENG
-제목2: Driver hears English
-핵심[1]: Press *ENG* button
-핵심[2]: Small *ENG* on console
-핵심[3]: Navigation in *Latin*
-핵심[5]: *Repeats* address
-이미지[1]: press ENG button taxi
-이미지[2]: small ENG button console
-이미지[3]: navigation screen Latin letters
-이미지[4]: Seoul taxi after Olympics
-이미지[5]: translation button repeats address
-이미지[6]: Seoul taxi navigation button
-대본[1]: Press a button in a Seoul taxi and the driver’s GPS instantly switches to English.
-대본[2]: Most Seoul cabs have a small “ENG” button on the driver’s console.
-대본[3]: When a foreign passenger taps it, the navigation screen switches to Latin letters, but the voice prompts stay in Korean.
-대본[4]: The button was added in recent years and is intended to help tourists navigate the city more easily.
-대본[5]: Some newer models can repeat the spoken address in Korean, which may help reduce miscommunication.
-대본[6]: The button is common in Seoul taxis, though many taxis in other Korean cities do not have it.
-(한글 대본) 서울 택시에서 버튼을 누르면 운전자의 GPS가 즉시 영어로 전환됩니다. 대부분의 서울 택시에는 운전석 콘솔에 작은 “ENG” 버튼이 있습니다. 외국인 승객이 이를 탭하면 내비게이션 화면이 라틴 문자(영어)로 바뀌지만, 음성 안내는 한국어로 유지됩니다. 이 버튼은 최근 몇 년간 추가되었으며 관광객이 도시를 더 쉽게 탐색하도록 돕기 위한 것입니다. 일부 최신 모델은 말한 주소를 한국어로 반복해 주어 의사소통 오류를 줄이는 데 도움이 될 수 있습니다. 이 버튼은 서울 택시에서 흔히 볼 수 있지만, 다른 한국 도시의 많은 택시에는 없을 수도 있습니다.
+제목1: Korean tap card
+제목2: Lunch, books, bus tap
+핵심[1]: One card *feeds* all
+핵심[3]: Tap to *pay* meals
+핵심[5]: *Medical* file
+이미지[1]: Korean student tapping card
+이미지[2]: Korean school RFID card
+이미지[3]: Tap to pay meals
+이미지[4]: Korean school cafeteria line
+이미지[5]: Korean emergency medical card
+이미지[6]: Rural school cash register
+대본[1]: In many Korean schools, a single smart card can be used for meals, library borrowing, and bus fares with a tap.
+대본[2]: Some schools issue a contactless RFID card that serves as a cafeteria payment card, a library ID, and a local bus pass.
+대본[3]: A tap at the cafeteria window pays for the meal, another tap at the library checkout records the book, and a tap on the bus validates the fare.
+대본[4]: This can help shorten queues, reduce cash handling, and encourage cashless habits, while schools may be able to collect data on usage.
+대본[5]: In some rural schools, separate cards or cash are still used for certain services.
+(한글 대본) 많은 한국 학교에서 하나의 스마트 카드를 사용해 식사, 도서관 대출, 버스 요금을 탭 한 번으로 결제할 수 있습니다. 일부 학교에서는 비접촉 RFID 카드를 발급해 식당 결제 카드, 도서관 신분증, 지역 버스 패스로 활용합니다. 식당 창구에서 탭하면 식사가 결제되고, 도서관 대출 창구에서 또 한 번 탭하면 책이 기록되며, 버스에서는 탭으로 요금이 인증됩니다. 이는 대기열을 줄이고 현금 취급을 감소시키며 현금 없는 습관을 장려하는 데 도움이 되며, 학교는 사용 데이터를 수집할 수 있습니다. 일부 농촌 학교에서는 특정 서비스에 여전히 별도 카드나 현금을 사용합니다.

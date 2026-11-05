@@ -11793,7 +11793,7 @@
     "verify_note": "Korean school RFID multi‑use card meal library bus",
     "country": "Student All‑In‑One Card",
     "created_at": "2026-11-02T08:34:51.916383+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "In many Korean schools, a single smart card can be used for meals, library borrowing, and bus fares with a tap. Some schools issue a contactless RFID card that serves as a cafeteria payment card, a library ID, and a local bus pass. A tap at the cafeteria window pays for the meal, another tap at the library checkout records the book, and a tap on the bus validates the fare. This can help shorten queues, reduce cash handling, and encourage cashless habits, while schools may be able to collect data on usage. In some rural schools, separate cards or cash are still used for certain services.",
     "cross_checked": true,
     "cross_sources": 2,
@@ -11839,7 +11839,72 @@
       "Korean emergency medical card",
       "Rural school cash register"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국 교통 카드 점심, 도서, 버스 탭",
+    "ko_description": "🎯 한 장의 카드로 한국 중학생이 점심을 먹고, 책을 빌리고, 버스를 탈 수 있습니다—모두 탭 한 번으로.\n\n학교에서는 식당 결제 카드, 도서관 ID, 지역 버스 패스로 겸용되는 비접촉 RFID 카드를 발급합니다. 식당 창구에서 빠르게 탭하면 식사가 결제되고, 도서관 대출 창구에서 탭하면 책이 기록되며, 버스에서는 요금이 인증됩니다. 이 시스템은 대기열을 줄이고 현금 취급을 감소시키며, 어릴 때부터 현금 없는 습관을 가르칩니다. 또한 학교는 영양 및 출석 데이터를 모니터링할 수 있습니다.\n\n💡 일부 구역에서는 사고 시 응급구조대가 읽을 수 있는 작은 응급 의료 파일을 카드에 삽입하기도 합니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상 생활, 음식, 예절 그리고 놀라운 사실들.\n\n#StudentAllInOneCard #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "많은 한국 학교에서 하나의 스마트 카드를 사용해 식사, 도서관 대출, 버스 요금을 탭 한 번으로 결제할 수 있습니다. 일부 학교에서는 비접촉 RFID 카드를 발급해 식당 결제 카드, 도서관 신분증, 지역 버스 패스로 활용합니다. 식당 창구에서 탭하면 식사가 결제되고, 도서관 대출 창구에서 또 한 번 탭하면 책이 기록되며, 버스에서는 탭으로 요금이 인증됩니다. 이는 대기열을 줄이고 현금 취급을 감소시키며 현금 없는 습관을 장려하는 데 도움이 되며, 학교는 사용 데이터를 수집할 수 있습니다. 일부 농촌 학교에서는 특정 서비스에 여전히 별도 카드나 현금을 사용합니다.",
+    "ko_issues": [],
+    "ko_src": "6ed1feae1051",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0143_Student All‐In‐One Card_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0143_Student All‐In‐One Card_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "Korean student tapping card",
+      "Korean school RFID card",
+      "Tap to pay meals",
+      "Korean school cafeteria line",
+      "Korean emergency medical card",
+      "Rural school cash register"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "viarami",
+        "page": "https://pixabay.com/photos/business-bar-restaurant-shield-5475283/",
+        "id": 5475283
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "Darkmoon_Art",
+        "page": "https://pixabay.com/photos/school-cone-pupil-board-3466185/",
+        "id": 3466185
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "kaboompics",
+        "page": "https://pixabay.com/photos/tap-black-faucet-kitchen-sink-791172/",
+        "id": 791172
+      },
+      {
+        "scene": 4,
+        "source": "pixabay",
+        "user": "Katrina_S",
+        "page": "https://pixabay.com/photos/kindergarten-school-the-main-yellow-2456159/",
+        "id": 2456159
+      },
+      {
+        "scene": 5,
+        "source": "pixabay",
+        "user": "sasint",
+        "page": "https://pixabay.com/photos/surgery-hospital-doctor-care-1822458/",
+        "id": 1822458
+      },
+      {
+        "scene": 6,
+        "source": "pixabay",
+        "user": "nosheep",
+        "page": "https://pixabay.com/photos/cash-register-drawer-cash-register-1885558/",
+        "id": 1885558
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0143_Student All‐In‐One Card.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0143_Student All‐In‐One Card.mp4",
+    "status_v6": "video_done"
   },
   {
     "label": "Budget Overnight Sauna",
@@ -12484,7 +12549,43 @@
     "verify_note": "kimchi refrigerator market Korea, Samsung kimchi fridge, LG kimchi refrigerator specifications, Korean home appliance trends",
     "country": "Kimchi Refrigerator",
     "created_at": "2026-11-02T08:38:44.251786+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "Did you know many Korean kitchens have a fridge that only stores kimchi? When a family opens their kitchen fridge, they pull out an airtight drawer that looks like a small freezer— that's the kimchi refrigerator. It holds the temperature around 0°C and humidity near 80%, letting the cabbage stay crisp while the flavors develop slowly. Because kimchi is a side dish, this unit keeps a fresh supply for weeks and prevents the odor from spreading. But here's the catch: models add UV‑light sterilizers and programmable fermentation cycles that can start a new batch automatically. Still, older or smaller homes often rely on a regular fridge.",
+    "cross_checked": true,
+    "cross_sources": 0,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [],
+    "cross_verdict": "ok",
+    "cross_notes": [],
+    "title_line1": "Kimchi-only fridge",
+    "title_line2": "Fresh taste, no stink",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "Korean *kimchi* fridge"
+      },
+      {
+        "s": 2,
+        "text": "Airtight *drawer* freezer"
+      },
+      {
+        "s": 3,
+        "text": "0°C & 80% *humidity*"
+      },
+      {
+        "s": 5,
+        "text": "UV *sterilizer* cycles"
+      }
+    ],
+    "image_queries": [
+      "Korean kimchi refrigerator",
+      "Airtight drawer freezer",
+      "Kimchi fridge temperature gauge",
+      "Kimchi jars in refrigerator",
+      "UV sterilizer inside fridge",
+      "Traditional Korean kitchen fridge"
+    ],
+    "scene_count": 8
   },
   {
     "label": "Subway Smoking Fine",
@@ -12624,7 +12725,7 @@
     "verify_note": "Korean price rounding 10 won, VAT rounding cash receipt Korea",
     "country": "Rounded Won Prices",
     "created_at": "2026-11-02T18:09:08.037703+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Instant Subway Card",
