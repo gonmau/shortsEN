@@ -86,8 +86,8 @@ def make(idx, item, channel, handle, avatar):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--channel", default="KoreaAtoZ")
-    ap.add_argument("--handle", default="@KoreaA2Z")
+    ap.add_argument("--channel", default="gonmauY")
+    ap.add_argument("--handle", default="@gonmauY")
     ap.add_argument("--avatar", default="avatar.png")
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--start", type=int, default=0, help="이 번호 이상 소재의 썸네일만 만듦")
@@ -106,7 +106,7 @@ def main():
         if not vp or not Path(vp).exists():
             continue
         out = OUT_DIR / f"{Path(vp).stem}.png"
-        if out.exists() and not args.force:
+        if out.exists() and not args.force and not only:   # --only 로 지정한 소재는 제목을 고쳤을 수 있어 항상 다시 만듦
             continue
         if args.style == "classic":
             im = make(idx, item, args.channel, args.handle, args.avatar)
