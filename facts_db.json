@@ -11658,7 +11658,7 @@
     "verify_note": "Seoul taxi English button navigation 2022",
     "country": "English Taxi Button",
     "created_at": "2026-11-02T08:34:51.916383+00:00",
-    "status": "scripted",
+    "status": "video_done",
     "narration": "Press a button in a Seoul taxi and the driver’s GPS instantly switches to English. Most Seoul cabs have a small “ENG” button on the driver’s console. When a foreign passenger taps it, the navigation screen switches to Latin letters, but the voice prompts stay in Korean. The button was added in recent years and is intended to help tourists navigate the city more easily. Some newer models can repeat the spoken address in Korean, which may help reduce miscommunication. The button is common in Seoul taxis, though many taxis in other Korean cities do not have it.",
     "cross_checked": true,
     "cross_sources": 1,
@@ -11706,7 +11706,80 @@
       "translation button repeats address",
       "Seoul taxi navigation button"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "ko_title": "한국: 서울 택시에 ENG 버튼, 운전자가 영어를 듣는다",
+    "ko_description": "🎯 서울 택시에서 버튼을 누르면 운전자의 GPS가 즉시 영어로 전환됩니다.\n\n대부분의 서울 택시에는 운전석 콘솔 근처에 ‘ENG’라고 표시된 작은 버튼이 설치되어 있습니다. 외국인 승객이 이 버튼을 누르면 내비게이션 화면이 영어로 바뀌고, 음성 안내는 목적지를 영어로 읽어 주지만 운전자는 여전히 한국어로 말합니다. 이 기능은 2018년 동계 올림픽 이후 관광객들의 도시 이동을 원활하게 하기 위해 추가되었습니다.\n\n💡 최신 모델 중 일부는 승객이 말한 주소를 한국어로 다시 읽어 주는 번역 버튼도 포함하고 있어 오해를 줄이는 데 도움이 됩니다.\n\n🇰🇷 1분 안에 보는 진짜 한국: 일상, 음식, 예절, 그리고 놀라운 사실들.\n\n#EnglishTaxiButton #Korea #SouthKorea #KoreanCulture #KoreaTravel #TravelKorea #CultureShock #LifeInKorea #KCulture #Shorts",
+    "ko_narration": "서울 택시에서 버튼을 누르면 운전자의 GPS가 즉시 영어로 전환됩니다. 대부분의 서울 택시에는 운전석 콘솔에 작은 “ENG” 버튼이 있습니다. 외국인 승객이 이를 탭하면 내비게이션 화면이 라틴 문자(영어)로 바뀌지만, 음성 안내는 한국어로 유지됩니다. 이 버튼은 최근 몇 년간 추가되었으며 관광객이 도시를 더 쉽게 탐색하도록 돕기 위한 것입니다. 일부 최신 모델은 말한 주소를 한국어로 반복해 주어 의사소통 오류를 줄이는 데 도움이 될 수 있습니다. 이 버튼은 서울 택시에서 흔히 볼 수 있지만, 다른 한국 도시의 많은 택시에는 없을 수도 있습니다.",
+    "ko_issues": [],
+    "ko_src": "fa695e8626dd",
+    "audio_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0142_English Taxi Button_v2.mp3",
+    "timing_path_v2": "/home/runner/work/shortsEN/shortsEN/audio/0142_English Taxi Button_v2_timing.json",
+    "tts_voice_v2": "en-US-AndrewNeural",
+    "status_tts_v2": "done",
+    "image_queries_done": [
+      "press ENG button taxi",
+      "small ENG button console",
+      "navigation screen Latin letters",
+      "Seoul taxi after Olympics",
+      "translation button repeats address",
+      "Seoul taxi navigation button"
+    ],
+    "image_credits": [
+      {
+        "scene": 1,
+        "source": "pixabay",
+        "user": "Tumisu",
+        "page": "https://pixabay.com/photos/button-start-on-light-power-4203036/",
+        "id": 4203036
+      },
+      {
+        "scene": 2,
+        "source": "pixabay",
+        "user": "ant2506",
+        "page": "https://pixabay.com/photos/nintendo-switch-nintendo-switch-2154437/",
+        "id": 2154437
+      },
+      {
+        "scene": 3,
+        "source": "pixabay",
+        "user": "DariuszSankowski",
+        "page": "https://pixabay.com/photos/navigation-car-drive-road-gps-1048294/",
+        "id": 1048294
+      },
+      {
+        "scene": 4,
+        "source": "commons",
+        "user": "Joshua T. Garcia",
+        "license": "CC0",
+        "title": "Taxi Cab in South Korea.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Taxi_Cab_in_South_Korea.jpg",
+        "id": "c:126456850"
+      },
+      {
+        "scene": 5,
+        "source": "commons",
+        "user": "Ilya Plekhanov",
+        "license": "CC BY-SA 4.0",
+        "title": "Seoul taxis 01.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Seoul_taxis_01.jpg",
+        "id": "c:42630178"
+      },
+      {
+        "scene": 6,
+        "source": "commons",
+        "user": "Sim1992",
+        "license": "CC BY-SA 4.0",
+        "title": "Kia Optima regal taxi in Seoul front.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Kia_Optima_regal_taxi_in_Seoul_front.jpg",
+        "id": "c:121489775"
+      }
+    ],
+    "image_source": "pixabay",
+    "srt_path": "/home/runner/work/shortsEN/shortsEN/videos/0142_English Taxi Button.srt",
+    "video_path_v6": "/home/runner/work/shortsEN/shortsEN/videos/0142_English Taxi Button.mp4",
+    "status_v6": "video_done",
+    "youtube_id": "6l19tdo4hl8",
+    "uploaded_at": "2026-11-05T10:24:29.702936+09:00"
   },
   {
     "label": "Student All‑In‑One Card",
@@ -12344,14 +12417,60 @@
     "theme": "Travel & Places",
     "topic": "Seoul’s public bike system offers the first 30 minutes of each ride for free.",
     "hook": "First 30 minutes on Seoul’s public bikes are free—cheaper than a cup of coffee.",
-    "body": "The Ddareungi bike‑share program lets anyone with a T‑money card or the mobile app unlock a bike at any station. The first half‑hour of each ride costs nothing, after which a small fee per additional 10 minutes is charged. This pricing encourages short trips and helps reduce traffic congestion. Bikes are available 24 hours a day, and the network covers most neighborhoods, parks, and major transit hubs.",
-    "twist": "If you return the bike within the free window, the system automatically credits you a small “green points” reward that can be used for subway discounts.",
+    "body": "The Ddareungi bike‑share lets anyone with a T‑money card or the mobile app unlock a bike at a station. First half‑hour costs nothing, then a small fee per extra 10 minutes is charged. This pricing encourages short trips and may help reduce traffic congestion in the city. Bikes are available 24 hours a day, and stations cover most neighborhoods, parks and transit hubs. If you return the bike within the free period, you earn green points for subway discounts.",
+    "twist": "Note that electric‑assist bikes follow a different fee structure and aren’t covered by the free half‑hour.",
     "caveat": "Free 30‑minute rides apply to standard bikes; electric assist bikes have a different fee structure and may not be free for the first half hour.",
     "confidence": "high",
     "verify_note": "Seoul Ddareungi bike share free 30 minutes, T‑money bike rental, public bike pricing",
     "country": "Free 30‑Minute Bike",
     "created_at": "2026-11-02T08:36:17.509645+00:00",
-    "status": "verified"
+    "status": "scripted",
+    "narration": "First 30 minutes on Seoul’s public bikes are free—cheaper than a cup of coffee. The Ddareungi bike‑share lets anyone with a T‑money card or the mobile app unlock a bike at a station. First half‑hour costs nothing, then a small fee per extra 10 minutes is charged. This pricing encourages short trips and may help reduce traffic congestion in the city. Bikes are available 24 hours a day, and stations cover most neighborhoods, parks and transit hubs. If you return the bike within the free period, you earn green points for subway discounts. Note that electric‑assist bikes follow a different fee structure and aren’t covered by the free half‑hour.",
+    "cross_checked": true,
+    "cross_sources": 4,
+    "cross_model": "openai/gpt-oss-120b",
+    "cross_flags": [
+      {
+        "n": 4,
+        "text": "This pricing encourages short trips and may help reduce traffic congestion in the city."
+      }
+    ],
+    "narration_original": "First 30 minutes on Seoul’s public bikes are free—cheaper than a cup of coffee. The Ddareungi bike‑share lets anyone with a T‑money card or the mobile app unlock a bike at a station. First half‑hour costs nothing, then a small fee per extra 10 minutes is charged. This pricing encourages short trips and helps ease traffic congestion across city. Bikes are available 24 hours a day, and stations cover most neighborhoods, parks and transit hubs. If you return the bike within the free period, you earn green points for subway discounts. Note that electric‑assist bikes follow a different fee structure and aren’t covered by the free half‑hour.",
+    "highlights": [
+      {
+        "s": 1,
+        "text": "First 30 min *free*"
+      },
+      {
+        "s": 2,
+        "text": "Unlock with *T‑money*"
+      },
+      {
+        "s": 3,
+        "text": "Pay after *free*"
+      },
+      {
+        "s": 6,
+        "text": "Earn *green* points"
+      }
+    ],
+    "cross_verdict": "partial",
+    "cross_notes": [
+      "[수정됨] [unsupported] 4번 문장: Effect on traffic congestion is a claim without direct evidence in the provided text.",
+      "[수정 시도 후에도 근거 없음 남음] [unsupported] 4번 문장: Effect on traffic congestion is a hypothesis, not directly verifiable."
+    ],
+    "title_line1": "Seoul's bike share",
+    "title_line2": "First 30 min free!",
+    "image_queries": [
+      "Seoul bike free 30 minutes",
+      "Seoul bike unlock T-money",
+      "Seoul bike payment after free",
+      "Seoul traffic congestion bike",
+      "Seoul bike stations neighborhoods",
+      "Seoul bike earn green points",
+      "Seoul electric bike fee"
+    ],
+    "scene_count": 8
   },
   {
     "label": "Kimchi Refrigerator",
@@ -12491,7 +12610,7 @@
     "verify_note": "Seoul subway heated toilet seat fee 500 won, public restroom heated seats",
     "country": "Heated Public Toilets",
     "created_at": "2026-11-02T18:09:08.037703+00:00",
-    "status": "unverified"
+    "status": "verified"
   },
   {
     "label": "Rounded Won Prices",

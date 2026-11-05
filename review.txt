@@ -11,112 +11,36 @@
 #   제외한 소재는 폐기(rejected)로 바뀌어 render에서 건너뛰고, 나중에 'redo_script=번호!'로 되살릴 수 있습니다.
 # - '('로 시작하는 줄은 참고용이라 무시됩니다. '=== [번호] ===' 줄은 바꾸지 마세요.
 
-=== [139] Morning Milk Delivery ===
-(교차검증) unsupported
-(교차검증 메모 1) [수정됨] [unsupported] 1번 문장: No evidence of Seoul daily milk delivery service
-(교차검증 메모 2) [수정됨] [unsupported] 2번 문장: No evidence of local dairy co‑ops or private firms running such service
-(교차검증 메모 3) [수정됨] [unsupported] 3번 문장: No evidence of reusable glass bottle deposit system
-(교차검증 메모 4) [수정됨] [unsupported] 4번 문장: No evidence that milk is pasteurized same day in Seoul
-(교차검증 메모 5) [수정됨] [unsupported] 5번 문장: No evidence of delivery people greeting residents
-(교차검증 메모 6) [수정됨] [unsupported] 6번 문장: No evidence of electric scooters used for steep ramps
-(교차검증 메모 7) [수정됨] [unsupported] 7번 문장: No evidence of younger neighborhoods preferring convenience stores
-(교차검증 메모 8) [수정 시도 후에도 근거 없음 남음] [unsupported] 1번 문장: No evidence of Seoul milk delivery service described
-(교차검증 메모 9) [수정 시도 후에도 근거 없음 남음] [unsupported] 2번 문장: No evidence of specific service name or providers
-(교차검증 메모 10) [수정 시도 후에도 근거 없음 남음] [unsupported] 3번 문장: No evidence of reusable glass bottle deposit system
-(교차검증 메모 11) [수정 시도 후에도 근거 없음 남음] [unsupported] 4번 문장: No evidence of same-day pasteurization claim
-(교차검증 메모 12) [수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: No evidence of greeting practice
-(교차검증 메모 13) [수정 시도 후에도 근거 없음 남음] [unsupported] 6번 문장: No evidence of electric scooter usage on steep ramps
-(교차검증 메모 14) [수정 시도 후에도 근거 없음 남음] [unsupported] 7번 문장: No evidence of convenience store preference in younger neighborhoods
-(직접 확인할 문장 1번) In Seoul, some households often receive fresh milk delivered to their doorstep regularly, similar to a newspaper delivery.
-(직접 확인할 문장 2번) This service, called 우유 배달, is offered by various dairy co‑ops or private firms in some residential complexes.
-(직접 확인할 문장 3번) The milk often arrives in a reusable glass bottle; a small deposit is paid and the empty bottle is collected on the next delivery.
-(직접 확인할 문장 4번) Because the milk is pasteurized on the same day, many people appreciate its fresh taste.
-(직접 확인할 문장 5번) Delivery people sometimes greet residents with a quick hello as they climb the building’s ramps.
-(직접 확인할 문장 6번) But here’s the catch: some routes use tiny electric scooters that zip up the steep ramps of high‑rise apartments, a sight not commonly seen elsewhere.
-(직접 확인할 문장 7번) In younger neighborhoods, many people buy milk at convenience stores instead.
-(사실 확인용 검색어) Seoul milk delivery service, 우유 배달, glass bottle deposit, morning delivery, Korean dairy cooperatives
-(한글 제목) 한국: 아침 우유 배달 스쿠터가 램프를 오르다
-후크: In Seoul, you can get fresh milk delivered to your doorstep every morning, just like the newspaper.
-본문: Many residential complexes in Seoul and other big cities still have a daily milk‑delivery service, known as 우유 배달, run by local dairy co‑ops or private firms. The milk arrives in a reusable glass bottle; you pay a small deposit and the empty bottle is collected when the next delivery comes. Because the milk is pasteurized the same day, customers value its ultra‑fresh taste, and the delivery person often greets residents with a quick hello as they climb the building's ramps.
-반전: Some delivery routes use tiny electric scooters that can zip up the steep ramps of high‑rise apartments, a sight rarely seen elsewhere.
+=== [142] English Taxi Button ===
+(교차검증) partial
+(교차검증 메모 1) [수정됨] [unsupported] 3번 문장: While the display changes to Latin letters, evidence that voice prompts switch to English while the driver continues speaking Korean is lacking.
+(교차검증 메모 2) [수정됨] [unsupported] 4번 문장: No reliable source confirms the feature was added specifically after the 2018 Winter Olympics.
+(교차검증 메모 3) [수정됨] [unsupported] 5번 문장: There is no documented evidence of a translation button that repeats the passenger’s spoken address in Korean.
+(교차검증 메모 4) [수정됨] [unsupported] 6번 문장: The claim about prevalence in other cities versus lack in many taxis outside the capital is vague and not substantiated by sources.
+(교차검증 메모 5) [수정 시도 후에도 근거 없음 남음] [unsupported] 5번 문장: No clear evidence that newer models repeat the spoken address in Korean.
+(직접 확인할 문장 5번) Some newer models can repeat the spoken address in Korean, which may help reduce miscommunication.
+(사실 확인용 검색어) Seoul taxi English button navigation 2022
+(한글 제목) 한국: 서울 택시에 ENG 버튼, 운전자가 영어를 듣는다
+후크: Press a button in a Seoul taxi and the driver’s GPS instantly switches to English.
+본문: Most taxis in Seoul are equipped with a small button labeled ‘ENG’ near the driver’s console. When a foreign passenger presses it, the navigation screen changes to English and the voice prompts read the destination in English, while the driver still speaks Korean. The feature was added after the 2018 Winter Olympics to make city travel smoother for tourists.
+반전: A few newer models also include a translation button that repeats the passenger’s spoken address in Korean, helping avoid miscommunication.
 제외:
-제목1: Morning milk drop
-제목2: Scooters climb ramps
-핵심[1]: Daily milk, *newspaper* style
-핵심[3]: Glass *bottle*
-핵심[4]: Ultra‑fresh *taste*
-핵심[6]: Scooters *zip* steep
-이미지[1]: Seoul morning milk delivery
-이미지[2]: Dairy coop delivery service
-이미지[3]: Glass bottle milk delivery
-이미지[4]: Ultra fresh milk taste
-이미지[5]: Delivery person greeting residents
-이미지[6]: Scooters zip steep ramps
-이미지[7]: Convenience store milk purchase
-대본[1]: In Seoul, some households often receive fresh milk delivered to their doorstep regularly, similar to a newspaper delivery.
-대본[2]: This service, called 우유 배달, is offered by various dairy co‑ops or private firms in some residential complexes.
-대본[3]: The milk often arrives in a reusable glass bottle; a small deposit is paid and the empty bottle is collected on the next delivery.
-대본[4]: Because the milk is pasteurized on the same day, many people appreciate its fresh taste.
-대본[5]: Delivery people sometimes greet residents with a quick hello as they climb the building’s ramps.
-대본[6]: But here’s the catch: some routes use tiny electric scooters that zip up the steep ramps of high‑rise apartments, a sight not commonly seen elsewhere.
-대본[7]: In younger neighborhoods, many people buy milk at convenience stores instead.
-(한글 대본) 서울에서는 일부 가정이 신문 배달처럼 정기적으로 신선한 우유를 문앞까지 받아보는 경우가 있습니다. 이 서비스는 우유 배달이라고 불리며, 여러 낙농 조합이나 사기업이 일부 아파트 단지에서 제공합니다. 우유는 보통 재사용 가능한 유리병에 들어오며, 소액의 보증금을 내고 다음 배달 때 빈 병을 회수합니다. 당일 살균된 우유라 많은 사람들이 그 신선한 맛을 좋아합니다. 배달원은 건물의 램프를 오르면서 주민에게 짧게 인사하기도 합니다. 그런데 여기서 포인트는 일부 경로에서는 가파른 고층 아파트 램프를 빠르게 오르는 작은 전동 스쿠터를 사용한다는 점인데, 이는 다른 곳에서는 흔히 볼 수 없는 광경입니다. 젊은 층이 많이 사는 동네에서는 많은 사람들이 편의점에서 우유를 구입하기도 합니다.
-
-=== [140] ‘Did You Eat?’ Greeting ===
-(교차검증) ok
-(사실 확인용 검색어) Korean greeting 밥 먹었어요 meaning, Korean language cultural phrase, Korean idiom eat rice greeting
-(한글 제목) 한국: 밥 먹었어? 안녕, 그냥 인사
-후크: When a Korean asks ‘Did you eat?’ they’re actually just saying hello, not checking your stomach.
-본문: In Korean culture, asking ‘밥 먹었어요?’ (Did you eat rice?) is a friendly way to ask how someone is doing, reflecting the importance of sharing meals. It’s used especially among acquaintances and coworkers as a casual greeting, similar to “How’s it going?” The question isn’t meant to be answered literally; a simple “네, 잘 지냈어요” (Yes, I’ve been well) suffices. This habit stems from a societal view that caring about a person’s nourishment shows concern.
-반전: Younger Koreans often shorten the phrase to just “밥?” in text messages, using the single word as a quick check‑in.
-제외:
-제목1: Did You Eat? Hi
-제목2: Just a greeting
-핵심[1]: *Hello* not hunger
-핵심[2]: *Rice* check
-핵심[3]: *Going*?
-핵심[4]: *Text* check
-핵심[5]: *Formal* greet
-이미지[1]: Korean greeting handshake
-이미지[2]: Rice bowl meal
-이미지[3]: Friends chatting
-이미지[4]: Mobile text message
-이미지[5]: Office business greeting
-대본[1]: When a Korean says “Did you eat?” they’re actually just saying hello, not checking your stomach.
-대본[2]: The phrase “밥 먹었어요?” literally means “Did you eat rice?” and is a friendly way to ask how someone is doing, reflecting how meals bring people together.
-대본[3]: It’s used among friends, coworkers, and acquaintances, similar to “How’s it going?” A simple “네, 잘 지냈어요” – “Yes, I’ve been well” – is enough.
-대본[4]: But here’s the catch: younger Koreans often shorten it to just “밥?” in texts, a quick check‑in.
-대본[5]: In formal work settings, they switch to a standard “안녕하세요.” The habit shows how caring about nourishment is a cultural sign of concern.
-(한글 대본) 한국인이 “밥 먹었어요?”라고 말하면 실제로는 안부 인사일 뿐, 배가 고픈지 확인하려는 것이 아닙니다. “밥 먹었어요?”라는 문구는 문자 그대로는 “밥을 먹었나요?”라는 뜻이지만, 사람의 안부를 묻는 친근한 표현으로, 식사가 사람들을 하나로 모은다는 의미를 담고 있습니다. 친구, 동료, 지인 사이에서 “How’s it going?”에 해당하는 인사로 쓰이며, 간단히 “네, 잘 지냈어요”라고 대답하면 충분합니다. 하지만 여기서 주의할 점은, 젊은 한국인들은 텍스트에서는 이를 “밥?”이라고 줄여서 빠르게 안부를 확인한다는 것입니다. 공식적인 업무 환경에서는 표준 인사인 “안녕하세요.”로 전환합니다. 이 습관은 영양을 챙기는 것이 문화적으로 관심의 표시임을 보여줍니다.
-
-=== [141] QR Street Food Pay ===
-(교차검증) fixed
-(교차검증 메모 1) [수정됨] [unsupported] 1번 문장: Exact scan time of under five seconds cannot be verified
-(교차검증 메모 2) [수정됨] [unsupported] 5번 문장: Tip‑through‑QR is possible but the specific dancing‑kimchi animation is not generally documented
-(교차검증 메모 3) [수정됨] [unsupported] 6번 문장: Claim about improving ordering smoothness is an unverified effect, not a verifiable fact
-(사실 확인용 검색어) Korean street food QR code payment 2023 Seoul Busan
-(한글 제목) 한국: QR코드 거리 음식 스캔, 떡볶이 먹기
-후크: You can buy a steaming bowl of tteokbokki by scanning a QR code in under five seconds.
-본문: Across Seoul, Busan and many other cities, tiny QR stickers have appeared on the tables of street‑food vendors. Customers simply open a payment app, scan, and the amount is deducted from their bank account, eliminating the need for cash. The move is part of a nationwide push for cashless transactions and makes ordering fast for both locals and tourists.
-반전: Some stalls even let you tip through the same QR code, and the tip amount appears as a cute dancing‑kimchi animation on the screen.
-제외:
-제목1: QR code street food
-제목2: Scan, eat tteokbokki
-핵심[1]: *tteokbokki* in 5 sec
-핵심[2]: QR stickers on *tables*
-핵심[3]: *Cashless* in seconds
-핵심[5]: Tip QR, *kimchi* dance
-핵심[6]: Smooth for *tourists*
-이미지[1]: tteokbokki with QR code
-이미지[2]: QR code stickers on street food table
-이미지[3]: mobile phone scanning QR payment
-이미지[4]: rural Korean street food stall cash
-이미지[5]: phone showing kimchi animation QR tip
-이미지[6]: tourists ordering tteokbokki cashless
-대본[1]: You can buy a steaming bowl of tteokbokki by scanning a QR code, which usually takes only a few seconds.
-대본[2]: Across Seoul, Busan and other cities, QR stickers sit on street‑food tables.
-대본[3]: You open a payment app, scan, and the amount is deducted from your bank account—no cash needed.
-대본[4]: But many rural stalls still operate cash‑only, so the QR option isn’t universal.
-대본[5]: Some vendors may let you add a tip through the QR code, and a small animation can appear on the screen.
-대본[6]: The cashless payment often makes ordering smoother for locals and tourists while you enjoy the classic spicy rice‑cake.
-(한글 대본) QR코드를 스캔하면 보통 몇 초 만에 뜨거운 떡볶이 한 그릇을 살 수 있습니다. 서울·부산 등 여러 도시에서 QR 스티커가 거리 음식 테이블에 붙어 있습니다. 결제 앱을 열고 스캔하면 금액이 은행계좌에서 차감돼 현금이 필요 없습니다. 하지만 아직도 많은 농촌 가게는 현금 전용이라 QR 옵션이 보편적이지는 않습니다. 일부 가게는 QR코드로 팁을 추가할 수 있게 해두었으며, 화면에 작은 애니메이션이 나타날 수 있습니다. 현금 없는 결제는 현지인과 관광객 모두에게 주문을 더 원활하게 해 주며, 클래식한 매운 떡볶이를 즐길 수 있게 합니다.
+제목1: Seoul taxis have ENG
+제목2: Driver hears English
+핵심[1]: Press *ENG* button
+핵심[2]: Small *ENG* on console
+핵심[3]: Navigation in *Latin*
+핵심[5]: *Repeats* address
+이미지[1]: press ENG button taxi
+이미지[2]: small ENG button console
+이미지[3]: navigation screen Latin letters
+이미지[4]: Seoul taxi after Olympics
+이미지[5]: translation button repeats address
+이미지[6]: Seoul taxi navigation button
+대본[1]: Press a button in a Seoul taxi and the driver’s GPS instantly switches to English.
+대본[2]: Most Seoul cabs have a small “ENG” button on the driver’s console.
+대본[3]: When a foreign passenger taps it, the navigation screen switches to Latin letters, but the voice prompts stay in Korean.
+대본[4]: The button was added in recent years and is intended to help tourists navigate the city more easily.
+대본[5]: Some newer models can repeat the spoken address in Korean, which may help reduce miscommunication.
+대본[6]: The button is common in Seoul taxis, though many taxis in other Korean cities do not have it.
+(한글 대본) 서울 택시에서 버튼을 누르면 운전자의 GPS가 즉시 영어로 전환됩니다. 대부분의 서울 택시에는 운전석 콘솔에 작은 “ENG” 버튼이 있습니다. 외국인 승객이 이를 탭하면 내비게이션 화면이 라틴 문자(영어)로 바뀌지만, 음성 안내는 한국어로 유지됩니다. 이 버튼은 최근 몇 년간 추가되었으며 관광객이 도시를 더 쉽게 탐색하도록 돕기 위한 것입니다. 일부 최신 모델은 말한 주소를 한국어로 반복해 주어 의사소통 오류를 줄이는 데 도움이 될 수 있습니다. 이 버튼은 서울 택시에서 흔히 볼 수 있지만, 다른 한국 도시의 많은 택시에는 없을 수도 있습니다.
