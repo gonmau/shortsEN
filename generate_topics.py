@@ -199,18 +199,19 @@ def generate_facts(
 
         # 실제 반환 개수만큼 진행
         batch = batch[:batch_count]
-        seen = {(str(f.get("label", "")).strip().lower(), str(f.get("topic", "")).strip().lower()) for f in db}
+        import find_dup_topics as _FD
+        pool_ = list(db)          # 폐기 포함 기존 소재 + 이번 배치에서 이미 통과한 소재
         uniq = []
         for f in batch:
-            k = (str(f.get("label", "")).strip().lower(), str(f.get("topic", "")).strip().lower())
-            if k in seen:
-                print(f"  중복 제외: {f.get('label')} / {f.get('topic')}")
+            _why = _FD.dup_reason(f, pool_)      # 중복 소재 찾기 도구와 같은 기준
+            if _why:
+                print(f"  중복 제외: {f.get('label')} / {f.get('topic')}  ({_why})")
                 continue
             _w = is_sensitive(f)
             if _w:
                 print(f"  성/민감 소재라 제외({_w}): {f.get('label')} / {str(f.get('topic'))[:40]}")
                 continue
-            seen.add(k)
+            pool_.append(f)
             uniq.append(f)
         batch = uniq
         if not batch:
