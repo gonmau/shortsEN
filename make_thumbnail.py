@@ -91,7 +91,7 @@ def main():
     ap.add_argument("--avatar", default="avatar.png")
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--start", type=int, default=0, help="이 번호 이상 소재의 썸네일만 만듦")
-    ap.add_argument("--style", choices=["pop", "classic"], default=os.environ.get("THUMB_STYLE", "pop"),
+    ap.add_argument("--style", choices=["hook", "pop", "classic"], default=os.environ.get("THUMB_STYLE", "hook"),
                     help="pop: 국기+노란 붓터치 나라 이름 / classic: 예전 노란 띠")
     ap.add_argument("--only", default="", help="이 번호들(쉼표)의 썸네일만 만듦. 예: 183,184")
     args = ap.parse_args()
@@ -110,6 +110,9 @@ def main():
             continue
         if args.style == "classic":
             im = make(idx, item, args.channel, args.handle, args.avatar)
+        elif args.style == "hook":
+            import thumb_hook
+            im = thumb_hook.make(idx, item, args.channel, args.handle, args.avatar, background)
         else:
             import thumb_pop
             im = thumb_pop.make(idx, item, args.channel, args.handle, args.avatar, background)
