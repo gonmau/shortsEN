@@ -11918,7 +11918,7 @@
     "verify_note": "jjimjilbang overnight price coffee cost, Korean sauna night stay price, public sauna sleeping cost",
     "country": "Budget Overnight Sauna",
     "created_at": "2026-11-02T08:35:31.118069+00:00",
-    "status": "scripted",
+    "status": "rejected",
     "narration": "You can spend a night in a Korean sauna for a price comparable to a simple coffee. Public jjimjilbangs are 24‑hour complexes where you rent a simple locker key and sleep in gender‑separated rooms. For about 8,000 KRW—around the cost of a basic coffee—you get access to hot baths, a sauna, a TV lounge and a small gym, while snacks are usually sold separately. Some travelers and night‑time visitors often choose this budget option in Seoul and other cities. Some jjimjilbangs also have a 24‑hour PC bang, an internet gaming room, near the sleeping area. That means a cheap night of steam could also give you the chance to game late into the night.",
     "cross_checked": true,
     "cross_sources": 0,
@@ -11961,7 +11961,8 @@
       "hidden PC bang room",
       "nighttime gaming marathon"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Peanut‑Throwing Moon",
@@ -12030,7 +12031,7 @@
     "verify_note": "Korean supermarket bulk refill rice BYO container discount, refill stations Korea, bring your own container grocery Korea",
     "country": "Bring‑Your‑Own Grain",
     "created_at": "2026-11-02T08:35:31.118069+00:00",
-    "status": "scripted",
+    "status": "rejected",
     "narration": "You may save money on rice by filling your own jar at some Korean supermarkets. Some big‑chain stores in Seoul sometimes offer bulk refill stations for rice, beans, and lentils. Bring a clean container, scan a QR code, and the machine may weigh your fill; you pay per kilogram. The price is sometimes a few hundred won less than the pre‑packaged version, so you get a discount. But some stores may give a discount if your container is reusable metal instead of plastic. The bulk refill option is mainly in large chains; smaller local markets may not offer it. So when you shop in Seoul, try filling your jar—your wallet and the planet might thank you.",
     "cross_checked": true,
     "cross_sources": 2,
@@ -12108,7 +12109,8 @@
       "Small market no bulk refill",
       "Jar refill Seoul shopping"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Wi‑Fi Public Toilets",
@@ -12122,7 +12124,7 @@
     "verify_note": "Seoul smart restroom Wi‑Fi charging, public toilet free Wi‑Fi Seoul",
     "country": "Wi‑Fi Public Toilets",
     "created_at": "2026-11-02T08:35:50.120756+00:00",
-    "status": "scripted",
+    "status": "rejected",
     "narration": "Did you know you can stream a video while using a public toilet in Seoul? In some subway stations and tourist spots, the city has installed restrooms that provide free Wi‑Fi and USB charging ports on the wall. Some signs include a QR code for Wi‑Fi access, and a power outlet may be located near the sink for phone charging. The facilities are intended to let commuters and visitors use a short break for quick online tasks or entertainment. Some locations may play soft background music, which could help mask sounds and increase comfort. Wi‑Fi and chargers are typically found in major stations and attractions, and are not present in every neighborhood restroom.",
     "cross_checked": true,
     "cross_sources": 0,
@@ -12176,7 +12178,8 @@
       "Restroom with soft music speaker",
       "Subway station restroom Wi-Fi"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Cashless Convenience",
@@ -12190,7 +12193,7 @@
     "verify_note": "Seoul convenience store cashless only CU GS25 2022",
     "country": "Cashless Convenience",
     "created_at": "2026-11-02T08:35:50.120756+00:00",
-    "status": "scripted",
+    "status": "rejected",
     "narration": "You might be asked to use a card when you try to pay cash at some 24‑hour convenience stores in Seoul. Since around 2022, a few CU and GS25 locations in busy districts like Gangnam or Myeong‑dong have switched to card‑only checkout and posted signs at the entrance. The stores often accept a credit or debit card, or a mobile app like KakaoPay, which can speed up the line and help reduce theft. Some stores sometimes offer a small discount when you use popular payment apps. A few locations may provide a modest rebate, like a few won, when you pay via the store’s loyalty app. Cash still works at many suburban or smaller branches, so the shift to card‑only is not city‑wide. Next time you grab a midnight snack, have your card ready – otherwise you might just be left standing.",
     "cross_checked": true,
     "cross_sources": 1,
@@ -12241,7 +12244,8 @@
       "Seoul suburban convenience store",
       "Midnight snack convenience store"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Fruit Vending with T‑money",
@@ -12255,7 +12259,7 @@
     "verify_note": "Seoul fruit vending machine T‑money card, fruit vending Seoul transit card",
     "country": "Fruit Vending with T‑money",
     "created_at": "2026-11-02T08:35:50.120756+00:00",
-    "status": "scripted",
+    "status": "rejected",
     "narration": "Your subway T‑money card can buy you a fresh apple on the street for less than a coffee. Around major plazas and subway exits in Seoul, vending machines dispense apples, bananas and tangerines. The machines read the same RFID chip in your T‑money transit card, so a tap gives you a piece of fruit for a few hundred won. Some reports suggest the machines were introduced as a way to offer healthier snack options to commuters and tourists. Sales information is sometimes collected and can help guide fruit choices, especially when seasonal varieties are available. The twist? The machines can track which fruit sells best, and operators may use that information to restock popular items regularly. They are often found in Seoul’s central districts and are less common in smaller cities. This clever blend of transit and snack makes a quick, fresh bite as easy as a subway ride.",
     "cross_checked": true,
     "cross_sources": 0,
@@ -12296,7 +12300,8 @@
       "Seoul central district vending",
       "Transit snack vending"
     ],
-    "scene_count": 10
+    "scene_count": 10,
+    "reject_reason": "중복 소재"
   },
   {
     "label": "No‑Tip Dining",
@@ -12310,7 +12315,7 @@
     "verify_note": "Korean tipping culture, service charge included, no tip in restaurants South Korea",
     "country": "No‑Tip Dining",
     "created_at": "2026-11-02T08:36:17.509645+00:00",
-    "status": "scripted",
+    "status": "rejected",
     "narration": "Zero tip: you’ll never find a tip jar on a Korean restaurant table. In South Korea most restaurant menus do not add a service charge; servers are paid regular wages. Because tipping isn’t part of the culture, staff often politely refuse extra cash, seeing it as implying they’re underpaid. Visitors who ask to leave a tip are usually thanked but declined. This keeps dining straightforward for locals and tourists alike. But here’s the catch: upscale hotel restaurants may still accept tips, which are pooled and shared among all staff. A few high‑end international venues on the mainland might also allow tips for foreign guests.",
     "cross_checked": true,
     "cross_sources": 2,
@@ -12350,7 +12355,8 @@
       "Hotel restaurant tip pool",
       "Luxury Seoul restaurant tip"
     ],
-    "scene_count": 8
+    "scene_count": 8,
+    "reject_reason": "중복 소재"
   },
   {
     "label": "KTX Seat Swap",
@@ -12364,7 +12370,7 @@
     "verify_note": "KTX seat change app Korail, real‑time seat map, seat swap feature",
     "country": "KTX Seat Swap",
     "created_at": "2026-11-02T08:36:17.509645+00:00",
-    "status": "scripted",
+    "status": "rejected",
     "narration": "You can change your reserved KTX seat using the app before boarding. The Korail app lets you view your reservation details, including which seats are currently available. If a different seat becomes available, you can select it, and your original seat remains unassigned until you confirm the change. The new seat number appears on your e‑ticket, eliminating the need to arrive early for a good spot. The app shows a seat map, so you can choose a seat that may have a power outlet when you swap. The feature works on KTX trains and is available to anyone with a Korail account, not limited to members with a linked credit card.",
     "cross_checked": true,
     "cross_sources": 0,
@@ -12417,7 +12423,8 @@
       "power outlet seat swap",
       "KTX train interior seats"
     ],
-    "scene_count": 8
+    "scene_count": 8,
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Fast Lunch Countdown",
@@ -12431,7 +12438,7 @@
     "verify_note": "Korean elementary school lunch self‑service 15 minutes timer, school cafeteria schedule",
     "country": "Fast Lunch Countdown",
     "created_at": "2026-11-02T08:36:17.509645+00:00",
-    "status": "scripted",
+    "status": "rejected",
     "narration": "Kids usually have about 30 minutes to finish their school lunch before the next class starts. In many Korean elementary schools, the cafeteria works like a self‑service buffet: students line up, pick rice and banchan—small side dishes—and sit down. A bell signals the end of lunch, and students return trays so the kitchen can prepare for the next class. The government subsidizes these meals, making them nutritious and cheap. Some schools may use a reward system, such as giving stickers, for students who finish their lunch quickly. In some public schools, lunch periods are relatively short, whereas certain private schools may allow a longer break.",
     "cross_checked": true,
     "cross_sources": 1,
@@ -12475,7 +12482,8 @@
       "points for bite",
       "Seoul public school lunch"
     ],
-    "scene_count": 8
+    "scene_count": 8,
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Free 30‑Minute Bike",
@@ -12489,7 +12497,7 @@
     "verify_note": "Seoul Ddareungi bike share free 30 minutes, T‑money bike rental, public bike pricing",
     "country": "Free 30‑Minute Bike",
     "created_at": "2026-11-02T08:36:17.509645+00:00",
-    "status": "scripted",
+    "status": "rejected",
     "narration": "First 30 minutes on Seoul’s public bikes are free—cheaper than a cup of coffee. The Ddareungi bike‑share lets anyone with a T‑money card or the mobile app unlock a bike at a station. First half‑hour costs nothing, then a small fee per extra 10 minutes is charged. This pricing encourages short trips and may help reduce traffic congestion in the city. Bikes are available 24 hours a day, and stations cover most neighborhoods, parks and transit hubs. If you return the bike within the free period, you earn green points for subway discounts. Note that electric‑assist bikes follow a different fee structure and aren’t covered by the free half‑hour.",
     "cross_checked": true,
     "cross_sources": 4,
@@ -12535,7 +12543,8 @@
       "Seoul bike earn green points",
       "Seoul electric bike fee"
     ],
-    "scene_count": 8
+    "scene_count": 8,
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Kimchi Refrigerator",
@@ -12549,7 +12558,7 @@
     "verify_note": "kimchi refrigerator market Korea, Samsung kimchi fridge, LG kimchi refrigerator specifications, Korean home appliance trends",
     "country": "Kimchi Refrigerator",
     "created_at": "2026-11-02T08:38:44.251786+00:00",
-    "status": "scripted",
+    "status": "rejected",
     "narration": "Did you know many Korean kitchens have a fridge that only stores kimchi? When a family opens their kitchen fridge, they pull out an airtight drawer that looks like a small freezer— that's the kimchi refrigerator. It holds the temperature around 0°C and humidity near 80%, letting the cabbage stay crisp while the flavors develop slowly. Because kimchi is a side dish, this unit keeps a fresh supply for weeks and prevents the odor from spreading. But here's the catch: models add UV‑light sterilizers and programmable fermentation cycles that can start a new batch automatically. Still, older or smaller homes often rely on a regular fridge.",
     "cross_checked": true,
     "cross_sources": 0,
@@ -12585,7 +12594,8 @@
       "UV sterilizer inside fridge",
       "Traditional Korean kitchen fridge"
     ],
-    "scene_count": 8
+    "scene_count": 8,
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Subway Smoking Fine",
@@ -12599,7 +12609,8 @@
     "verify_note": "Seoul subway smoking fine 100,000 won, Seoul Metro smoking policy",
     "country": "Subway Smoking Fine",
     "created_at": "2026-11-02T08:40:23.393907+00:00",
-    "status": "verified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "KTX Quiet Car",
@@ -12613,7 +12624,8 @@
     "verify_note": "KTX quiet car, KTX silent car policy, Korean high-speed rail quiet zone",
     "country": "KTX Quiet Car",
     "created_at": "2026-11-02T08:40:23.393907+00:00",
-    "status": "verified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "KakaoTalk Auto‑Translate",
@@ -12627,7 +12639,8 @@
     "verify_note": "KakaoTalk translation feature 2022, KakaoTalk auto translate",
     "country": "KakaoTalk Auto‑Translate",
     "created_at": "2026-11-02T08:40:23.393907+00:00",
-    "status": "verified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Robot Pizza Delivery",
@@ -12641,7 +12654,8 @@
     "verify_note": "Seoul delivery robot pilot 2023 regulation 5 km/h autonomous delivery robot pizza",
     "country": "Robot Pizza Delivery",
     "created_at": "2026-11-02T08:45:48.666689+00:00",
-    "status": "verified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Women‑Only Subway Cars",
@@ -12655,7 +12669,8 @@
     "verify_note": "Seoul women only subway car policy fine 10,000 won",
     "country": "Women‑Only Subway Cars",
     "created_at": "2026-11-02T18:08:59.941297+00:00",
-    "status": "verified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "T‑Money Locker Access",
@@ -12669,7 +12684,8 @@
     "verify_note": "Seoul subway T‑money locker tap access",
     "country": "T‑Money Locker Access",
     "created_at": "2026-11-02T18:08:59.941297+00:00",
-    "status": "verified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Fingerprint Class Check‑In",
@@ -12683,7 +12699,8 @@
     "verify_note": "Korean middle school fingerprint attendance system",
     "country": "Fingerprint Class Check‑In",
     "created_at": "2026-11-02T18:08:59.941297+00:00",
-    "status": "verified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Bring‑Your‑Own‑Cup Discount",
@@ -12697,7 +12714,8 @@
     "verify_note": "Korean café bring your own cup discount 10 percent",
     "country": "Bring‑Your‑Own‑Cup Discount",
     "created_at": "2026-11-02T18:08:59.941297+00:00",
-    "status": "verified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Heated Public Toilets",
@@ -12711,7 +12729,8 @@
     "verify_note": "Seoul subway heated toilet seat fee 500 won, public restroom heated seats",
     "country": "Heated Public Toilets",
     "created_at": "2026-11-02T18:09:08.037703+00:00",
-    "status": "verified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Rounded Won Prices",
@@ -12725,7 +12744,8 @@
     "verify_note": "Korean price rounding 10 won, VAT rounding cash receipt Korea",
     "country": "Rounded Won Prices",
     "created_at": "2026-11-02T18:09:08.037703+00:00",
-    "status": "verified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Instant Subway Card",
@@ -12739,7 +12759,8 @@
     "verify_note": "Seoul T‑money vending machine instant card, subway station vending machine disposable T‑money",
     "country": "Instant Subway Card",
     "created_at": "2026-11-02T18:10:26.255715+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Bathroom Bluetooth Mirrors",
@@ -12753,7 +12774,8 @@
     "verify_note": "Korean public restroom Bluetooth mirror, Seoul mall restroom speaker mirror",
     "country": "Bathroom Bluetooth Mirrors",
     "created_at": "2026-11-02T18:10:26.255715+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "T‑money Street Food Pay",
@@ -12767,7 +12789,8 @@
     "verify_note": "Korean street food T‑money payment, Seoul food stall contactless card",
     "country": "T‑money Street Food Pay",
     "created_at": "2026-11-02T18:10:26.255715+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Full‑Moon Peanut Toss",
@@ -12781,7 +12804,8 @@
     "verify_note": "Jeongwol Daeboreum peanut toss tradition, Korean full moon festival peanuts",
     "country": "Full‑Moon Peanut Toss",
     "created_at": "2026-11-02T18:10:26.255715+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Mobile Number Carrier Code",
@@ -12795,7 +12819,8 @@
     "verify_note": "Korean mobile number prefixes carrier, number portability 2010",
     "country": "Mobile Number Carrier Code",
     "created_at": "2026-11-02T18:11:20.943819+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Subway Air‑Purifying Lights",
@@ -12809,7 +12834,8 @@
     "verify_note": "Seoul Metro UV-C air purification stations 2018",
     "country": "Subway Air‑Purifying Lights",
     "created_at": "2026-11-02T18:11:20.943819+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Full‑Moon Five‑Grain Rice",
@@ -12823,7 +12849,8 @@
     "verify_note": "Jeongwol Daeboreum five grain rice tradition 오곡밥",
     "country": "Full‑Moon Five‑Grain Rice",
     "created_at": "2026-11-02T18:11:20.943819+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Gift Refusal Etiquette",
@@ -12837,7 +12864,8 @@
     "verify_note": "Korean gift refusal etiquette refusing once before accepting",
     "country": "Gift Refusal Etiquette",
     "created_at": "2026-11-02T18:11:20.943819+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Charging Bus Stops",
@@ -12851,7 +12879,8 @@
     "verify_note": "Seoul bus stop Wi‑Fi charging, Seoul Metropolitan Government bus shelter amenities",
     "country": "Charging Bus Stops",
     "created_at": "2026-11-02T18:13:31.731273+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Seoul Subway Transfer Discount",
@@ -12865,7 +12894,8 @@
     "verify_note": "Seoul metro transfer discount T‑money 125 won 30 minutes",
     "country": "Seoul Subway Transfer Discount",
     "created_at": "2026-11-02T18:14:01.601482+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Points for Recycling",
@@ -12879,7 +12909,8 @@
     "verify_note": "Seoul smart recycling bins eco points coffee reward Jongno Gangnam municipal app",
     "country": "Points for Recycling",
     "created_at": "2026-11-03T08:46:32.838955+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Jeju Free‑Diving Women",
@@ -12893,7 +12924,8 @@
     "verify_note": "Haenyeo Jeju women divers breath hold 30 minutes UNESCO Intangible Cultural Heritage",
     "country": "Jeju Free‑Diving Women",
     "created_at": "2026-11-03T08:46:32.838955+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Tap for Subway Wi‑Fi",
@@ -12907,7 +12939,8 @@
     "verify_note": "Seoul subway T‑money Wi‑Fi automatic activation 2022",
     "country": "Tap for Subway Wi‑Fi",
     "created_at": "2026-11-03T08:46:32.838955+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Office Fruit Boxes",
@@ -12921,7 +12954,8 @@
     "verify_note": "Korean companies free fruit box employee wellness corporate fruit snack program",
     "country": "Office Fruit Boxes",
     "created_at": "2026-11-03T08:46:32.838955+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Subway Wi‑Fi Auto‑Login",
@@ -12935,7 +12969,8 @@
     "verify_note": "Seoul subway Wi‑Fi T‑money auto login, free subway Wi‑Fi Korea",
     "country": "Subway Wi‑Fi Auto‑Login",
     "created_at": "2026-11-03T08:47:32.882916+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Calorie‑Counted Lunchboxes",
@@ -12949,7 +12984,8 @@
     "verify_note": "Korean convenience store lunchbox calorie label, dosirak nutrition information",
     "country": "Calorie‑Counted Lunchboxes",
     "created_at": "2026-11-03T08:47:32.882916+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Text‑Message Chuckles",
@@ -12963,7 +12999,8 @@
     "verify_note": "Korean chat laugh ㅋ meaning, Korean online slang chuckle",
     "country": "Text‑Message Chuckles",
     "created_at": "2026-11-03T08:47:32.882916+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Free Jeju Shuttle",
@@ -12977,7 +13014,8 @@
     "verify_note": "Jeju free shuttle bus schedule, Jeju Island public transport free bus",
     "country": "Free Jeju Shuttle",
     "created_at": "2026-11-03T08:47:32.882916+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Gram‑by‑Gram Shopping",
@@ -12991,7 +13029,8 @@
     "verify_note": "Korean supermarket self service weighing scale price per gram E-Mart Homeplus",
     "country": "Gram‑by‑Gram Shopping",
     "created_at": "2026-11-04T01:03:43.384066+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Black Day Noodles",
@@ -13005,7 +13044,8 @@
     "verify_note": "Korean Black Day April 14 jajangmyeon tradition origin marketing campaign",
     "country": "Black Day Noodles",
     "created_at": "2026-11-04T01:03:43.384066+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Smart Home Panels",
@@ -13019,7 +13059,8 @@
     "verify_note": "Korean apartment smart home wall panel IoT control Seoul 2021",
     "country": "Smart Home Panels",
     "created_at": "2026-11-04T01:03:43.384066+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Solar Charging Benches",
@@ -13033,7 +13074,8 @@
     "verify_note": "Seoul solar charging bench park free Wi-Fi QR code Hangang Namsan",
     "country": "Solar Charging Benches",
     "created_at": "2026-11-04T01:03:43.384066+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Seoul Subway Shock",
@@ -13047,7 +13089,8 @@
     "verify_note": "Seoul subway daily ridership 7 million Norway population 5.4 million statistics",
     "country": "Seoul Subway Shock",
     "created_at": "2026-11-04T01:04:16.541462+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Fingerprint ATM Cash",
@@ -13061,7 +13104,8 @@
     "verify_note": "Korean biometric ATM fingerprint withdrawal Shinhan Hana Woori",
     "country": "Fingerprint ATM Cash",
     "created_at": "2026-11-04T01:04:16.541462+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Subway Snack Fine",
@@ -13075,7 +13119,8 @@
     "verify_note": "Seoul Metro fine eating on subway 100,000 won rule",
     "country": "Subway Snack Fine",
     "created_at": "2026-11-04T01:04:30.251707+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Office Nap Rooms",
@@ -13089,7 +13134,8 @@
     "verify_note": "Korean office nap rooms power nap research 15% alertness",
     "country": "Office Nap Rooms",
     "created_at": "2026-11-04T01:04:30.251707+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Hangul Mouth Shapes",
@@ -13103,7 +13149,8 @@
     "verify_note": "Hangul consonant shapes tongue mouth Sejong design",
     "country": "Hangul Mouth Shapes",
     "created_at": "2026-11-04T01:04:30.251707+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Subway Parcel Lockers",
@@ -13117,7 +13164,8 @@
     "verify_note": "Seoul subway parcel lockers CJ Logistics, GS25 locker, QR code pickup",
     "country": "Subway Parcel Lockers",
     "created_at": "2026-11-04T01:05:27.961739+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Office Fruit Boxes",
@@ -13131,7 +13179,8 @@
     "verify_note": "Korean corporate welfare fruit box, employee health program, office fruit delivery",
     "country": "Office Fruit Boxes",
     "created_at": "2026-11-04T01:05:27.961739+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "No‑Tip, Service‑Charge Norm",
@@ -13145,7 +13194,8 @@
     "verify_note": "Korean tipping culture, service charge automatic, Korean restaurant etiquette",
     "country": "No‑Tip, Service‑Charge Norm",
     "created_at": "2026-11-04T01:05:27.961739+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Seollal Walnut Luck",
@@ -13159,7 +13209,8 @@
     "verify_note": "Seollal songpyeon walnut tradition, Korean New Year rice cake luck, walnut hidden in songpyeon",
     "country": "Seollal Walnut Luck",
     "created_at": "2026-11-04T01:05:27.961739+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Budget Bathhouse Night",
@@ -13173,7 +13224,8 @@
     "verify_note": "jjimjilbang overnight price 5,000 won, Korean public bath night stay cost",
     "country": "Budget Bathhouse Night",
     "created_at": "2026-11-04T01:06:15.133108+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "“Did you eat?” Greeting",
@@ -13187,7 +13239,8 @@
     "verify_note": "Korean phrase 밥 먹었어요 greeting meaning",
     "country": "“Did you eat?” Greeting",
     "created_at": "2026-11-04T01:06:15.133108+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Solar Bus‑Stop Chargers",
@@ -13201,6 +13254,7 @@
     "verify_note": "Seoul bus stop solar charger USB free",
     "country": "Solar Bus‑Stop Chargers",
     "created_at": "2026-11-04T01:06:15.133108+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   }
 ]
