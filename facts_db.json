@@ -13269,7 +13269,8 @@
     "verify_note": "Korea ramen vending machine 2,000 won, ramyeon vending machine Seoul subway",
     "country": "Ramen Vending Machines",
     "created_at": "2026-11-07T00:32:00.861038+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Phone‑Controlled Apartment Door",
@@ -13283,7 +13284,8 @@
     "verify_note": "Korean apartment smart intercom phone unlock, Seoul apartment door app",
     "country": "Phone‑Controlled Apartment Door",
     "created_at": "2026-11-07T00:32:00.861038+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Free Photo Kiosks",
@@ -13297,7 +13299,8 @@
     "verify_note": "Korean convenience store free photo printing, CU photo kiosk free print",
     "country": "Free Photo Kiosks",
     "created_at": "2026-11-07T00:32:00.861038+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "24‑Hour Coin Laundry",
@@ -13311,7 +13314,8 @@
     "verify_note": "Korean convenience store coin laundry CU GS25 24 hour laundry service",
     "country": "24‑Hour Coin Laundry",
     "created_at": "2026-11-07T00:32:09.540302+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Subway Day Locker",
@@ -13325,7 +13329,8 @@
     "verify_note": "Seoul subway station lockers price 1,000 won T‑money",
     "country": "Subway Day Locker",
     "created_at": "2026-11-07T00:32:09.540302+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Hidden Respect Suffix",
@@ -13339,7 +13344,8 @@
     "verify_note": "Korean honorific suffix -시- usage respect subject",
     "country": "Hidden Respect Suffix",
     "created_at": "2026-11-07T00:32:09.540302+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Remote Door Opening",
@@ -13353,7 +13359,8 @@
     "verify_note": "Korean apartment smart intercom app unlock door video call",
     "country": "Remote Door Opening",
     "created_at": "2026-11-07T00:32:09.540302+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Subway Smoking Fine",
@@ -13367,7 +13374,8 @@
     "verify_note": "Seoul subway smoking fine 100,000 won, Korea anti‑smoking subway penalty, Seoul Metro smoking enforcement",
     "country": "Subway Smoking Fine",
     "created_at": "2026-11-07T00:32:38.313930+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "QR Bike Locker",
@@ -13381,7 +13389,8 @@
     "verify_note": "Korea automated bike lockers QR code, Seoul bike locker price per hour, Ddareungi bike locker solar panel",
     "country": "QR Bike Locker",
     "created_at": "2026-11-07T00:32:38.313930+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "QR Code Self‑Checkout",
@@ -13395,7 +13404,8 @@
     "verify_note": "Emart QR Pay self checkout, Lotte Mart QR code shopping, Korean supermarket QR code checkout",
     "country": "QR Code Self‑Checkout",
     "created_at": "2026-11-07T00:33:05.961192+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   },
   {
     "label": "Building‑Number Addresses",
@@ -13423,6 +13433,7 @@
     "verify_note": "Seoul Metro quiet car fine 30,000 won rule sound level meter",
     "country": "Subway Quiet Car Fines",
     "created_at": "2026-11-07T00:33:49.069155+00:00",
-    "status": "unverified"
+    "status": "rejected",
+    "reject_reason": "중복 소재"
   }
 ]
