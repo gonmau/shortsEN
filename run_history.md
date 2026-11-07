@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-11-07 09:31:26 (KST) · 기록 265건 · 소재 199개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-11-07 09:33:54 (KST) · 기록 266건 · 소재 211개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -18,7 +18,7 @@
 | export_review | 6 | 0 | 0초 |
 | fetch_images | 11 | 0 | 6분 17초 |
 | generate_script | 18 | 0 | 4분 18초 |
-| generate_topics | 2 | 0 | 5분 20초 |
+| generate_topics | 3 | 0 | 7분 19초 |
 | generate_tts | 3 | 0 | 48초 |
 | make_thumbnail | 3 | 0 | 1초 |
 | promote_ready | 18 | 0 | 2초 |
@@ -36,6 +36,7 @@
 
 | 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
 |---|---|---|---|---|---|---|
+| 09:33 | PC | generate_topics | generate_topics.py --count 12 | ✅ | 1분 58초 |  |
 | 09:26 | PC | 코드업데이트 | gonmau/shortsEN: 1개 (local_ui.py) | ✅ |  |  |
 | 09:21 | PC | 코드업데이트 | gonmau/shortsEN: 1개 (common.py) | ✅ |  |  |
 | 09:18 | PC | 코드업데이트 | gonmau/shortsEN: 4개 (build_video.py, generate_script.py, local_ui.py, pipeline_settings.py) | ✅ |  |  |
