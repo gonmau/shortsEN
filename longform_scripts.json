@@ -172,5 +172,353 @@
   "audio": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\lf_0001_Instant_Coffee_Vending.mp3",
   "timing": "C:\\Users\\seokg\\Downloads\\latest-en\\audio\\lf_0001_Instant_Coffee_Vending_timing.json",
   "tts_hash": "e92a9c5b5fe3"
+ },
+ "3": {
+  "narration": "Ever wondered why a whole block of tiny eateries only opens at noon in Seoul? Most Korean companies give each employee a prepaid meal ticket for every workday. The ticket is linked to a QR code that workers scan at any partner restaurant within a short walk. These partner spots are usually within about five hundred meters of office towers. Because the voucher caps the cost, restaurants focus on quick, balanced dishes like bibimbap bowls or rice‑burritos. The system lets firms control lunch expenses while guaranteeing a steady flow of customers. As a result, a dense network of lunch‑only venues has grown, thriving on the office crowd. Some companies even contract gourmet food trucks that rotate daily, offering a new cuisine each week for the same ticket. For many foreigners, the surprise is that you cannot use cash at these places during lunch hours. The tickets are accepted only during the designated lunch window, usually from eleven to one o’clock. This creates a smooth rush, with lines forming and clearing in minutes, keeping the workday on schedule. Next, we’ll see how high‑school students in Korea rely on a uniform delivery and cleaning service.",
+  "keywords": [
+   {
+    "sentence": 1,
+    "text": "noon‑only eateries"
+   },
+   {
+    "sentence": 5,
+    "text": "balanced lunch tickets"
+   },
+   {
+    "sentence": 9,
+    "text": "cash‑free lunch"
+   }
+  ],
+  "compare": {
+   "title": "Korea vs United States",
+   "left": "Korea",
+   "right": "United States",
+   "rows": [
+    {
+     "label": "Meal vouchers",
+     "left": "common in firms",
+     "right": "rare"
+    },
+    {
+     "label": "Lunch‑only eateries",
+     "left": "dense network",
+     "right": "few"
+    },
+    {
+     "label": "Cost control",
+     "left": "company‑driven",
+     "right": "employee‑paid"
+    }
+   ]
+  },
+  "recap": "Company meal tickets shape a bustling lunch‑only food ecosystem in Kor",
+  "broll": [
+   "Seoul office lunch street",
+   "QR code scanning restaurant",
+   "food truck rotating cuisine"
+  ],
+  "verify": {
+   "status": "skipped",
+   "notes": [
+    "교차검증 꺼짐(CROSS_CHECK=0) - 직접 검증하거나 확인하세요"
+   ]
+  },
+  "sig": "6427a53719bf",
+  "model": "openai/gpt-oss-120b",
+  "created": "2026-11-08 16:51",
+  "bridge_to": "High‑school students subscribe to a uniform delivery and cleaning service",
+  "audio": "/home/runner/work/shortsEN/shortsEN/audio/lf_0003_Company_Meal_Tickets.mp3",
+  "timing": "/home/runner/work/shortsEN/shortsEN/audio/lf_0003_Company_Meal_Tickets_timing.json",
+  "tts_hash": "d71c39abfb8f"
+ },
+ "6": {
+  "narration": "Did you know many Korean teens never wash their school uniforms themselves? Every Monday, a subscription box arrives at the doorstep, filled with freshly laundered shirts, skirts and blazers. The service is linked to the school, so enrollment is as simple as scanning a QR code posted on the notice board. Parents sign up once and the company handles all cleaning, folding and delivery. As children grow, the provider adjusts the sizes, sending larger jackets or longer trousers without a new purchase. Minor damages like loose buttons or small tears are repaired as part of the monthly fee. Stubborn stains and shrinkage disappear, because professional machines treat each piece gently. Schools benefit too; they reduce the need for on‑site laundry rooms and ensure a uniform appearance across the campus. About a third of middle and high schools list a uniform rental firm as an official supplier, making the system widely accepted. The uniform kits even include a hidden pocket for a disposable face mask, reflecting Korea’s heightened hygiene habits after the pandemic. Families appreciate the predictable cost and the time saved from endless washing cycles. The service also supports eco‑friendly goals by reducing water use and detergent waste. For many students, the crisp, ironed look is a daily confidence boost, not a chore. This model contrasts sharply with how uniforms are handled in the United States, where most families wash at home. Yet the convenience feels familiar to anyone who has used a laundry subscription abroad. Next, we’ll see how you can drop off dirty clothes at a 24‑hour convenience store and pick up the cleaned items the very next day.",
+  "keywords": [
+   {
+    "sentence": 1,
+    "text": "Never wash uniforms"
+   },
+   {
+    "sentence": 5,
+    "text": "Size adjustment"
+   },
+   {
+    "sentence": 9,
+    "text": "Official supplier"
+   }
+  ],
+  "compare": {
+   "title": "Korea vs United States",
+   "left": "Korea",
+   "right": "United States",
+   "rows": [
+    {
+     "label": "Uniform cleaning",
+     "left": "Subscription service",
+     "right": "Home washing"
+    },
+    {
+     "label": "School involvement",
+     "left": "Official supplier links",
+     "right": "No formal partnership"
+    },
+    {
+     "label": "Mask pocket",
+     "left": "Standard feature",
+     "right": "Rare"
+    }
+   ]
+  },
+  "recap": "Korean teens get clean, sized‑adjusted uniforms delivered weekly via a",
+  "broll": [
+   "uniform delivery box",
+   "students scanning QR code",
+   "laundry facility interior"
+  ],
+  "verify": {
+   "status": "skipped",
+   "notes": [
+    "교차검증 꺼짐(CROSS_CHECK=0) - 직접 검증하거나 확인하세요"
+   ]
+  },
+  "sig": "f2c673e31ec5",
+  "model": "openai/gpt-oss-120b",
+  "created": "2026-11-08 16:53",
+  "bridge_to": "Drop off dirty clothes at a 24‑hour convenience store and pick up cleaned items the next day",
+  "audio": "/home/runner/work/shortsEN/shortsEN/audio/lf_0006_Uniform_Rental_Service.mp3",
+  "timing": "/home/runner/work/shortsEN/shortsEN/audio/lf_0006_Uniform_Rental_Service_timing.json",
+  "tts_hash": "0060c3e5923e"
+ },
+ "8": {
+  "narration": "Did you know you can drop off dirty clothes at a 24‑hour convenience store and pick up fresh laundry the next day? A visitor walks into a GS25, scans a QR code on a locker, and places a bag of clothes inside a sealed compartment. The locker prints a receipt that records the drop‑off time and the chosen service level. Inside the locker, the items are automatically routed to the store’s partner laundry service, which operates around the clock. Most Seoul apartments lack in‑unit washers, so residents rely on external services for quick turnaround. The laundry partner washes, dries, folds, and repacks the garments, then returns them to the same locker within about 24 hours. Some flagship stores even offer same‑hour service, delivering clean clothes from a vending‑machine style locker while you wait for a coffee. The system uses QR tracking, so you never lose your bag and can monitor progress via a mobile app. Prices are modest and the service is popular among office workers who need crisp shirts for daily meetings. It also helps tourists who travel light and prefer not to find a laundromat in a foreign city. The convenience of 24‑hour access means you can do laundry at any hour, even after a night shift. Imagine sipping a latte while a robot‑like locker prepares your clean outfit. Next, we’ll see why many Koreans rent tiny soundproof rooms to sing alone, a booming solo trend.",
+  "keywords": [
+   {
+    "sentence": 1,
+    "text": "24‑hour store laundry"
+   },
+   {
+    "sentence": 4,
+    "text": "partner laundry service"
+   },
+   {
+    "sentence": 8,
+    "text": "QR tracking"
+   }
+  ],
+  "compare": {
+   "title": "Korea vs United States",
+   "left": "Korea",
+   "right": "United States",
+   "rows": [
+    {
+     "label": "Typical laundry access",
+     "left": "24‑hour convenience stores",
+     "right": "laundromats, home washers"
+    },
+    {
+     "label": "Apartment washer availab",
+     "left": "rare in Seoul apartments",
+     "right": "common in many US units"
+    },
+    {
+     "label": "Speed of service",
+     "left": "same‑day or hour service",
+     "right": "usually next‑day only"
+    }
+   ]
+  },
+  "recap": "Drop off clothes at a 24‑hour store locker, get them cleaned and retur",
+  "broll": [
+   "convenience store interior",
+   "laundry locker QR scan",
+   "city coffee shop"
+  ],
+  "verify": {
+   "status": "skipped",
+   "notes": [
+    "교차검증 꺼짐(CROSS_CHECK=0) - 직접 검증하거나 확인하세요"
+   ]
+  },
+  "sig": "12c15dc07ac2",
+  "model": "openai/gpt-oss-120b",
+  "created": "2026-11-08 16:54",
+  "bridge_to": "Koreans rent tiny soundproof rooms to sing alone, a booming solo trend",
+  "audio": "/home/runner/work/shortsEN/shortsEN/audio/lf_0008_Convenience_Store_Laundry.mp3",
+  "timing": "/home/runner/work/shortsEN/shortsEN/audio/lf_0008_Convenience_Store_Laundry_timing.json",
+  "tts_hash": "4292f48dcdaa"
+ },
+ "0": {
+  "narration": "Did you know you can rent a private karaoke booth for just one person in the middle of Seoul? These solo noraebang are tiny sound‑proof rooms that sit between office towers and subway exits. Inside, a single microphone hangs from the ceiling and a tablet displays every K‑pop hit you can think of. After a long meeting, a tired employee can slip inside, choose a song, and sing at full volume without disturbing anyone. The idea grew from Korea’s demanding work culture, where many people need a quick way to release stress. Because singing is a national pastime, the solo booth turned a group activity into a personal ritual. Some locations add LED strips that pulse with the beat, giving the feeling of a private concert. The booths are open late, so night‑shift workers and students also use them as a quiet escape. You’ll often hear the muffled chorus of a favorite ballad through the thin walls of neighboring offices. The trend is spreading to smaller towns, where local cafés add a single‑room karaoke corner. Visitors are surprised that a culture known for communal karaoke can be so individually focused. Next, we’ll see how apartment complexes use fingerprint‑activated lockers for instant package pickup.",
+  "keywords": [
+   {
+    "sentence": 1,
+    "text": "Solo karaoke booths"
+   },
+   {
+    "sentence": 4,
+    "text": "Stress‑relief ritual"
+   },
+   {
+    "sentence": 8,
+    "text": "LED concert vibe"
+   }
+  ],
+  "compare": {
+   "title": "Korea vs United States",
+   "left": "Korea",
+   "right": "United States",
+   "rows": [
+    {
+     "label": "Solo booth popularity",
+     "left": "common in cities",
+     "right": "rare"
+    },
+    {
+     "label": "Work‑culture stress reli",
+     "left": "high demand",
+     "right": "moderate"
+    },
+    {
+     "label": "Public singing norms",
+     "left": "accepted everywhere",
+     "right": "mostly private"
+    }
+   ]
+  },
+  "recap": "Solo noraebang let Koreans sing alone, turning karaoke into a personal",
+  "broll": [
+   "Seoul street karaoke sign",
+   "Inside tiny soundproof booth",
+   "LED lights syncing to music"
+  ],
+  "verify": {
+   "status": "skipped",
+   "notes": [
+    "교차검증 꺼짐(CROSS_CHECK=0) - 직접 검증하거나 확인하세요"
+   ]
+  },
+  "sig": "37717dbbd7d1",
+  "model": "openai/gpt-oss-120b",
+  "created": "2026-11-08 16:55",
+  "bridge_to": "Apartment complexes use fingerprint-activated lockers for instant package pickup",
+  "audio": "/home/runner/work/shortsEN/shortsEN/audio/lf_0000_Solo_Karaoke_Boom.mp3",
+  "timing": "/home/runner/work/shortsEN/shortsEN/audio/lf_0000_Solo_Karaoke_Boom_timing.json",
+  "tts_hash": "a56bc5c198b5"
+ },
+ "4": {
+  "narration": "Ever wondered how a simple tap can fetch your online order in a Korean high‑rise? Most new apartment complexes now install fingerprint‑activated parcel lockers right in the lobby. When a courier arrives, a compact robot slides the package into an empty slot and records the delivery time. Residents receive a push notification with a tiny video of the courier waving, then walk to the locker. A quick fingerprint scan opens the exact compartment, and the screen briefly shows the delivery details. The system logs every handover, so building managers can audit who took what and when. This solves the chronic problem of missed deliveries caused by busy front doors and narrow stairwells. Because many Korean apartments lack personal mailrooms, the shared lockers keep parcels safe and organized. A quirky surprise is that some lockers release a light scent of fresh linen as you open them. The aroma turns a routine pickup into a brief, pleasant moment, especially on rainy days. Around three‑quarters of recent high‑rise projects have adopted this technology, making it a common sight in Seoul and other cities. Next, we’ll see how families broadcast a baby’s first birthday live to relatives abroad.",
+  "keywords": [
+   {
+    "sentence": 1,
+    "text": "fingerprint lockers"
+   },
+   {
+    "sentence": 5,
+    "text": "fingerprint scan"
+   },
+   {
+    "sentence": 9,
+    "text": "scented locker"
+   }
+  ],
+  "compare": {
+   "title": "Korea vs United States",
+   "left": "Korea",
+   "right": "United States",
+   "rows": [
+    {
+     "label": "Locker prevalence",
+     "left": "common in new apartments",
+     "right": "rare, mostly in offices"
+    },
+    {
+     "label": "Delivery notification",
+     "left": "video clip with courier",
+     "right": "text alert only"
+    },
+    {
+     "label": "Aroma feature",
+     "left": "some lockers scented",
+     "right": "generally none"
+    }
+   ]
+  },
+  "recap": "Korean apartments use fingerprint lockers that safely deliver packages",
+  "broll": [
+   "apartment lobby lockers",
+   "delivery robot Korea",
+   "fingerprint scanner close-up"
+  ],
+  "verify": {
+   "status": "skipped",
+   "notes": [
+    "교차검증 꺼짐(CROSS_CHECK=0) - 직접 검증하거나 확인하세요"
+   ]
+  },
+  "sig": "636b9b5d6007",
+  "model": "openai/gpt-oss-120b",
+  "created": "2026-11-08 16:56",
+  "bridge_to": "Families broadcast the baby's first birthday (dol) live to relatives abroad",
+  "audio": "/home/runner/work/shortsEN/shortsEN/audio/lf_0004_Smart_Parcel_Lockers.mp3",
+  "timing": "/home/runner/work/shortsEN/shortsEN/audio/lf_0004_Smart_Parcel_Lockers_timing.json",
+  "tts_hash": "4c7cc58c2741"
+ },
+ "7": {
+  "narration": "Did you know that a Korean baby's first birthday can be watched live from another continent? The celebration, called a dol, marks the child's first year and is one of the most photographed days in Korea. Families set up a high‑definition dol cam that records the ceremony from every angle. The video feed is sent to a livestream platform that relatives can join with a click. Grandparents living abroad often control virtual hanboks and fireworks that appear on the screen during the party. The traditional tool‑picking ritual is still performed, where the infant chooses a tiny object that hints at a future career. Each object – a brush, a ruler, a microphone – is placed on a low table for the baby to reach. The livestream lets distant family see that exact moment in real time. Some platforms now add AI‑generated English captions so non‑Korean speakers can follow every step. Viewers can also send real‑time comments that appear as floating speech bubbles. The practice grew with faster internet and the desire to keep overseas families connected. It also reflects Korea’s strong emphasis on family ties and collective celebration. Over a million dol livestreams happen each year, making it a massive online event. Many families treat the dol cam as a digital heirloom, saving the footage for future generations. In some households, the livestream is scheduled weeks in advance, with invitations sent via messaging apps. The virtual hanbok feature lets relatives dress their avatars in traditional clothing, adding a playful cultural touch. Fireworks animations are synchronized with the live video, creating a festive atmosphere even for viewers at home. The tradition blends old customs with modern technology, showing how Korea adapts rituals for a global age. For foreigners, the surprise is how seamlessly a centuries‑old rite can become a shared online experience. The dol livestream illustrates Korea’s blend of respect for ancestors and cutting‑edge digital culture. Watching a dol from abroad feels like sitting at the same table, sharing laughter and wishes across oceans. This living bridge between generations keeps the meaning of the first birthday vivid for every family member.",
+  "keywords": [
+   {
+    "sentence": 1,
+    "text": "dol livestream"
+   },
+   {
+    "sentence": 5,
+    "text": "virtual hanboks"
+   },
+   {
+    "sentence": 9,
+    "text": "AI captions"
+   }
+  ],
+  "compare": {
+   "title": "Korea vs United States",
+   "left": "Korea",
+   "right": "United States",
+   "rows": [
+    {
+     "label": "Livestream tradition",
+     "left": "common",
+     "right": "rare"
+    },
+    {
+     "label": "First‑birthday rituals",
+     "left": "formal",
+     "right": "casual"
+    },
+    {
+     "label": "Family tech use",
+     "left": "high",
+     "right": "moderate"
+    }
+   ]
+  },
+  "recap": "Korea streams the dol live, letting overseas relatives celebrate the f",
+  "broll": [
+   "family gathering living room",
+   "smartphone livestream setup",
+   "traditional Korean birthday table"
+  ],
+  "verify": {
+   "status": "skipped",
+   "notes": [
+    "교차검증 꺼짐(CROSS_CHECK=0) - 직접 검증하거나 확인하세요"
+   ]
+  },
+  "sig": "99b00320f482",
+  "model": "openai/gpt-oss-120b",
+  "created": "2026-11-08 16:57",
+  "bridge_to": "",
+  "audio": "/home/runner/work/shortsEN/shortsEN/audio/lf_0007_Dol_Livestream_Tradition.mp3",
+  "timing": "/home/runner/work/shortsEN/shortsEN/audio/lf_0007_Dol_Livestream_Tradition_timing.json",
+  "tts_hash": "85aad57afc2e"
  }
 }
