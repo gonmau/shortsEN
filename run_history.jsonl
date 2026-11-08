@@ -267,3 +267,4 @@
 {"id": "1794012527728-216ebc", "time": "2026-11-07 09:48:47", "channel": "EN", "source": "PC", "kind": "코드업데이트", "title": "gonmau/shortsEN: 3개 (common.py, merge_remote_db.py, sync_db.py)", "status": "success", "secs": null, "detail": ""}
 {"id": "1794013663034-39f497", "time": "2026-11-07 10:07:43", "channel": "EN", "source": "PC", "kind": "코드업데이트", "title": "gonmau/shortsEN: 2개 (find_dup_topics.py, generate_topics.py)", "status": "success", "secs": null, "detail": ""}
 {"id": "1794034665330-696144", "time": "2026-11-07 15:57:45", "channel": "EN", "source": "PC", "kind": "코드업데이트", "title": "gonmau/shortsEN: 1개 (local_ui.py)", "status": "success", "secs": null, "detail": ""}
+{"id": "1794104039007-ed39f6", "time": "2026-11-08 11:13:59", "channel": "EN", "source": "PC", "kind": "코드업데이트", "title": "gonmau/shortsEN: 10개 (build_video.py, fonts.py, layout.py, local_ui.py, make_thumbnail.py, overlays.py)", "status": "success", "secs": null, "detail": ""}
