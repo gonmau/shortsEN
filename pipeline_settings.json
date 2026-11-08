@@ -6,5 +6,9 @@
  "engine": "edge",
  "scenes": 8,
  "target_sec": 40,
- "yt_thumb": true
+ "yt_thumb": true,
+ "tv_fx": false,
+ "font_sub": "",
+ "font_title": "",
+ "font_ovl": ""
 }
