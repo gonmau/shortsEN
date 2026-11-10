@@ -13435,5 +13435,19 @@
     "created_at": "2026-11-07T00:33:49.069155+00:00",
     "status": "rejected",
     "reject_reason": "중복 소재"
+  },
+  {
+    "label": "Equal CEO Dinner Bill",
+    "theme": "School & Work",
+    "topic": "Even CEOs split the check at the weekly company dinner (회식)",
+    "hook": "Even the CEO pays his share at the weekly Korean office dinner.",
+    "body": "Many Korean companies hold a weekly 회식, a group dinner meant to build camaraderie. While older corporate culture expected the senior staff to foot the whole bill, a growing number of modern firms insist that the bill be split evenly, so the CEO pays the same amount as junior employees. This reversal signals a shift toward flatter hierarchies and shared responsibility. It often surprises foreign visitors who expect a lavish boss‑pay‑all scenario.",
+    "twist": "Some companies even set a maximum per‑person amount to keep the dinner affordable for everyone.",
+    "caveat": "Equal‑split 회식 is common in many medium‑size and tech firms in Seoul, but traditional large conglomerates may still follow the older practice.",
+    "confidence": "high",
+    "verify_note": "Korean 회식 equal bill practice, CEO pays share",
+    "country": "Equal CEO Dinner Bill",
+    "created_at": "2026-11-10T02:26:06.688418+00:00",
+    "status": "unverified"
   }
 ]
