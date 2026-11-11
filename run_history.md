@@ -1,6 +1,6 @@
 # 작업 이력 (EN 채널)
 
-- 갱신: 2026-11-11 10:12:36 (KST) · 기록 274건 · 소재 212개 (소재별 상태는 history_items.csv)
+- 갱신: 2026-11-11 10:41:43 (KST) · 기록 276건 · 소재 212개 (소재별 상태는 history_items.csv)
 
 ## 종류별 요약
 
@@ -28,9 +28,16 @@
 | upload_to_youtube | 2 | 0 | 26초 |
 | 롱폼 | 23 | 0 | 27분 42초 |
 | 쇼츠 | 47 | 3 | 4시간 14분 |
-| 코드업데이트 | 32 | 0 | 0초 |
+| 코드업데이트 | 34 | 0 | 0초 |
 
 ## 날짜별 작업 (최근 30일)
+
+### 2026-11-11
+
+| 시각 | 곳 | 종류 | 작업 | 결과 | 소요 | 비고 |
+|---|---|---|---|---|---|---|
+| 10:41 | PC | 코드업데이트 | gonmau/shortsEN: 4개 (add_topic.py, local_ui.py, style_profile.py, trend_research.py) | ✅ |  |  |
+| 10:12 | PC | 코드업데이트 | gonmau/shortsEN: 3개 (local_ui.py, thumb_hook.py, trend_research.py) | ✅ |  |  |
 
 ### 2026-11-09
 
