@@ -1,7 +1,7 @@
-# 유튜브 성과 리포트 (2026-10-14 ~ 2026-11-10, 28일)
+# 유튜브 성과 리포트 (2026-10-15 ~ 2026-11-11, 28일)
 
-영상 71개 (쇼츠 71 · 롱폼 0) · 조회수 합계 7,792 · 구독 증가 1
-유입: SHORTS 91% · YT_SEARCH 7% · YT_OTHER_PAGE 1% · YT_CHANNEL 1% · SUBSCRIBER 0%
+영상 71개 (쇼츠 71 · 롱폼 0) · 조회수 합계 7,445 · 구독 증가 1
+유입: SHORTS 90% · YT_SEARCH 7% · YT_OTHER_PAGE 1% · YT_CHANNEL 1% · SUBSCRIBER 0%
 
 ## 쇼츠 상위 5 / 하위 5
 - [32] Korea: KTX seats have power Call while it  · 조회 1,220 · 평균 34% (0:14/0:44) · 구독 +0
@@ -10,30 +10,30 @@
 - [35] Korea: Chocolate stick swap Love notes on  · 조회 568 · 평균 60% (0:34/0:58) · 구독 +0
 - [34] Korea: Heated subway seats Warm seats in w · 조회 491 · 평균 31% (0:13/0:44) · 구독 +0
   … (중간 생략)
-- [120] Korean name suffix What does ‘‑ssi’ mean? · 조회 1 · 평균 37% (0:16/0:44) · 구독 +0
 - [106] Korean school waste Feeds farms that day · 조회 1 · 평균 67% (0:29/0:44) · 구독 +0
 - [105] Korea: Seoul subway toilets Melody masks s · 조회 1 · 평균 18% (0:08/0:46) · 구독 +0
 - [12] Korea: am snack runs Fresh salad at 2am? · 조회 1 · 평균 46% (0:18/0:39) · 구독 +0
+- [7] Korea: Dol livestream Hanboks pop up live · 조회 1 · 평균 0% (0:00/0:46) · 구독 +0
 - [6] Korea: Uniform rental No washing needed? · 조회 1 · 평균 0% (0:00/0:39) · 구독 +0
 
 ## 쇼츠 분야별 평균 (표본 3개 미만은 참고용 *)
 - Travel & Places: 11편 · 평균 조회 223 · 평균 시청 36% · 구독 +0
 - Food & Dining: 16편 · 평균 조회 137 · 평균 시청 42% · 구독 +0
 - Language & Names: 8편 · 평균 조회 129 · 평균 시청 33% · 구독 +0
-- Holidays & Traditions: 6편 · 평균 조회 114 · 평균 시청 28% · 구독 +0
-- Daily Life: 10편 · 평균 조회 57 · 평균 시청 59% · 구독 +1
-- Tech & Innovation: 13편 · 평균 조회 53 · 평균 시청 43% · 구독 +0
-- Etiquette & Manners: 5편 · 평균 조회 32 · 평균 시청 42% · 구독 +0
+- Holidays & Traditions: 6편 · 평균 조회 102 · 평균 시청 30% · 구독 +0
+- Tech & Innovation: 13편 · 평균 조회 52 · 평균 시청 43% · 구독 +0
+- Daily Life: 10편 · 평균 조회 37 · 평균 시청 58% · 구독 +1
+- Etiquette & Manners: 5편 · 평균 조회 20 · 평균 시청 41% · 구독 +0
 - School & Work*: 2편 · 평균 조회 3 · 평균 시청 5% · 구독 +0
 
 ## 쇼츠 길이별 (중앙값 44초)
-- 짧은 쪽 40편: 평균 시청 39% · 조회 111
-- 긴 쪽 31편: 평균 시청 41% · 조회 108
+- 짧은 쪽 40편: 평균 시청 40% · 조회 107
+- 긴 쪽 31편: 평균 시청 41% · 조회 102
 
 ## 쇼츠 유지율 (곡선을 받은 5편)
 - 시작 3% 지점까지 남은 시청자: 중앙값 100% · 시청자 절반이 떠나는 지점: 영상의 24%
 
 ## 제안 (참고용: 표본이 적으면 우연일 수 있음)
-- 분야: 'Travel & Places'이(가) 평균 조회 223로 가장 높고 'Etiquette & Manners'이(가) 32로 가장 낮습니다 -> 소재 선택 시 비중 조정 검토
+- 분야: 'Travel & Places'이(가) 평균 조회 223로 가장 높고 'Etiquette & Manners'이(가) 20로 가장 낮습니다 -> 소재 선택 시 비중 조정 검토
 - 쇼츠: 영상의 24% 지점에서 시청자 절반이 이탈합니다 -> 중반 장면 전환/키워드 팝업 간격 단축, 대본 길이 축소 검토
 
