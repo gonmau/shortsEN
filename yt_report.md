@@ -1,13 +1,13 @@
-# 유튜브 성과 리포트 (2026-10-16 ~ 2026-11-12, 28일)
+# 유튜브 성과 리포트 (2026-10-17 ~ 2026-11-13, 28일)
 
-영상 70개 (쇼츠 70 · 롱폼 0) · 조회수 합계 6,548 · 구독 증가 0
-유입: SHORTS 89% · YT_SEARCH 8% · YT_OTHER_PAGE 1% · YT_CHANNEL 1% · SUBSCRIBER 0%
+영상 70개 (쇼츠 70 · 롱폼 0) · 조회수 합계 6,541 · 구독 증가 0
+유입: SHORTS 89% · YT_SEARCH 8% · YT_OTHER_PAGE 1% · YT_CHANNEL 1% · EXT_URL 0%
 
 ## 쇼츠 상위 5 / 하위 5
 - [32] Korea: KTX seats have power Call while it  · 조회 1,220 · 평균 34% (0:14/0:44) · 구독 +0
-- [45] Korea: Rice cakes celebrate How they share · 조회 1,009 · 평균 76% (0:38/0:51) · 구독 +0
+- [45] Korea: Rice cakes celebrate How they share · 조회 1,011 · 평균 76% (0:38/0:51) · 구독 +0
 - [36] Korean greeting: mwohae? Just saying hello · 조회 748 · 평균 30% (0:13/0:44) · 구독 +0
-- [35] Korea: Chocolate stick swap Love notes on  · 조회 568 · 평균 60% (0:34/0:58) · 구독 +0
+- [35] Korea: Chocolate stick swap Love notes on  · 조회 569 · 평균 60% (0:34/0:58) · 구독 +0
 - [34] Korea: Heated subway seats Warm seats in w · 조회 491 · 평균 31% (0:13/0:44) · 구독 +0
   … (중간 생략)
 - [106] Korean school waste Feeds farms that day · 조회 1 · 평균 67% (0:29/0:44) · 구독 +0
@@ -19,11 +19,11 @@
 ## 쇼츠 분야별 평균 (표본 3개 미만은 참고용 *)
 - Travel & Places: 11편 · 평균 조회 223 · 평균 시청 35% · 구독 +0
 - Language & Names: 8편 · 평균 조회 129 · 평균 시청 33% · 구독 +0
-- Holidays & Traditions: 6편 · 평균 조회 102 · 평균 시청 30% · 구독 +0
-- Food & Dining: 16편 · 평균 조회 95 · 평균 시청 41% · 구독 +0
+- Holidays & Traditions: 6편 · 평균 조회 102 · 평균 시청 33% · 구독 +0
+- Food & Dining: 16편 · 평균 조회 95 · 평균 시청 38% · 구독 +0
 - Tech & Innovation: 13편 · 평균 조회 48 · 평균 시청 42% · 구독 +0
 - Daily Life: 10편 · 평균 조회 21 · 평균 시청 58% · 구독 +0
-- Etiquette & Manners: 5편 · 평균 조회 20 · 평균 시청 41% · 구독 +0
+- Etiquette & Manners: 5편 · 평균 조회 20 · 평균 시청 43% · 구독 +0
 - School & Work*: 1편 · 평균 조회 5 · 평균 시청 11% · 구독 +0
 
 ## 쇼츠 길이별 (중앙값 44초)
