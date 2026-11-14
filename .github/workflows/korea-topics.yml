@@ -2,8 +2,9 @@ name: korea-topics
 
 # 소재만 자동으로 채웁니다 (영상 제작·업로드는 안 함). 대기 소재(unverified+verified)가 40개 밑이면 20개씩, 최대 3회 보충
 on:
-  schedule:
-    - cron: "47 19 * * *"   # 한국시간 04:47 (정시는 밀려서 분을 어긋나게)
+  # [영어 채널 중단 2026-11-15] 다시 켜려면 아래 # 를 지우세요
+#  schedule:
+#    - cron: "47 19 * * *"   # 한국시간 04:47 (정시는 밀려서 분을 어긋나게)
   workflow_dispatch:
 
 concurrency:
