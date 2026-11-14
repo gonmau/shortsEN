@@ -55,8 +55,8 @@ def add_manual(a):
     if a.narration_file:
         text = Path(a.narration_file).read_text(encoding="utf-8")
     text = " ".join(text.split())
-    if len(text) < 60:
-        raise SystemExit("대본이 너무 짧습니다 (60자 이상).")
+    if len(text) < 10:
+        raise SystemExit("대본이 너무 짧습니다 (10자 이상).")
     sents = split_sentences(text)
     country = (a.country or ("" if EN else guess_country(text))).strip()
     if not country:
